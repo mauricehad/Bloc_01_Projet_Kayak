@@ -1,0 +1,210 @@
+[
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "467",
+        "url": "https://www.booking.com/hotel/fr/toyoko-inn-marseille-saint-charles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=334262706_0_2_1_0&highlighted_blocks=334262706_0_2_1_0&matching_block_id=334262706_0_2_1_0&sr_pri_blocks=334262706_0_2_1_0__46710&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "1110",
+        "url": "https://www.booking.com/hotel/fr/radisson-sas-marseille-vieux-port.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=5794702_94106983_2_2_0&highlighted_blocks=5794702_94106983_2_2_0&matching_block_id=5794702_94106983_2_2_0&sr_pri_blocks=5794702_94106983_2_2_0__111000&nad_id=abd7e03d-6c19-4962-9581-ada729fe1149_0&nad_cpc=1.09&nad_track=eyJhdWN0aW9uRXBvY2giOjE3MzU5OTAzMjE5MTcsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiL0g3Tkpoc1Jnd0ZFSTJYVTlWL3BvZ2QyYjFHYzZwMWZMZ3dmejU2N0d1aDcxQ3JFNjFaeHFDOTFRV2czNW84d1dtd0NhNjdhK0QrbTB3cS8vQlRleXRxdXBDNHIwbmJCVnpsNEhmZzNydlBNOXRyK0NTVWlaSThvbUFzeXVqMUxraUVNUFVlODgxN09BV2FxcktXQlBQNFFjRjVrc0hvaTRWN2wycENoS2ovUS9kVTdTWkRkV01KMzRyZXdFL0hySy9sU09SRCszVmxPSmo0S0hNeFA4WjV6eWErZmdSNzh4MXAveHFaNkd6YjBZcU9DNld6TDZ6eHE3YU52VXpRME1WQUNYQWRxSWtkYjN1Rjk1MFgrNFh2NGFadEpGRHBhUDJTRjA0bmsyM0FmQ25IenpDd3paOGdwQmRiUmt0WW9TN0FzcDZKdXRzdmtsSHpWSGQ1aGlGZVRWeGw1MHBVdXVuNDd4ZFdmdXN6ZmJEbVl3QnByZHRpSHFrSlpSRDBmUk5PSTNPRmp0aXRia01Vc2dtU0x2Mmp2SVRteVBiTGdoMDY0enFsdEI1N2J0TS9LY0hpekFRR2ttUFNLcjBQdEhlcmUvYm1rZm9YUDFNUEppR2drSHpBNFhjZEd3d0IwQy9TUHVWVUZuM0JqMkV0aU5UZjkwSTI0REYvYWM2ZkpxZnFsejdGVW5lTjlYMURtT20zamoxSGZsWld1bGE5ZGVjZzgzTEhxL3JLL24yeUdqcFR5V051aGo2Y1dkeG10V0REcHpPd1hEKzBuWVpNelNzNHUwOXlNWXUxM1JaNXdxQnVOYmtwYmdhU3JUaFE0TzBobW9uSklnOTJ4OGtmNXRrc0RrSE9xdUlyazlwTVBldW13RlNnRnB3THEzVDc0S1lPTnI2QVdPVVl5b2dSMkd2ek9VZ0E5VTRqOWs1cU9zVWRoQ2NXTVNYcVoya3BZa29ldjZXUzJNUmR3UG5MZHlPYkRKNTA2ZFBRdk53eFNXUVJXUmpERHVRMUVlNmdUMjkwUlhtNWV4RVJpcFhsQ3V4WG9qOXZwZGtNM3FvYmxPdU9mVnRUMDAyNXZuZVJDM1BSM01WUlJGQkhDSm1wbkdadUY2T0hEcytTLzRFTFFINkxOeGlNZEsvNmVKcEV2Y0pFamxHVUpnRmNmMTBtcWdISFNZSW1pdDVJMFJjOHRMajhlNkUxTWZKVjhIM2ErVG1QWnRXa2orVFYyM0ZoTkJ1WHBaamRyQUd0eEd2S2VEUmhqVkIvOXd4elRoQ25DUWtnZ3lhSXM0UGkveU1LWGg0RmN3d2hYcVVTQWtzbktDZnYzR2JaOW1KMmRxc2tRaTlaY0RzTWFDYkl6aWFDQjhhQ3E4WDY2TW9GZXFZbDhYVmQrcGdtd1JTNXQ0bmhQVHYxM2E2aklFVXppRFIvK0dtbnczOXVCM3FZOEV0cXh2ZElpVHJIOXBnMGJ0ekFkRm9WMUtsQ1h5eFdxd243OUlZQk9VNFBVb0RIOHlqa3o1YVlzWXpFMzdRaDNCRHdDbGhqMnkwYkJKanowRTJqemxXQWYxMDU3Y0ZEYlFXRUg0SVo2cGhBYWcrVmZRRVlTL2g2TUsxcW53YzdKYmcwNHZiTitqSjdsZ2NSVzVSRFluR2diaXFiOTVDb1hEaXF5ZFJnSm4xbWpJUXh0V0RDcGl0c0FPQ01rNDI1Y0xMQ0RQNm9QN3F5LzQyWlJmdUluMmxtMS9oOUFPQ01HbituN2QwbDNTTmRxMCtoMEV1aWFreitCSGhwZVZQTTByYlZkbVViNmhnbDZrZHgxMVk4L0JZUFJOa2trL2JKM2t6ODVJRzMyc0lrelNibjNzcVVQMXhIWkpjMVZ0UWJWWGVCSGVzVEZDOFhKK3lNRDFrYTBJY1NmNlNpSGhzb2cyTFhKUnk0cGYxRGV3MkZBMHN6ejVDenIyTXFOeG9tMEFpNCtCK2ZPcUVzbURXZjV4azUrUStSU1ZNUWkySzFRNkRTdWYzVTJVK05jZGRmSFFFSU5tZE05R1ZOQXduRFkrcUdRM21WWjBLWXNFd1BWc1hyR2JoamdyWXpZcklkRnJ6VzRNWmNKNjJseWRXSzgzS1ZYTVBvR0dpWFhua0p6bHkzTVRaTVgzVXFyZUpHWWdqUFp5bHVOMkh0YWJxaEd2VjFmYVVNNWZrRiszOFVYdUVRcFZFQWduZTZQYVRoU1pPVGRaRzJaeW00cFUzVzB6SUNCNGVsOTRZOFhCU1FrU2xUWFdocWlJZjczaFBwME4weWpRcXloN3Z3NThpdytibm9EU3UvaUFuSFRld1lqT1dLU0pBU1dLS2VuamxkcEd0bXlMWTJVWTlNc1g4RnluQVIrK2VtOUVNVE1RWkw4TlNjbk0zVDZjajNJb2srS0ZGKy82WGduU201NzFqTWdrLzRxenluc1o3NCtVMlpSQk93dXFDRlFnUzJ3MlZMeS8xTDFuNjJrL0JzOU1KTkFBVWhFczdrU3Q4RkpPUm01Rk0xdUhBK0EzNVo2TktjS2IvQkdvVGV6QjAwMHBvMHNWVXBVVFgvWjZyeWF6dlhmRXpnaktURnNUejFWWGlvVlJOTktPZGtJREhlRVA0UmJKUStVaEFUQ1dOZmxmaDZ2dk1relkzZDNYZkNGYWsvdTdBTTNKTFg5OXJpbG93MHBIN2lJSEJHRHlPaGpxS0lMNFZLakdLb25ERFNNbHdBd3BLcVlTZWlGU1ViT0QvaHpFdHpDN3VwenpQNG5HVGlCQnNtZDRkU1ZSa1UzcE1La3VoL3d4SWNPdTdCWFc5QVlHanp6dEpKN2ZFc25SSjR6ZGF2a0lWOUJ1a2pYZHQ5RmFnb0RJUDZLbWhPSjNYUEZXbnNOY08xSkE5T05VMENUcVk5WFNyTWc4MEk3Y3FYRW5idWhFMjVBcUdveXRxN29Va1prT2N0RGt0NzhXbjN5SmVJU2M3bmJIaEZVazNkcFJnL29UY3Noc1J5SUIvQ3hDc0tPaTRKa0gxNDludGNhdEo1WFlUMkZpSzFqblFqdTY0TGtwMlVQK0hlcVQvcjNCYkJhSFUyU3l3UC9neGFCTUtmaHRZSmk2b1k0UnFrSEJvcW1QQmd0bE05Z2FZTFduUU5jUEpFODRDazMrVGNIWjRzL2o5a1NGbWQwN3B0bFFwWVlDbGQxWmR5cUZWTXlMMVBUeHZpR01tbFF2b0x2SVFKT2liL01OamRUUDVKa2ZEeDlHOVhvdU5zRzVRZUJkVUV3eURZM0lacXZNSTRpUDdwZEpDK1FiTmJ0UENrU3ZFSnBFTlZ0a2p1WFliWUJ4M0RZWWJoNFYxaUgvRTcvRThGVVoxUWJGeHhNSWYwTWJsMlRmWHI1NkxDbE9vMFZ1ckprWlFIYTNyRndGMHA2UzU0PSJ9&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "504",
+        "url": "https://www.booking.com/hotel/fr/grand-t1-vieux-port-salle-de-sport-amp-rooftop.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=913081411_381703894_2_0_0&highlighted_blocks=913081411_381703894_2_0_0&matching_block_id=913081411_381703894_2_0_0&sr_pri_blocks=913081411_381703894_2_0_0__50408&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "353",
+        "url": "https://www.booking.com/hotel/fr/le-grand-prado-marseille.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=5925301_88553635_2_2_0&highlighted_blocks=5925301_88553635_2_2_0&matching_block_id=5925301_88553635_2_2_0&sr_pri_blocks=5925301_88553635_2_2_0__35317&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "434",
+        "url": "https://www.booking.com/hotel/fr/staycity-aparthotels-centre-vieux-port.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=198372801_93980877_2_2_0&highlighted_blocks=198372801_93980877_2_2_0&matching_block_id=198372801_93980877_2_2_0&sr_pri_blocks=198372801_93980877_2_2_0__43416&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "303",
+        "url": "https://www.booking.com/hotel/fr/marseille-centre-euromed-marseille.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=159301402_122009383_0_0_0&highlighted_blocks=159301402_122009383_0_0_0&matching_block_id=159301402_122009383_0_0_0&sr_pri_blocks=159301402_122009383_0_0_0__30308&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "426",
+        "url": "https://www.booking.com/hotel/fr/le-30-hypercentral-by-thegoodbutler.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=1321866602_404860209_0_0_0&highlighted_blocks=1321866602_404860209_0_0_0&matching_block_id=1321866602_404860209_0_0_0&sr_pri_blocks=1321866602_404860209_0_0_0__42600&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "367",
+        "url": "https://www.booking.com/hotel/fr/appart-39-odalys-le-dome.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=190976301_92902923_2_2_0&highlighted_blocks=190976301_92902923_2_2_0&matching_block_id=190976301_92902923_2_2_0&sr_pri_blocks=190976301_92902923_2_2_0__36672&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "491",
+        "url": "https://www.booking.com/hotel/fr/ibis-marseille-gare-saint-charles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=56900908_94493382_2_42_0&highlighted_blocks=56900908_94493382_2_42_0&matching_block_id=56900908_94493382_2_42_0&sr_pri_blocks=56900908_94493382_2_42_0__49111&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "581",
+        "url": "https://www.booking.com/hotel/fr/holiday-inn-express-marseille-saint-charles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=24012417_94359468_2_1_0&highlighted_blocks=24012417_94359468_2_1_0&matching_block_id=24012417_94359468_2_1_0&sr_pri_blocks=24012417_94359468_2_1_0__58147&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "680",
+        "url": "https://www.booking.com/hotel/fr/golden-tulip.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=160507301_88898345_2_2_0&highlighted_blocks=160507301_88898345_2_2_0&matching_block_id=160507301_88898345_2_2_0&sr_pri_blocks=160507301_88898345_2_2_0__68000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "428",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-marseille-centre-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=73406703_93770149_2_2_0&highlighted_blocks=73406703_93770149_2_2_0&matching_block_id=73406703_93770149_2_2_0&sr_pri_blocks=73406703_93770149_2_2_0__42842&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "407",
+        "url": "https://www.booking.com/hotel/fr/citea-marseille-prado-perier.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=5343219_94272594_2_2_0&highlighted_blocks=5343219_94272594_2_2_0&matching_block_id=5343219_94272594_2_2_0&sr_pri_blocks=5343219_94272594_2_2_0__40657&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "381",
+        "url": "https://www.booking.com/hotel/fr/seven-urban-suites.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=35955501_88927438_2_2_0&highlighted_blocks=35955501_88927438_2_2_0&matching_block_id=35955501_88927438_2_2_0&sr_pri_blocks=35955501_88927438_2_2_0__38092&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "431",
+        "url": "https://www.booking.com/hotel/fr/b-amp-b-ha-tel-marseille-centre-la-joliette.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=43556511_88930198_2_2_0&highlighted_blocks=43556511_88930198_2_2_0&matching_block_id=43556511_88930198_2_2_0&sr_pri_blocks=43556511_88930198_2_2_0__43092&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "465",
+        "url": "https://www.booking.com/hotel/fr/residhotel-vieux-port.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=24039401_95386883_2_2_0&highlighted_blocks=24039401_95386883_2_2_0&matching_block_id=24039401_95386883_2_2_0&sr_pri_blocks=24039401_95386883_2_2_0__46492&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "666",
+        "url": "https://www.booking.com/hotel/fr/les-z-39-apparts-urban-loft.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=168419603_91963509_2_2_0&highlighted_blocks=168419603_91963509_2_2_0&matching_block_id=168419603_91963509_2_2_0&sr_pri_blocks=168419603_91963509_2_2_0__66629&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "338",
+        "url": "https://www.booking.com/hotel/fr/appart-city-marseille-euromed.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=45026401_93756970_0_2_0&highlighted_blocks=45026401_93756970_0_2_0&matching_block_id=45026401_93756970_0_2_0&sr_pri_blocks=45026401_93756970_0_2_0__33792&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "1421",
+        "url": "https://www.booking.com/hotel/fr/t4-loft-paradis.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=1063629801_378705973_6_0_0&highlighted_blocks=1063629801_378705973_6_0_0&matching_block_id=1063629801_378705973_6_0_0&sr_pri_blocks=1063629801_378705973_6_0_0__142098&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "436",
+        "url": "https://www.booking.com/hotel/fr/apparteo-marseille.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=146037304_87366007_0_0_0&highlighted_blocks=146037304_87366007_0_0_0&matching_block_id=146037304_87366007_0_0_0&sr_pri_blocks=146037304_87366007_0_0_0__43568&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "464",
+        "url": "https://www.booking.com/hotel/fr/residhome-marseille-saint-charles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=42150303_88553666_0_2_0&highlighted_blocks=42150303_88553666_0_2_0&matching_block_id=42150303_88553666_0_2_0&sr_pri_blocks=42150303_88553666_0_2_0__46422&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "385",
+        "url": "https://www.booking.com/hotel/fr/appart-39-odalys-prado-castellane.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=144601201_0_2_0_0&highlighted_blocks=144601201_0_2_0_0&matching_block_id=144601201_0_2_0_0&sr_pri_blocks=144601201_0_2_0_0__38482&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "499",
+        "url": "https://www.booking.com/hotel/fr/citadines-aparthotel-marseillepradochanot.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=65861_93945028_2_2_0&highlighted_blocks=65861_93945028_2_2_0&matching_block_id=65861_93945028_2_2_0&sr_pri_blocks=65861_93945028_2_2_0__49932&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "411",
+        "url": "https://www.booking.com/hotel/fr/hipark-residences-marseille.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=29231106_91918987_2_2_0&highlighted_blocks=29231106_91918987_2_2_0&matching_block_id=29231106_91918987_2_2_0&sr_pri_blocks=29231106_91918987_2_2_0__41112&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "377",
+        "url": "https://www.booking.com/hotel/fr/b-amp-b-marseille-euromed.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=141088303_194542529_2_2_0&highlighted_blocks=141088303_194542529_2_2_0&matching_block_id=141088303_194542529_2_2_0&sr_pri_blocks=141088303_194542529_2_2_0__37740&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "price": "623",
+        "url": "https://www.booking.com/hotel/fr/residhome-marseille.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1449947&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=26&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3051100a730e3c&srepoch=1735990322&all_sr_blocks=528921601_186533984_2_2_0&highlighted_blocks=528921601_186533984_2_2_0&matching_block_id=528921601_186533984_2_2_0&sr_pri_blocks=528921601_186533984_2_2_0__62300&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    }
+]

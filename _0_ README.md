@@ -1,5 +1,5 @@
 
-# BLOC 1 Construire et manager une infrastructure de données.
+# BLOC 1
 
 
 

@@ -1,0 +1,352 @@
+[
+    {
+        "id_destination": 0,
+        "destination": "Aigues Mortes",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Aigues+Mortes&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq7O2rsGwAIB0gIkNTUwZDJlNTAtMWUwNy00NDQxLWFlMDUtOWNiMjc0MTJiMDU42AIF4AIB&sid=5a8777e3230dd5e0021a0009d17b714a&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1406800&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=86ed68178b131024&ac_meta=GhA4NmVkNjgxNzhiMTMxMDI0IAAoATICZnI6DUFpZ3VlcyBNb3J0ZXNAAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Aix+en+Provence&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArrO2rsGwAIB0gIkODNkYTI5MTctOTBkNy00YTM3LTkzM2ItZDhiMjU2YmE5OTQx2AIF4AIB&sid=62ef0efe99384203b32b3936eec80889&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1406939&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=4bad681dda1e1733&ac_meta=GhA0YmFkNjgxZGRhMWUxNzMzIAAoATICZnI6D0FpeCBlbiBQcm92ZW5jZUAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Amiens&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsbO2rsGwAIB0gIkOGQxM2RiYWUtMTAwMy00ZGJhLWEzNDEtODZmNDMyYWQ2ZTEz2AIF4AIB&sid=1f1808009db3584bdbd1e2a5bd9ebda7&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1407447&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=7c17682335070176&ac_meta=GhA3YzE3NjgyMzM1MDcwMTc2IAAoATICZnI6BkFtaWVuc0AASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Annecy&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtPO2rsGwAIB0gIkN2U1YzRmYjMtZjRjMy00MTZkLWFjZDYtMDFkMGE4YmRiMTM22AIF4AIB&sid=d862dc27aa0db7c942953d58549ab0c1&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1407760&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=93d068290c0907d2&ac_meta=GhA5M2QwNjgyOTBjMDkwN2QyIAAoATICZnI6BkFubmVjeUAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Ariege&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4At_O2rsGwAIB0gIkZjg3YWI5NTctZGFhNC00M2ZiLWJmM2YtNDQ5Nzc2MjUzZDZi2AIF4AIB&sid=993946035257bccfd1c9742cd024b56c&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=2507&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=af40682fa09f0e29&ac_meta=GhBhZjQwNjgyZmEwOWYwZTI5IAAoATICZnI6BkFyaWVnZUAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Avignon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuzO2rsGwAIB0gIkZDdhNjdhZTgtYjIyMi00MmZjLThmOGItMzE3NWQwMjk5NDUx2AIF4AIB&sid=79aab850488ddeae17b609e7f2851422&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1409631&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=45046836432e09cd&ac_meta=GhA0NTA0NjgzNjQzMmUwOWNkIAAoATICZnI6B0F2aWdub25AAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Bayeux&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvjO2rsGwAIB0gIkY2JkYmM2NTYtZDE4NC00ZDk0LTgwZmQtNzdmYzg3ZDUxZGI32AIF4AIB&sid=d85f765632ae87b432f5cc12d868ce59&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1410836&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=6dd6683cb2e90cd5&ac_meta=GhA2ZGQ2NjgzY2IyZTkwY2Q1IAAoATICZnI6BkJheWV1eEAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 7,
+        "destination": "Bayonne",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Bayonne&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoXP2rsGwAIB0gIkODU2OWJjODgtNWRiYy00NDYwLTkwZTItMmViOGFhMmVkNzEw2AIF4AIB&sid=d13cf7694d251fa32a0242e0631a6395&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1410844&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=67976842837801ba&ac_meta=GhA2Nzk3Njg0MjgzNzgwMWJhIAAoATICZnI6B0JheW9ubmVAAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Besancon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApLP2rsGwAIB0gIkODE2ZThiMmItOTJlYS00OWIwLWJhOGQtNjg1NDhjYzk3NjAz2AIF4AIB&sid=4b65634d43d5dc70082f06e2c0810263&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1412198&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=3a59684957ee1652&ac_meta=GhAzYTU5Njg0OTU3ZWUxNjUyIAAoATICZnI6CEJlc2FuY29uQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 9,
+        "destination": "Biarritz",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Biarritz&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap_P2rsGwAIB0gIkMjBlZjVkZjEtYTY2NS00ZTJkLWIyZWMtYjM0NmEzNTdlZDYx2AIF4AIB&sid=c13de1d47c15b36fca9fed7e003df092&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1412526&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=252c684ffde30fa8&ac_meta=GhAyNTJjNjg0ZmZkZTMwZmE4IAAoATICZnI6CEJpYXJyaXR6QABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Bormes+les+Mimosas&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqzP2rsGwAIB0gIkYmE3OTU5OTItMWMxNS00YTRiLTk5MmUtNmEzNDRkNDE1N2Q42AIF4AIB&sid=5593e37e891b1874155be796f5c6882c&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1413801&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=45046856e12d14a4&ac_meta=GhA0NTA0Njg1NmUxMmQxNGE0IAAoATICZnI6EkJvcm1lcyBsZXMgTWltb3Nhc0AASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Carcassonne&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArjP2rsGwAIB0gIkNmVkYWNlOTAtMDFlNC00MTE0LWI5NjYtNmE1YTAxYmZlMTM32AIF4AIB&sid=fb26da61f396b9892e95d40520e53e98&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1416701&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=67c4685c51620cd9&ac_meta=GhA2N2M0Njg1YzUxNjIwY2Q5IAAoATICZnI6C0NhcmNhc3Nvbm5lQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 12,
+        "destination": "Cassis",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Cassis&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsXP2rsGwAIB0gIkNmQ2NGMyODYtZTQwNS00MTRlLWEzOGMtYzk4Zjg4NDRkYTcw2AIF4AIB&sid=1fd13d64ff59cb842489588cce7a97a3&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1416912&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=936f6862c6fd0721&ac_meta=GhA5MzZmNjg2MmM2ZmQwNzIxIAAoATICZnI6BkNhc3Npc0AASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Chateau+du+Haut+Koenigsbourg&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtLP2rsGwAIB0gIkYWE3MzA3YjQtZTdlZC00MzA4LWE0NWUtYTAzMmIwZTJiY2M22AIF4AIB&sid=f097710c3cf28de0f3fadd7990b04615&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=204055&dest_type=landmark&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=3&search_selected=true&search_pageview_id=72b2686995230dc7&ac_meta=GhA3MmIyNjg2OTk1MjMwZGM3IAAoATICZnI6HENoYXRlYXUgZHUgSGF1dCBLb2VuaWdzYm91cmdAAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Collioure&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4At_P2rsGwAIB0gIkN2I0MTk1NmMtZjZlOS00YWMyLTk5MmUtYmFhY2VkMGYxY2M42AIF4AIB&sid=f1d80e72b69265508926ff27324e756c&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1421032&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=71f0686f52cc168c&ac_meta=GhA3MWYwNjg2ZjUyY2MxNjhjIAAoATICZnI6CUNvbGxpb3VyZUAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 15,
+        "destination": "Colmar",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Colmar&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuvP2rsGwAIB0gIkNmUxYzUxOTctMzA4Ni00MjdmLTkzYmMtYTExZmExNDYyYTY12AIF4AIB&sid=a3ee12ad07f92d6d97af77843fba7c52&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1421049&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=5ac16875d98700d7&ac_meta=GhA1YWMxNjg3NWQ5ODcwMGQ3IAAoATICZnI6BkNvbG1hckAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Dijon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvjP2rsGwAIB0gIkYmQ0NjFkNWEtZjdmOS00M2YxLTgwYmItZGU2ZmY5YTI3M2Zm2AIF4AIB&sid=385e5b1c9e3ab4066d980b372eec13c5&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1423981&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=8e0a687cd64f05f3&ac_meta=GhA4ZTBhNjg3Y2Q2NGYwNWYzIAAoATICZnI6BURpam9uQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 17,
+        "destination": "Eguisheim",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Eguisheim&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoXQ2rsGwAIB0gIkMGM5MTllMDMtZGUwMC00ODY4LThkYzctNTIxODUxNDhiZTY52AIF4AIB&sid=cc04a621a9c6ab38d1d9be5e849d6003&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1425030&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=af406882e4dc0890&ac_meta=GhBhZjQwNjg4MmU0ZGMwODkwIAAoATICZnI6CUVndWlzaGVpbUAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 18,
+        "destination": "Gorges du Verdon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Gorges+du+Verdon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApHQ2rsGwAIB0gIkZDc0MjQyZDMtNDZjMC00NTYwLThlOTUtYzcyOTBhNmEyY2E32AIF4AIB&sid=4db3276f75ae416176670df4a90af5be&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=2746&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=c9c268880c251646&ac_meta=GhBjOWMyNjg4ODBjMjUxNjQ2IAAoATICZnI6EEdvcmdlcyBkdSBWZXJkb25AAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 19,
+        "destination": "Grenoble",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Grenoble&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap7Q2rsGwAIB0gIkZTljOGYyMTYtNTAwOC00MjQ1LTg5ZGYtMjliNzdlNmExZmQw2AIF4AIB&sid=8af251122176279c17ae9caa38b4895a&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1430647&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e86a688fce63096d&ac_meta=GhBlODZhNjg4ZmNlNjMwOTZkIAAoATICZnI6CEdyZW5vYmxlQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=La+Rochelle&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqrQ2rsGwAIB0gIkOTlkNDNjNWUtOGE5Zi00MzJkLWI2OTktMGM3YTdjZjVjNzVl2AIF4AIB&sid=be83a9d5d26a31a59c188b1d0a2e8afd&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1438604&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=1ecb68958e3b15b8&ac_meta=GhAxZWNiNjg5NThlM2IxNWI4IAAoATICZnI6C0xhIFJvY2hlbGxlQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Le+Havre&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArfQ2rsGwAIB0gIkY2Q4ZWFiMDUtOWI2ZC00ZTBmLThlYjUtNDExYWUyOGUzMjg52AIF4AIB&sid=cffbe6f187c2352224bdc7f14f680aa0&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1441598&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=befc689b7ed30ba0&ac_meta=GhBiZWZjNjg5YjdlZDMwYmEwIAAoATICZnI6CExlIEhhdnJlQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 22,
+        "destination": "Lille",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Lille&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsPQ2rsGwAIB0gIkOTMxNTdhNmUtMDk0MC00YWRhLTg2YzAtNTk3MWM5MDk1NDcy2AIF4AIB&sid=86ccaa43cf1fd9e5068e0bc4ae2abd70&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1447079&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=adca68a1526810a2&ac_meta=GhBhZGNhNjhhMTUyNjgxMGEyIAAoATICZnI6BUxpbGxlQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 23,
+        "destination": "Lyon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Lyon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtDQ2rsGwAIB0gIkNDJjMjExNmYtMGNhZi00MjFkLWI2ZDUtNzVmZDI1NGE1MjMw2AIF4AIB&sid=32ed0aac2336fee988d60bfb0b6e02d2&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1448468&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=679768a89f4b18a8&ac_meta=GhA2Nzk3NjhhODlmNGIxOGE4IAAoATICZnI6BEx5b25AAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Marseille&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtzQ2rsGwAIB0gIkMDdlMWEzNmUtNzFhNC00MTZlLWI0NGUtNGE0NzdhYTFhNzFh2AIF4AIB&sid=a27a38d1204608ba129f2198fd1262d5&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1449947&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=b4b968ae0a0f08e7&ac_meta=GhBiNGI5NjhhZTBhMGYwOGU3IAAoATICZnI6CU1hcnNlaWxsZUAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Mont+Saint+Michel&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AunQ2rsGwAIB0gIkNjYzMTE1MzEtYjRmMy00YmY2LTg2ZTAtNmM4MTZiZWM5MjJj2AIF4AIB&sid=af748b76b5c8b4bb4688b9da2590214c&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=900039327&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=118668b4b5d81338&ac_meta=GhAxMTg2NjhiNGI1ZDgxMzM4IAAoATICZnI6EU1vbnQgU2FpbnQgTWljaGVsQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Montauban&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvbQ2rsGwAIB0gIkY2VmNDkxOTktNGE4ZC00MmI0LWFmM2MtMmU3ZDRjZWRmZDg32AIF4AIB&sid=d999526a9c7054c71f7985be4c3248bb&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1452421&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=4f2468bb15a80d90&ac_meta=GhA0ZjI0NjhiYjE1YTgwZDkwIAAoATICZnI6CU1vbnRhdWJhbkAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 27,
+        "destination": "Nimes",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Nimes&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoPR2rsGwAIB0gIkODVhMzcwMjItMTE5Yy00ZGVjLWFlYTYtMzk4YTlmYTQ0OWVl2AIF4AIB&sid=848e64231b026cf6f386f533f986b5db&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1455068&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=947b68c18cbf0988&ac_meta=GhA5NDdiNjhjMThjYmYwOTg4IAAoATICZnI6BU5pbWVzQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Paris&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ao_R2rsGwAIB0gIkYjIxMjg1MDYtOGE5OS00MjUwLWI3NWMtYzFkZTU1NWQyMGI52AIF4AIB&sid=4cb2ad6f3cb07961f921a11df3a989ff&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1456928&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=7d2068c7f3e0054a&ac_meta=GhA3ZDIwNjhjN2YzZTAwNTRhIAAoATICZnI6BVBhcmlzQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Rouen&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApzR2rsGwAIB0gIkMzdmZWQ3NDMtNTg3OC00MzhkLWE4MmUtMzE0M2M1OGJkY2Vl2AIF4AIB&sid=64581aa739cfbad9ff65d8ef714ce615&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1462807&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=190c68ce3baa0db0&ac_meta=GhAxOTBjNjhjZTNiYWEwZGIwIAAoATICZnI6BVJvdWVuQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 30,
+        "destination": "Saintes Maries de la mer",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Saintes+Maries+de+la+mer&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqjR2rsGwAIB0gIkYmRhZDE0YTMtNzNjYy00MDg4LTgxZWItMDhiOTZiYTdkZDg32AIF4AIB&sid=24560b3a583f8e8b1ebce792e105c5c1&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1465138&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=4f7068d4093a08ac&ac_meta=GhA0ZjcwNjhkNDA5M2EwOGFjIAAoATICZnI6GFNhaW50ZXMgTWFyaWVzIGRlIGxhIG1lckAASgBQAA%3D%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=St+Malo&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArXR2rsGwAIB0gIkYzFlM2NhNWItMjg0OS00MTYzLTg4MjgtNGUyMmY4ZTkyNWRh2AIF4AIB&sid=f26454269590fa69323dab5310d6a891&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1466824&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=accc68dadedf076c&ac_meta=GhBhY2NjNjhkYWRlZGYwNzZjIAAoATICZnI6B1N0IE1hbG9AAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 32,
+        "destination": "Strasbourg",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Strasbourg&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsLR2rsGwAIB0gIkYzc2MDg5YzgtNjQ4Mi00N2QzLThiNzYtZTg2NjEyOTFkOGQx2AIF4AIB&sid=0b6aebf52071e4dfda0795fc2d1183ec&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1471697&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=fa2b68e17dd50900&ac_meta=GhBmYTJiNjhlMTdkZDUwOTAwIAAoATICZnI6ClN0cmFzYm91cmdAAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 33,
+        "destination": "Toulouse",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Toulouse&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As7R2rsGwAIB0gIkNGYxNmI2ZjEtODc5ZS00MTYyLWE1N2UtMDZhOTVjOWQ2Nzkz2AIF4AIB&sid=12dd1355c599d9251dd039f275da9acb&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1473166&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=539668e71066168a&ac_meta=GhA1Mzk2NjhlNzEwNjYxNjhhIAAoATICZnI6CFRvdWxvdXNlQABKAFAA&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Uzes&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtvR2rsGwAIB0gIkZjZlNTUxNGUtYzI4Ni00MGU4LTljMGUtOTNlNWU0YjkwZWY02AIF4AIB&sid=e3fa1e002d57f836600273e73e5826b2&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1474231&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=13ca68ed81140341&ac_meta=GhAxM2NhNjhlZDgxMTQwMzQxIAAoATICZnI6BFV6ZXNAAEoAUAA%3D&checkin=2025-01-03&checkout=2025-01-09&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 0,
+        "destination": "Aigues Mortes",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Aigues+Mortes&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApeA5LsGwAIB0gIkMjEwZWMzMDEtYTEyNy00YzEyLTkwNzgtMmNkY2RkYjRiOGYx2AIF4AIB&sid=062b9938db612678a26ae8b37f4ed3d8&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1406800&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=2bf1430bb35d1314&ac_meta=GhAyYmYxNDMwYmIzNWQxMzE0IAAoATICZnI6DUFpZ3VlcyBNb3J0ZXNAAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Aix+en+Provence&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1406939&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=013a4312a2c914dd&ac_meta=GhAwMTNhNDMxMmEyYzkxNGRkIAAoATICZnI6D0FpeCBlbiBQcm92ZW5jZUAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Amiens&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1407447&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=a8c84318568a0ba0&ac_meta=GhBhOGM4NDMxODU2OGEwYmEwIAAoATICZnI6BkFtaWVuc0AASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Annecy&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1407760&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=1186431eff6700f9&ac_meta=GhAxMTg2NDMxZWZmNjcwMGY5IAAoATICZnI6BkFubmVjeUAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Ariege&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=2507&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=725b43246f1807ae&ac_meta=GhA3MjViNDMyNDZmMTgwN2FlIAAoATICZnI6BkFyaWVnZUAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Avignon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1409631&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=6dd6432be1c002c4&ac_meta=GhA2ZGQ2NDMyYmUxYzAwMmM0IAAoATICZnI6B0F2aWdub25AAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Bayeux&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1410836&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0dc74331a05b0330&ac_meta=GhAwZGM3NDMzMWEwNWIwMzMwIAAoATICZnI6BkJheWV1eEAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 7,
+        "destination": "Bayonne",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Bayonne&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au-A5LsGwAIB0gIkNDQ1Yjk5MGQtY2E0Yi00ZTg3LTk2ZTItN2QzYjUwNDEyNjY42AIF4AIB&sid=c8966a7e820b23b1e93ab5d844940ab1&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1410844&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=52404337a70403db&ac_meta=GhA1MjQwNDMzN2E3MDQwM2RiIAAoATICZnI6B0JheW9ubmVAAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Besancon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1412198&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=1ada433d74d3096f&ac_meta=GhAxYWRhNDMzZDc0ZDMwOTZmIAAoATICZnI6CEJlc2FuY29uQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 9,
+        "destination": "Biarritz",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Biarritz&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoeB5LsGwAIB0gIkZjlmMjZhZjQtZTdhOC00YmYwLTliNTctMTc0OWVhYzMwZWNh2AIF4AIB&sid=b432d7904b087b9972d670def14baacd&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1412526&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=2a544343d331014e&ac_meta=GhAyYTU0NDM0M2QzMzEwMTRlIAAoATICZnI6CEJpYXJyaXR6QABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Bormes+les+Mimosas&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1413801&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=d2b943495ab20db3&ac_meta=GhBkMmI5NDM0OTVhYjIwZGIzIAAoATICZnI6EkJvcm1lcyBsZXMgTWltb3Nhc0AASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Carcassonne&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1416701&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=71f043503d4c0f13&ac_meta=GhA3MWYwNDM1MDNkNGMwZjEzIAAoATICZnI6C0NhcmNhc3Nvbm5lQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 12,
+        "destination": "Cassis",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Cassis&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqyB5LsGwAIB0gIkMDViNWQ2MzUtNzkwNi00ZjkwLTlkM2EtNTE2ZGFmMGI4ZWUz2AIF4AIB&sid=2c2f480c59abe6dafd87f661df7fbcf9&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1416912&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=4f244356d3950798&ac_meta=GhA0ZjI0NDM1NmQzOTUwNzk4IAAoATICZnI6BkNhc3Npc0AASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Chateau+du+Haut+Koenigsbourg&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=204055&dest_type=landmark&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=3&search_selected=true&search_pageview_id=befc435d0e9d0499&ac_meta=GhBiZWZjNDM1ZDBlOWQwNDk5IAAoATICZnI6HENoYXRlYXUgZHUgSGF1dCBLb2VuaWdzYm91cmdAAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Collioure&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1421032&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=804643632c6e110b&ac_meta=GhA4MDQ2NDM2MzJjNmUxMTBiIAAoATICZnI6CUNvbGxpb3VyZUAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 15,
+        "destination": "Colmar",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Colmar&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1421049&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=1ecb4369f6ee112e&ac_meta=GhAxZWNiNDM2OWY2ZWUxMTJlIAAoATICZnI6BkNvbG1hckAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Dijon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1423981&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=bb75437046e007e7&ac_meta=GhBiYjc1NDM3MDQ2ZTAwN2U3IAAoATICZnI6BURpam9uQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 17,
+        "destination": "Eguisheim",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Eguisheim&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuyB5LsGwAIB0gIkYWFlYWYwZGEtOGMzMS00MzY2LWEyMzEtMGU3Y2I5YjhkN2Zk2AIF4AIB&sid=777e479b87c73501e8c5800254bbca52&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1425030&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=a8034376d7f708cb&ac_meta=GhBhODAzNDM3NmQ3ZjcwOGNiIAAoATICZnI6CUVndWlzaGVpbUAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 18,
+        "destination": "Gorges du Verdon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Gorges+du+Verdon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AviB5LsGwAIB0gIkZTQzNDNmYjgtYmZjYS00ZDI1LTkyNmYtNGNkNDhmZGMwZWQx2AIF4AIB&sid=507936f7e4f130c2135f7caa29e68130&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=2746&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=2b51437c32310813&ac_meta=GhAyYjUxNDM3YzMyMzEwODEzIAAoATICZnI6EEdvcmdlcyBkdSBWZXJkb25AAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 19,
+        "destination": "Grenoble",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Grenoble&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1430647&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=4deb4382c3a80097&ac_meta=GhA0ZGViNDM4MmMzYTgwMDk3IAAoATICZnI6CEdyZW5vYmxlQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=La+Rochelle&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1438604&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=920143883e9d0853&ac_meta=GhA5MjAxNDM4ODNlOWQwODUzIAAoATICZnI6C0xhIFJvY2hlbGxlQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Le+Havre&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1441598&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=8a29438eac3c12ae&ac_meta=GhA4YTI5NDM4ZWFjM2MxMmFlIAAoATICZnI6CExlIEhhdnJlQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 22,
+        "destination": "Lille",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Lille&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqmC5LsGwAIB0gIkNzQ3ZWZlYTAtZWU0NS00MWQ5LWExMTktNGFkNDUxZTlhYjQw2AIF4AIB&sid=2705740ba56be87c0d75a72fc36eb4b2&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1447079&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=b3c94394e78c0098&ac_meta=GhBiM2M5NDM5NGU3OGMwMDk4IAAoATICZnI6BUxpbGxlQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 23,
+        "destination": "Lyon",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Lyon&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AraC5LsGwAIB0gIkYjE5YjAxODItNjRjMC00ZDc4LWE4OWItNTEzOGFmYWIyMGU52AIF4AIB&sid=10f1c267930630f8cccfbd8e3927a2a1&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1448468&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=d349439bb2770d6e&ac_meta=GhBkMzQ5NDM5YmIyNzcwZDZlIAAoATICZnI6BEx5b25AAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 24,
+        "destination": "Marseille",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Marseille&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsKC5LsGwAIB0gIkZjkxYTA4NjEtMGZkOC00YWE5LWE5NTktMzE2NGQ2MzcwNzY32AIF4AIB&sid=46afc15369514d961ad8af4d62c72f0c&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1449947&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0ef943a1925408d0&ac_meta=GhAwZWY5NDNhMTkyNTQwOGQwIAAoATICZnI6CU1hcnNlaWxsZUAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Mont+Saint+Michel&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=900039327&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=dae643a7fb1c0122&ac_meta=GhBkYWU2NDNhN2ZiMWMwMTIyIAAoATICZnI6EU1vbnQgU2FpbnQgTWljaGVsQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Montauban&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1452421&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=7c9c43ad5112046d&ac_meta=GhA3YzljNDNhZDUxMTIwNDZkIAAoATICZnI6CU1vbnRhdWJhbkAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 27,
+        "destination": "Nimes",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Nimes&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AueC5LsGwAIB0gIkYzEyYTJmOTAtM2I5NS00MzFlLTkzODEtNjgxMDM1NGVkMGNk2AIF4AIB&sid=852614594da170f9e8b3499d02def44f&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1455068&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=483d43b3a1540109&ac_meta=GhA0ODNkNDNiM2ExNTQwMTA5IAAoATICZnI6BU5pbWVzQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Paris&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1456928&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=893e43ba965f01fd&ac_meta=GhA4OTNlNDNiYTk2NWYwMWZkIAAoATICZnI6BVBhcmlzQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Rouen&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1462807&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=a99e43c0ff1504d4&ac_meta=GhBhOTllNDNjMGZmMTUwNGQ0IAAoATICZnI6BVJvdWVuQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 30,
+        "destination": "Saintes Maries de la mer",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Saintes+Maries+de+la+mer&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ao2D5LsGwAIB0gIkMGI3MzFkMDAtNWMzMC00ZmE0LThiZTMtNDJhNGQwMTQ5NmFi2AIF4AIB&sid=e4d54a01f702dfbe361ec93b036f6307&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1465138&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=2bf143c6d1390376&ac_meta=GhAyYmYxNDNjNmQxMzkwMzc2IAAoATICZnI6GFNhaW50ZXMgTWFyaWVzIGRlIGxhIG1lckAASgBQAA%3D%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=St+Malo&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1466824&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=6c4543cced1902bb&ac_meta=GhA2YzQ1NDNjY2VkMTkwMmJiIAAoATICZnI6B1N0IE1hbG9AAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 32,
+        "destination": "Strasbourg",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Strasbourg&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqaD5LsGwAIB0gIkM2Q2YTdmODItMTE4NC00YjIwLTgyMDctZWY1YzVjNmM0MDU52AIF4AIB&sid=323768914fff2edc60de7195c155eb40&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1471697&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=551f43d3bbce0eaa&ac_meta=GhA1NTFmNDNkM2JiY2UwZWFhIAAoATICZnI6ClN0cmFzYm91cmdAAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 33,
+        "destination": "Toulouse",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Toulouse&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArKD5LsGwAIB0gIkODA3MzVhMjctNTU1Yi00YTM4LTk4ZGMtZDRiZTk0MjRkZTYw2AIF4AIB&sid=7fd19415a9e3c502fcf71f567c317ec2&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1473166&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=d2b943d9eac304d8&ac_meta=GhBkMmI5NDNkOWVhYzMwNGQ4IAAoATICZnI6CFRvdWxvdXNlQABKAFAA&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "url": "https://www.booking.com/searchresults.fr.html?ss=Uzes&efdco=1&label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&lang=fr&sb=1&src_elem=sb&src=index&dest_id=-1474231&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=fr&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=b15f43df1b2d0dac&ac_meta=GhBiMTVmNDNkZjFiMmQwZGFjIAAoATICZnI6BFV6ZXNAAEoAUAA%3D&checkin=2025-01-13&checkout=2025-01-19&group_adults=2&no_rooms=1&group_children=0"
+    }
+]

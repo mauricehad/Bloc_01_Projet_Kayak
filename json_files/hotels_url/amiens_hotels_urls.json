@@ -1,0 +1,202 @@
+[
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "317",
+        "url": "https://www.booking.com/hotel/fr/appart-city-amiens.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=55821701_402428099_0_2_0&highlighted_blocks=55821701_402428099_0_2_0&matching_block_id=55821701_402428099_0_2_0&sr_pri_blocks=55821701_402428099_0_2_0__31720&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "374",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-amiens-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=257344302_104436453_2_42_0&highlighted_blocks=257344302_104436453_2_42_0&matching_block_id=257344302_104436453_2_42_0&sr_pri_blocks=257344302_104436453_2_42_0__37358&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "290",
+        "url": "https://www.booking.com/hotel/fr/premia-re-classe-amiens.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=116371301_94583579_2_10_0&highlighted_blocks=116371301_94583579_2_10_0&matching_block_id=116371301_94583579_2_10_0&sr_pri_blocks=116371301_94583579_2_10_0__28984&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "423",
+        "url": "https://www.booking.com/hotel/fr/nemea-appart-coliseum.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=1033790702_375989882_2_2_0&highlighted_blocks=1033790702_375989882_2_2_0&matching_block_id=1033790702_375989882_2_2_0&sr_pri_blocks=1033790702_375989882_2_2_0__42260&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "1223",
+        "url": "https://www.booking.com/hotel/fr/aux-caves.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=180281106_326760762_2_34_0&highlighted_blocks=180281106_326760762_2_34_0&matching_block_id=180281106_326760762_2_34_0&sr_pri_blocks=180281106_326760762_2_34_0__122280&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "443",
+        "url": "https://www.booking.com/hotel/fr/express-by-holiday-inn.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=5499016_94273733_2_1_0&highlighted_blocks=5499016_94273733_2_1_0&matching_block_id=5499016_94273733_2_1_0&sr_pri_blocks=5499016_94273733_2_1_0__44282&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "350",
+        "url": "https://www.booking.com/hotel/fr/kyriad-amiens-nord-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=50595004_91332499_2_2_0&highlighted_blocks=50595004_91332499_2_2_0&matching_block_id=50595004_91332499_2_2_0&sr_pri_blocks=50595004_91332499_2_2_0__34955&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "486",
+        "url": "https://www.booking.com/hotel/fr/ibis-amiens-centre-cathedrale.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=65952102_94499753_2_2_0&highlighted_blocks=65952102_94499753_2_2_0&matching_block_id=65952102_94499753_2_2_0&sr_pri_blocks=65952102_94499753_2_2_0__48600&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "439",
+        "url": "https://www.booking.com/hotel/fr/appart-39-odalys-blamont.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=148593901_89018029_2_2_0&highlighted_blocks=148593901_89018029_2_2_0&matching_block_id=148593901_89018029_2_2_0&sr_pri_blocks=148593901_89018029_2_2_0__43920&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "525",
+        "url": "https://www.booking.com/hotel/fr/the-originals-boutique-amiens-sud-chu-amiens.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=841099703_386933790_0_2_0&highlighted_blocks=841099703_386933790_0_2_0&matching_block_id=841099703_386933790_0_2_0&sr_pri_blocks=841099703_386933790_0_2_0__52500&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "360",
+        "url": "https://www.booking.com/hotel/fr/residence-saint-germain.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=167070806_89578914_2_0_0&highlighted_blocks=167070806_89578914_2_0_0&matching_block_id=167070806_89578914_2_0_0&sr_pri_blocks=167070806_89578914_2_0_0__36000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "818",
+        "url": "https://www.booking.com/hotel/fr/ibis-styles-amiens-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=507783301_174859027_2_1_0&highlighted_blocks=507783301_174859027_2_1_0&matching_block_id=507783301_174859027_2_1_0&sr_pri_blocks=507783301_174859027_2_1_0__81804&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "658",
+        "url": "https://www.booking.com/hotel/fr/central-anzac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=28253211_201922128_1_2_0%2C28253211_201922128_1_2_0&highlighted_blocks=28253211_201922128_1_2_0%2C28253211_201922128_1_2_0&matching_block_id=28253211_201922128_1_2_0&sr_pri_blocks=28253211_201922128_1_2_0__32880%2C28253211_201922128_1_2_0__32880&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "529",
+        "url": "https://www.booking.com/hotel/fr/campanile-amiens-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=36175705_94449465_2_2_0&highlighted_blocks=36175705_94449465_2_2_0&matching_block_id=36175705_94449465_2_2_0&sr_pri_blocks=36175705_94449465_2_2_0__52880&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "322",
+        "url": "https://www.booking.com/hotel/fr/au-spatial.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=23731908_388145041_2_2_0&highlighted_blocks=23731908_388145041_2_2_0&matching_block_id=23731908_388145041_2_2_0&sr_pri_blocks=23731908_388145041_2_2_0__32160&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "491",
+        "url": "https://www.booking.com/hotel/fr/le-saint-louis-amienq.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=23890306_88985444_2_2_0&highlighted_blocks=23890306_88985444_2_2_0&matching_block_id=23890306_88985444_2_2_0&sr_pri_blocks=23890306_88985444_2_2_0__49080&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "898",
+        "url": "https://www.booking.com/hotel/fr/mercure-amiens-cathdrale.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=4809706_97562163_2_34_0&highlighted_blocks=4809706_97562163_2_34_0&matching_block_id=4809706_97562163_2_34_0&sr_pri_blocks=4809706_97562163_2_34_0__89823&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "568",
+        "url": "https://www.booking.com/hotel/fr/le-prieure-amiens.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=27169710_158767254_0_2_0&highlighted_blocks=27169710_158767254_0_2_0&matching_block_id=27169710_158767254_0_2_0&sr_pri_blocks=27169710_158767254_0_2_0__56765&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "566",
+        "url": "https://www.booking.com/hotel/fr/victor-hugo-amiens2.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=1182522203_390675124_2_0_0&highlighted_blocks=1182522203_390675124_2_0_0&matching_block_id=1182522203_390675124_2_0_0&sr_pri_blocks=1182522203_390675124_2_0_0__56611&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "430",
+        "url": "https://www.booking.com/hotel/fr/victor-hugo-amiens.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=66609908_265468695_2_2_0&highlighted_blocks=66609908_265468695_2_2_0&matching_block_id=66609908_265468695_2_2_0&sr_pri_blocks=66609908_265468695_2_2_0__42972&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "1214",
+        "url": "https://www.booking.com/hotel/fr/ha-tel-marotte.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=44993912_377333207_2_2_0&highlighted_blocks=44993912_377333207_2_2_0&matching_block_id=44993912_377333207_2_2_0&sr_pri_blocks=44993912_377333207_2_2_0__121400&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "684",
+        "url": "https://www.booking.com/hotel/fr/the-nest-amiens.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=344619505_132545705_2_0_0&highlighted_blocks=344619505_132545705_2_0_0&matching_block_id=344619505_132545705_2_0_0&sr_pri_blocks=344619505_132545705_2_0_0__68400&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "630",
+        "url": "https://www.booking.com/hotel/fr/le-vivier-amiens.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=453342806_335285462_2_0_0&highlighted_blocks=453342806_335285462_2_0_0&matching_block_id=453342806_335285462_2_0_0&sr_pri_blocks=453342806_335285462_2_0_0__63000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "410",
+        "url": "https://www.booking.com/hotel/fr/hotel-inn-design.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=7962201_373874738_2_42_0&highlighted_blocks=7962201_373874738_2_42_0&matching_block_id=7962201_373874738_2_42_0&sr_pri_blocks=7962201_373874738_2_42_0__41000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.2
+    },
+    {
+        "id_destination": 2,
+        "destination": "Amiens",
+        "price": "498",
+        "url": "https://www.booking.com/hotel/fr/inter-amiens-tabl.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArCA5LsGwAIB0gIkMTk3NDE2MjItODdjMC00NmQ4LTllYWEtMDcxZWI4NmVmNGRm2AIF4AIB&sid=dc3ef9db12d22e480044696edf2a70e9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407447&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=1e6f4ec7b3a905be&srepoch=1735989155&all_sr_blocks=350571405_269979208_0_34_0&highlighted_blocks=350571405_269979208_0_34_0&matching_block_id=350571405_269979208_0_34_0&sr_pri_blocks=350571405_269979208_0_34_0__49751&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.8
+    }
+]

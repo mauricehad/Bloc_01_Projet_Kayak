@@ -1,0 +1,210 @@
+[
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "2351",
+        "url": "https://www.booking.com/hotel/fr/maison-boheme-paris.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=1143347228_404313000_0_2_0_724097&highlighted_blocks=1143347228_404313000_0_2_0_724097&matching_block_id=1143347228_404313000_0_2_0_724097&sr_pri_blocks=1143347228_404313000_0_2_0_724097_235086&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "1036",
+        "url": "https://www.booking.com/hotel/fr/citizenm-paris-gare-de-lyon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=233773501_100763200_2_2_0_636845&highlighted_blocks=233773501_100763200_2_2_0_636845&matching_block_id=233773501_100763200_2_2_0_636845&sr_pri_blocks=233773501_100763200_2_2_0_636845_103555&nad_id=7af0d373-8576-4099-814a-d683afa23f51_2&nad_cpc=1.24&nad_track=eyJhdWN0aW9uRXBvY2giOjE3MzU5OTA1MzUyNTQsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiL0g3Tkpoc1Jnd0ZFSTJYVTlWL3BvZ2QyYjFHYzZwMWZMZ3dmejU2N0d1aDcxQ3JFNjFaeHFDOTFRV2czNW84d1dtd0NhNjdhK0QrbTB3cS8vQlRleXRxdXBDNHIwbmJCVnpsNEhmZzNydlBNOXRyK0NTVWlaSThvbUFzeXVqMUxraUVNUFVlODgxN09BV2FxcktXQlBQNFFjRjVrc0hvaTRWN2wycENoS2ovUS9kVTdTWkRkV01KMzRyZXdFL0hySy9sU09SRCszVmxPSmo0S0hNeFA4WjV6eWErZmdSNzh4MXAveHFaNkd6YjBZcU9DNld6TDVEOWk2cVZtVXpRME1WQUNYQWRxSWtkYjN1Rjk1MFgrNFh2NGFadEpGRHBhUDJ1STBvM28yM0FmQ25IenpDd3paOGdwQmRiUm5kVWdUTFlscDYxanQ4L29sSHpWSGQ1aGlGZVRWeGw1MHBVdXVuNDdsSW5NdlorRGJXZVlsMDFzS05pSHJSRlpSRDFLRTkySWllQml2U1Zid0paOWhEL2J2Mmp2SVRteVBiTGhoMGUvenFsdEI1N2J0TS9LY0hpekFRR2ttUFNLcjBQdEhlcmUvYm1rZkplZmpJYUZtbUkzQ0NRc0hvTWVnVkY2RTdYRTRRNUV5aWN2Z0J0b1kyeXJsNE9nWGdpVVBhM1Z0UEdqN3FzWjFhUjlTVU82YlczNmhVblNoSzZaMVBvQ0xjWWtqUG1nODdPNW1IMmRzNUc4RW9UNXdPQlZLVURzSEdPcG11SUhHKzBqWU5ocUhjQTJnb2ZXSjZnNlNvaGtxZ1RjZGtGRmorU2pYd0FwTzBCZ3BERWMyZEc0OEVmNXQwb0NoSDJxc2NDcTlwa1BlK3EwREM4S29ndjV4UytvY2RMYy9QaFBid2RnNVZjc1hLTGVSeE0wVXBmdmpwZmM0QjQ5VDV2TFJEREdpUTBWaEova3RpanlhVnhpTm16ZHh2clJac1IwWStrMFBrb2FIZ3dHWGl6Ti93RkZjNlFUalk1WEN5TVkyeEVoNkhGZXVRYXpudEdtYmsxenFOYW1mL1dSVnR6NW4zWjRqcjhYeHJ0dFAxOUpEeHJVZld4N0FOek42S3VBN0xQaG8wTFlBK0tlajNOY1p1YVJLdEp4TXMxMTFEeE9uazhiM3d6LzJDWEFkcHZqOUlRelZOOHVLalFQNDBzZk5ZWm9IR2l3SEcvU3NXc2wremt3eEVBY1NhVG9iaUp3Qm1OaEYvaUNVaGdrRDEyeWlUUEFoai9aVDFFMnRQdG45ZUwraTQyS2laRlYzZ1VhL1VmQzI0cklIL0hFQXFCbWlJT2Nxdk1CaGRkTVNNMENXNTBneFB1amt1MzlpZ3J0WjhaK2g1azNSWGxJaGl5aVpDaHZ2bXRaQnBkN1ViamhNRm5NSHpTNlVHaWtnY0w3bGNZbVUrNjVxODRRWUpyUG5UWk5vMXRIVHVSOENIMnRsQ0xua3pHd0lwWVBCc0NkNHkvNnl6dDEvYTB6YldFcDl3Um9UM0pLeVZudHkwS0FkMlMyVm4zbmttOGYxMTh4WlVhR0gybEU4NUV2dWxkZDNMQUZTa3hSb1J6SWNCT3puZFRMTlFRNHYrTWlqWUgzbXRZQnJGTGNpMzlmd2FmdDZXTldVWHE1SlU4Sm5BeTlad0lxR1hDdG5Nb1hKU0k5NDJKYUlMM0ZKNkVjcmUvOS9qd1NNK1FyMlZ6Kzd4ZGZkWHBVaCsvcmRrbDJCSmtoME9acVdLalB6bWJRUVV0SkFhaHR2TFZkbTFyQmdSQjhvTWRxeElRa0NNV1BZUlUrOXVFanpIUnNOV085cXFVUFdxVExncndjd0JIQ0tNMVV2a3JOQWVkS1pkS01CWmZWNmhBSjFVT09QTnVldVdEZjJvSm4xUEtTUWlBcmIwZVhnR1ZRMU1IdThtYTBpSkhaMW9hb0NqTXhWYmI3K2hWeVhTZW1sd3MxRUxRVkI5UXF6YWxWZ0NPdmJTdHRCcVY2TFlLWUFSSkczNEpnVkJNWm1TSEkrTGVWdEhkRTMvbHJXMEdXakM2VEprMmg0dG1iZ3RFQTREVC9mZHhhdmkwNktEZXZ5N2RFU09oWFRIbUkweGM3dldxU0Jwb1h4VmVwYVl5T25IVEJsaGpEaHp3WElLbEdybDFMZDBjbWNnNGhrNU5hN2xralNSWnNudjJRY3pJUVpMUHBYU1RYMFh3aFJEN3F6SmlQNGJFNjU0Z0VFalVpVVVuY0ZrT0FYdWozdE54RFp3bmxGUGZ4cTdWdjdqRThQaU1OR3Z6akdYN2VLaDQ3VGh2aVpVRFJQNjJLZ0Z3L1NaWG5QNFhhYklKNUI1dzF6UXBtcUszNkVNZjJTNWY4T0NoOFZqbXVIWGlZNmhTWkEwekJwRHBoU0g4OG1Yb2NrdlVXd0JmNlRhVjZOak1HVWJVNXZ6TXN3M0x0bWdmeXNCai9tNnkxOGlwd2Y5ZE9HUTRUOWVKRS82NFhad3E2RktVcERBeWQzSUlxZmV0TU1MWUQ0RGFKQlYwbnB2QjVCQ3dMSEZESTlxZk1qYWVhVFhVeVBHVS9EaFlvQm5FSlRvSlNJYXRCWFc2ZlA1a0tLeGZDMmtuRVFZRzZmbXF2NTV3b0ltWTZDSzNBSmxxdjRBRXBKS1B1cnVpM3ZCd2dZdlhEQlFLYmthZzIvdVZBK2tib0Nab21RWHZQbHhzK3ZPM09OUG1lQlYrTldxOG5YNUdTL1B4aTI4VVVBRHFNQjhXQnJjelVHUTluOWRQbjdCbi94b2NWc0xSQlV0RmxWbXl6NDVSOUxBTTVWOUZvYjZPcGJ4ME03a1RiZnRkR2RnTkFkS2JDbWtyTWd5UE5VWHdkZVBvZlM0YlZGRXFQcElJVUFPOXR2MGcrSlBxVDN1dWxFM2tMODNjenFLT3dGVkZ2T2N3RTk0aThGM0hoYzcxRk12NmVXUklFd0hwNWRRV29BTlFoaHd1VUtQUC9YNCtmeGRFeFh4OU8zOUlhcjVoY1hTSzJpcXQvblI3Ky84WHF2eUlVNUh1OVNPdkdCYUIzQmt6ZWtrdVJ3bDJOQnFIWHBkaytyYndwVXU1UFhzUHFNQXNYajlrck45YTQwbEZkZDg5VHVISW82ZzBjY2NCaDI2cFRDWHd6cHRrZ0JKdzFBRUIvS1lmMlpoSXRPaFNiaEwzQU9FUmFxWWFqZWw0OXlLRFRmV29LZmRGcFVDeG9ESVR3c3BsUjVobkVNRW8zelQ0Tk1MV3JkcFlvTWEwTGJtakNPb250Y2lZNG8xbzNVOE5oa1NiUUtjc2EwekhQSmVVb0VSelZxMW54SFpaVFkzazNDdzllUGNjSlloekNPbXk2cS9qbmFpWVVLbkRWc1FUZVRrSEVTTjM0VlQvR0NIdnZRTnlndUMwRUNqckVnY2pKazFUaWh1cnIyZUJDZ3JWSzY2bHZiK01MR1FuVjJBQkRXNE93aTd1NyJ9&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "549",
+        "url": "https://www.booking.com/hotel/fr/central-bastille-paris1.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=916060802_363083129_2_0_0&highlighted_blocks=916060802_363083129_2_0_0&matching_block_id=916060802_363083129_2_0_0&sr_pri_blocks=916060802_363083129_2_0_0__54900&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "597",
+        "url": "https://www.booking.com/hotel/fr/residencerichemont.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=16128_374112953_0_2_0&highlighted_blocks=16128_374112953_0_2_0&matching_block_id=16128_374112953_0_2_0&sr_pri_blocks=16128_374112953_0_2_0__59736&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "1068",
+        "url": "https://www.booking.com/hotel/fr/du-printemps-paris.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=794744501_403414681_2_2_0&highlighted_blocks=794744501_403414681_2_2_0&matching_block_id=794744501_403414681_2_2_0&sr_pri_blocks=794744501_403414681_2_2_0__106836&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "809",
+        "url": "https://www.booking.com/hotel/fr/citadines-aparthotel-austerlitz.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=65548_204494274_2_2_0&highlighted_blocks=65548_204494274_2_2_0&matching_block_id=65548_204494274_2_2_0&sr_pri_blocks=65548_204494274_2_2_0__80936&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "621",
+        "url": "https://www.booking.com/hotel/fr/ibis-paris-la-villette-cita-c-des-sciences.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=54541302_94489651_2_34_0&highlighted_blocks=54541302_94489651_2_34_0&matching_block_id=54541302_94489651_2_34_0&sr_pri_blocks=54541302_94489651_2_34_0__62118&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "809",
+        "url": "https://www.booking.com/hotel/fr/parisbercyvillage.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=5159103_102727678_0_2_0&highlighted_blocks=5159103_102727678_0_2_0&matching_block_id=5159103_102727678_0_2_0&sr_pri_blocks=5159103_102727678_0_2_0__80936&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "537",
+        "url": "https://www.booking.com/hotel/fr/de-l-europe-paris2.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=47040816_398949486_2_2_0&highlighted_blocks=47040816_398949486_2_2_0&matching_block_id=47040816_398949486_2_2_0&sr_pri_blocks=47040816_398949486_2_2_0__53700&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "847",
+        "url": "https://www.booking.com/hotel/fr/terminus-montparnasse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=134291710_237660987_0_2_0&highlighted_blocks=134291710_237660987_0_2_0&matching_block_id=134291710_237660987_0_2_0&sr_pri_blocks=134291710_237660987_0_2_0__84736&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "738",
+        "url": "https://www.booking.com/hotel/fr/ibis-paris-alesia-montparnasse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=54540804_94489634_2_2_0&highlighted_blocks=54540804_94489634_2_2_0&matching_block_id=54540804_94489634_2_2_0&sr_pri_blocks=54540804_94489634_2_2_0__73797&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "809",
+        "url": "https://www.booking.com/hotel/fr/best-western-premier-61-paris-nation-hotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=5045422_393524237_2_2_0&highlighted_blocks=5045422_393524237_2_2_0&matching_block_id=5045422_393524237_2_2_0&sr_pri_blocks=5045422_393524237_2_2_0__80892&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "762",
+        "url": "https://www.booking.com/hotel/fr/alhambra-paris.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=17214502_93711017_0_2_0&highlighted_blocks=17214502_93711017_0_2_0&matching_block_id=17214502_93711017_0_2_0&sr_pri_blocks=17214502_93711017_0_2_0__76236&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "860",
+        "url": "https://www.booking.com/hotel/fr/citadines-aparthotel-paris-voltaire-republique.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=66831_204494072_2_2_0&highlighted_blocks=66831_204494072_2_2_0&matching_block_id=66831_204494072_2_2_0&sr_pri_blocks=66831_204494072_2_2_0__86036&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "905",
+        "url": "https://www.booking.com/hotel/fr/aston-paris.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=23950703_88922489_0_2_0&highlighted_blocks=23950703_88922489_0_2_0&matching_block_id=23950703_88922489_0_2_0&sr_pri_blocks=23950703_88922489_0_2_0__90536&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "744",
+        "url": "https://www.booking.com/hotel/fr/parisboulevardberthier.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=5120702_91458043_2_2_0&highlighted_blocks=5120702_91458043_2_2_0&matching_block_id=5120702_91458043_2_2_0&sr_pri_blocks=5120702_91458043_2_2_0__74352&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "668",
+        "url": "https://www.booking.com/hotel/fr/all-suites-appart-paris-13-porte-d-italie.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=1184728103_393497790_0_2_0&highlighted_blocks=1184728103_393497790_0_2_0&matching_block_id=1184728103_393497790_0_2_0&sr_pri_blocks=1184728103_393497790_0_2_0__66816&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "1038",
+        "url": "https://www.booking.com/hotel/fr/hotelcorail.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=5182307_169347315_2_2_0_613601&highlighted_blocks=5182307_169347315_2_2_0_613601&matching_block_id=5182307_169347315_2_2_0_613601&sr_pri_blocks=5182307_169347315_2_2_0_613601_103836&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "754",
+        "url": "https://www.booking.com/hotel/fr/jenner.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=143151705_342450995_2_2_0&highlighted_blocks=143151705_342450995_2_2_0&matching_block_id=143151705_342450995_2_2_0&sr_pri_blocks=143151705_342450995_2_2_0__75436&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "548",
+        "url": "https://www.booking.com/hotel/fr/appart-city-cap-affaires-paris.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=22871104_88922101_0_2_0&highlighted_blocks=22871104_88922101_0_2_0&matching_block_id=22871104_88922101_0_2_0&sr_pri_blocks=22871104_88922101_0_2_0__54800&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "624",
+        "url": "https://www.booking.com/hotel/fr/ambassadeurparis.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=5154606_88550609_0_2_0&highlighted_blocks=5154606_88550609_0_2_0&matching_block_id=5154606_88550609_0_2_0&sr_pri_blocks=5154606_88550609_0_2_0__62445&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "893",
+        "url": "https://www.booking.com/hotel/fr/viator.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=5530807_88550793_0_2_0&highlighted_blocks=5530807_88550793_0_2_0&matching_block_id=5530807_88550793_0_2_0&sr_pri_blocks=5530807_88550793_0_2_0__89336&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "717",
+        "url": "https://www.booking.com/hotel/fr/armstrong.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=5354606_94272626_2_1_0&highlighted_blocks=5354606_94272626_2_1_0&matching_block_id=5354606_94272626_2_1_0&sr_pri_blocks=5354606_94272626_2_1_0__71706&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "683",
+        "url": "https://www.booking.com/hotel/fr/cactus.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=5924602_347119435_0_2_0&highlighted_blocks=5924602_347119435_0_2_0&matching_block_id=5924602_347119435_0_2_0&sr_pri_blocks=5924602_347119435_0_2_0__68336&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "1014",
+        "url": "https://www.booking.com/hotel/fr/atlantic-paris.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=176919101_159144021_2_2_0&highlighted_blocks=176919101_159144021_2_2_0&matching_block_id=176919101_159144021_2_2_0&sr_pri_blocks=176919101_159144021_2_2_0__101436&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 28,
+        "destination": "Paris",
+        "price": "835",
+        "url": "https://www.booking.com/hotel/fr/appart-city-collection-paris-gare-de-lyon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvOC5LsGwAIB0gIkYWRlMTkzYmQtN2ViNS00OWE4LTg4ODItMzQ4YjExZGYwODJh2AIF4AIB&sid=42c6896b19439f37235c199b82477a66&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1456928&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=26&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=91355179d48e0b07&srepoch=1735990536&all_sr_blocks=1025270004_0_2_0_0&highlighted_blocks=1025270004_0_2_0_0&matching_block_id=1025270004_0_2_0_0&sr_pri_blocks=1025270004_0_2_0_0__83480&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    }
+]

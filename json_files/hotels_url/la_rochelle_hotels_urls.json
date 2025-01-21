@@ -1,0 +1,202 @@
+[
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "345",
+        "url": "https://www.booking.com/hotel/fr/pierre-vacances-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=5171503_258598758_2_0_0&highlighted_blocks=5171503_258598758_2_0_0&matching_block_id=5171503_258598758_2_0_0&sr_pri_blocks=5171503_258598758_2_0_0__34454&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "365",
+        "url": "https://www.booking.com/hotel/fr/appart-city-cap-affaires-la-rochelle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=22870022_402428169_0_2_0&highlighted_blocks=22870022_402428169_0_2_0&matching_block_id=22870022_402428169_0_2_0&sr_pri_blocks=22870022_402428169_0_2_0__36532&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "262",
+        "url": "https://www.booking.com/hotel/fr/premia-re-classe-la-rochelle-centre-les-minimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=50023302_94483315_2_2_0&highlighted_blocks=50023302_94483315_2_2_0&matching_block_id=50023302_94483315_2_2_0&sr_pri_blocks=50023302_94483315_2_2_0__26160&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "473",
+        "url": "https://www.booking.com/hotel/fr/athome-residence-et-spa.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=638268907_252695152_2_2_0&highlighted_blocks=638268907_252695152_2_2_0&matching_block_id=638268907_252695152_2_2_0&sr_pri_blocks=638268907_252695152_2_2_0__47256&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "567",
+        "url": "https://www.booking.com/hotel/fr/masqhotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=5361508_88918796_2_42_0&highlighted_blocks=5361508_88918796_2_42_0&matching_block_id=5361508_88918796_2_42_0&sr_pri_blocks=5361508_88918796_2_42_0__56684&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "399",
+        "url": "https://www.booking.com/hotel/fr/residence-les-minimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=5367101_277309728_2_2_0&highlighted_blocks=5367101_277309728_2_2_0&matching_block_id=5367101_277309728_2_2_0&sr_pri_blocks=5367101_277309728_2_2_0__39900&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "365",
+        "url": "https://www.booking.com/hotel/fr/inn-design.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=86179701_88555176_0_2_0&highlighted_blocks=86179701_88555176_0_2_0&matching_block_id=86179701_88555176_0_2_0&sr_pri_blocks=86179701_88555176_0_2_0__36520&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "565",
+        "url": "https://www.booking.com/hotel/fr/hotellesbrises.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=5090506_343272557_0_2_0&highlighted_blocks=5090506_343272557_0_2_0&matching_block_id=5090506_343272557_0_2_0&sr_pri_blocks=5090506_343272557_0_2_0__56512&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "520",
+        "url": "https://www.booking.com/hotel/fr/l-escale-marine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=34278607_88555171_0_2_0&highlighted_blocks=34278607_88555171_0_2_0&matching_block_id=34278607_88555171_0_2_0&sr_pri_blocks=34278607_88555171_0_2_0__52012&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "801",
+        "url": "https://www.booking.com/hotel/fr/de-la-monnaie.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=7949311_341556187_0_2_0&highlighted_blocks=7949311_341556187_0_2_0&matching_block_id=7949311_341556187_0_2_0&sr_pri_blocks=7949311_341556187_0_2_0__80100&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "544",
+        "url": "https://www.booking.com/hotel/fr/la-fabrique-la-rochelle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=252179701_103732124_0_2_0&highlighted_blocks=252179701_103732124_0_2_0&matching_block_id=252179701_103732124_0_2_0&sr_pri_blocks=252179701_103732124_0_2_0__54412&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "727",
+        "url": "https://www.booking.com/hotel/fr/inter-saint-jean-d-acre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=17233407_362700139_2_2_0&highlighted_blocks=17233407_362700139_2_2_0&matching_block_id=17233407_362700139_2_2_0&sr_pri_blocks=17233407_362700139_2_2_0__72745&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "531",
+        "url": "https://www.booking.com/hotel/fr/le-rochelois.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=63305702_384088258_2_2_0&highlighted_blocks=63305702_384088258_2_2_0&matching_block_id=63305702_384088258_2_2_0&sr_pri_blocks=63305702_384088258_2_2_0__53112&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "555",
+        "url": "https://www.booking.com/hotel/fr/hotelfrancoiser.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=5313902_91284900_0_2_0&highlighted_blocks=5313902_91284900_0_2_0&matching_block_id=5313902_91284900_0_2_0&sr_pri_blocks=5313902_91284900_0_2_0__55512&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "409",
+        "url": "https://www.booking.com/hotel/fr/greet-la-rochelle-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=858958504_353781673_2_2_0&highlighted_blocks=858958504_353781673_2_2_0&matching_block_id=858958504_353781673_2_2_0&sr_pri_blocks=858958504_353781673_2_2_0__40872&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "819",
+        "url": "https://www.booking.com/hotel/fr/comforthotelsaintnicolas.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=5062112_96604009_2_42_0&highlighted_blocks=5062112_96604009_2_42_0&matching_block_id=5062112_96604009_2_42_0&sr_pri_blocks=5062112_96604009_2_42_0__81870&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "692",
+        "url": "https://www.booking.com/hotel/fr/le-yachtman.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=5428610_94185365_2_2_0&highlighted_blocks=5428610_94185365_2_2_0&matching_block_id=5428610_94185365_2_2_0&sr_pri_blocks=5428610_94185365_2_2_0__69222&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "358",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-la-rochelle-centre-la-rochelle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=858958601_353781676_2_2_0&highlighted_blocks=858958601_353781676_2_2_0&matching_block_id=858958601_353781676_2_2_0&sr_pri_blocks=858958601_353781676_2_2_0__35759&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "445",
+        "url": "https://www.booking.com/hotel/fr/kyriad-la-rochelle-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=4808401_94105176_2_42_0&highlighted_blocks=4808401_94105176_2_42_0&matching_block_id=4808401_94105176_2_42_0&sr_pri_blocks=4808401_94105176_2_42_0__44512&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "582",
+        "url": "https://www.booking.com/hotel/fr/les-studios-du-chemins-vert.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=1108221201_383587008_4_32_0&highlighted_blocks=1108221201_383587008_4_32_0&matching_block_id=1108221201_383587008_4_32_0&sr_pri_blocks=1108221201_383587008_4_32_0__58240&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "564",
+        "url": "https://www.booking.com/hotel/fr/en-ville-la-rochelle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=17558401_260228678_0_0_0&highlighted_blocks=17558401_260228678_0_0_0&matching_block_id=17558401_260228678_0_0_0&sr_pri_blocks=17558401_260228678_0_0_0__56388&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "616",
+        "url": "https://www.booking.com/hotel/fr/ibis-la-rochelle-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=54539905_94489617_2_1_0&highlighted_blocks=54539905_94489617_2_1_0&matching_block_id=54539905_94489617_2_1_0&sr_pri_blocks=54539905_94489617_2_1_0__61596&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "523",
+        "url": "https://www.booking.com/hotel/fr/de-la-paix-la-rochelle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=5876805_402351453_0_42_0&highlighted_blocks=5876805_402351453_0_42_0&matching_block_id=5876805_402351453_0_42_0&sr_pri_blocks=5876805_402351453_0_42_0__52320&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "475",
+        "url": "https://www.booking.com/hotel/fr/kyriad-la-rochelle-centre-les-minimes-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=50003901_104805322_2_2_0&highlighted_blocks=50003901_104805322_2_2_0&matching_block_id=50003901_104805322_2_2_0&sr_pri_blocks=50003901_104805322_2_2_0__47472&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    },
+    {
+        "id_destination": 20,
+        "destination": "La Rochelle",
+        "price": "441",
+        "url": "https://www.booking.com/hotel/fr/altica-la-rochelle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApCC5LsGwAIB0gIkMzg2MTczYjUtNTRjNy00Y2U3LWJmODYtZDAyZGVmODQ5MWU12AIF4AIB&sid=59a4ffdc9ed2c906ff2932738a03ba30&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1438604&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=7a3050a62f6309a6&srepoch=1735990110&all_sr_blocks=17530504_88555151_0_2_0&highlighted_blocks=17530504_88555151_0_2_0&matching_block_id=17530504_88555151_0_2_0&sr_pri_blocks=17530504_88555151_0_2_0__44112&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0
+    }
+]
