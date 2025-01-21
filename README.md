@@ -1,4 +1,3 @@
-```markdown
 # ✈️ BLOC 1 : Construire et Manager une Infrastructure de Données
 
 Bienvenue dans le projet **KAYAK**, une aventure autour de la gestion des données pour des voyages optimisés ! 🚀
@@ -68,4 +67,4 @@ Les données météo sont évaluées sur une échelle universelle (0 à 1) pour 
 ---
 
 Bon voyage à travers les données ! 🚀🌍
-```
+
