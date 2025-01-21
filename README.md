@@ -1,3 +1,5 @@
+Projet contenant du scrapping / de la mise en place de robots / de l'API 
+
 # ✈️ BLOC 1 : Construire et Manager une Infrastructure de Données
 
 Bienvenue dans le projet **KAYAK**, une aventure autour de la gestion des données pour des voyages optimisés ! 🚀
