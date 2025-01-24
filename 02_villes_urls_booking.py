@@ -35,8 +35,8 @@ class BookingSpiderHome:
                 page.fill('input[name="ss"]', destination)
                 time.sleep(2)
                 page.click('[data-testid="searchbox-dates-container"]')
-                page.click('span[data-date="2025-01-13"]')
-                page.click('span[data-date="2025-01-19"]')
+                page.click('span[data-date="2025-01-27"]')
+                page.click('span[data-date="2025-02-02"]')
                 page.click('button[type="submit"]')
 
                 # Attente pour que les résultats de recherche se chargent
@@ -67,5 +67,4 @@ class BookingSpiderHome:
             result_url = self.search_and_get_url(destination)
             self.save_url({"id_destination": index, "destination": destination, "url": result_url})
 
-if __name__ == "__main__":
-    BookingSpiderHome().run()
+BookingSpiderHome().run()

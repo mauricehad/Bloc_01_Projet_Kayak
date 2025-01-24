@@ -2,201 +2,353 @@
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "335",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget-besanasson-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=62703702_94498162_2_2_0&highlighted_blocks=62703702_94498162_2_2_0&matching_block_id=62703702_94498162_2_2_0&sr_pri_blocks=62703702_94498162_2_2_0__33504&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "ibis Styles Besançon",
+        "ville_de_lhotel": "besançon",
+        "price": "628",
+        "url": "https://www.booking.com/hotel/fr/besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=5726211_94276162_2_33_0&highlighted_blocks=5726211_94276162_2_33_0&matching_block_id=5726211_94276162_2_33_0&sr_pri_blocks=5726211_94276162_2_33_0__62807&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.6,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "427",
-        "url": "https://www.booking.com/hotel/fr/citea-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=5339231_91902714_2_2_0&highlighted_blocks=5339231_91902714_2_2_0&matching_block_id=5339231_91902714_2_2_0&sr_pri_blocks=5339231_91902714_2_2_0__42660&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel AKENA BESANCON",
+        "ville_de_lhotel": "besançon",
+        "price": "1102",
+        "url": "https://www.booking.com/hotel/fr/akena-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=357249701_377168419_1_1_0%2C357249701_377168419_1_1_0&highlighted_blocks=357249701_377168419_1_1_0%2C357249701_377168419_1_1_0&matching_block_id=357249701_377168419_1_1_0&sr_pri_blocks=357249701_377168419_1_1_0__55120%2C357249701_377168419_1_1_0__55120&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 9.4,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "429",
-        "url": "https://www.booking.com/hotel/fr/ibis-besancon-la-city.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=54375301_94489139_2_42_0&highlighted_blocks=54375301_94489139_2_42_0&matching_block_id=54375301_94489139_2_42_0&sr_pri_blocks=54375301_94489139_2_42_0__42874&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "ibis budget Besançon Centre Gare",
+        "ville_de_lhotel": "besançon",
+        "price": "347",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-besanasson-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=62703702_94498162_2_2_0&highlighted_blocks=62703702_94498162_2_2_0&matching_block_id=62703702_94498162_2_2_0&sr_pri_blocks=62703702_94498162_2_2_0__34702&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0.7,
+        "stars": 2
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "353",
-        "url": "https://www.booking.com/hotel/fr/residence-hauts-du-chazal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=27394713_88985743_2_2_0&highlighted_blocks=27394713_88985743_2_2_0&matching_block_id=27394713_88985743_2_2_0&sr_pri_blocks=27394713_88985743_2_2_0__35280&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
-        "price": "392",
-        "url": "https://www.booking.com/hotel/fr/ethic-etapes-centre-international-de-sa-c-jour-de-besanasson.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=40075402_326481811_2_41_0&highlighted_blocks=40075402_326481811_2_41_0&matching_block_id=40075402_326481811_2_41_0&sr_pri_blocks=40075402_326481811_2_41_0__39216&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
+        "nom_hotel": "Premiere Classe Besancon Ecole Valentin",
+        "ville_de_lhotel": "besançon",
         "price": "288",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-besancon-ecole-valentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=5457003_94105941_3_2_0&highlighted_blocks=5457003_94105941_3_2_0&matching_block_id=5457003_94105941_3_2_0&sr_pri_blocks=5457003_94105941_3_2_0__28840&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-besancon-ecole-valentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=5457003_94105941_3_2_0&highlighted_blocks=5457003_94105941_3_2_0&matching_block_id=5457003_94105941_3_2_0&sr_pri_blocks=5457003_94105941_3_2_0__28840&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.9,
+        "stars": 0
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "525",
-        "url": "https://www.booking.com/hotel/fr/besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=5726211_94276162_2_33_0&highlighted_blocks=5726211_94276162_2_33_0&matching_block_id=5726211_94276162_2_33_0&sr_pri_blocks=5726211_94276162_2_33_0__52527&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "ibis Besançon Centre la City",
+        "ville_de_lhotel": "besançon",
+        "price": "442",
+        "url": "https://www.booking.com/hotel/fr/ibis-besancon-la-city.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=54375301_94489139_2_42_0&highlighted_blocks=54375301_94489139_2_42_0&matching_block_id=54375301_94489139_2_42_0&sr_pri_blocks=54375301_94489139_2_42_0__44160&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0.8,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "586",
-        "url": "https://www.booking.com/hotel/fr/de-paris-besanasson.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=46971602_363647665_0_2_0&highlighted_blocks=46971602_363647665_0_2_0&matching_block_id=46971602_363647665_0_2_0&sr_pri_blocks=46971602_363647665_0_2_0__58575&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
-        "price": "476",
-        "url": "https://www.booking.com/hotel/fr/du-nord-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=25118906_129386340_2_2_0&highlighted_blocks=25118906_129386340_2_2_0&matching_block_id=25118906_129386340_2_2_0&sr_pri_blocks=25118906_129386340_2_2_0__47598&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
-        "price": "430",
-        "url": "https://www.booking.com/hotel/fr/foch-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=2429503_363846831_2_2_0&highlighted_blocks=2429503_363846831_2_2_0&matching_block_id=2429503_363846831_2_2_0&sr_pri_blocks=2429503_363846831_2_2_0__42980&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
-        "price": "2121",
-        "url": "https://www.booking.com/hotel/fr/bali-suite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=1174965601_390054757_2_32_0&highlighted_blocks=1174965601_390054757_2_32_0&matching_block_id=1174965601_390054757_2_32_0&sr_pri_blocks=1174965601_390054757_2_32_0__212091&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
-        "price": "570",
-        "url": "https://www.booking.com/hotel/fr/b-amp-b-besancon-valentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=1069610301_379474316_2_2_0&highlighted_blocks=1069610301_379474316_2_2_0&matching_block_id=1069610301_379474316_2_2_0&sr_pri_blocks=1069610301_379474316_2_2_0__56980&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
-        "price": "599",
-        "url": "https://www.booking.com/hotel/fr/besancon-parc-micaud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=5709701_94275257_2_34_0&highlighted_blocks=5709701_94275257_2_34_0&matching_block_id=5709701_94275257_2_34_0&sr_pri_blocks=5709701_94275257_2_34_0__59856&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
+        "nom_hotel": "Hotel Régina",
+        "ville_de_lhotel": "besançon",
         "price": "477",
-        "url": "https://www.booking.com/hotel/fr/le-regina-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=496252703_379105408_2_2_0&highlighted_blocks=496252703_379105408_2_2_0&matching_block_id=496252703_379105408_2_2_0&sr_pri_blocks=496252703_379105408_2_2_0__47700&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/le-regina-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=496252703_379105408_2_2_0&highlighted_blocks=496252703_379105408_2_2_0&matching_block_id=496252703_379105408_2_2_0&sr_pri_blocks=496252703_379105408_2_2_0__47700&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 400.0,
+        "stars": 0
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "510",
-        "url": "https://www.booking.com/hotel/fr/fontaine-argent.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=562321701_363689999_0_2_0&highlighted_blocks=562321701_363689999_0_2_0&matching_block_id=562321701_363689999_0_2_0&sr_pri_blocks=562321701_363689999_0_2_0__50976&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hotel Du Nord",
+        "ville_de_lhotel": "besançon",
+        "price": "474",
+        "url": "https://www.booking.com/hotel/fr/du-nord-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=25118906_129386340_2_2_0&highlighted_blocks=25118906_129386340_2_2_0&matching_block_id=25118906_129386340_2_2_0&sr_pri_blocks=25118906_129386340_2_2_0__47428&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 350.0,
+        "stars": 2
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
+        "nom_hotel": "Hotel Campanile Besançon Nord Ecole Valentin",
+        "ville_de_lhotel": "besançon",
         "price": "371",
-        "url": "https://www.booking.com/hotel/fr/campanile-besancon-ecole-valentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=21990404_102726534_2_42_0&highlighted_blocks=21990404_102726534_2_42_0&matching_block_id=21990404_102726534_2_42_0&sr_pri_blocks=21990404_102726534_2_42_0__37076&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/campanile-besancon-ecole-valentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=21990404_102726534_2_42_0&highlighted_blocks=21990404_102726534_2_42_0&matching_block_id=21990404_102726534_2_42_0&sr_pri_blocks=21990404_102726534_2_42_0__37076&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.8,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "934",
-        "url": "https://www.booking.com/hotel/fr/logis-de-france-florel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=5750521_245444431_0_2_0&highlighted_blocks=5750521_245444431_0_2_0&matching_block_id=5750521_245444431_0_2_0&sr_pri_blocks=5750521_245444431_0_2_0__93440&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Comfort Aparthotel Besancon Hauts du Chazal",
+        "ville_de_lhotel": "besançon",
+        "price": "354",
+        "url": "https://www.booking.com/hotel/fr/residence-hauts-du-chazal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=27394713_88985743_2_2_0&highlighted_blocks=27394713_88985743_2_2_0&matching_block_id=27394713_88985743_2_2_0&sr_pri_blocks=27394713_88985743_2_2_0__35370&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.4,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "600",
-        "url": "https://www.booking.com/hotel/fr/vauban-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=69160602_265592649_2_34_0&highlighted_blocks=69160602_265592649_2_34_0&matching_block_id=69160602_265592649_2_34_0&sr_pri_blocks=69160602_265592649_2_34_0__60000&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "ibis budget Besançon Ecole Valentin",
+        "ville_de_lhotel": "besançon",
+        "price": "299",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=40958913_96986623_3_34_0&highlighted_blocks=40958913_96986623_3_34_0&matching_block_id=40958913_96986623_3_34_0&sr_pri_blocks=40958913_96986623_3_34_0__29866&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.7,
+        "stars": 2
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "980",
-        "url": "https://www.booking.com/hotel/fr/ho-tel-le-sauvage-besanasson.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=38019402_229950838_2_2_0&highlighted_blocks=38019402_229950838_2_2_0&matching_block_id=38019402_229950838_2_2_0&sr_pri_blocks=38019402_229950838_2_2_0__98040&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "All Suites Besançon",
+        "ville_de_lhotel": "besançon",
+        "price": "378",
+        "url": "https://www.booking.com/hotel/fr/all-suites-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=27253102_127376179_0_0_0&highlighted_blocks=27253102_127376179_0_0_0&matching_block_id=27253102_127376179_0_0_0&sr_pri_blocks=27253102_127376179_0_0_0__37800&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.7,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "301",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=40958913_96986623_3_34_0&highlighted_blocks=40958913_96986623_3_34_0&matching_block_id=40958913_96986623_3_34_0&sr_pri_blocks=40958913_96986623_3_34_0__30060&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "B&B HOTEL Besançon Valentin",
+        "ville_de_lhotel": "besançon",
+        "price": "472",
+        "url": "https://www.booking.com/hotel/fr/b-amp-b-besancon-valentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=1069610301_379474316_2_2_0&highlighted_blocks=1069610301_379474316_2_2_0&matching_block_id=1069610301_379474316_2_2_0&sr_pri_blocks=1069610301_379474316_2_2_0__47180&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.2,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "409",
-        "url": "https://www.booking.com/hotel/fr/campanile-besancon-ouest-chateaufarine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=21945404_102727622_2_2_0&highlighted_blocks=21945404_102727622_2_2_0&matching_block_id=21945404_102727622_2_2_0&sr_pri_blocks=21945404_102727622_2_2_0__40880&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Comfort Aparthotel Besancon La City",
+        "ville_de_lhotel": "besançon",
+        "price": "434",
+        "url": "https://www.booking.com/hotel/fr/citea-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=5339231_91902714_2_2_0&highlighted_blocks=5339231_91902714_2_2_0&matching_block_id=5339231_91902714_2_2_0&sr_pri_blocks=5339231_91902714_2_2_0__43380&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0.9,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "236",
-        "url": "https://www.booking.com/hotel/fr/accueil-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=1120985104_384889844_0_2_0&highlighted_blocks=1120985104_384889844_0_2_0&matching_block_id=1120985104_384889844_0_2_0&sr_pri_blocks=1120985104_384889844_0_2_0__23628&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 8,
-        "destination": "Besancon",
+        "nom_hotel": "Brit Hotel Besancon l'Horloge",
+        "ville_de_lhotel": "besançon",
         "price": "460",
-        "url": "https://www.booking.com/hotel/fr/kyriad-besancon-palente.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=17624008_363834517_2_2_0&highlighted_blocks=17624008_363834517_2_2_0&matching_block_id=17624008_363834517_2_2_0&sr_pri_blocks=17624008_363834517_2_2_0__45960&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/kyriad-besancon-palente.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=17624008_363834517_2_2_0&highlighted_blocks=17624008_363834517_2_2_0&matching_block_id=17624008_363834517_2_2_0&sr_pri_blocks=17624008_363834517_2_2_0__45960&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.3,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "634",
-        "url": "https://www.booking.com/hotel/fr/akena-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=357249701_369017688_2_2_0&highlighted_blocks=357249701_369017688_2_2_0&matching_block_id=357249701_369017688_2_2_0&sr_pri_blocks=357249701_369017688_2_2_0__63440&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Campanile Besançon-Ouest Châteaufarine",
+        "ville_de_lhotel": "besançon",
+        "price": "421",
+        "url": "https://www.booking.com/hotel/fr/campanile-besancon-ouest-chateaufarine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=21945406_102727622_2_2_0&highlighted_blocks=21945406_102727622_2_2_0&matching_block_id=21945406_102727622_2_2_0&sr_pri_blocks=21945406_102727622_2_2_0__42080&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.6,
+        "stars": 3
     },
     {
         "id_destination": 8,
         "destination": "Besancon",
-        "price": "398",
-        "url": "https://www.booking.com/hotel/fr/all-suites-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AvuA5LsGwAIB0gIkOTcxNWUxMGEtZmUzNC00ZDkzLWI5OTEtOGMyMmY2YjEwODlk2AIF4AIB&sid=12af5070d4bcc9436646fa039fdb43e0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=0ef94f68b0f70f8e&srepoch=1735989475&all_sr_blocks=27253102_127376179_0_0_0&highlighted_blocks=27253102_127376179_0_0_0&matching_block_id=27253102_127376179_0_0_0&sr_pri_blocks=27253102_127376179_0_0_0__39780&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Restaurant Spa Le Sauvage",
+        "ville_de_lhotel": "besançon",
+        "price": "920",
+        "url": "https://www.booking.com/hotel/fr/ho-tel-le-sauvage-besanasson.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=38019401_229950838_2_2_0&highlighted_blocks=38019401_229950838_2_2_0&matching_block_id=38019401_229950838_2_2_0&sr_pri_blocks=38019401_229950838_2_2_0__92040&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.0,
+        "stars": 4
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Doubs Hotel - Besançon Ecole Valentin",
+        "ville_de_lhotel": "besançon",
+        "price": "475",
+        "url": "https://www.booking.com/hotel/fr/besanconecolevalentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=5160102_396283520_2_2_0&highlighted_blocks=5160102_396283520_2_2_0&matching_block_id=5160102_396283520_2_2_0&sr_pri_blocks=5160102_396283520_2_2_0__47516&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Contact Hôtel Foch",
+        "ville_de_lhotel": "besançon",
+        "price": "430",
+        "url": "https://www.booking.com/hotel/fr/foch-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=2429503_363846831_2_2_0&highlighted_blocks=2429503_363846831_2_2_0&matching_block_id=2429503_363846831_2_2_0&sr_pri_blocks=2429503_363846831_2_2_0__42980&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0.7,
+        "stars": 3
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Hotel Restaurant Vesontio",
+        "ville_de_lhotel": "besançon",
+        "price": "508",
+        "url": "https://www.booking.com/hotel/fr/hotel-restaurant-oxalys.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=37680405_266010244_2_2_0&highlighted_blocks=37680405_266010244_2_2_0&matching_block_id=37680405_266010244_2_2_0&sr_pri_blocks=37680405_266010244_2_2_0__50780&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.4,
+        "stars": 3
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Accueil Hotel Besançon",
+        "ville_de_lhotel": "besançon",
+        "price": "238",
+        "url": "https://www.booking.com/hotel/fr/accueil-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=1120985104_384889844_0_2_0&highlighted_blocks=1120985104_384889844_0_2_0&matching_block_id=1120985104_384889844_0_2_0&sr_pri_blocks=1120985104_384889844_0_2_0__23798&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.7,
+        "stars": 2
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Hotel Vauban",
+        "ville_de_lhotel": "besançon",
+        "price": "780",
+        "url": "https://www.booking.com/hotel/fr/vauban-besancon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=69160603_265592649_0_34_0&highlighted_blocks=69160603_265592649_0_34_0&matching_block_id=69160603_265592649_0_34_0&sr_pri_blocks=69160603_265592649_0_34_0__78000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 200.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Logis Hôtel Victor Hugo & Spa",
+        "ville_de_lhotel": "besançon",
+        "price": "980",
+        "url": "https://www.booking.com/hotel/fr/logis-de-france-florel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=5750521_245444431_0_2_0&highlighted_blocks=5750521_245444431_0_2_0&matching_block_id=5750521_245444431_0_2_0&sr_pri_blocks=5750521_245444431_0_2_0__98010&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0.8,
+        "stars": 4
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Best Western Hotel Fontaine Argent",
+        "ville_de_lhotel": "besançon",
+        "price": "476",
+        "url": "https://www.booking.com/hotel/fr/fontaine-argent.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=562321706_363689999_2_2_0&highlighted_blocks=562321706_363689999_2_2_0&matching_block_id=562321706_363689999_2_2_0&sr_pri_blocks=562321706_363689999_2_2_0__47632&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Mercure Besancon Parc Micaud - Hotel & Bar",
+        "ville_de_lhotel": "besançon",
+        "price": "560",
+        "url": "https://www.booking.com/hotel/fr/besancon-parc-micaud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=5709701_94275257_2_34_0&highlighted_blocks=5709701_94275257_2_34_0&matching_block_id=5709701_94275257_2_34_0&sr_pri_blocks=5709701_94275257_2_34_0__56015&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0.6,
+        "stars": 0
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Hotel Calisola",
+        "ville_de_lhotel": "chalezeule",
+        "price": "488",
+        "url": "https://www.booking.com/hotel/fr/logis-des-3-iles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622064&all_sr_blocks=2684405_389177696_0_2_0&highlighted_blocks=2684405_389177696_0_2_0&matching_block_id=2684405_389177696_0_2_0&sr_pri_blocks=2684405_389177696_0_2_0__48780&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Hôtel le Comtois",
+        "ville_de_lhotel": "saône",
+        "price": "468",
+        "url": "https://www.booking.com/hotel/fr/le-comtois-saone.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622063&all_sr_blocks=686282604_279062640_2_42_0&highlighted_blocks=686282604_279062640_2_42_0&matching_block_id=686282604_279062640_2_42_0&sr_pri_blocks=686282604_279062640_2_42_0__46800&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 7.3,
+        "stars": 0
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Gîtes de l'Orée du Bois",
+        "ville_de_lhotel": "boussières",
+        "price": "466",
+        "url": "https://www.booking.com/hotel/fr/gites-de-l-39-oree-du-bois.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622063&all_sr_blocks=390593806_385359639_2_2_0&highlighted_blocks=390593806_385359639_2_2_0&matching_block_id=390593806_385359639_2_2_0&sr_pri_blocks=390593806_385359639_2_2_0__46611&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 12.5,
+        "stars": 0
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "ibis Besançon Marchaux",
+        "ville_de_lhotel": "marchaux",
+        "price": "404",
+        "url": "https://www.booking.com/hotel/fr/ibis-besancon-marchaux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622063&all_sr_blocks=54541102_94489642_2_2_0&highlighted_blocks=54541102_94489642_2_2_0&matching_block_id=54541102_94489642_2_2_0&sr_pri_blocks=54541102_94489642_2_2_0__40368&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 12.4,
+        "stars": 3
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Château de La Dame Blanche - Logis",
+        "ville_de_lhotel": "geneuille",
+        "price": "808",
+        "url": "https://www.booking.com/hotel/fr/logis-de-france-chateau-de-la-dame-blanche.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622063&all_sr_blocks=5493401_246994112_2_34_0&highlighted_blocks=5493401_246994112_2_34_0&matching_block_id=5493401_246994112_2_34_0&sr_pri_blocks=5493401_246994112_2_34_0__80760&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 10.6,
+        "stars": 4
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "La Table de Gustave",
+        "ville_de_lhotel": "ornans",
+        "price": "607",
+        "url": "https://www.booking.com/hotel/fr/la-table-de-gustave.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622063&all_sr_blocks=31156602_363848255_0_2_0&highlighted_blocks=31156602_363848255_0_2_0&matching_block_id=31156602_363848255_0_2_0&sr_pri_blocks=31156602_363848255_0_2_0__60720&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 18.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Soleil levant au domaine de Tara",
+        "ville_de_lhotel": "lʼhôpital du grosbois",
+        "price": "275",
+        "url": "https://www.booking.com/hotel/fr/le-domaine-de-tara.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622063&all_sr_blocks=1212212903_394196322_0_0_0_768846&highlighted_blocks=1212212903_394196322_0_0_0_768846&matching_block_id=1212212903_394196322_0_0_0_768846&sr_pri_blocks=1212212903_394196322_0_0_0_768846_27509&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 16.2,
+        "stars": 0
+    },
+    {
+        "id_destination": 8,
+        "destination": "Besancon",
+        "nom_hotel": "Hotel Pinocchio",
+        "ville_de_lhotel": "gy",
+        "price": "660",
+        "url": "https://www.booking.com/hotel/fr/pinocchio.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP5vrwGwAIB0gIkNTRjOGFiNTMtZjE1Zi00ZWVkLTgyM2UtMzQ3MmRjMWJiZTk02AIF4AIB&sid=c70a85d14a0b40a5713020dcc17116e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1412198&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=d5b23dd36f9a00d5&srepoch=1737622063&all_sr_blocks=25932002_298813187_0_2_0&highlighted_blocks=25932002_298813187_0_2_0&matching_block_id=25932002_298813187_0_2_0&sr_pri_blocks=25932002_298813187_0_2_0__66000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.3,
+        "stars": 3
     }
 ]

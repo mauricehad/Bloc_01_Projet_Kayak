@@ -2,201 +2,507 @@
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "680",
-        "url": "https://www.booking.com/hotel/fr/secret-d-uzes-le-loft-uzes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=1273475101_400155967_0_2_0&highlighted_blocks=1273475101_400155967_0_2_0&matching_block_id=1273475101_400155967_0_2_0&sr_pri_blocks=1273475101_400155967_0_2_0__68025&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Boutique Hôtel Entraigues",
+        "ville_de_lhotel": "uzès",
+        "price": "755",
+        "url": "https://www.booking.com/hotel/fr/entraigues-uzes2.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=147122409_106142863_2_1_0&highlighted_blocks=147122409_106142863_2_1_0&matching_block_id=147122409_106142863_2_1_0&sr_pri_blocks=147122409_106142863_2_1_0__75465&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 150.0,
+        "stars": 4
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "560",
-        "url": "https://www.booking.com/hotel/fr/le-mas-des-oliviers-ulv.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=35914301_373896548_0_0_0&highlighted_blocks=35914301_373896548_0_0_0&matching_block_id=35914301_373896548_0_0_0&sr_pri_blocks=35914301_373896548_0_0_0__55976&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "La Taverne",
+        "ville_de_lhotel": "uzès",
+        "price": "462",
+        "url": "https://www.booking.com/hotel/fr/la-taverne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=39840805_330018247_2_2_0&highlighted_blocks=39840805_330018247_2_2_0&matching_block_id=39840805_330018247_2_2_0&sr_pri_blocks=39840805_330018247_2_2_0__46200&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 300.0,
+        "stars": 2
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "528",
-        "url": "https://www.booking.com/hotel/fr/patio-de-violette.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=5435110_392036872_0_2_0&highlighted_blocks=5435110_392036872_0_2_0&matching_block_id=5435110_392036872_0_2_0&sr_pri_blocks=5435110_392036872_0_2_0__52804&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 34,
-        "destination": "Uzes",
+        "nom_hotel": "Logis Hotel Restaurant Uzès Pont du Gard",
+        "ville_de_lhotel": "uzès",
         "price": "554",
-        "url": "https://www.booking.com/hotel/fr/uzes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=5717015_387309422_2_42_0&highlighted_blocks=5717015_387309422_2_42_0&matching_block_id=5717015_387309422_2_42_0&sr_pri_blocks=5717015_387309422_2_42_0__55404&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/uzes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=5717015_387309422_2_42_0&highlighted_blocks=5717015_387309422_2_42_0&matching_block_id=5717015_387309422_2_42_0&sr_pri_blocks=5717015_387309422_2_42_0__55404&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.1,
+        "stars": 3
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "668",
-        "url": "https://www.booking.com/hotel/fr/le-saint-genies.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=5379001_325714886_0_2_0&highlighted_blocks=5379001_325714886_0_2_0&matching_block_id=5379001_325714886_0_2_0&sr_pri_blocks=5379001_325714886_0_2_0__66804&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "UZES APPART HOTEL Résidence Le Mas des Oliviers",
+        "ville_de_lhotel": "uzès",
+        "price": "560",
+        "url": "https://www.booking.com/hotel/fr/le-mas-des-oliviers-ulv.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=35914301_373896548_0_0_0&highlighted_blocks=35914301_373896548_0_0_0&matching_block_id=35914301_373896548_0_0_0&sr_pri_blocks=35914301_373896548_0_0_0__55976&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 450.0,
+        "stars": 0
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
+        "nom_hotel": "Patio De Violette",
+        "ville_de_lhotel": "uzès",
+        "price": "528",
+        "url": "https://www.booking.com/hotel/fr/patio-de-violette.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=5435110_392036872_0_2_0&highlighted_blocks=5435110_392036872_0_2_0&matching_block_id=5435110_392036872_0_2_0&sr_pri_blocks=5435110_392036872_0_2_0__52804&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Hostellerie Provençale",
+        "ville_de_lhotel": "uzès",
+        "price": "770",
+        "url": "https://www.booking.com/hotel/fr/hostellerie-provencale.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=91254_356442854_2_2_0&highlighted_blocks=91254_356442854_2_2_0&matching_block_id=91254_356442854_2_2_0&sr_pri_blocks=91254_356442854_2_2_0__77040&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 450.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Secret d'Uzès - Place aux Herbes - Piscine chauffée et Jacuzzi",
+        "ville_de_lhotel": "uzès",
+        "price": "1045",
+        "url": "https://www.booking.com/hotel/fr/secret-d-uzes-place-aux-herbes-uzes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=1273538501_400162625_0_34_0&highlighted_blocks=1273538501_400162625_0_34_0&matching_block_id=1273538501_400162625_0_34_0&sr_pri_blocks=1273538501_400162625_0_34_0__104509&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 7.6,
+        "stars": 0
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Secret d'Uzès - Le Duché - Piscine chauffée et Jacuzzi",
+        "ville_de_lhotel": "uzès",
         "price": "1111",
-        "url": "https://www.booking.com/hotel/fr/secret-d-uzes-le-duche-uzes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=1272405501_400022567_0_34_0&highlighted_blocks=1272405501_400022567_0_34_0&matching_block_id=1272405501_400022567_0_34_0&sr_pri_blocks=1272405501_400022567_0_34_0__111142&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/secret-d-uzes-le-duche-uzes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=1272405501_400022567_0_34_0&highlighted_blocks=1272405501_400022567_0_34_0&matching_block_id=1272405501_400022567_0_34_0&sr_pri_blocks=1272405501_400022567_0_34_0__111142&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 7.6,
+        "stars": 0
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "596",
-        "url": "https://www.booking.com/hotel/fr/clos-des-pradines.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=78699_371230569_0_42_0&highlighted_blocks=78699_371230569_0_42_0&matching_block_id=78699_371230569_0_42_0&sr_pri_blocks=78699_371230569_0_42_0__59604&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hotel Restaurant Le Clos De Pradines",
+        "ville_de_lhotel": "saint quentin la poterie",
+        "price": "536",
+        "url": "https://www.booking.com/hotel/fr/clos-des-pradines.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=78699_371230569_0_42_0&highlighted_blocks=78699_371230569_0_42_0&matching_block_id=78699_371230569_0_42_0&sr_pri_blocks=78699_371230569_0_42_0__53604&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.2,
+        "stars": 3
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "373",
-        "url": "https://www.booking.com/hotel/fr/residence-club-mmv-pont-du-gard.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=90977405_94576792_2_2_0&highlighted_blocks=90977405_94576792_2_2_0&matching_block_id=90977405_94576792_2_2_0&sr_pri_blocks=90977405_94576792_2_2_0__37347&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Residhotel Résidence Pont du Gard",
+        "ville_de_lhotel": "remoulins",
+        "price": "326",
+        "url": "https://www.booking.com/hotel/fr/residence-club-mmv-pont-du-gard.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=90977405_94576792_2_2_0&highlighted_blocks=90977405_94576792_2_2_0&matching_block_id=90977405_94576792_2_2_0&sr_pri_blocks=90977405_94576792_2_2_0__32604&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 12.8,
+        "stars": 3
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
+        "nom_hotel": "Les Glycines",
+        "ville_de_lhotel": "remoulins",
         "price": "455",
-        "url": "https://www.booking.com/hotel/fr/les-glycines-remoulins.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=286612702_362389757_2_42_0&highlighted_blocks=286612702_362389757_2_42_0&matching_block_id=286612702_362389757_2_42_0&sr_pri_blocks=286612702_362389757_2_42_0__45540&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/les-glycines-remoulins.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=286612702_362389757_2_42_0&highlighted_blocks=286612702_362389757_2_42_0&matching_block_id=286612702_362389757_2_42_0&sr_pri_blocks=286612702_362389757_2_42_0__45540&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.9,
+        "stars": 0
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "432",
-        "url": "https://www.booking.com/hotel/fr/royal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=5929810_93404608_0_42_0&highlighted_blocks=5929810_93404608_0_42_0&matching_block_id=5929810_93404608_0_42_0&sr_pri_blocks=5929810_93404608_0_42_0__43153&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "SQUARE HOTEL",
+        "ville_de_lhotel": "nîmes",
+        "price": "422",
+        "url": "https://www.booking.com/hotel/fr/square-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=898238114_375656590_2_2_0&highlighted_blocks=898238114_375656590_2_2_0&matching_block_id=898238114_375656590_2_2_0&sr_pri_blocks=898238114_375656590_2_2_0__42180&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.0,
+        "stars": 3
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "588",
-        "url": "https://www.booking.com/hotel/fr/ha-tel-la-baume.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=32446812_371866194_2_2_0&highlighted_blocks=32446812_371866194_2_2_0&matching_block_id=32446812_371866194_2_2_0&sr_pri_blocks=32446812_371866194_2_2_0__58815&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 34,
-        "destination": "Uzes",
-        "price": "380",
-        "url": "https://www.booking.com/hotel/fr/central-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=28522807_88552413_0_0_0&highlighted_blocks=28522807_88552413_0_0_0&matching_block_id=28522807_88552413_0_0_0&sr_pri_blocks=28522807_88552413_0_0_0__37980&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 34,
-        "destination": "Uzes",
-        "price": "452",
-        "url": "https://www.booking.com/hotel/fr/square-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=898238101_375656590_2_2_0&highlighted_blocks=898238101_375656590_2_2_0&matching_block_id=898238101_375656590_2_2_0&sr_pri_blocks=898238101_375656590_2_2_0__45180&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 34,
-        "destination": "Uzes",
-        "price": "440",
-        "url": "https://www.booking.com/hotel/fr/hotelcotepatio.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=23085915_403938632_0_2_0&highlighted_blocks=23085915_403938632_0_2_0&matching_block_id=23085915_403938632_0_2_0&sr_pri_blocks=23085915_403938632_0_2_0__43980&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 34,
-        "destination": "Uzes",
+        "nom_hotel": "greet hôtel Pont du Gard - Route d'Avignon",
+        "ville_de_lhotel": "estézargues",
         "price": "301",
-        "url": "https://www.booking.com/hotel/fr/la-fenouillere-estezargues.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=623425007_242839673_2_2_0&highlighted_blocks=623425007_242839673_2_2_0&matching_block_id=623425007_242839673_2_2_0&sr_pri_blocks=623425007_242839673_2_2_0__30084&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/la-fenouillere-estezargues.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=623425007_242839673_2_2_0&highlighted_blocks=623425007_242839673_2_2_0&matching_block_id=623425007_242839673_2_2_0&sr_pri_blocks=623425007_242839673_2_2_0__30084&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 18.8,
+        "stars": 3
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "458",
-        "url": "https://www.booking.com/hotel/fr/kyriadnimescentre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=5186404_202166892_2_2_0&highlighted_blocks=5186404_202166892_2_2_0&matching_block_id=5186404_202166892_2_2_0&sr_pri_blocks=5186404_202166892_2_2_0__45780&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Le Bernon",
+        "ville_de_lhotel": "connaux",
+        "price": "348",
+        "url": "https://www.booking.com/hotel/fr/le-bernon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=45115301_326753814_0_0_0&highlighted_blocks=45115301_326753814_0_0_0&matching_block_id=45115301_326753814_0_0_0&sr_pri_blocks=45115301_326753814_0_0_0__34800&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 16.9,
+        "stars": 0
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "393",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget-nimes-marguerittes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=65689607_94499451_2_2_0&highlighted_blocks=65689607_94499451_2_2_0&matching_block_id=65689607_94499451_2_2_0&sr_pri_blocks=65689607_94499451_2_2_0__39336&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Sure Hotel by Best Western Nimes Est",
+        "ville_de_lhotel": "nîmes",
+        "price": "426",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-nimes-marguerittes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=65689607_94499451_2_2_0&highlighted_blocks=65689607_94499451_2_2_0&matching_block_id=65689607_94499451_2_2_0&sr_pri_blocks=65689607_94499451_2_2_0__42611&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.2,
+        "stars": 2
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "356",
-        "url": "https://www.booking.com/hotel/fr/l-atelier-de-raymond-verfeuil.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=1015415201_374064172_2_0_0&highlighted_blocks=1015415201_374064172_2_0_0&matching_block_id=1015415201_374064172_2_0_0&sr_pri_blocks=1015415201_374064172_2_0_0__35568&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Best Western Marquis de la Baume",
+        "ville_de_lhotel": "nîmes",
+        "price": "588",
+        "url": "https://www.booking.com/hotel/fr/ha-tel-la-baume.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=32446812_371866194_2_2_0&highlighted_blocks=32446812_371866194_2_2_0&matching_block_id=32446812_371866194_2_2_0&sr_pri_blocks=32446812_371866194_2_2_0__58815&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.8,
+        "stars": 4
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
+        "nom_hotel": "Kyriad Nimes Centre",
+        "ville_de_lhotel": "nîmes",
+        "price": "398",
+        "url": "https://www.booking.com/hotel/fr/kyriadnimescentre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=5186403_202166892_2_2_0&highlighted_blocks=5186403_202166892_2_2_0&matching_block_id=5186403_202166892_2_2_0&sr_pri_blocks=5186403_202166892_2_2_0__39780&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.9,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Central Hotel",
+        "ville_de_lhotel": "nîmes",
+        "price": "390",
+        "url": "https://www.booking.com/hotel/fr/central-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=28522807_88552413_0_0_0&highlighted_blocks=28522807_88552413_0_0_0&matching_block_id=28522807_88552413_0_0_0&sr_pri_blocks=28522807_88552413_0_0_0__38980&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Hotel Cote Patio",
+        "ville_de_lhotel": "nîmes",
+        "price": "370",
+        "url": "https://www.booking.com/hotel/fr/hotelcotepatio.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=23085909_403938632_0_2_0&highlighted_blocks=23085909_403938632_0_2_0&matching_block_id=23085909_403938632_0_2_0&sr_pri_blocks=23085909_403938632_0_2_0__36980&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.7,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Logis Hotel Restaurant L'Esquielle",
+        "ville_de_lhotel": "saint géniès de malgoirès",
         "price": "516",
-        "url": "https://www.booking.com/hotel/fr/esquielle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=77871302_376754211_0_2_0&highlighted_blocks=77871302_376754211_0_2_0&matching_block_id=77871302_376754211_0_2_0&sr_pri_blocks=77871302_376754211_0_2_0__51600&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/esquielle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=77871302_376754211_0_2_0&highlighted_blocks=77871302_376754211_0_2_0&matching_block_id=77871302_376754211_0_2_0&sr_pri_blocks=77871302_376754211_0_2_0__51600&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.8,
+        "stars": 3
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "357",
-        "url": "https://www.booking.com/hotel/fr/la-bastide-des-muriers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=105913103_349457027_2_2_0&highlighted_blocks=105913103_349457027_2_2_0&matching_block_id=105913103_349457027_2_2_0&sr_pri_blocks=105913103_349457027_2_2_0__35688&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "La Bastide des Mûriers",
+        "ville_de_lhotel": "deaux",
+        "price": "384",
+        "url": "https://www.booking.com/hotel/fr/la-bastide-des-muriers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=105913105_349457027_2_2_0&highlighted_blocks=105913105_349457027_2_2_0&matching_block_id=105913105_349457027_2_2_0&sr_pri_blocks=105913105_349457027_2_2_0__38384&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.3,
+        "stars": 0
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "500",
-        "url": "https://www.booking.com/hotel/fr/nimotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=5163603_88552399_0_2_0&highlighted_blocks=5163603_88552399_0_2_0&matching_block_id=5163603_88552399_0_2_0&sr_pri_blocks=5163603_88552399_0_2_0__49980&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Campanile Nîmes Sud - Caissargues",
+        "ville_de_lhotel": "caissargues",
+        "price": "351",
+        "url": "https://www.booking.com/hotel/fr/campanile-nimes-caissargues.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=23510_102710798_2_42_0&highlighted_blocks=23510_102710798_2_42_0&matching_block_id=23510_102710798_2_42_0&sr_pri_blocks=23510_102710798_2_42_0__35100&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.3,
+        "stars": 3
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "454",
-        "url": "https://www.booking.com/hotel/fr/odalys-city-nimes-arenes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=1102677401_388347106_0_2_0&highlighted_blocks=1102677401_388347106_0_2_0&matching_block_id=1102677401_388347106_0_2_0&sr_pri_blocks=1102677401_388347106_0_2_0__45360&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "ibis budget Nimes Centre Gare",
+        "ville_de_lhotel": "nîmes",
+        "price": "308",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-nimes-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=42377505_94462575_3_42_0&highlighted_blocks=42377505_94462575_3_42_0&matching_block_id=42377505_94462575_3_42_0&sr_pri_blocks=42377505_94462575_3_42_0__30816&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.5,
+        "stars": 2
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "466",
-        "url": "https://www.booking.com/hotel/fr/appart-city-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=17609504_340056090_2_2_0&highlighted_blocks=17609504_340056090_2_2_0&matching_block_id=17609504_340056090_2_2_0&sr_pri_blocks=17609504_340056090_2_2_0__46580&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Logis NIMOTEL Hôtel Cosy",
+        "ville_de_lhotel": "nîmes",
+        "price": "440",
+        "url": "https://www.booking.com/hotel/fr/nimotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=5163603_88552399_0_2_0&highlighted_blocks=5163603_88552399_0_2_0&matching_block_id=5163603_88552399_0_2_0&sr_pri_blocks=5163603_88552399_0_2_0__43980&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.6,
+        "stars": 3
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
-        "price": "1210",
-        "url": "https://www.booking.com/hotel/fr/imperator-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=25163005_141784868_0_34_0&highlighted_blocks=25163005_141784868_0_34_0&matching_block_id=25163005_141784868_0_34_0&sr_pri_blocks=25163005_141784868_0_34_0__120960&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Appart'City Collection Nîmes Arènes",
+        "ville_de_lhotel": "nîmes",
+        "price": "576",
+        "url": "https://www.booking.com/hotel/fr/appart-39-city-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=152302401_402428153_0_2_0&highlighted_blocks=152302401_402428153_0_2_0&matching_block_id=152302401_402428153_0_2_0&sr_pri_blocks=152302401_402428153_0_2_0__57640&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.4,
+        "stars": 4
     },
     {
         "id_destination": 34,
         "destination": "Uzes",
+        "nom_hotel": "Kyriad Nîmes Ouest A9",
+        "ville_de_lhotel": "nîmes",
+        "price": "389",
+        "url": "https://www.booking.com/hotel/fr/kyriad-na-r-mes-ouest.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=33686514_375096444_2_2_0&highlighted_blocks=33686514_375096444_2_2_0&matching_block_id=33686514_375096444_2_2_0&sr_pri_blocks=33686514_375096444_2_2_0__38940&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "hotelF1 Nîmes Ouest",
+        "ville_de_lhotel": "nîmes",
+        "price": "199",
+        "url": "https://www.booking.com/hotel/fr/hotelf1-nimes-ouest.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=65783705_94499562_2_2_0&highlighted_blocks=65783705_94499562_2_2_0&matching_block_id=65783705_94499562_2_2_0&sr_pri_blocks=65783705_94499562_2_2_0__19860&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.7,
+        "stars": 1
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "HÔTEL C SUITES chambres spacieuses",
+        "ville_de_lhotel": "nîmes",
+        "price": "542",
+        "url": "https://www.booking.com/hotel/fr/c-suites.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=109601001_88552427_2_2_0&highlighted_blocks=109601001_88552427_2_2_0&matching_block_id=109601001_88552427_2_2_0&sr_pri_blocks=109601001_88552427_2_2_0__54240&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.7,
+        "stars": 4
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Hotel Majestic",
+        "ville_de_lhotel": "nîmes",
+        "price": "393",
+        "url": "https://www.booking.com/hotel/fr/majestic-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=7898312_368930698_2_2_0&highlighted_blocks=7898312_368930698_2_2_0&matching_block_id=7898312_368930698_2_2_0&sr_pri_blocks=7898312_368930698_2_2_0__39330&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.2,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Domaine Du Val De Cèze",
+        "ville_de_lhotel": "bagnols sur cèze",
+        "price": "1004",
+        "url": "https://www.booking.com/hotel/fr/chateau-du-val-de-ceze.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=18048901_102332827_0_2_0%2C18048901_102332827_0_2_0&highlighted_blocks=18048901_102332827_0_2_0%2C18048901_102332827_0_2_0&matching_block_id=18048901_102332827_0_2_0&sr_pri_blocks=18048901_102332827_0_2_0__50205%2C18048901_102332827_0_2_0__50205&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Odalys City Nîmes Arènes",
+        "ville_de_lhotel": "nîmes",
+        "price": "507",
+        "url": "https://www.booking.com/hotel/fr/odalys-city-nimes-arenes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=1102677401_390401164_0_2_0&highlighted_blocks=1102677401_390401164_0_2_0&matching_block_id=1102677401_390401164_0_2_0&sr_pri_blocks=1102677401_390401164_0_2_0__50700&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "ibis Nîmes Ouest - A9",
+        "ville_de_lhotel": "nîmes",
+        "price": "481",
+        "url": "https://www.booking.com/hotel/fr/ibis-na-r-mes-ouest.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=31859703_94406911_2_34_0&highlighted_blocks=31859703_94406911_2_34_0&matching_block_id=31859703_94406911_2_34_0&sr_pri_blocks=31859703_94406911_2_34_0__48123&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.9,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Hotel Concorde",
+        "ville_de_lhotel": "nîmes",
+        "price": "341",
+        "url": "https://www.booking.com/hotel/fr/concorde-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=66758701_107305412_2_2_0&highlighted_blocks=66758701_107305412_2_2_0&matching_block_id=66758701_107305412_2_2_0&sr_pri_blocks=66758701_107305412_2_2_0__34092&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.1,
+        "stars": 1
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Appart'City Classic Nîmes",
+        "ville_de_lhotel": "nîmes",
+        "price": "314",
+        "url": "https://www.booking.com/hotel/fr/appart-city-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=17609504_402427986_2_2_0&highlighted_blocks=17609504_402427986_2_2_0&matching_block_id=17609504_402427986_2_2_0&sr_pri_blocks=17609504_402427986_2_2_0__31380&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.6,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Le Ya'Tis",
+        "ville_de_lhotel": "saint laurent des arbres",
+        "price": "835",
+        "url": "https://www.booking.com/hotel/fr/inter-ya-tis.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=27570501_279057686_0_2_0&highlighted_blocks=27570501_279057686_0_2_0&matching_block_id=27570501_279057686_0_2_0&sr_pri_blocks=27570501_279057686_0_2_0__83460&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Comfort Aparthotel Nimes Centre",
+        "ville_de_lhotel": "nîmes",
         "price": "387",
-        "url": "https://www.booking.com/hotel/fr/adagio-access-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar-D5LsGwAIB0gIkMGQ1MTc0NDktNmIwYy00YTBkLWI2NDQtYmY2YWY3YTU1NWRl2AIF4AIB&sid=9da29be837d25267af71c7c9416e8d4b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=79a152172d8200d8&srepoch=1735990850&all_sr_blocks=18192016_94325448_2_2_0&highlighted_blocks=18192016_94325448_2_2_0&matching_block_id=18192016_94325448_2_2_0&sr_pri_blocks=18192016_94325448_2_2_0__38700&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/adagio-access-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=18192016_94325448_2_2_0&highlighted_blocks=18192016_94325448_2_2_0&matching_block_id=18192016_94325448_2_2_0&sr_pri_blocks=18192016_94325448_2_2_0__38700&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.4,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "ibis Styles Nimes Gare Centre",
+        "ville_de_lhotel": "nîmes",
+        "price": "584",
+        "url": "https://www.booking.com/hotel/fr/ibis-styles-nimes-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=41239206_97557009_2_1_0&highlighted_blocks=41239206_97557009_2_1_0&matching_block_id=41239206_97557009_2_1_0&sr_pri_blocks=41239206_97557009_2_1_0__58353&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Best Western L'Orangerie",
+        "ville_de_lhotel": "nîmes",
+        "price": "680",
+        "url": "https://www.booking.com/hotel/fr/bestwestern-lorangerie.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=20492526_346789332_2_2_0&highlighted_blocks=20492526_346789332_2_2_0&matching_block_id=20492526_346789332_2_2_0&sr_pri_blocks=20492526_346789332_2_2_0__67950&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.2,
+        "stars": 4
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Hôtel & Spa Vatel",
+        "ville_de_lhotel": "nîmes",
+        "price": "760",
+        "url": "https://www.booking.com/hotel/fr/vatel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=5374411_371048213_2_2_0&highlighted_blocks=5374411_371048213_2_2_0&matching_block_id=5374411_371048213_2_2_0&sr_pri_blocks=5374411_371048213_2_2_0__76040&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.8,
+        "stars": 4
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "The Originals City, Hôtel Nîmes Costières, Ex Inter Hôtel",
+        "ville_de_lhotel": "nîmes",
+        "price": "405",
+        "url": "https://www.booking.com/hotel/fr/balladinssuperiornimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=5149502_91458086_0_2_0&highlighted_blocks=5149502_91458086_0_2_0&matching_block_id=5149502_91458086_0_2_0&sr_pri_blocks=5149502_91458086_0_2_0__40480&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Maison Albar Hotels L’Imperator",
+        "ville_de_lhotel": "nîmes",
+        "price": "1210",
+        "url": "https://www.booking.com/hotel/fr/imperator-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=25163005_141784868_0_34_0&highlighted_blocks=25163005_141784868_0_34_0&matching_block_id=25163005_141784868_0_34_0&sr_pri_blocks=25163005_141784868_0_34_0__120960&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.0,
+        "stars": 5
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Logis le Relais Sarrasin",
+        "ville_de_lhotel": "vézénobres",
+        "price": "530",
+        "url": "https://www.booking.com/hotel/fr/logis-le-relais-sarrasin-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=59206702_94594250_0_42_0&highlighted_blocks=59206702_94594250_0_42_0&matching_block_id=59206702_94594250_0_42_0&sr_pri_blocks=59206702_94594250_0_42_0__53040&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.0,
+        "stars": 2
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Hôtel Abalone - Centre Gare",
+        "ville_de_lhotel": "nîmes",
+        "price": "360",
+        "url": "https://www.booking.com/hotel/fr/hotelterminusaudrans.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=23092602_362132958_2_2_0&highlighted_blocks=23092602_362132958_2_2_0&matching_block_id=23092602_362132958_2_2_0&sr_pri_blocks=23092602_362132958_2_2_0__35988&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.4,
+        "stars": 2
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Margaret - Hôtel Chouleur",
+        "ville_de_lhotel": "nîmes",
+        "price": "1475",
+        "url": "https://www.booking.com/hotel/fr/margaret-chouleur.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=720280403_328769202_3_2_0&highlighted_blocks=720280403_328769202_3_2_0&matching_block_id=720280403_328769202_3_2_0&sr_pri_blocks=720280403_328769202_3_2_0__147540&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.1,
+        "stars": 4
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Mas de Boudan",
+        "ville_de_lhotel": "nîmes",
+        "price": "986",
+        "url": "https://www.booking.com/hotel/fr/mas-de-boudan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=136851801_86491225_2_2_0&highlighted_blocks=136851801_86491225_2_2_0&matching_block_id=136851801_86491225_2_2_0&sr_pri_blocks=136851801_86491225_2_2_0__98640&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.6,
+        "stars": 4
+    },
+    {
+        "id_destination": 34,
+        "destination": "Uzes",
+        "nom_hotel": "Jardins Secrets",
+        "ville_de_lhotel": "nîmes",
+        "price": "1914",
+        "url": "https://www.booking.com/hotel/fr/jardins-secrets-nimes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aq78vrwGwAIB0gIkZmM0ZTQ4N2UtMmIyMC00NTkxLWEyYmUtYmQxMjg1YjY4MDRi2AIF4AIB&sid=6426ba1b90448ed708a4df7bcffe7aa1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1474231&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3ee9210500a1&srepoch=1737622621&all_sr_blocks=5530607_340055758_0_2_0&highlighted_blocks=5530607_340055758_0_2_0&matching_block_id=5530607_340055758_0_2_0&sr_pri_blocks=5530607_340055758_0_2_0__191400&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.2,
+        "stars": 5
     }
 ]

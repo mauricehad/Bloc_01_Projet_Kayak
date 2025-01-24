@@ -2,201 +2,595 @@
     {
         "id_destination": 29,
         "destination": "Rouen",
-        "price": "369",
-        "url": "https://www.booking.com/hotel/fr/comforthotelrouencentre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=21828305_88549299_2_42_0&highlighted_blocks=21828305_88549299_2_42_0&matching_block_id=21828305_88549299_2_42_0&sr_pri_blocks=21828305_88549299_2_42_0__36880&from=searchresults",
+        "nom_hotel": "Radisson Blu Hotel, Rouen Centre",
+        "ville_de_lhotel": "rouen",
+        "price": "1666",
+        "url": "https://www.booking.com/hotel/fr/radisson-blu-rouen-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=703562203_289919895_2_2_0&highlighted_blocks=703562203_289919895_2_2_0&matching_block_id=703562203_289919895_2_2_0&sr_pri_blocks=703562203_289919895_2_2_0__166580&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 29,
         "destination": "Rouen",
-        "price": "354",
-        "url": "https://www.booking.com/hotel/fr/astrid-rouen1.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=1244883901_397127929_2_0_0&highlighted_blocks=1244883901_397127929_2_0_0&matching_block_id=1244883901_397127929_2_0_0&sr_pri_blocks=1244883901_397127929_2_0_0__35444&from=searchresults",
+        "nom_hotel": "Hôtel de Bourgtheroulde, Autograph Collection",
+        "ville_de_lhotel": "rouen",
+        "price": "1501",
+        "url": "https://www.booking.com/hotel/fr/de-bourgtheroulde.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=24059515_246424404_0_42_0&highlighted_blocks=24059515_246424404_0_42_0&matching_block_id=24059515_246424404_0_42_0&sr_pri_blocks=24059515_246424404_0_42_0__150100&nad_id=e1f6ce78-57e0-4b03-95a7-3ec7d4bb090a_0&nad_cpc=0.45&nad_track=eyJhdWN0aW9uRXBvY2giOjE3Mzc2MjI1MjgxMjksInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoibnJzUnh0UC9nUTJ1TGF0elFXSTVTZDN1UER6WW1QL0EvNG1zL1ZCZi9DTHB0a1VFK24ya1l5ME5rT1oyT3ZXa1E4VmZ2eG1OQzZxcUVNTy83aXc3UG4yWGNGT3RCRTU1K2RldVp5MW51aDc0M2trbmpFVDJtOWs3dTRuYjhSdVV5TkRZMSt5OFZ0dHhEdG91UWYzdEdSTnhybjRwUkNnTlZVMElIUjJTZitVS0FoRlpkYnJDWXgrSkFMZDVZWDJBZk94YzZVK1lvaHJ4MlQxUlNVYk9WSUpWUWl0YmRiRk1tNXdMWVhsMm9oUE1ZRkxPNnRna2hpYWxRRDkxdENIRnJheEl5V0FSWVE4c3BZa012YXpKV2pyRkw2ZmRIU3B3MEdPY3ZrZXA0cW5wMVlETzZIRG5wUU1PWTJuWUYwV3I1Ym5CS1JERFQxcE03K1dpWlAzY0ZVK3hLNWsvRzRVZTQ2Z2YvZjZtMEdIMUpxUzdVM0tFSlQ3TVN6cTRDR00xTmFMd1VTUXV3YkJKK3A4NmU4ZTMvbTdSaWxyWDJiaGdQOGFteE5iUUFIRmN5Mmx5VEgwK2RDejEyeEZKcytVL2VDTThVbFhxZ1J5c2NxZUlzcVBxalh1SXpqQVgzVWZLdXdpNSs1Slh3c2R2RGJ4allSMkN5T2tqcnVWL3NPbkRsSUxlb0xMaTBCSzQ5V1g0V0hKWkxrVDUzNTRwNzI3QUN5UTJ6bGl2MVl1YW54TkhZV1Z2dnZleFZ6U1JmRFR6ZS9kYmMwYXJpOXRWMVdDREZTZ3hydG9SaWF5YkhHbnh1QUxXczJVeVM5SVBIUmpQbytTNGFiTzFSYzRBZGVzTmZDZG5xNEZRVzZyeXVPU1ZRZENYRWtRNHd0TmJvWUFqVnV0YmxZaFJ2OHJXdjVmUk5Kd080ZElsZkR5SUloY1pNaWk5eTZpN0VFeVRCTHZCUWQ2d2JpVTdLODJiakR4bVg2cUJPT2haeDZGWXRyVzkzK0s2UWJ2TTBwc1NNS3d5bHpIU3YxcTQrTzFjRFVmWStzU1JPZ3lEQ2RiNG1XTktrcW5nVnRsekpqVW5hS1FRcVRRYXEwMmhNb1N0M0RvOWNwcjVTQitIMG1acEJPdThqNkMxTFFhZEhkbXdPWTMxRjN6ZWllVE5haXFXRWdlVUk2WVRmUTNuZHAvc2FLdVZpQVRxQ1J1S1hkK1B5V21zR01PMHB5b1FZSlEzdFlja1RjVk16Ukg3SFlzMExhUm9FVjRkS3dtdG1Sa2VjY1dVVEJjUHBGU0lxWkJFVXpmY2hUK3RyQ3psZ0FWdXg5c0N1MjFNWjRZdFRSaUJCVEwwampEdHR6ZUJJcEt5TjRmQkpNYlVqcXFmcjEwMVZsVGllR0NlanRtaVJ5SjdDMnFRWEZma2tDZnpyc1BsQ3gwTkhzVTFRQ2ttL2ZqYXRpcHdtQXJmNTVSTmo4YjUrSXJmWHdVaTJWSXZsbzNuNkl4NjN3QnFxTU10WFlPT0hRV1BVcVROL2xBM3JWSFBpTEx1YVJFTmpURGUrVUlpdmlKeStvSktZNW5TYkRIeEZlSFVFQjRyY0RpbWRjcFdQVUtWZEl1R04wVExiQ2x1OXNZM3ovbkNsZjE3VC9jcnlhcGkzREthQmpKTFMwMmswa3JueG56WFJwS0NOUHUvejVSamdMSlVDckRsUzl2TTJjazVlQmlxMGdMYm1SYkZiZis0a1lCT1JnalMveEtCRUJWR3BJamdZZWVDT2ZJck1BQVlNQkVVb1B4ZmJpYkhCWGxrYlY2TzdZOU1CVmx6MVQ0SEV6YUp5RVJ5TmV0ZGU5a3E5WTRQOTZMRGtFbUF5aWRkSXFScXdFNkYwekdwbzA3MlJmUW5sSzhlWS95T0Y5UzhkQ0Uzd0hRY1dEbXpmU2h4WnRhV0dQZytQSWF6dU1PSThpa05ZU205cnltSUkvY1o1K28vaUE0dWEyVllVc1U0Y2RmSEx5VDRJUHJzTlhHVG9RTEM1MmdBTTE2aHF3WHlqRG5HR0lSM2l5ajlOYTVCVlF2MjZ1YytzNU1ON0lMZjdvcXQvMW45b3RtRUpUa1A0bUhTN1RhNlY0Njc0OTZCSDZBM0ZQeERzZE9sNkh1NWpIdFZMWElzRnBCbkxrOS8zaVNFM2FmV1BocGdhYy9Ec3BRYXlxTXdoM1ZnVTIvdCtrVkNMQUtjWjFoOG80MFZTTEhtbXg2T3dFU2RCaHA5Z295c3JCMlN5Z3laVU5LbDBWdGJiZXhqa3A2dUpaTlkwbkEvZitOTmtta1ZZbDJJT1VuaUpVYk1VVExhL3ROMDhrd25jKzREN1hiVy8zVUlmcURpMlhjMFZWN0lDUWtDWUlFQjV0ckRVSEk1WWJrYm9QZnlyTUpYTzBNQmpEajR0YVFwMzFIM2hUbXppSFV4L25kYkVWUURYSzBzUzJZOHpEeHNzVmZXd3NwMjJmZFhvUjlLNloreHZxNzZ2bXErQi8zakVlcFZNOW9qdDNVN3l1Qy9pRDNsT0JTNE44M1ZSajVTRmlIYjBQNFlaTG9GbEJxdTZ4b25YMW9OZlhndExqSnJsWHdxcmo0ZDhsVnJ3MWhxSzZGdENCNFJLeUxLZm9YaHlxVkxjQTZIdjF0YzZEVUFNeE5wdHkzblViWUNHT3VTNll6eWllZXczTW5IWGkxUkpHYS9GVnlyaS9hU0VhK0ZHNkNJcC9kUUhRTUY0aVFyZWxSemkrVUZaaEZyVzIyTTV3c0w0STBVQWRhL1FVSkR0dkZ6N1R3YUhrNGFFR3V6aXdLakNrbTcxSWs3K1BXTTZzOWxDV3craGFQYVNTYzBFRmVRT3I3NGJkb3drZXNYUnlsT2llWUhIRk1Qang4cGorTy9SQmNWYVV2cUg1OWZlVG94c1JWQkd3RTlQYmFmbmp4OVRNNTArYUpKdnJoR3JPMEZpSStUNDlGeE8zUWQxbWFoK2dMQUtYdjJFZzFGTmQ3MnhLdmdGUTZicEN0NG1OWmpsU0pjRldCZFVSQys0UFliaW5NMGM2eWNUdW4raTVHZ3F2RDZxWXRSL2MxT3lLQkpzK0lkYjZBbW9BVkh6SndMM3ozQmMxVmRpVkdVUFE2RVhieXRxQWNEc3Z1WlZYTzR5c2lONU5XVnpsaFl5dGZiTEF2c1Y4WEZtM240VVEyZEl6YjhLUU1wdEdBeEdFUWFLMlVWeUV0RWdQcTR0d3Q1dTdBYXYvMzdYTzRMNHRFNzBYRlh3eWFlaWwza05MOGJRaXVTK25vekVIRFUza3VqQ2dXbTVpUThmNU1PbUZtQ1VLU0pPbHZtbE1WcWF5dzd0aEdyQytLQ0t5VWVQU3g1cnNyRG9GWmVJQjdsMlBGeVVlK2x2MFA5Nm1PYk1BVzFJUHlGVGcvbk15d2JlV25KRmt5cG5lWjlvSUJ2bzRsa2VMT25hTzdvRlc5MCJ9&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 5
     },
     {
         "id_destination": 29,
         "destination": "Rouen",
-        "price": "397",
-        "url": "https://www.booking.com/hotel/fr/kyriad-rouen-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=788825811_338524415_2_2_0&highlighted_blocks=788825811_338524415_2_2_0&matching_block_id=788825811_338524415_2_2_0&sr_pri_blocks=788825811_338524415_2_2_0__39720&from=searchresults",
+        "nom_hotel": "Brit Hotel Confort Rouen Centre",
+        "ville_de_lhotel": "rouen",
+        "price": "358",
+        "url": "https://www.booking.com/hotel/fr/le-relais-des-2-rivieres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=26262401_88549309_0_2_0&highlighted_blocks=26262401_88549309_0_2_0&matching_block_id=26262401_88549309_0_2_0&sr_pri_blocks=26262401_88549309_0_2_0__35799&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 29,
         "destination": "Rouen",
-        "price": "503",
-        "url": "https://www.booking.com/hotel/fr/ibis-rouen-centre-rive-droite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=53742203_94487809_2_2_0&highlighted_blocks=53742203_94487809_2_2_0&matching_block_id=53742203_94487809_2_2_0&sr_pri_blocks=53742203_94487809_2_2_0__50280&from=searchresults",
+        "nom_hotel": "Holiday Inn Express - Rouen Centre - Rive Gauche, an IHG Hotel",
+        "ville_de_lhotel": "rouen",
+        "price": "703",
+        "url": "https://www.booking.com/hotel/fr/holiday-inn-express-rouen-centre-rive-gauche.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=451367705_244938074_2_41_0&highlighted_blocks=451367705_244938074_2_41_0&matching_block_id=451367705_244938074_2_41_0&sr_pri_blocks=451367705_244938074_2_41_0__70280&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 29,
         "destination": "Rouen",
-        "price": "369",
-        "url": "https://www.booking.com/hotel/fr/campanile-rouen-mermoz.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=270823003_106179857_2_2_0&highlighted_blocks=270823003_106179857_2_2_0&matching_block_id=270823003_106179857_2_2_0&sr_pri_blocks=270823003_106179857_2_2_0__36899&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "365",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget-rouen-centre-rive-gauche.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=65721205_94499509_2_2_0&highlighted_blocks=65721205_94499509_2_2_0&matching_block_id=65721205_94499509_2_2_0&sr_pri_blocks=65721205_94499509_2_2_0__36475&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "452",
-        "url": "https://www.booking.com/hotel/fr/ibis-rouen-champ-de-mars.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=56977302_94493544_2_42_0&highlighted_blocks=56977302_94493544_2_42_0&matching_block_id=56977302_94493544_2_42_0&sr_pri_blocks=56977302_94493544_2_42_0__45171&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "513",
-        "url": "https://www.booking.com/hotel/fr/domitys-les-mosaiques.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=873446801_367148432_0_10_0&highlighted_blocks=873446801_367148432_0_10_0&matching_block_id=873446801_367148432_0_10_0&sr_pri_blocks=873446801_367148432_0_10_0__51261&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "382",
-        "url": "https://www.booking.com/hotel/fr/albarouen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=5096201_95459700_2_2_0&highlighted_blocks=5096201_95459700_2_2_0&matching_block_id=5096201_95459700_2_2_0&sr_pri_blocks=5096201_95459700_2_2_0__38160&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "455",
-        "url": "https://www.booking.com/hotel/fr/ibis-rouen-centre-rive-gauche-st-sever.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=53798803_94487977_2_2_0&highlighted_blocks=53798803_94487977_2_2_0&matching_block_id=53798803_94487977_2_2_0&sr_pri_blocks=53798803_94487977_2_2_0__45480&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "433",
-        "url": "https://www.booking.com/hotel/fr/ibis-rouen-centre-rive-droite-pasteur.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=1086075101_381550976_2_2_0&highlighted_blocks=1086075101_381550976_2_2_0&matching_block_id=1086075101_381550976_2_2_0&sr_pri_blocks=1086075101_381550976_2_2_0__43340&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
+        "nom_hotel": "DOMITYS Les Mosaïques",
+        "ville_de_lhotel": "rouen",
         "price": "641",
-        "url": "https://www.booking.com/hotel/fr/hyatt-place-rouen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=1120729208_384875309_2_2_0&highlighted_blocks=1120729208_384875309_2_2_0&matching_block_id=1120729208_384875309_2_2_0&sr_pri_blocks=1120729208_384875309_2_2_0__64080&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/domitys-les-mosaiques.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=873446801_367148432_0_10_0&highlighted_blocks=873446801_367148432_0_10_0&matching_block_id=873446801_367148432_0_10_0&sr_pri_blocks=873446801_367148432_0_10_0__64076&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 29,
         "destination": "Rouen",
+        "nom_hotel": "Aparthotel Adagio Access Rouen Centre Cathédrale",
+        "ville_de_lhotel": "rouen",
+        "price": "1138",
+        "url": "https://www.booking.com/hotel/fr/aparthotel-adagio-access-rouen-centre-cathedrale.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=1157789705_388545787_4_2_0&highlighted_blocks=1157789705_388545787_4_2_0&matching_block_id=1157789705_388545787_4_2_0&sr_pri_blocks=1157789705_388545787_4_2_0__113780&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "The Originals City, Hôtel Notre Dame, Rouen",
+        "ville_de_lhotel": "rouen",
+        "price": "649",
+        "url": "https://www.booking.com/hotel/fr/hotel-notre-dame.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=22449719_88549313_0_2_0&highlighted_blocks=22449719_88549313_0_2_0&matching_block_id=22449719_88549313_0_2_0&sr_pri_blocks=22449719_88549313_0_2_0__64880&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Séjours & Affaires Rouen Normandie",
+        "ville_de_lhotel": "rouen",
+        "price": "365",
+        "url": "https://www.booking.com/hotel/fr/residhome-rouen-normandie.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5777401_91459060_2_2_0&highlighted_blocks=5777401_91459060_2_2_0&matching_block_id=5777401_91459060_2_2_0&sr_pri_blocks=5777401_91459060_2_2_0__36526&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Hotel centre Rouen VT",
+        "ville_de_lhotel": "rouen",
+        "price": "414",
+        "url": "https://www.booking.com/hotel/fr/cenntre-rouen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=866931501_355134954_0_2_0&highlighted_blocks=866931501_355134954_0_2_0&matching_block_id=866931501_355134954_0_2_0&sr_pri_blocks=866931501_355134954_0_2_0__41366&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Grand Hôtel De La Seine",
+        "ville_de_lhotel": "rouen",
+        "price": "567",
+        "url": "https://www.booking.com/hotel/fr/rouencentre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5151004_94105630_0_42_0&highlighted_blocks=5151004_94105630_0_42_0&matching_block_id=5151004_94105630_0_42_0&sr_pri_blocks=5151004_94105630_0_42_0__56682&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Hyatt Place Rouen",
+        "ville_de_lhotel": "rouen",
+        "price": "1073",
+        "url": "https://www.booking.com/hotel/fr/hyatt-place-rouen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=1120729208_384875309_2_2_0&highlighted_blocks=1120729208_384875309_2_2_0&matching_block_id=1120729208_384875309_2_2_0&sr_pri_blocks=1120729208_384875309_2_2_0__107280&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "ibis budget Rouen Centre Rive Gauche",
+        "ville_de_lhotel": "rouen",
+        "price": "314",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-rouen-centre-rive-gauche.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=65721205_94499509_2_2_0&highlighted_blocks=65721205_94499509_2_2_0&matching_block_id=65721205_94499509_2_2_0&sr_pri_blocks=65721205_94499509_2_2_0__31407&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Novotel Rouen Centre Cathédrale",
+        "ville_de_lhotel": "rouen",
+        "price": "948",
+        "url": "https://www.booking.com/hotel/fr/novotel-rouen-centre-cathedrale.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=1189922608_391400093_2_2_0&highlighted_blocks=1189922608_391400093_2_2_0&matching_block_id=1189922608_391400093_2_2_0&sr_pri_blocks=1189922608_391400093_2_2_0__94815&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "B&B HOTEL Rouen Centre",
+        "ville_de_lhotel": "rouen",
+        "price": "392",
+        "url": "https://www.booking.com/hotel/fr/comforthotelrouencentre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=21828305_88549299_2_42_0&highlighted_blocks=21828305_88549299_2_42_0&matching_block_id=21828305_88549299_2_42_0&sr_pri_blocks=21828305_88549299_2_42_0__39180&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Ibis Rouen Centre Rive Gauche Mermoz",
+        "ville_de_lhotel": "rouen",
+        "price": "379",
+        "url": "https://www.booking.com/hotel/fr/campanile-rouen-mermoz.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=270823003_106179857_2_2_0&highlighted_blocks=270823003_106179857_2_2_0&matching_block_id=270823003_106179857_2_2_0&sr_pri_blocks=270823003_106179857_2_2_0__37945&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "KYRIAD ROUEN SUD - Sotteville les Rouen",
+        "ville_de_lhotel": "rouen",
+        "price": "352",
+        "url": "https://www.booking.com/hotel/fr/kyriad-rouen-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=788825811_338524415_2_2_0&highlighted_blocks=788825811_338524415_2_2_0&matching_block_id=788825811_338524415_2_2_0&sr_pri_blocks=788825811_338524415_2_2_0__35160&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "B&B HOTEL Rouen Centre Rive Gauche",
+        "ville_de_lhotel": "rouen",
+        "price": "425",
+        "url": "https://www.booking.com/hotel/fr/ibis-rouen-centre-rive-gauche-st-sever.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=53798803_94487977_2_2_0&highlighted_blocks=53798803_94487977_2_2_0&matching_block_id=53798803_94487977_2_2_0&sr_pri_blocks=53798803_94487977_2_2_0__42480&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Comfort Hotel Rouen Alba",
+        "ville_de_lhotel": "rouen",
+        "price": "446",
+        "url": "https://www.booking.com/hotel/fr/albarouen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5096217_95459700_2_2_0&highlighted_blocks=5096217_95459700_2_2_0&matching_block_id=5096217_95459700_2_2_0&sr_pri_blocks=5096217_95459700_2_2_0__44580&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "ibis Rouen Centre Rive Droite Pasteur",
+        "ville_de_lhotel": "rouen",
+        "price": "446",
+        "url": "https://www.booking.com/hotel/fr/ibis-rouen-centre-rive-droite-pasteur.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=1086075101_381550976_2_2_0&highlighted_blocks=1086075101_381550976_2_2_0&matching_block_id=1086075101_381550976_2_2_0&sr_pri_blocks=1086075101_381550976_2_2_0__44605&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Hôtel d'Angleterre Rouen Centre Gare",
+        "ville_de_lhotel": "rouen",
+        "price": "436",
+        "url": "https://www.booking.com/hotel/fr/d-angleterre-rouen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=902360905_370965350_2_2_0&highlighted_blocks=902360905_370965350_2_2_0&matching_block_id=902360905_370965350_2_2_0&sr_pri_blocks=902360905_370965350_2_2_0__43600&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Ibis Styles Rouen Centre Rive Gauche",
+        "ville_de_lhotel": "rouen",
+        "price": "552",
+        "url": "https://www.booking.com/hotel/fr/ibis-styles-rouen-centre-rive-gauche.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=641074202_258568152_2_1_0&highlighted_blocks=641074202_258568152_2_1_0&matching_block_id=641074202_258568152_2_1_0&sr_pri_blocks=641074202_258568152_2_1_0__55193&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "B&B HOTEL Rouen Centre Rive Droite",
+        "ville_de_lhotel": "rouen",
+        "price": "542",
+        "url": "https://www.booking.com/hotel/fr/ibis-rouen-centre-rive-droite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=53742203_94487809_2_2_0&highlighted_blocks=53742203_94487809_2_2_0&matching_block_id=53742203_94487809_2_2_0&sr_pri_blocks=53742203_94487809_2_2_0__54150&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Résidence Les Boréales",
+        "ville_de_lhotel": "rouen",
+        "price": "744",
+        "url": "https://www.booking.com/hotel/fr/les-boreales.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=757321801_369261594_2_41_0&highlighted_blocks=757321801_369261594_2_41_0&matching_block_id=757321801_369261594_2_41_0&sr_pri_blocks=757321801_369261594_2_41_0__74400&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Campanile Rouen Nord - Mont-Saint-Aignan",
+        "ville_de_lhotel": "mont saint aignan",
+        "price": "403",
+        "url": "https://www.booking.com/hotel/fr/campanile-rouen-mont-saint-aignan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=24013_94351433_2_2_0&highlighted_blocks=24013_94351433_2_2_0&matching_block_id=24013_94351433_2_2_0&sr_pri_blocks=24013_94351433_2_2_0__40280&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.1,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Best Western Plus Le Conquerant Rouen Nord",
+        "ville_de_lhotel": "bois guillaume",
+        "price": "736",
+        "url": "https://www.booking.com/hotel/fr/best-western-plus-le-conquerant-bois-guillaume1.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=758056301_332810151_2_42_0&highlighted_blocks=758056301_332810151_2_42_0&matching_block_id=758056301_332810151_2_42_0&sr_pri_blocks=758056301_332810151_2_42_0__73628&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.7,
+        "stars": 4
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Ibis budget Rouen Petit Quevilly",
+        "ville_de_lhotel": "le petit quevilly",
+        "price": "345",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-rouen-petit-quevilly.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=65721102_94499507_3_2_0&highlighted_blocks=65721102_94499507_3_2_0&matching_block_id=65721102_94499507_3_2_0&sr_pri_blocks=65721102_94499507_3_2_0__34530&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.2,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "KYRIAD ROUEN NORD - Mont Saint Aignan",
+        "ville_de_lhotel": "mont saint aignan",
+        "price": "469",
+        "url": "https://www.booking.com/hotel/fr/kyriad-rouen-nord-mont-st-aignan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=21984907_94351525_2_2_0&highlighted_blocks=21984907_94351525_2_2_0&matching_block_id=21984907_94351525_2_2_0&sr_pri_blocks=21984907_94351525_2_2_0__46860&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.2,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "The Originals City, Hôtel Éden, Rouen Nord",
+        "ville_de_lhotel": "bois guillaume",
+        "price": "537",
+        "url": "https://www.booking.com/hotel/fr/inter-eden.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5454807_362862454_0_2_0&highlighted_blocks=5454807_362862454_0_2_0&matching_block_id=5454807_362862454_0_2_0&sr_pri_blocks=5454807_362862454_0_2_0__53680&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.9,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "hotelF1 Rouen Zénith Parc Expo",
+        "ville_de_lhotel": "saint étienne du rouvray",
+        "price": "224",
+        "url": "https://www.booking.com/hotel/fr/hotelf1-rouen-sud-parc-expos.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=67633607_94500311_2_2_0&highlighted_blocks=67633607_94500311_2_2_0&matching_block_id=67633607_94500311_2_2_0&sr_pri_blocks=67633607_94500311_2_2_0__22425&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.0,
+        "stars": 1
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Première Classe Rouen Nord - Bois Guillaume",
+        "ville_de_lhotel": "bois guillaume",
+        "price": "293",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-rouen-nord-bois-guillaume.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5529502_94106593_2_2_0&highlighted_blocks=5529502_94106593_2_2_0&matching_block_id=5529502_94106593_2_2_0&sr_pri_blocks=5529502_94106593_2_2_0__29304&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.0,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "La Berteliere, The Originals Relais",
+        "ville_de_lhotel": "saint martin du vivier",
+        "price": "631",
+        "url": "https://www.booking.com/hotel/fr/berteliere.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5012508_403000048_2_42_0&highlighted_blocks=5012508_403000048_2_42_0&matching_block_id=5012508_403000048_2_42_0&sr_pri_blocks=5012508_403000048_2_42_0__63130&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.1,
+        "stars": 4
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "ibis budget Rouen Parc des Expos Zenith",
+        "ville_de_lhotel": "saint étienne du rouvray",
+        "price": "298",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-rouen-parc-des-expos-zenith.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=56927703_94493436_2_2_0&highlighted_blocks=56927703_94493436_2_2_0&matching_block_id=56927703_94493436_2_2_0&sr_pri_blocks=56927703_94493436_2_2_0__29770&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.9,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Campanile Rouen Est - Franqueville Saint Pierre",
+        "ville_de_lhotel": "franqueville saint pierre",
+        "price": "360",
+        "url": "https://www.booking.com/hotel/fr/campanile-rouen-franqueville-aeroport.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=21988603_94351614_2_42_0&highlighted_blocks=21988603_94351614_2_42_0&matching_block_id=21988603_94351614_2_42_0&sr_pri_blocks=21988603_94351614_2_42_0__35980&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "ibis budget Rouen Nord Isneauville",
+        "ville_de_lhotel": "isneauville",
+        "price": "346",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-rouen-nord-isneauville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=54347002_94489020_3_2_0&highlighted_blocks=54347002_94489020_3_2_0&matching_block_id=54347002_94489020_3_2_0&sr_pri_blocks=54347002_94489020_3_2_0__34590&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.7,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "B&B HOTEL Rouen Parc des Expos Zénith",
+        "ville_de_lhotel": "le grand quevilly",
+        "price": "340",
+        "url": "https://www.booking.com/hotel/fr/b-amp-b-rouen-parc-des-expos-zenith.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=199685701_94153486_2_2_0&highlighted_blocks=199685701_94153486_2_2_0&matching_block_id=199685701_94153486_2_2_0&sr_pri_blocks=199685701_94153486_2_2_0__33960&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.0,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Campanile Rouen Sud - Zénith - Parc Expo",
+        "ville_de_lhotel": "saint étienne du rouvray",
+        "price": "319",
+        "url": "https://www.booking.com/hotel/fr/campanile-rouen-parc-expo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=21940804_102710505_2_42_0&highlighted_blocks=21940804_102710505_2_42_0&matching_block_id=21940804_102710505_2_42_0&sr_pri_blocks=21940804_102710505_2_42_0__31888&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "B&B HOTEL Rouen Saint-Étienne-du-Rouvray",
+        "ville_de_lhotel": "saint étienne du rouvray",
+        "price": "354",
+        "url": "https://www.booking.com/hotel/fr/b-amp-b-rouen-st-etienne-du-rouvray.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=198068801_93944260_2_2_0&highlighted_blocks=198068801_93944260_2_2_0&matching_block_id=198068801_93944260_2_2_0&sr_pri_blocks=198068801_93944260_2_2_0__35396&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 8.1,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Logis Hôtel & Restaurant Le Vert Bocage",
+        "ville_de_lhotel": "franqueville saint pierre",
+        "price": "785",
+        "url": "https://www.booking.com/hotel/fr/le-vert-bocage.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=625232905_402669749_0_42_0&highlighted_blocks=625232905_402669749_0_42_0&matching_block_id=625232905_402669749_0_42_0&sr_pri_blocks=625232905_402669749_0_42_0__78460&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 7.7,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Novotel Rouen Sud Zenith Parc Expo",
+        "ville_de_lhotel": "saint étienne du rouvray",
+        "price": "738",
+        "url": "https://www.booking.com/hotel/fr/rouen-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5735016_94276880_2_2_0&highlighted_blocks=5735016_94276880_2_2_0&matching_block_id=5735016_94276880_2_2_0&sr_pri_blocks=5735016_94276880_2_2_0__73785&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.2,
+        "stars": 4
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "BRIT Hotel Rouen Nord - Barentin",
+        "ville_de_lhotel": "barentin",
+        "price": "302",
+        "url": "https://www.booking.com/hotel/fr/brithotel-barentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=18166309_88559868_2_2_0&highlighted_blocks=18166309_88559868_2_2_0&matching_block_id=18166309_88559868_2_2_0&sr_pri_blocks=18166309_88559868_2_2_0__30222&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 14.7,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Campanile Rouen Nord - Barentin",
+        "ville_de_lhotel": "barentin",
+        "price": "371",
+        "url": "https://www.booking.com/hotel/fr/campanile-rouen-barentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=23531_93239015_2_42_0&highlighted_blocks=23531_93239015_2_42_0&matching_block_id=23531_93239015_2_42_0&sr_pri_blocks=23531_93239015_2_42_0__37120&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "ibis Styles Rouen Nord-Barentin",
+        "ville_de_lhotel": "barentin",
+        "price": "590",
+        "url": "https://www.booking.com/hotel/fr/ibis-styles-rouen-nord-barentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=33024105_376292679_2_33_0&highlighted_blocks=33024105_376292679_2_33_0&matching_block_id=33024105_376292679_2_33_0&sr_pri_blocks=33024105_376292679_2_33_0__59027&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 14.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Premiere Classe Rouen Nord - Barentin",
+        "ville_de_lhotel": "barentin",
+        "price": "272",
+        "url": "https://www.booking.com/hotel/fr/normandie-barentin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=39268004_88559867_2_2_0&highlighted_blocks=39268004_88559867_2_2_0&matching_block_id=39268004_88559867_2_2_0&sr_pri_blocks=39268004_88559867_2_2_0__27232&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 14.9,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Campanile Rouen Sud - Cléon Elbeuf",
+        "ville_de_lhotel": "cléon",
+        "price": "290",
+        "url": "https://www.booking.com/hotel/fr/campanile-rouen-cleon-elbeuf.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=21957704_102710534_2_2_0&highlighted_blocks=21957704_102710534_2_2_0&matching_block_id=21957704_102710534_2_2_0&sr_pri_blocks=21957704_102710534_2_2_0__28952&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 15.2,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Contact Hotel Le Seino Marin - Cléon Elbeuf",
+        "ville_de_lhotel": "cléon",
+        "price": "346",
+        "url": "https://www.booking.com/hotel/fr/cleon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5061602_397336042_2_34_0&highlighted_blocks=5061602_397336042_2_34_0&matching_block_id=5061602_397336042_2_34_0&sr_pri_blocks=5061602_397336042_2_34_0__34580&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 15.4,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "DOMITYS LA ROZE DE SEINE",
+        "ville_de_lhotel": "saint aubin lès elbeuf",
+        "price": "543",
+        "url": "https://www.booking.com/hotel/fr/domitys-la-roze-de-seine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=764638701_373984102_2_42_0_46419&highlighted_blocks=764638701_373984102_2_42_0_46419&matching_block_id=764638701_373984102_2_42_0_46419&sr_pri_blocks=764638701_373984102_2_42_0_46419_54325&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 16.8,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "L’Auberge de papa",
+        "ville_de_lhotel": "auzouville sur ry",
+        "price": "422",
+        "url": "https://www.booking.com/hotel/fr/auberge-de-papa.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=821319903_346642495_0_1_0&highlighted_blocks=821319903_346642495_0_1_0&matching_block_id=821319903_346642495_0_1_0&sr_pri_blocks=821319903_346642495_0_1_0__42180&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 15.7,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Chateau-Hotel De Belmesnil",
+        "ville_de_lhotel": "saint denis le thiboult",
+        "price": "1025",
+        "url": "https://www.booking.com/hotel/fr/chateau-de-belmesnil.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5762803_121248840_0_1_0&highlighted_blocks=5762803_121248840_0_1_0&matching_block_id=5762803_121248840_0_1_0&sr_pri_blocks=5762803_121248840_0_1_0__102480&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.6,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Kyriad Direct Val de Reuil",
+        "ville_de_lhotel": "val de reuil",
+        "price": "241",
+        "url": "https://www.booking.com/hotel/fr/fasthotel-valdereuil.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=49&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5766405_250732524_2_2_0&highlighted_blocks=5766405_250732524_2_2_0&matching_block_id=5766405_250732524_2_2_0&sr_pri_blocks=5766405_250732524_2_2_0__24134&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.4,
+        "stars": 2
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "hotelF1 Rouen Louviers Val de Reuil",
+        "ville_de_lhotel": "val de reuil",
+        "price": "207",
+        "url": "https://www.booking.com/hotel/fr/hotelf1-rouen-louviers-le-vaudreuil.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=50&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=65718902_376292061_3_2_0&highlighted_blocks=65718902_376292061_3_2_0&matching_block_id=65718902_376292061_3_2_0&sr_pri_blocks=65718902_376292061_3_2_0__20686&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Armony Hotel",
+        "ville_de_lhotel": "bourg achard",
+        "price": "454",
+        "url": "https://www.booking.com/hotel/fr/besthotelrouen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=51&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5196004_106671470_2_2_0&highlighted_blocks=5196004_106671470_2_2_0&matching_block_id=5196004_106671470_2_2_0&sr_pri_blocks=5196004_106671470_2_2_0__45400&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.0,
+        "stars": 0
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Brit Hotel Rouen Sud Val De Reuil",
+        "ville_de_lhotel": "val de reuil",
+        "price": "484",
+        "url": "https://www.booking.com/hotel/fr/best-rouen-est-val-de-reuil.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=52&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=5474902_89528928_0_34_0&highlighted_blocks=5474902_89528928_0_34_0&matching_block_id=5474902_89528928_0_34_0&sr_pri_blocks=5474902_89528928_0_34_0__48420&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 29,
+        "destination": "Rouen",
+        "nom_hotel": "Club Wyndham Normandy",
+        "ville_de_lhotel": "connelles",
         "price": "515",
-        "url": "https://www.booking.com/hotel/fr/rouencentre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=5151004_94105630_0_42_0&highlighted_blocks=5151004_94105630_0_42_0&matching_block_id=5151004_94105630_0_42_0&sr_pri_blocks=5151004_94105630_0_42_0__51498&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/club-wyndham-normandy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=53&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=639844701_372563816_2_0_0&highlighted_blocks=639844701_372563816_2_0_0&matching_block_id=639844701_372563816_2_0_0&sr_pri_blocks=639844701_372563816_2_0_0__51450&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.8,
+        "stars": 3
     },
     {
         "id_destination": 29,
         "destination": "Rouen",
-        "price": "524",
-        "url": "https://www.booking.com/hotel/fr/aparthotel-adagio-access-rouen-centre-cathedrale.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=1157789701_388545789_2_2_0&highlighted_blocks=1157789701_388545789_2_2_0&matching_block_id=1157789701_388545789_2_2_0&sr_pri_blocks=1157789701_388545789_2_2_0__52380&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "434",
-        "url": "https://www.booking.com/hotel/fr/d-angleterre-rouen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=902360905_370965350_2_2_0&highlighted_blocks=902360905_370965350_2_2_0&matching_block_id=902360905_370965350_2_2_0&sr_pri_blocks=902360905_370965350_2_2_0__43400&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "720",
-        "url": "https://www.booking.com/hotel/fr/hotellitterairegustaveflaubert.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=5115146_88918577_2_2_0&highlighted_blocks=5115146_88918577_2_2_0&matching_block_id=5115146_88918577_2_2_0&sr_pri_blocks=5115146_88918577_2_2_0__72030&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "742",
-        "url": "https://www.booking.com/hotel/fr/bestwesternhoteldedieppe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=22130529_140544445_2_34_0&highlighted_blocks=22130529_140544445_2_34_0&matching_block_id=22130529_140544445_2_34_0&sr_pri_blocks=22130529_140544445_2_34_0__74160&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "375",
-        "url": "https://www.booking.com/hotel/fr/le-relais-des-2-rivieres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=26262401_88549309_0_2_0&highlighted_blocks=26262401_88549309_0_2_0&matching_block_id=26262401_88549309_0_2_0&sr_pri_blocks=26262401_88549309_0_2_0__37494&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "497",
-        "url": "https://www.booking.com/hotel/fr/lemorand.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=5187002_380200475_0_34_0&highlighted_blocks=5187002_380200475_0_34_0&matching_block_id=5187002_380200475_0_34_0&sr_pri_blocks=5187002_380200475_0_34_0__49720&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "804",
-        "url": "https://www.booking.com/hotel/fr/mercure-rouen-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=5703803_94275005_2_2_0&highlighted_blocks=5703803_94275005_2_2_0&matching_block_id=5703803_94275005_2_2_0&sr_pri_blocks=5703803_94275005_2_2_0__80370&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "633",
-        "url": "https://www.booking.com/hotel/fr/ibis-styles-rouen-centre-rive-gauche.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=641074202_258568152_2_1_0&highlighted_blocks=641074202_258568152_2_1_0&matching_block_id=641074202_258568152_2_1_0&sr_pri_blocks=641074202_258568152_2_1_0__63304&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "505",
-        "url": "https://www.booking.com/hotel/fr/le-vieux-carre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=28430704_236664423_2_10_0&highlighted_blocks=28430704_236664423_2_10_0&matching_block_id=28430704_236664423_2_10_0&sr_pri_blocks=28430704_236664423_2_10_0__50460&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "675",
-        "url": "https://www.booking.com/hotel/fr/mercure-rouen-champ-de-mars.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=5704810_94820571_2_34_0&highlighted_blocks=5704810_94820571_2_34_0&matching_block_id=5704810_94820571_2_34_0&sr_pri_blocks=5704810_94820571_2_34_0__67513&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "485",
-        "url": "https://www.booking.com/hotel/fr/brit-versan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=5490007_396284793_2_2_0&highlighted_blocks=5490007_396284793_2_2_0&matching_block_id=5490007_396284793_2_2_0&sr_pri_blocks=5490007_396284793_2_2_0__48460&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 29,
-        "destination": "Rouen",
-        "price": "566",
-        "url": "https://www.booking.com/hotel/fr/holiday-inn-express-rouen-centre-rive-gauche.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoCD5LsGwAIB0gIkNGNkODI0NzMtMTRkYi00M2Y4LTlkZTItNWIwNWEwYzBkNjUw2AIF4AIB&sid=0e330f19f3c0dc0196a9c11ab01ddbee&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=c826519395f8070a&srepoch=1735990586&all_sr_blocks=451367705_136730264_2_41_0&highlighted_blocks=451367705_136730264_2_41_0&matching_block_id=451367705_136730264_2_41_0&sr_pri_blocks=451367705_136730264_2_41_0__56630&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Grand Slam",
+        "ville_de_lhotel": "le vaudreuil",
+        "price": "828",
+        "url": "https://www.booking.com/hotel/fr/grand-slam.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_7vrwGwAIB0gIkYzUxZGE3MDQtNjYzOC00NjRkLWE1OTEtYmFhYWYxM2U5ZTFj2AIF4AIB&sid=8c9646465235be3789d661922c530bd6&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1462807&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=54&sr_order=popularity&nflt=ht_id%3D204&srpvid=4f243ebc2c5d01ac&srepoch=1737622530&all_sr_blocks=226040501_376742436_2_2_0&highlighted_blocks=226040501_376742436_2_2_0&matching_block_id=226040501_376742436_2_2_0&sr_pri_blocks=226040501_376742436_2_2_0__82842&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.3,
+        "stars": 0
     }
 ]

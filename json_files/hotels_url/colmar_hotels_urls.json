@@ -2,201 +2,298 @@
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "297",
-        "url": "https://www.booking.com/hotel/fr/ibis-colmar-horbourg-wihr.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=18571804_94337196_2_33_0&highlighted_blocks=18571804_94337196_2_33_0&matching_block_id=18571804_94337196_2_33_0&sr_pri_blocks=18571804_94337196_2_33_0__29692&from=searchresults",
+        "nom_hotel": "Hotel Primo Colmar Centre",
+        "ville_de_lhotel": "colmar",
+        "price": "311",
+        "url": "https://www.booking.com/hotel/fr/primo-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5527208_91458426_2_2_0&highlighted_blocks=5527208_91458426_2_2_0&matching_block_id=5527208_91458426_2_2_0&sr_pri_blocks=5527208_91458426_2_2_0__31120&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "479",
-        "url": "https://www.booking.com/hotel/fr/appart-39-odalys-la-rose-d-39-argent.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=126686401_88557422_2_2_0&highlighted_blocks=126686401_88557422_2_2_0&matching_block_id=126686401_88557422_2_2_0&sr_pri_blocks=126686401_88557422_2_2_0__47900&from=searchresults",
+        "nom_hotel": "ibis Budget Colmar Centre Gare",
+        "ville_de_lhotel": "colmar",
+        "price": "318",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-colmar-centre-ville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=65893505_94499669_2_2_0&highlighted_blocks=65893505_94499669_2_2_0&matching_block_id=65893505_94499669_2_2_0&sr_pri_blocks=65893505_94499669_2_2_0__31840&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "342",
-        "url": "https://www.booking.com/hotel/fr/campanile-colmar-aeroport.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=23297_94350583_2_34_0&highlighted_blocks=23297_94350583_2_34_0&matching_block_id=23297_94350583_2_34_0&sr_pri_blocks=23297_94350583_2_34_0__34220&from=searchresults",
+        "nom_hotel": "ibis Colmar Est - Hotel Restaurant en Alsace",
+        "ville_de_lhotel": "colmar",
+        "price": "356",
+        "url": "https://www.booking.com/hotel/fr/ibis-colmar-horbourg-wihr.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=18571804_94337196_2_33_0&highlighted_blocks=18571804_94337196_2_33_0&matching_block_id=18571804_94337196_2_33_0&sr_pri_blocks=18571804_94337196_2_33_0__35560&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "404",
-        "url": "https://www.booking.com/hotel/fr/travel-homes-rapp-charm-in-the-heart-of-colmar-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=1115447201_384445992_2_0_0&highlighted_blocks=1115447201_384445992_2_0_0&matching_block_id=1115447201_384445992_2_0_0&sr_pri_blocks=1115447201_384445992_2_0_0__40440&from=searchresults",
+        "nom_hotel": "Hotel L'Europe",
+        "ville_de_lhotel": "colmar",
+        "price": "624",
+        "url": "https://www.booking.com/hotel/fr/l-europe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5496111_88984767_2_2_0&highlighted_blocks=5496111_88984767_2_2_0&matching_block_id=5496111_88984767_2_2_0&sr_pri_blocks=5496111_88984767_2_2_0__62420&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "276",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget-colmar-centre-ville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=65893505_94499669_2_2_0&highlighted_blocks=65893505_94499669_2_2_0&matching_block_id=65893505_94499669_2_2_0&sr_pri_blocks=65893505_94499669_2_2_0__27603&from=searchresults",
+        "nom_hotel": "Odalys City Colmar La Rose d'Argent",
+        "ville_de_lhotel": "colmar",
+        "price": "471",
+        "url": "https://www.booking.com/hotel/fr/appart-39-odalys-la-rose-d-39-argent.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=126686401_0_2_0_0&highlighted_blocks=126686401_0_2_0_0&matching_block_id=126686401_0_2_0_0&sr_pri_blocks=126686401_0_2_0_0__47076&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "544",
-        "url": "https://www.booking.com/hotel/fr/grandhotelbristol.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=21047021_335036698_2_2_0&highlighted_blocks=21047021_335036698_2_2_0&matching_block_id=21047021_335036698_2_2_0&sr_pri_blocks=21047021_335036698_2_2_0__54420&from=searchresults",
+        "nom_hotel": "Best Western Colmar Expo",
+        "ville_de_lhotel": "colmar",
+        "price": "413",
+        "url": "https://www.booking.com/hotel/fr/comfort-expo-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=113186822_93775743_2_2_0&highlighted_blocks=113186822_93775743_2_2_0&matching_block_id=113186822_93775743_2_2_0&sr_pri_blocks=113186822_93775743_2_2_0__41280&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "395",
-        "url": "https://www.booking.com/hotel/fr/comfort-expo-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=113186822_93775743_2_2_0&highlighted_blocks=113186822_93775743_2_2_0&matching_block_id=113186822_93775743_2_2_0&sr_pri_blocks=113186822_93775743_2_2_0__39480&from=searchresults",
+        "nom_hotel": "Grand Hôtel Bristol",
+        "ville_de_lhotel": "colmar",
+        "price": "762",
+        "url": "https://www.booking.com/hotel/fr/grandhotelbristol.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=21047023_388844210_2_2_0&highlighted_blocks=21047023_388844210_2_2_0&matching_block_id=21047023_388844210_2_2_0&sr_pri_blocks=21047023_388844210_2_2_0__76220&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "457",
-        "url": "https://www.booking.com/hotel/fr/comfort-les-maraichers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=5464113_91902958_2_2_0&highlighted_blocks=5464113_91902958_2_2_0&matching_block_id=5464113_91902958_2_2_0&sr_pri_blocks=5464113_91902958_2_2_0__45688&from=searchresults",
+        "nom_hotel": "Novotel Suites Colmar Centre",
+        "ville_de_lhotel": "colmar",
+        "price": "817",
+        "url": "https://www.booking.com/hotel/fr/novotel-suites-colmar-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=313077605_113413770_2_2_0&highlighted_blocks=313077605_113413770_2_2_0&matching_block_id=313077605_113413770_2_2_0&sr_pri_blocks=313077605_113413770_2_2_0__81735&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "370",
-        "url": "https://www.booking.com/hotel/fr/le-colbert.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=5330311_368928644_0_2_0&highlighted_blocks=5330311_368928644_0_2_0&matching_block_id=5330311_368928644_0_2_0&sr_pri_blocks=5330311_368928644_0_2_0__37020&from=searchresults",
+        "nom_hotel": "Hôtel Gustave Colmar",
+        "ville_de_lhotel": "colmar",
+        "price": "412",
+        "url": "https://www.booking.com/hotel/fr/kyriad-colmar-cita-c-administrative.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=37015601_91473480_2_2_0&highlighted_blocks=37015601_91473480_2_2_0&matching_block_id=37015601_91473480_2_2_0&sr_pri_blocks=37015601_91473480_2_2_0__41226&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "772",
-        "url": "https://www.booking.com/hotel/fr/colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=169112304_187863603_0_1_0_666853&highlighted_blocks=169112304_187863603_0_1_0_666853&matching_block_id=169112304_187863603_0_1_0_666853&sr_pri_blocks=169112304_187863603_0_1_0_666853_77220&from=searchresults",
+        "nom_hotel": "Résidence de l'ancien relais",
+        "ville_de_lhotel": "colmar",
+        "price": "704",
+        "url": "https://www.booking.com/hotel/fr/residence-de-l-ancien-relais.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=1180511202_400717537_2_0_0&highlighted_blocks=1180511202_400717537_2_0_0&matching_block_id=1180511202_400717537_2_0_0&sr_pri_blocks=1180511202_400717537_2_0_0__70380&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "696",
-        "url": "https://www.booking.com/hotel/fr/colmar-centre-unterlinden.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=5723513_94276036_2_2_0&highlighted_blocks=5723513_94276036_2_2_0&matching_block_id=5723513_94276036_2_2_0&sr_pri_blocks=5723513_94276036_2_2_0__69568&from=searchresults",
+        "nom_hotel": "ibis Colmar Centre",
+        "ville_de_lhotel": "colmar",
+        "price": "562",
+        "url": "https://www.booking.com/hotel/fr/ibis-colmar-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=65893402_376292705_2_2_0&highlighted_blocks=65893402_376292705_2_2_0&matching_block_id=65893402_376292705_2_2_0&sr_pri_blocks=65893402_376292705_2_2_0__56162&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "550",
-        "url": "https://www.booking.com/hotel/fr/turenne-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=4294302_91900990_2_2_0&highlighted_blocks=4294302_91900990_2_2_0&matching_block_id=4294302_91900990_2_2_0&sr_pri_blocks=4294302_91900990_2_2_0__55020&from=searchresults",
+        "nom_hotel": "Greet Hotel Colmar",
+        "ville_de_lhotel": "colmar",
+        "price": "438",
+        "url": "https://www.booking.com/hotel/fr/comfort-les-maraichers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5464115_91902958_2_2_0&highlighted_blocks=5464115_91902958_2_2_0&matching_block_id=5464115_91902958_2_2_0&sr_pri_blocks=5464115_91902958_2_2_0__43800&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "822",
-        "url": "https://www.booking.com/hotel/fr/colombiercolmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=5131401_91902487_2_2_0&highlighted_blocks=5131401_91902487_2_2_0&matching_block_id=5131401_91902487_2_2_0&sr_pri_blocks=5131401_91902487_2_2_0__82220&from=searchresults",
+        "nom_hotel": "PAUL & PIA - Welcome Home Hotel",
+        "ville_de_lhotel": "colmar",
+        "price": "592",
+        "url": "https://www.booking.com/hotel/fr/kyriad-colmar-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=25211402_335003651_2_1_0&highlighted_blocks=25211402_335003651_2_1_0&matching_block_id=25211402_335003651_2_1_0&sr_pri_blocks=25211402_335003651_2_1_0__59170&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "491",
-        "url": "https://www.booking.com/hotel/fr/kyriad-colmar-cita-c-administrative.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=37015601_91473480_2_2_0&highlighted_blocks=37015601_91473480_2_2_0&matching_block_id=37015601_91473480_2_2_0&sr_pri_blocks=37015601_91473480_2_2_0__49146&from=searchresults",
+        "nom_hotel": "Hotel Saint-Martin",
+        "ville_de_lhotel": "colmar",
+        "price": "537",
+        "url": "https://www.booking.com/hotel/fr/hotelsaintmartin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5151406_88557413_2_2_0&highlighted_blocks=5151406_88557413_2_2_0&matching_block_id=5151406_88557413_2_2_0&sr_pri_blocks=5151406_88557413_2_2_0__53668&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "614",
-        "url": "https://www.booking.com/hotel/fr/kyriad-colmar-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=25211402_335003651_2_1_0&highlighted_blocks=25211402_335003651_2_1_0&matching_block_id=25211402_335003651_2_1_0&sr_pri_blocks=25211402_335003651_2_1_0__61380&from=searchresults",
+        "nom_hotel": "The Originals City, Hôtel Colmar Gare",
+        "ville_de_lhotel": "colmar",
+        "price": "346",
+        "url": "https://www.booking.com/hotel/fr/le-colbert.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5330303_368928644_0_2_0&highlighted_blocks=5330303_368928644_0_2_0&matching_block_id=5330303_368928644_0_2_0&sr_pri_blocks=5330303_368928644_0_2_0__34620&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "639",
-        "url": "https://www.booking.com/hotel/fr/l-europe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=5496111_88984767_2_2_0&highlighted_blocks=5496111_88984767_2_2_0&matching_block_id=5496111_88984767_2_2_0&sr_pri_blocks=5496111_88984767_2_2_0__63920&from=searchresults",
+        "nom_hotel": "Ibis Styles Colmar Nord",
+        "ville_de_lhotel": "colmar",
+        "price": "559",
+        "url": "https://www.booking.com/hotel/fr/novotel-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5410830_94273260_2_1_0&highlighted_blocks=5410830_94273260_2_1_0&matching_block_id=5410830_94273260_2_1_0&sr_pri_blocks=5410830_94273260_2_1_0__55864&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "596",
-        "url": "https://www.booking.com/hotel/fr/hotelsaintmartin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=5151406_88557413_2_2_0&highlighted_blocks=5151406_88557413_2_2_0&matching_block_id=5151406_88557413_2_2_0&sr_pri_blocks=5151406_88557413_2_2_0__59556&from=searchresults",
+        "nom_hotel": "James Boutique Hôtel Colmar centre",
+        "ville_de_lhotel": "colmar",
+        "price": "823",
+        "url": "https://www.booking.com/hotel/fr/james-boutique-hotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=189017401_343187698_0_2_0&highlighted_blocks=189017401_343187698_0_2_0&matching_block_id=189017401_343187698_0_2_0&sr_pri_blocks=189017401_343187698_0_2_0__82317&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "749",
-        "url": "https://www.booking.com/hotel/fr/all-seasons.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=18178504_97557843_2_1_0&highlighted_blocks=18178504_97557843_2_1_0&matching_block_id=18178504_97557843_2_1_0&sr_pri_blocks=18178504_97557843_2_1_0__74858&from=searchresults",
+        "nom_hotel": "hotelF1 Colmar Parc des Expositions",
+        "ville_de_lhotel": "colmar",
+        "price": "223",
+        "url": "https://www.booking.com/hotel/fr/f1-de-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=950150304_367661511_3_2_0&highlighted_blocks=950150304_367661511_3_2_0&matching_block_id=950150304_367661511_3_2_0&sr_pri_blocks=950150304_367661511_3_2_0__22268&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "667",
-        "url": "https://www.booking.com/hotel/fr/residence-de-l-ancien-relais.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=1180511201_400717537_2_0_0&highlighted_blocks=1180511201_400717537_2_0_0&matching_block_id=1180511201_400717537_2_0_0&sr_pri_blocks=1180511201_400717537_2_0_0__66720&from=searchresults",
+        "nom_hotel": "Hotel Restaurant Le Maréchal - Teritoria",
+        "ville_de_lhotel": "colmar",
+        "price": "960",
+        "url": "https://www.booking.com/hotel/fr/hostellerie-le-marechal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5385807_91458247_0_2_0&highlighted_blocks=5385807_91458247_0_2_0&matching_block_id=5385807_91458247_0_2_0&sr_pri_blocks=5385807_91458247_0_2_0__96020&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "852",
-        "url": "https://www.booking.com/hotel/fr/colombier-suites.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=32990103_91922215_2_2_0&highlighted_blocks=32990103_91922215_2_2_0&matching_block_id=32990103_91922215_2_2_0&sr_pri_blocks=32990103_91922215_2_2_0__85220&from=searchresults",
+        "nom_hotel": "Mercure Colmar Centre Unterlinden",
+        "ville_de_lhotel": "colmar",
+        "price": "681",
+        "url": "https://www.booking.com/hotel/fr/colmar-centre-unterlinden.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5723512_94276036_2_2_0&highlighted_blocks=5723512_94276036_2_2_0&matching_block_id=5723512_94276036_2_2_0&sr_pri_blocks=5723512_94276036_2_2_0__68058&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "220",
-        "url": "https://www.booking.com/hotel/fr/f1-de-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=950150304_367661511_3_2_0&highlighted_blocks=950150304_367661511_3_2_0&matching_block_id=950150304_367661511_3_2_0&sr_pri_blocks=950150304_367661511_3_2_0__21955&from=searchresults",
+        "nom_hotel": "Ibis Styles Colmar Centre",
+        "ville_de_lhotel": "colmar",
+        "price": "716",
+        "url": "https://www.booking.com/hotel/fr/all-seasons.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=18178504_97557843_2_1_0&highlighted_blocks=18178504_97557843_2_1_0&matching_block_id=18178504_97557843_2_1_0&sr_pri_blocks=18178504_97557843_2_1_0__71646&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "481",
-        "url": "https://www.booking.com/hotel/fr/ibis-colmar-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=65893402_94499666_2_2_0&highlighted_blocks=65893402_94499666_2_2_0&matching_block_id=65893402_94499666_2_2_0&sr_pri_blocks=65893402_94499666_2_2_0__48146&from=searchresults",
+        "nom_hotel": "Hôtel Quatorze",
+        "ville_de_lhotel": "colmar",
+        "price": "552",
+        "url": "https://www.booking.com/hotel/fr/quatorze.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=24477401_88557418_2_2_0&highlighted_blocks=24477401_88557418_2_2_0&matching_block_id=24477401_88557418_2_2_0&sr_pri_blocks=24477401_88557418_2_2_0__55185&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "900",
-        "url": "https://www.booking.com/hotel/fr/hostellerie-le-marechal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=5385807_0_2_0_0&highlighted_blocks=5385807_0_2_0_0&matching_block_id=5385807_0_2_0_0&sr_pri_blocks=5385807_0_2_0_0__90000&from=searchresults",
+        "nom_hotel": "L'esquisse Hotel & Spa Colmar - MGallery",
+        "ville_de_lhotel": "colmar",
+        "price": "1657",
+        "url": "https://www.booking.com/hotel/fr/colmar-champ-de-mars.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5731007_94276546_2_2_0&highlighted_blocks=5731007_94276546_2_2_0&matching_block_id=5731007_94276546_2_2_0&sr_pri_blocks=5731007_94276546_2_2_0__165742&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 5
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
+        "nom_hotel": "Hotel Le Colombier",
+        "ville_de_lhotel": "colmar",
         "price": "801",
-        "url": "https://www.booking.com/hotel/fr/novotel-suites-colmar-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=313077603_113413770_2_2_0&highlighted_blocks=313077603_113413770_2_2_0&matching_block_id=313077603_113413770_2_2_0&sr_pri_blocks=313077603_113413770_2_2_0__80057&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/colombiercolmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=5131401_91902487_2_2_0&highlighted_blocks=5131401_91902487_2_2_0&matching_block_id=5131401_91902487_2_2_0&sr_pri_blocks=5131401_91902487_2_2_0__80120&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 15,
         "destination": "Colmar",
-        "price": "769",
-        "url": "https://www.booking.com/hotel/fr/quatorze.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtOB5LsGwAIB0gIkZWM2NmNlMmEtYjI1Ni00ZmQ4LTk0ZmMtYjg5ZGJiN2YzZjcw2AIF4AIB&sid=7d5c6ee7ce4b376195e7432eebcf450b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=539650201a94035d&srepoch=1735989844&all_sr_blocks=24477401_88557418_2_2_0&highlighted_blocks=24477401_88557418_2_2_0&matching_block_id=24477401_88557418_2_2_0&sr_pri_blocks=24477401_88557418_2_2_0__76920&from=searchresults",
+        "nom_hotel": "Hotel Le Colombier Suites",
+        "ville_de_lhotel": "colmar",
+        "price": "822",
+        "url": "https://www.booking.com/hotel/fr/colombier-suites.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=32990103_91922215_2_2_0&highlighted_blocks=32990103_91922215_2_2_0&matching_block_id=32990103_91922215_2_2_0&sr_pri_blocks=32990103_91922215_2_2_0__82220&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 15,
+        "destination": "Colmar",
+        "nom_hotel": "Contact Hotel Du Ladhof",
+        "ville_de_lhotel": "colmar",
+        "price": "433",
+        "url": "https://www.booking.com/hotel/fr/du-ladhof.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=18032501_325418011_0_2_0&highlighted_blocks=18032501_325418011_0_2_0&matching_block_id=18032501_325418011_0_2_0&sr_pri_blocks=18032501_325418011_0_2_0__43320&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 15,
+        "destination": "Colmar",
+        "nom_hotel": "Travel Homes - Rapp, charm in the heart of Colmar",
+        "ville_de_lhotel": "colmar",
+        "price": "387",
+        "url": "https://www.booking.com/hotel/fr/travel-homes-rapp-charm-in-the-heart-of-colmar-colmar.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar36vrwGwAIB0gIkZmFhOWVmZjYtNGM5OS00ZDk2LWI1ZWQtMGYyODE1ZDFmMTE32AIF4AIB&sid=1058152a4667691448e8034c0f976999&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421049&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bff3e154c0602ec&srepoch=1737622198&all_sr_blocks=1115447203_384445992_2_0_0&highlighted_blocks=1115447203_384445992_2_0_0&matching_block_id=1115447203_384445992_2_0_0&sr_pri_blocks=1115447203_384445992_2_0_0__38710&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
     }
 ]

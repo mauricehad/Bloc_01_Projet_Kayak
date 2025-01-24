@@ -2,201 +2,342 @@
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "470",
-        "url": "https://www.booking.com/hotel/fr/hotel-saint-aubert.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=23081103_129559930_0_2_0&highlighted_blocks=23081103_129559930_0_2_0&matching_block_id=23081103_129559930_0_2_0&sr_pri_blocks=23081103_129559930_0_2_0__47040&from=searchresults",
+        "nom_hotel": "La Mère Poulard",
+        "ville_de_lhotel": "le mont saint michel",
+        "price": "1377",
+        "url": "https://www.booking.com/hotel/fr/la-mere-poulard.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=23079316_347524664_2_33_0&highlighted_blocks=23079316_347524664_2_33_0&matching_block_id=23079316_347524664_2_33_0&sr_pri_blocks=23079316_347524664_2_33_0__137731&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "2217",
-        "url": "https://www.booking.com/hotel/fr/le-relais-saint-michel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=23079510_347524637_0_1_0&highlighted_blocks=23079510_347524637_0_1_0&matching_block_id=23079510_347524637_0_1_0&sr_pri_blocks=23079510_347524637_0_1_0__221700&from=searchresults",
+        "nom_hotel": "Le Relais Saint Michel",
+        "ville_de_lhotel": "le mont saint michel",
+        "price": "971",
+        "url": "https://www.booking.com/hotel/fr/le-relais-saint-michel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=102167_347524637_0_1_0&highlighted_blocks=102167_347524637_0_1_0&matching_block_id=102167_347524637_0_1_0&sr_pri_blocks=102167_347524637_0_1_0__97140&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "2302",
-        "url": "https://www.booking.com/hotel/fr/la-mere-poulard.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=23079317_347524664_3_33_0&highlighted_blocks=23079317_347524664_3_33_0&matching_block_id=23079317_347524664_3_33_0&sr_pri_blocks=23079317_347524664_3_33_0__230160&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 25,
-        "destination": "Mont Saint Michel",
-        "price": "3115",
-        "url": "https://www.booking.com/hotel/fr/ermitage-mont-saint-michel-beauvoir.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__311472&from=searchresults",
+        "nom_hotel": "Ermitage - Mont-Saint-Michel",
+        "ville_de_lhotel": "beauvoir",
+        "price": "2753",
+        "url": "https://www.booking.com/hotel/fr/ermitage-mont-saint-michel-beauvoir.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__275292&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 4.6
+        "de_destination_km": 4.6,
+        "stars": 5
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "415",
-        "url": "https://www.booking.com/hotel/fr/ibis-pontorson-baie-du-mont-saint-michel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=306104403_112213114_2_34_0&highlighted_blocks=306104403_112213114_2_34_0&matching_block_id=306104403_112213114_2_34_0&sr_pri_blocks=306104403_112213114_2_34_0__41533&from=searchresults",
+        "nom_hotel": "ibis Pontorson Baie Du Mont Saint Michel",
+        "ville_de_lhotel": "saint georges de gréhaigne",
+        "price": "434",
+        "url": "https://www.booking.com/hotel/fr/ibis-pontorson-baie-du-mont-saint-michel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=306104403_112213114_2_34_0&highlighted_blocks=306104403_112213114_2_34_0&matching_block_id=306104403_112213114_2_34_0&sr_pri_blocks=306104403_112213114_2_34_0__43449&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 7.5
+        "de_destination_km": 7.5,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "493",
-        "url": "https://www.booking.com/hotel/fr/montgomery.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=5894513_88984929_2_2_0&highlighted_blocks=5894513_88984929_2_2_0&matching_block_id=5894513_88984929_2_2_0&sr_pri_blocks=5894513_88984929_2_2_0__49314&from=searchresults",
+        "nom_hotel": "The Originals Boutique, Hôtel Les Quatre Salines, Le Mont Saint-Michel Sud",
+        "ville_de_lhotel": "roz sur couesnon",
+        "price": "511",
+        "url": "https://www.booking.com/hotel/fr/lessalines.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=5186515_380479086_2_34_0&highlighted_blocks=5186515_380479086_2_34_0&matching_block_id=5186515_380479086_2_34_0&sr_pri_blocks=5186515_380479086_2_34_0__51121&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 9.2
+        "de_destination_km": 7.2,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "528",
-        "url": "https://www.booking.com/hotel/fr/lessalines.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=5186515_91902614_2_34_0&highlighted_blocks=5186515_91902614_2_34_0&matching_block_id=5186515_91902614_2_34_0&sr_pri_blocks=5186515_91902614_2_34_0__52758&from=searchresults",
+        "nom_hotel": "Best Western Hôtel Montgomery",
+        "ville_de_lhotel": "pontorson",
+        "price": "503",
+        "url": "https://www.booking.com/hotel/fr/montgomery.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=5894513_88984929_2_2_0&highlighted_blocks=5894513_88984929_2_2_0&matching_block_id=5894513_88984929_2_2_0&sr_pri_blocks=5894513_88984929_2_2_0__50274&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 7.2
+        "de_destination_km": 9.2,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "296",
-        "url": "https://www.booking.com/hotel/fr/le-xiv.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=129710703_89509303_2_2_0&highlighted_blocks=129710703_89509303_2_2_0&matching_block_id=129710703_89509303_2_2_0&sr_pri_blocks=129710703_89509303_2_2_0__29592&from=searchresults",
+        "nom_hotel": "Hôtel les 13 Assiettes",
+        "ville_de_lhotel": "le val saint père",
+        "price": "445",
+        "url": "https://www.booking.com/hotel/fr/assiettes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=5052301_397924639_2_42_0_220761&highlighted_blocks=5052301_397924639_2_42_0_220761&matching_block_id=5052301_397924639_2_42_0_220761&sr_pri_blocks=5052301_397924639_2_42_0_220761_44528&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 9.2
+        "de_destination_km": 11.7,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "490",
-        "url": "https://www.booking.com/hotel/fr/la-tour-brette.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=50592801_205861693_0_2_0&highlighted_blocks=50592801_205861693_0_2_0&matching_block_id=50592801_205861693_0_2_0&sr_pri_blocks=50592801_205861693_0_2_0__48960&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 9.3
-    },
-    {
-        "id_destination": 25,
-        "destination": "Mont Saint Michel",
+        "nom_hotel": "hotelF1 Avranches Baie Du Mont Saint Michel",
+        "ville_de_lhotel": "saint quentin sur le homme",
         "price": "204",
-        "url": "https://www.booking.com/hotel/fr/formule-1-avranches-baie-du-mont-saint-michel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=23532409_94354754_2_2_0&highlighted_blocks=23532409_94354754_2_2_0&matching_block_id=23532409_94354754_2_2_0&sr_pri_blocks=23532409_94354754_2_2_0__20424&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/formule-1-avranches-baie-du-mont-saint-michel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=23532409_94354754_2_2_0&highlighted_blocks=23532409_94354754_2_2_0&matching_block_id=23532409_94354754_2_2_0&sr_pri_blocks=23532409_94354754_2_2_0__20424&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 12.1
+        "de_destination_km": 12.1,
+        "stars": 0
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "468",
-        "url": "https://www.booking.com/hotel/fr/assiettes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=5052301_397924639_2_42_0_220761&highlighted_blocks=5052301_397924639_2_42_0_220761&matching_block_id=5052301_397924639_2_42_0_220761&sr_pri_blocks=5052301_397924639_2_42_0_220761_46800&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 11.7
-    },
-    {
-        "id_destination": 25,
-        "destination": "Mont Saint Michel",
-        "price": "389",
-        "url": "https://www.booking.com/hotel/fr/le-pommeray.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=24758009_91914644_2_2_0&highlighted_blocks=24758009_91914644_2_2_0&matching_block_id=24758009_91914644_2_2_0&sr_pri_blocks=24758009_91914644_2_2_0__38910&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 10.4
-    },
-    {
-        "id_destination": 25,
-        "destination": "Mont Saint Michel",
+        "nom_hotel": "Ibis Avranches Baie du Mont-Saint-Michel",
+        "ville_de_lhotel": "saint quentin sur le homme",
         "price": "429",
-        "url": "https://www.booking.com/hotel/fr/ibis-avranches-baie-du-mont-st-michel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=19151810_97557161_2_2_0&highlighted_blocks=19151810_97557161_2_2_0&matching_block_id=19151810_97557161_2_2_0&sr_pri_blocks=19151810_97557161_2_2_0__42858&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/ibis-avranches-baie-du-mont-st-michel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=19151809_97557161_2_2_0&highlighted_blocks=19151809_97557161_2_2_0&matching_block_id=19151809_97557161_2_2_0&sr_pri_blocks=19151809_97557161_2_2_0__42858&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 12.1
+        "de_destination_km": 12.1,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "783",
-        "url": "https://www.booking.com/hotel/fr/la-ramade.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=5451615_347281385_2_2_0&highlighted_blocks=5451615_347281385_2_2_0&matching_block_id=5451615_347281385_2_2_0&sr_pri_blocks=5451615_347281385_2_2_0__78340&from=searchresults",
+        "nom_hotel": "Hotel Les Montois",
+        "ville_de_lhotel": "céaux",
+        "price": "362",
+        "url": "https://www.booking.com/hotel/fr/le-pommeray.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=24758009_91914644_2_2_0&highlighted_blocks=24758009_91914644_2_2_0&matching_block_id=24758009_91914644_2_2_0&sr_pri_blocks=24758009_91914644_2_2_0__36234&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 11.9
+        "de_destination_km": 10.4,
+        "stars": 2
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "430",
-        "url": "https://www.booking.com/hotel/fr/les-hermelles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=223932501_394054825_2_2_0&highlighted_blocks=223932501_394054825_2_2_0&matching_block_id=223932501_394054825_2_2_0&sr_pri_blocks=223932501_394054825_2_2_0__42960&from=searchresults",
+        "nom_hotel": "Hôtel de La Croix d'Or",
+        "ville_de_lhotel": "avranches",
+        "price": "701",
+        "url": "https://www.booking.com/hotel/fr/ha-tel-de-la-coix-d-or.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=38232702_327091069_2_2_0&highlighted_blocks=38232702_327091069_2_2_0&matching_block_id=38232702_327091069_2_2_0&sr_pri_blocks=38232702_327091069_2_2_0__70056&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 0
+        "de_destination_km": 12.5,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "616",
-        "url": "https://www.booking.com/hotel/fr/ha-tel-de-la-coix-d-or.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=38232708_327091069_2_2_0&highlighted_blocks=38232708_327091069_2_2_0&matching_block_id=38232708_327091069_2_2_0&sr_pri_blocks=38232708_327091069_2_2_0__61560&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 12.5
-    },
-    {
-        "id_destination": 25,
-        "destination": "Mont Saint Michel",
-        "price": "684",
-        "url": "https://www.booking.com/hotel/fr/altos.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=5408010_127951423_0_2_0&highlighted_blocks=5408010_127951423_0_2_0&matching_block_id=5408010_127951423_0_2_0&sr_pri_blocks=5408010_127951423_0_2_0__68400&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 12.3
-    },
-    {
-        "id_destination": 25,
-        "destination": "Mont Saint Michel",
-        "price": "446",
-        "url": "https://www.booking.com/hotel/fr/hotellepatton.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=18137_351630627_2_2_0&highlighted_blocks=18137_351630627_2_2_0&matching_block_id=18137_351630627_2_2_0&sr_pri_blocks=18137_351630627_2_2_0__44560&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 12.5
-    },
-    {
-        "id_destination": 25,
-        "destination": "Mont Saint Michel",
+        "nom_hotel": "Hôtel Le Gue Du Holme",
+        "ville_de_lhotel": "saint quentin sur le homme",
         "price": "569",
-        "url": "https://www.booking.com/hotel/fr/le-gue-du-holme.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=26393102_359113017_0_42_0&highlighted_blocks=26393102_359113017_0_42_0&matching_block_id=26393102_359113017_0_42_0&sr_pri_blocks=26393102_359113017_0_42_0__56904&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/le-gue-du-holme.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=26393102_359113017_0_42_0&highlighted_blocks=26393102_359113017_0_42_0&matching_block_id=26393102_359113017_0_42_0&sr_pri_blocks=26393102_359113017_0_42_0__56904&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 14.3
+        "de_destination_km": 14.3,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "357",
-        "url": "https://www.booking.com/hotel/fr/des-pins-jullouville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=177926807_405992188_2_0_0&highlighted_blocks=177926807_405992188_2_0_0&matching_block_id=177926807_405992188_2_0_0&sr_pri_blocks=177926807_405992188_2_0_0__35695&from=searchresults",
+        "nom_hotel": "Hôtel Patton",
+        "ville_de_lhotel": "avranches",
+        "price": "409",
+        "url": "https://www.booking.com/hotel/fr/hotellepatton.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=18137_351630627_2_2_0&highlighted_blocks=18137_351630627_2_2_0&matching_block_id=18137_351630627_2_2_0&sr_pri_blocks=18137_351630627_2_2_0__40920&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 16.1
+        "de_destination_km": 12.5,
+        "stars": 2
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "464",
-        "url": "https://www.booking.com/hotel/fr/ducey-appart-les-rivieres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=1175167704_394898766_2_2_0&highlighted_blocks=1175167704_394898766_2_2_0&matching_block_id=1175167704_394898766_2_2_0&sr_pri_blocks=1175167704_394898766_2_2_0__46350&from=searchresults",
+        "nom_hotel": "Altos Hotel & Spa",
+        "ville_de_lhotel": "avranches",
+        "price": "510",
+        "url": "https://www.booking.com/hotel/fr/altos.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=5408010_127951423_0_2_0&highlighted_blocks=5408010_127951423_0_2_0&matching_block_id=5408010_127951423_0_2_0&sr_pri_blocks=5408010_127951423_0_2_0__51000&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 16.3
+        "de_destination_km": 12.3,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "468",
-        "url": "https://www.booking.com/hotel/fr/lemoulindeducey.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=5127712_104893116_2_34_0&highlighted_blocks=5127712_104893116_2_34_0&matching_block_id=5127712_104893116_2_34_0&sr_pri_blocks=5127712_104893116_2_34_0__46848&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 0
+        "nom_hotel": "Le Saint Aubert",
+        "ville_de_lhotel": "le mont saint michel",
+        "price": "632",
+        "url": "https://www.booking.com/hotel/fr/hotel-saint-aubert.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=23081103_347524575_0_2_0&highlighted_blocks=23081103_347524575_0_2_0&matching_block_id=23081103_347524575_0_2_0&sr_pri_blocks=23081103_347524575_0_2_0__63156&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "553",
-        "url": "https://www.booking.com/hotel/fr/auberge-de-la-selune.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=5871201_255291537_2_2_0&highlighted_blocks=5871201_255291537_2_2_0&matching_block_id=5871201_255291537_2_2_0&sr_pri_blocks=5871201_255291537_2_2_0__55260&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 25,
-        "destination": "Mont Saint Michel",
+        "nom_hotel": "Best Western Le Moulin de Ducey",
+        "ville_de_lhotel": "ducey",
         "price": "396",
-        "url": "https://www.booking.com/hotel/fr/le-duguesclin-la-haye-pesnel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=27201206_270915778_2_2_0&highlighted_blocks=27201206_270915778_2_2_0&matching_block_id=27201206_270915778_2_2_0&sr_pri_blocks=27201206_270915778_2_2_0__39600&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/lemoulindeducey.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=5127715_104893116_2_34_0&highlighted_blocks=5127715_104893116_2_34_0&matching_block_id=5127715_104893116_2_34_0&sr_pri_blocks=5127715_104893116_2_34_0__39564&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 19.5
+        "de_destination_km": 16.0,
+        "stars": 3
     },
     {
         "id_destination": 25,
         "destination": "Mont Saint Michel",
-        "price": "684",
-        "url": "https://www.booking.com/hotel/fr/hotel-le-grand-large.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4As-C5LsGwAIB0gIkMmVkYTRkOGEtYzU3OC00MDc2LWE3NzQtMDJkMTFiYmQ5MTQz2AIF4AIB&sid=f2ab0af23bc2d6906a92f13cd63ac6c0&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4255129d08a0dd5&srepoch=1735990375&all_sr_blocks=22916107_94353871_2_2_0&highlighted_blocks=22916107_94353871_2_2_0&matching_block_id=22916107_94353871_2_2_0&sr_pri_blocks=22916107_94353871_2_2_0__68352&from=searchresults",
+        "nom_hotel": "Kyriad Dol-de-Bretagne",
+        "ville_de_lhotel": "dol de bretagne",
+        "price": "432",
+        "url": "https://www.booking.com/hotel/fr/kyriad-dol-de-bretagn.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=40549108_91926862_2_2_0&highlighted_blocks=40549108_91926862_2_2_0&matching_block_id=40549108_91926862_2_2_0&sr_pri_blocks=40549108_91926862_2_2_0__43200&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 23.5
+        "de_destination_km": 18.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Hôtel des Pins",
+        "ville_de_lhotel": "jullouville",
+        "price": "334",
+        "url": "https://www.booking.com/hotel/fr/des-pins-jullouville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=177926807_405992188_2_0_0&highlighted_blocks=177926807_405992188_2_0_0&matching_block_id=177926807_405992188_2_0_0&sr_pri_blocks=177926807_405992188_2_0_0__33358&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 16.1,
+        "stars": 0
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Logis Auberge De La Sélune",
+        "ville_de_lhotel": "ducey",
+        "price": "553",
+        "url": "https://www.booking.com/hotel/fr/auberge-de-la-selune.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=5871201_255291537_2_2_0&highlighted_blocks=5871201_255291537_2_2_0&matching_block_id=5871201_255291537_2_2_0&sr_pri_blocks=5871201_255291537_2_2_0__55260&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 16.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Hôtel Duguesclin",
+        "ville_de_lhotel": "la haye pesnel",
+        "price": "396",
+        "url": "https://www.booking.com/hotel/fr/le-duguesclin-la-haye-pesnel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=27201206_270915778_2_2_0&highlighted_blocks=27201206_270915778_2_2_0&matching_block_id=27201206_270915778_2_2_0&sr_pri_blocks=27201206_270915778_2_2_0__39600&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.5,
+        "stars": 0
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Ducey Appart'Hôtel - Les Rivières",
+        "ville_de_lhotel": "ducey",
+        "price": "349",
+        "url": "https://www.booking.com/hotel/fr/ducey-appart-les-rivieres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=1175167704_394898766_2_2_0&highlighted_blocks=1175167704_394898766_2_2_0&matching_block_id=1175167704_394898766_2_2_0&sr_pri_blocks=1175167704_394898766_2_2_0__34872&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 16.3,
+        "stars": 0
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "ibis budget Granville",
+        "ville_de_lhotel": "granville",
+        "price": "381",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-granville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=54488003_94489477_3_2_0&highlighted_blocks=54488003_94489477_3_2_0&matching_block_id=54488003_94489477_3_2_0&sr_pri_blocks=54488003_94489477_3_2_0__38130&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.6,
+        "stars": 2
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Hotel Des Bains",
+        "ville_de_lhotel": "granville",
+        "price": "574",
+        "url": "https://www.booking.com/hotel/fr/des-bains-granville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=24239106_364426258_0_2_0&highlighted_blocks=24239106_364426258_0_2_0&matching_block_id=24239106_364426258_0_2_0&sr_pri_blocks=24239106_364426258_0_2_0__57444&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "ibis Granville Port De Plaisance",
+        "ville_de_lhotel": "granville",
+        "price": "526",
+        "url": "https://www.booking.com/hotel/fr/ibis-granville-port-de-plaisance.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=23731613_94356739_2_42_0&highlighted_blocks=23731613_94356739_2_42_0&matching_block_id=23731613_94356739_2_42_0&sr_pri_blocks=23731613_94356739_2_42_0__52644&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Brit Hotel Essentiel de Granville",
+        "ville_de_lhotel": "granville",
+        "price": "420",
+        "url": "https://www.booking.com/hotel/fr/brit-hotel-essentiel-de-granville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=7667101_352787712_2_2_0&highlighted_blocks=7667101_352787712_2_2_0&matching_block_id=7667101_352787712_2_2_0&sr_pri_blocks=7667101_352787712_2_2_0__42000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.1,
+        "stars": 2
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Hôtel de la Baie - Thalassothérapie PREVITHAL",
+        "ville_de_lhotel": "donville les bains",
+        "price": "771",
+        "url": "https://www.booking.com/hotel/fr/le-pra-c-vithal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=49240501_195869665_0_34_0&highlighted_blocks=49240501_195869665_0_34_0&matching_block_id=49240501_195869665_0_34_0&sr_pri_blocks=49240501_195869665_0_34_0__77127&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.7,
+        "stars": 4
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Mercure Granville Le Grand Large",
+        "ville_de_lhotel": "granville",
+        "price": "721",
+        "url": "https://www.booking.com/hotel/fr/hotel-le-grand-large.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=22916107_94353871_2_2_0&highlighted_blocks=22916107_94353871_2_2_0&matching_block_id=22916107_94353871_2_2_0&sr_pri_blocks=22916107_94353871_2_2_0__72138&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.5,
+        "stars": 4
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Hôtel de Bretagne Dol centre ville",
+        "ville_de_lhotel": "dol de bretagne",
+        "price": "506",
+        "url": "https://www.booking.com/hotel/fr/de-bretagne-dol-de-bretagne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=230090405_176607408_2_2_0&highlighted_blocks=230090405_176607408_2_2_0&matching_block_id=230090405_176607408_2_2_0&sr_pri_blocks=230090405_176607408_2_2_0__50640&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.1,
+        "stars": 0
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Hotel de la Gare",
+        "ville_de_lhotel": "dol de bretagne",
+        "price": "469",
+        "url": "https://www.booking.com/hotel/fr/de-la-gare-dol-de-bretagne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=41889601_378711471_0_0_0&highlighted_blocks=41889601_378711471_0_0_0&matching_block_id=41889601_378711471_0_0_0&sr_pri_blocks=41889601_378711471_0_0_0__46920&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.3,
+        "stars": 0
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Hotel Du Tertre",
+        "ville_de_lhotel": "mont dol",
+        "price": "444",
+        "url": "https://www.booking.com/hotel/fr/du-tertre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=5387601_195092492_0_2_0&highlighted_blocks=5387601_195092492_0_2_0&matching_block_id=5387601_195092492_0_2_0&sr_pri_blocks=5387601_195092492_0_2_0__44400&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.3,
+        "stars": 2
+    },
+    {
+        "id_destination": 25,
+        "destination": "Mont Saint Michel",
+        "nom_hotel": "Château de La Ballue - Teritoria",
+        "ville_de_lhotel": "val couesnon",
+        "price": "1728",
+        "url": "https://www.booking.com/hotel/fr/chateau-de-la-ballue.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Arv7vrwGwAIB0gIkMGYwYjM2NWMtYzQwZC00MWNmLTg4M2ItMGNiMTU3YTc2ZGU32AIF4AIB&sid=662a5b53308f30e550089c034d08af50&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=900039327&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=8f4d3e7680d3006f&srepoch=1737622390&all_sr_blocks=18810513_206351807_0_2_0&highlighted_blocks=18810513_206351807_0_2_0&matching_block_id=18810513_206351807_0_2_0&sr_pri_blocks=18810513_206351807_0_2_0__172824&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.5,
+        "stars": 0
     }
 ]

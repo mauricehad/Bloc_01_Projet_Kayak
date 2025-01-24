@@ -2,201 +2,419 @@
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "434",
-        "url": "https://www.booking.com/hotel/fr/appart-neostelia.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=1208718631_405213935_2_2_0&highlighted_blocks=1208718631_405213935_2_2_0&matching_block_id=1208718631_405213935_2_2_0&sr_pri_blocks=1208718631_405213935_2_2_0__43400&from=searchresults",
+        "nom_hotel": "Ace Hotel Annecy",
+        "ville_de_lhotel": "annecy",
+        "price": "499",
+        "url": "https://www.booking.com/hotel/fr/ace-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=120263601_375993374_0_2_0&highlighted_blocks=120263601_375993374_0_2_0&matching_block_id=120263601_375993374_0_2_0&sr_pri_blocks=120263601_375993374_0_2_0__49920&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "358",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-annecy-cran-gevrier.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=166484902_191424412_2_2_0&highlighted_blocks=166484902_191424412_2_2_0&matching_block_id=166484902_191424412_2_2_0&sr_pri_blocks=166484902_191424412_2_2_0__35760&from=searchresults",
+        "nom_hotel": "Icône Hôtel - Annecy",
+        "ville_de_lhotel": "annecy",
+        "price": "513",
+        "url": "https://www.booking.com/hotel/fr/ica-ne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=100389101_339929286_2_2_0&highlighted_blocks=100389101_339929286_2_2_0&matching_block_id=100389101_339929286_2_2_0&sr_pri_blocks=100389101_339929286_2_2_0__51320&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "603",
-        "url": "https://www.booking.com/hotel/fr/les-terrasses-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=26505702_380776361_2_2_0&highlighted_blocks=26505702_380776361_2_2_0&matching_block_id=26505702_380776361_2_2_0&sr_pri_blocks=26505702_380776361_2_2_0__60320&from=searchresults",
+        "nom_hotel": "Hôtel Les Muses",
+        "ville_de_lhotel": "annecy",
+        "price": "539",
+        "url": "https://www.booking.com/hotel/fr/marina-bay-hotels.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=24211104_115733245_0_2_0&highlighted_blocks=24211104_115733245_0_2_0&matching_block_id=24211104_115733245_0_2_0&sr_pri_blocks=24211104_115733245_0_2_0__53880&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "406",
-        "url": "https://www.booking.com/hotel/fr/appart-city-annecy-seynod.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=18332721_93713336_0_2_0&highlighted_blocks=18332721_93713336_0_2_0&matching_block_id=18332721_93713336_0_2_0&sr_pri_blocks=18332721_93713336_0_2_0__40560&from=searchresults",
+        "nom_hotel": "Allobroges Park Hôtel",
+        "ville_de_lhotel": "annecy",
+        "price": "730",
+        "url": "https://www.booking.com/hotel/fr/tiallobroges.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5037015_93699225_0_2_0&highlighted_blocks=5037015_93699225_0_2_0&matching_block_id=5037015_93699225_0_2_0&sr_pri_blocks=5037015_93699225_0_2_0__73020&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "400",
-        "url": "https://www.booking.com/hotel/fr/sejours-affaires-annecy-le-pont-neuf.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=18592001_99220245_2_2_0&highlighted_blocks=18592001_99220245_2_2_0&matching_block_id=18592001_99220245_2_2_0&sr_pri_blocks=18592001_99220245_2_2_0__40020&from=searchresults",
+        "nom_hotel": "Zenitude Hôtel-Résidences Les Hauts d'Annecy",
+        "ville_de_lhotel": "annecy",
+        "price": "433",
+        "url": "https://www.booking.com/hotel/fr/appart-city-annecy-seynod.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=18332721_93713336_0_2_0&highlighted_blocks=18332721_93713336_0_2_0&matching_block_id=18332721_93713336_0_2_0&sr_pri_blocks=18332721_93713336_0_2_0__43260&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "828",
-        "url": "https://www.booking.com/hotel/fr/splendid-hotel-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=22596812_117041894_2_2_0&highlighted_blocks=22596812_117041894_2_2_0&matching_block_id=22596812_117041894_2_2_0&sr_pri_blocks=22596812_117041894_2_2_0__82836&from=searchresults",
+        "nom_hotel": "Hôtel des Alpes",
+        "ville_de_lhotel": "annecy",
+        "price": "477",
+        "url": "https://www.booking.com/hotel/fr/hotel-des-alpes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=62191_195934951_0_2_0&highlighted_blocks=62191_195934951_0_2_0&matching_block_id=62191_195934951_0_2_0&sr_pri_blocks=62191_195934951_0_2_0__47730&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "486",
-        "url": "https://www.booking.com/hotel/fr/marina-bay-hotels.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=24211112_115733245_0_2_0&highlighted_blocks=24211112_115733245_0_2_0&matching_block_id=24211112_115733245_0_2_0&sr_pri_blocks=24211112_115733245_0_2_0__48570&from=searchresults",
+        "nom_hotel": "Le Pélican",
+        "ville_de_lhotel": "annecy",
+        "price": "1802",
+        "url": "https://www.booking.com/hotel/fr/le-pelican-annecy1.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=756018806_332440559_4_2_0&highlighted_blocks=756018806_332440559_4_2_0&matching_block_id=756018806_332440559_4_2_0&sr_pri_blocks=756018806_332440559_4_2_0__180240&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "550",
-        "url": "https://www.booking.com/hotel/fr/hotelalexandra.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=13951_309366621_0_2_0&highlighted_blocks=13951_309366621_0_2_0&matching_block_id=13951_309366621_0_2_0&sr_pri_blocks=13951_309366621_0_2_0__55020&from=searchresults",
+        "nom_hotel": "Sure Hotel by Best Western Annecy",
+        "ville_de_lhotel": "annecy",
+        "price": "441",
+        "url": "https://www.booking.com/hotel/fr/best-ha-tel-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=44247614_91474809_2_2_0&highlighted_blocks=44247614_91474809_2_2_0&matching_block_id=44247614_91474809_2_2_0&sr_pri_blocks=44247614_91474809_2_2_0__44051&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "566",
-        "url": "https://www.booking.com/hotel/fr/ibis-annecy-centre-vieille-ville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=56932503_94493442_2_34_0&highlighted_blocks=56932503_94493442_2_34_0&matching_block_id=56932503_94493442_2_34_0&sr_pri_blocks=56932503_94493442_2_34_0__56564&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 3,
-        "destination": "Annecy",
-        "price": "667",
-        "url": "https://www.booking.com/hotel/fr/adagio-city-aparthotel-annecy-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=5790703_94277541_3_2_0&highlighted_blocks=5790703_94277541_3_2_0&matching_block_id=5790703_94277541_3_2_0&sr_pri_blocks=5790703_94277541_3_2_0__66692&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 3,
-        "destination": "Annecy",
+        "nom_hotel": "Les Loges Annecy Vieille Ville",
+        "ville_de_lhotel": "annecy",
         "price": "1427",
-        "url": "https://www.booking.com/hotel/fr/imperial-palace.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=5434032_270549348_2_2_0&highlighted_blocks=5434032_270549348_2_2_0&matching_block_id=5434032_270549348_2_2_0&sr_pri_blocks=5434032_270549348_2_2_0__142740&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/les-loges-annecy-vieille-ville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=88893602_326755966_0_42_0&highlighted_blocks=88893602_326755966_0_42_0&matching_block_id=88893602_326755966_0_42_0&sr_pri_blocks=88893602_326755966_0_42_0__142668&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 5
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "518",
-        "url": "https://www.booking.com/hotel/fr/hotel-des-alpes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=62191_195934951_0_2_0&highlighted_blocks=62191_195934951_0_2_0&matching_block_id=62191_195934951_0_2_0&sr_pri_blocks=62191_195934951_0_2_0__51780&from=searchresults",
+        "nom_hotel": "Aparthotel Adagio Annecy Centre",
+        "ville_de_lhotel": "annecy",
+        "price": "517",
+        "url": "https://www.booking.com/hotel/fr/adagio-city-aparthotel-annecy-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5790701_94277541_2_2_0&highlighted_blocks=5790701_94277541_2_2_0&matching_block_id=5790701_94277541_2_2_0&sr_pri_blocks=5790701_94277541_2_2_0__51654&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "785",
-        "url": "https://www.booking.com/hotel/fr/le-royal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=5364537_88918802_2_2_0&highlighted_blocks=5364537_88918802_2_2_0&matching_block_id=5364537_88918802_2_2_0&sr_pri_blocks=5364537_88918802_2_2_0__78520&from=searchresults",
+        "nom_hotel": "Centre Jean XXIII",
+        "ville_de_lhotel": "annecy",
+        "price": "620",
+        "url": "https://www.booking.com/hotel/fr/centre-jean-xxiii.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=241753809_101827910_2_1_0&highlighted_blocks=241753809_101827910_2_1_0&matching_block_id=241753809_101827910_2_1_0&sr_pri_blocks=241753809_101827910_2_1_0__62040&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "1306",
-        "url": "https://www.booking.com/hotel/fr/rivage-amp-spa-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=720658203_309071608_2_2_0&highlighted_blocks=720658203_309071608_2_2_0&matching_block_id=720658203_309071608_2_2_0&sr_pri_blocks=720658203_309071608_2_2_0__130640&from=searchresults",
+        "nom_hotel": "Campanile Annecy - Cran Gevrier",
+        "ville_de_lhotel": "annecy",
+        "price": "397",
+        "url": "https://www.booking.com/hotel/fr/campanile-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5497010_94106558_2_42_0&highlighted_blocks=5497010_94106558_2_42_0&matching_block_id=5497010_94106558_2_42_0&sr_pri_blocks=5497010_94106558_2_42_0__39720&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "465",
-        "url": "https://www.booking.com/hotel/fr/hotel-balladins-annecy-superior.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=23081417_91467969_2_2_0&highlighted_blocks=23081417_91467969_2_2_0&matching_block_id=23081417_91467969_2_2_0&sr_pri_blocks=23081417_91467969_2_2_0__46473&from=searchresults",
+        "nom_hotel": "Hôtel de Bonlieu",
+        "ville_de_lhotel": "annecy",
+        "price": "595",
+        "url": "https://www.booking.com/hotel/fr/hoteldebonlieu.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5197708_81662194_0_2_0&highlighted_blocks=5197708_81662194_0_2_0&matching_block_id=5197708_81662194_0_2_0&sr_pri_blocks=5197708_81662194_0_2_0__59520&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "531",
-        "url": "https://www.booking.com/hotel/fr/best-ha-tel-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=44247614_388865092_2_2_0&highlighted_blocks=44247614_388865092_2_2_0&matching_block_id=44247614_388865092_2_2_0&sr_pri_blocks=44247614_388865092_2_2_0__53130&from=searchresults",
+        "nom_hotel": "Séjours & Affaires Annecy Le Pont Neuf",
+        "ville_de_lhotel": "annecy",
+        "price": "424",
+        "url": "https://www.booking.com/hotel/fr/sejours-affaires-annecy-le-pont-neuf.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=18592001_262906438_2_2_0&highlighted_blocks=18592001_262906438_2_2_0&matching_block_id=18592001_262906438_2_2_0&sr_pri_blocks=18592001_262906438_2_2_0__42420&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "756",
-        "url": "https://www.booking.com/hotel/fr/annecy-centre-atria.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=5729729_94276465_2_2_0&highlighted_blocks=5729729_94276465_2_2_0&matching_block_id=5729729_94276465_2_2_0&sr_pri_blocks=5729729_94276465_2_2_0__75624&from=searchresults",
+        "nom_hotel": "Novotel Annecy Centre",
+        "ville_de_lhotel": "annecy",
+        "price": "690",
+        "url": "https://www.booking.com/hotel/fr/annecy-centre-atria.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5729729_94276465_2_2_0&highlighted_blocks=5729729_94276465_2_2_0&matching_block_id=5729729_94276465_2_2_0&sr_pri_blocks=5729729_94276465_2_2_0__69031&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "421",
-        "url": "https://www.booking.com/hotel/fr/campanile-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=5497010_94106558_2_42_0&highlighted_blocks=5497010_94106558_2_42_0&matching_block_id=5497010_94106558_2_42_0&sr_pri_blocks=5497010_94106558_2_42_0__42120&from=searchresults",
+        "nom_hotel": "Fasthotel Annecy",
+        "ville_de_lhotel": "annecy",
+        "price": "398",
+        "url": "https://www.booking.com/hotel/fr/fasthotel-seynod.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5433501_106932486_0_2_0&highlighted_blocks=5433501_106932486_0_2_0&matching_block_id=5433501_106932486_0_2_0&sr_pri_blocks=5433501_106932486_0_2_0__39836&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "422",
-        "url": "https://www.booking.com/hotel/fr/greet-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=53686302_94487685_2_2_0&highlighted_blocks=53686302_94487685_2_2_0&matching_block_id=53686302_94487685_2_2_0&sr_pri_blocks=53686302_94487685_2_2_0__42216&from=searchresults",
+        "nom_hotel": "Hôtel du Nord",
+        "ville_de_lhotel": "annecy",
+        "price": "472",
+        "url": "https://www.booking.com/hotel/fr/hoteldunordannecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5142101_90177622_0_2_0&highlighted_blocks=5142101_90177622_0_2_0&matching_block_id=5142101_90177622_0_2_0&sr_pri_blocks=5142101_90177622_0_2_0__47220&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "580",
-        "url": "https://www.booking.com/hotel/fr/ica-ne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=100389101_339929286_2_2_0&highlighted_blocks=100389101_339929286_2_2_0&matching_block_id=100389101_339929286_2_2_0&sr_pri_blocks=100389101_339929286_2_2_0__58020&from=searchresults",
+        "nom_hotel": "Impérial Palace",
+        "ville_de_lhotel": "annecy",
+        "price": "7177",
+        "url": "https://www.booking.com/hotel/fr/imperial-palace.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5434042_270549348_4_2_0&highlighted_blocks=5434042_270549348_4_2_0&matching_block_id=5434042_270549348_4_2_0&sr_pri_blocks=5434042_270549348_4_2_0__717740&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "1083",
-        "url": "https://www.booking.com/hotel/fr/le-pelican-annecy1.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=756018803_332440559_2_2_0&highlighted_blocks=756018803_332440559_2_2_0&matching_block_id=756018803_332440559_2_2_0&sr_pri_blocks=756018803_332440559_2_2_0__108340&from=searchresults",
+        "nom_hotel": "Le Splendid Hotel Lac D'Annecy - Handwritten Collection",
+        "ville_de_lhotel": "annecy",
+        "price": "1134",
+        "url": "https://www.booking.com/hotel/fr/splendid-hotel-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=22596814_117041894_4_2_0&highlighted_blocks=22596814_117041894_4_2_0&matching_block_id=22596814_117041894_4_2_0&sr_pri_blocks=22596814_117041894_4_2_0__113440&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "379",
-        "url": "https://www.booking.com/hotel/fr/fasthotel-seynod.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=5433501_106932486_0_2_0&highlighted_blocks=5433501_106932486_0_2_0&matching_block_id=5433501_106932486_0_2_0&sr_pri_blocks=5433501_106932486_0_2_0__37944&from=searchresults",
+        "nom_hotel": "Hôtel du Palais de l'Isle",
+        "ville_de_lhotel": "annecy",
+        "price": "801",
+        "url": "https://www.booking.com/hotel/fr/du-palais-de-l-isle-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=18571501_195842249_2_34_0&highlighted_blocks=18571501_195842249_2_34_0&matching_block_id=18571501_195842249_2_34_0&sr_pri_blocks=18571501_195842249_2_34_0__80120&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
+        "nom_hotel": "Hôtel Catalpa",
+        "ville_de_lhotel": "annecy",
+        "price": "677",
+        "url": "https://www.booking.com/hotel/fr/au-faisan-dora-c.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=37631304_363243986_0_2_0&highlighted_blocks=37631304_363243986_0_2_0&matching_block_id=37631304_363243986_0_2_0&sr_pri_blocks=37631304_363243986_0_2_0__67720&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Atipik Hôtel",
+        "ville_de_lhotel": "annecy",
+        "price": "525",
+        "url": "https://www.booking.com/hotel/fr/hotelalexandra.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=13951_309366621_0_2_0&highlighted_blocks=13951_309366621_0_2_0&matching_block_id=13951_309366621_0_2_0&sr_pri_blocks=13951_309366621_0_2_0__52520&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "greet hôtel Annecy Cran-Gevrier",
+        "ville_de_lhotel": "annecy",
+        "price": "444",
+        "url": "https://www.booking.com/hotel/fr/greet-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=53686302_94487685_2_2_0&highlighted_blocks=53686302_94487685_2_2_0&matching_block_id=53686302_94487685_2_2_0&sr_pri_blocks=53686302_94487685_2_2_0__44370&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Apparthotel Privilodges Le Royal",
+        "ville_de_lhotel": "annecy",
+        "price": "627",
+        "url": "https://www.booking.com/hotel/fr/le-royal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5364544_88918802_2_2_0&highlighted_blocks=5364544_88918802_2_2_0&matching_block_id=5364544_88918802_2_2_0&sr_pri_blocks=5364544_88918802_2_2_0__62720&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Hôtel Le Pré Carré",
+        "ville_de_lhotel": "annecy",
+        "price": "969",
+        "url": "https://www.booking.com/hotel/fr/leprecarre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5315414_373224459_2_2_0&highlighted_blocks=5315414_373224459_2_2_0&matching_block_id=5315414_373224459_2_2_0&sr_pri_blocks=5315414_373224459_2_2_0__96940&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Hotel Novel Restaurant La Mamma",
+        "ville_de_lhotel": "annecy",
+        "price": "583",
+        "url": "https://www.booking.com/hotel/fr/logis-de-france-novel-rest-la-mamma.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5518602_365571562_0_2_0&highlighted_blocks=5518602_365571562_0_2_0&matching_block_id=5518602_365571562_0_2_0&sr_pri_blocks=5518602_365571562_0_2_0__58320&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Logis - Hôtel Restaurant Bellevue Annecy",
+        "ville_de_lhotel": "annecy",
+        "price": "730",
+        "url": "https://www.booking.com/hotel/fr/bellevue-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=24363802_221262544_2_34_0&highlighted_blocks=24363802_221262544_2_34_0&matching_block_id=24363802_221262544_2_34_0&sr_pri_blocks=24363802_221262544_2_34_0__73020&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Les Z'hirondelles",
+        "ville_de_lhotel": "annecy",
+        "price": "522",
+        "url": "https://www.booking.com/hotel/fr/les-z-hirondelles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=25729701_326752400_0_0_0&highlighted_blocks=25729701_326752400_0_0_0&matching_block_id=25729701_326752400_0_0_0&sr_pri_blocks=25729701_326752400_0_0_0__52225&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Campanile Annecy Centre - Gare",
+        "ville_de_lhotel": "annecy",
+        "price": "631",
+        "url": "https://www.booking.com/hotel/fr/campanile-annecy-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=137772802_309353561_2_2_0&highlighted_blocks=137772802_309353561_2_2_0&matching_block_id=137772802_309353561_2_2_0&sr_pri_blocks=137772802_309353561_2_2_0__63120&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Moxy Annecy",
+        "ville_de_lhotel": "annecy",
+        "price": "495",
+        "url": "https://www.booking.com/hotel/fr/moxy-annecy.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5350138_401092325_0_2_0&highlighted_blocks=5350138_401092325_0_2_0&matching_block_id=5350138_401092325_0_2_0&sr_pri_blocks=5350138_401092325_0_2_0__49520&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "ibis Annecy Centre Vieille Ville",
+        "ville_de_lhotel": "annecy",
+        "price": "612",
+        "url": "https://www.booking.com/hotel/fr/ibis-annecy-centre-vieille-ville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=56932506_94493442_2_34_0&highlighted_blocks=56932506_94493442_2_34_0&matching_block_id=56932506_94493442_2_34_0&sr_pri_blocks=56932506_94493442_2_34_0__61201&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Appart Hotel Neostelia",
+        "ville_de_lhotel": "annecy",
+        "price": "438",
+        "url": "https://www.booking.com/hotel/fr/appart-neostelia.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=1208718624_405213935_2_2_0&highlighted_blocks=1208718624_405213935_2_2_0&matching_block_id=1208718624_405213935_2_2_0&sr_pri_blocks=1208718624_405213935_2_2_0__43800&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Best Western Plus Hotel Carlton Annecy",
+        "ville_de_lhotel": "annecy",
+        "price": "656",
+        "url": "https://www.booking.com/hotel/fr/bestwesterncarlton.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5078119_338226691_2_2_0&highlighted_blocks=5078119_338226691_2_2_0&matching_block_id=5078119_338226691_2_2_0&sr_pri_blocks=5078119_338226691_2_2_0__65640&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Ibis Annecy - Cran-Gevrier",
+        "ville_de_lhotel": "annecy",
+        "price": "525",
+        "url": "https://www.booking.com/hotel/fr/hotel-balladins-annecy-superior.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=23081415_91467969_2_2_0&highlighted_blocks=23081415_91467969_2_2_0&matching_block_id=23081415_91467969_2_2_0&sr_pri_blocks=23081415_91467969_2_2_0__52512&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "ibis Styles Annecy Centre Gare",
+        "ville_de_lhotel": "annecy",
+        "price": "632",
+        "url": "https://www.booking.com/hotel/fr/comforthotelmandallaz.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=21155607_376288310_2_1_0&highlighted_blocks=21155607_376288310_2_1_0&matching_block_id=21155607_376288310_2_1_0&sr_pri_blocks=21155607_376288310_2_1_0__63156&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 3,
+        "destination": "Annecy",
+        "nom_hotel": "Mercure Annecy Sud",
+        "ville_de_lhotel": "annecy",
         "price": "726",
-        "url": "https://www.booking.com/hotel/fr/comforthotelmandallaz.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=21155604_376288310_2_1_0&highlighted_blocks=21155604_376288310_2_1_0&matching_block_id=21155604_376288310_2_1_0&sr_pri_blocks=21155604_376288310_2_1_0__72616&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/mercure-annecy-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5544003_94274032_2_42_0&highlighted_blocks=5544003_94274032_2_42_0&matching_block_id=5544003_94274032_2_42_0&sr_pri_blocks=5544003_94274032_2_42_0__72560&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "586",
-        "url": "https://www.booking.com/hotel/fr/campanile-annecy-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=137772801_93780648_2_2_0&highlighted_blocks=137772801_93780648_2_2_0&matching_block_id=137772801_93780648_2_2_0&sr_pri_blocks=137772801_93780648_2_2_0__58560&from=searchresults",
+        "nom_hotel": "Premiere Classe Annecy Cran-Gevrier",
+        "ville_de_lhotel": "annecy",
+        "price": "422",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-annecy-cran-gevrier.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=166484903_191424412_3_2_0&highlighted_blocks=166484903_191424412_3_2_0&matching_block_id=166484903_191424412_3_2_0&sr_pri_blocks=166484903_191424412_3_2_0__42160&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 1
     },
     {
         "id_destination": 3,
         "destination": "Annecy",
-        "price": "593",
-        "url": "https://www.booking.com/hotel/fr/logis-de-france-novel-rest-la-mamma.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar2A5LsGwAIB0gIkZjFiMTI0NWQtYjUyZC00NmE1LWFmNTctZTFlNzIyNmRlMGI32AIF4AIB&sid=f54edc7492fca222c465a621bc2f43c1&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=52404ee1858811c4&srepoch=1735989205&all_sr_blocks=5518602_365571562_0_2_0&highlighted_blocks=5518602_365571562_0_2_0&matching_block_id=5518602_365571562_0_2_0&sr_pri_blocks=5518602_365571562_0_2_0__59320&from=searchresults",
+        "nom_hotel": "Mercure Annecy Centre",
+        "ville_de_lhotel": "annecy",
+        "price": "653",
+        "url": "https://www.booking.com/hotel/fr/mercure-annecy-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqT5vrwGwAIB0gIkNGI5MjFhMDQtZGM0MS00YjNlLWJlZTktZGEwNWI0NjFhZWFi2AIF4AIB&sid=62d6112aef46dfcbe074e1835f1ce3be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1407760&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&nflt=ht_id%3D204&srpvid=03ce3da2940c056d&srepoch=1737621966&all_sr_blocks=5402707_94273092_2_2_0&highlighted_blocks=5402707_94273092_2_2_0&matching_block_id=5402707_94273092_2_2_0&sr_pri_blocks=5402707_94273092_2_2_0__65301&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     }
 ]

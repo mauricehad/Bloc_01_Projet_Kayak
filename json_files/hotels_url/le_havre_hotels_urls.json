@@ -2,201 +2,364 @@
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "287",
-        "url": "https://www.booking.com/hotel/fr/comfort-d-angleterre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=25368202_95459019_2_2_0&highlighted_blocks=25368202_95459019_2_2_0&matching_block_id=25368202_95459019_2_2_0&sr_pri_blocks=25368202_95459019_2_2_0__28696&from=searchresults",
+        "nom_hotel": "Holiday Inn Express - Le Havre Centre",
+        "ville_de_lhotel": "le havre",
+        "price": "529",
+        "url": "https://www.booking.com/hotel/fr/campanile-le-havre-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=221478607_237142091_2_1_0&highlighted_blocks=221478607_237142091_2_1_0&matching_block_id=221478607_237142091_2_1_0&sr_pri_blocks=221478607_237142091_2_1_0__52920&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "413",
-        "url": "https://www.booking.com/hotel/fr/all-suites-appart-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=1054936906_377685130_2_2_0&highlighted_blocks=1054936906_377685130_2_2_0&matching_block_id=1054936906_377685130_2_2_0&sr_pri_blocks=1054936906_377685130_2_2_0__41250&from=searchresults",
+        "nom_hotel": "Premiere Classe Le Havre Centre-LES DOCKS",
+        "ville_de_lhotel": "le havre",
+        "price": "288",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-le-havre-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=195745603_93600738_2_2_0&highlighted_blocks=195745603_93600738_2_2_0&matching_block_id=195745603_93600738_2_2_0&sr_pri_blocks=195745603_93600738_2_2_0__28800&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "408",
-        "url": "https://www.booking.com/hotel/fr/odalys-city-le-havre-centre-les-docks.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=1012728801_373954739_0_2_0&highlighted_blocks=1012728801_373954739_0_2_0&matching_block_id=1012728801_373954739_0_2_0&sr_pri_blocks=1012728801_373954739_0_2_0__40760&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "304",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget-le-havre-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=65949703_97552262_2_2_0&highlighted_blocks=65949703_97552262_2_2_0&matching_block_id=65949703_97552262_2_2_0&sr_pri_blocks=65949703_97552262_2_2_0__30389&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "301",
-        "url": "https://www.booking.com/hotel/fr/arthur-residency-luxury-apartment-gare-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=1241425301_400214573_2_2_0&highlighted_blocks=1241425301_400214573_2_2_0&matching_block_id=1241425301_400214573_2_2_0&sr_pri_blocks=1241425301_400214573_2_2_0__30109&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "307",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-le-havre-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=195745603_93600738_2_2_0&highlighted_blocks=195745603_93600738_2_2_0&matching_block_id=195745603_93600738_2_2_0&sr_pri_blocks=195745603_93600738_2_2_0__30732&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "383",
-        "url": "https://www.booking.com/hotel/fr/adagio-access-le-havre-les-docks.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=58503202_94495718_2_2_0&highlighted_blocks=58503202_94495718_2_2_0&matching_block_id=58503202_94495718_2_2_0&sr_pri_blocks=58503202_94495718_2_2_0__38284&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "471",
-        "url": "https://www.booking.com/hotel/fr/hotelibislehavre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=21358908_94349077_2_2_0&highlighted_blocks=21358908_94349077_2_2_0&matching_block_id=21358908_94349077_2_2_0&sr_pri_blocks=21358908_94349077_2_2_0__47140&from_sustainable_property_sr=1&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "226",
-        "url": "https://www.booking.com/hotel/fr/eklo-hotels-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=137103405_365392149_2_0_0&highlighted_blocks=137103405_365392149_2_0_0&matching_block_id=137103405_365392149_2_0_0&sr_pri_blocks=137103405_365392149_2_0_0__22560&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "392",
-        "url": "https://www.booking.com/hotel/fr/campanile-le-havre-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=221478607_98094477_2_1_0&highlighted_blocks=221478607_98094477_2_1_0&matching_block_id=221478607_98094477_2_1_0&sr_pri_blocks=221478607_98094477_2_1_0__39168&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "901",
-        "url": "https://www.booking.com/hotel/fr/pasino.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=5392001_386974989_2_42_0&highlighted_blocks=5392001_386974989_2_42_0&matching_block_id=5392001_386974989_2_42_0&sr_pri_blocks=5392001_386974989_2_42_0__90120&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
-        "price": "482",
-        "url": "https://www.booking.com/hotel/fr/odalys-city-le-havre-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=867266501_355203425_0_2_0&highlighted_blocks=867266501_355203425_0_2_0&matching_block_id=867266501_355203425_0_2_0&sr_pri_blocks=867266501_355203425_0_2_0__48240&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 21,
-        "destination": "Le Havre",
+        "nom_hotel": "Birgit Hôtel Le Havre Centre",
+        "ville_de_lhotel": "le havre",
         "price": "395",
-        "url": "https://www.booking.com/hotel/fr/kyriadlehavrecentre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=5193905_94105707_2_2_0&highlighted_blocks=5193905_94105707_2_2_0&matching_block_id=5193905_94105707_2_2_0&sr_pri_blocks=5193905_94105707_2_2_0__39540&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/kyriadlehavrecentre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=5193907_94105707_2_2_0&highlighted_blocks=5193907_94105707_2_2_0&matching_block_id=5193907_94105707_2_2_0&sr_pri_blocks=5193907_94105707_2_2_0__39480&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "477",
-        "url": "https://www.booking.com/hotel/fr/carmin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=5857817_98846811_2_34_0&highlighted_blocks=5857817_98846811_2_34_0&matching_block_id=5857817_98846811_2_34_0&sr_pri_blocks=5857817_98846811_2_34_0__47664&from=searchresults",
+        "nom_hotel": "Hotel de Charme La Bonne Adresse - Logis de France",
+        "ville_de_lhotel": "le havre",
+        "price": "682",
+        "url": "https://www.booking.com/hotel/fr/des-phares.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=5836323_395834712_2_2_0_748463&highlighted_blocks=5836323_395834712_2_2_0_748463&matching_block_id=5836323_395834712_2_2_0_748463&sr_pri_blocks=5836323_395834712_2_2_0_748463_68200&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "305",
-        "url": "https://www.booking.com/hotel/fr/appart-city-cap-affaires-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=2258909_95146764_0_2_0&highlighted_blocks=2258909_95146764_0_2_0&matching_block_id=2258909_95146764_0_2_0&sr_pri_blocks=2258909_95146764_0_2_0__30540&from=searchresults",
+        "nom_hotel": "All Suites Appart Hotel Le Havre",
+        "ville_de_lhotel": "le havre",
+        "price": "438",
+        "url": "https://www.booking.com/hotel/fr/all-suites-appart-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=1054936906_377685130_2_2_0&highlighted_blocks=1054936906_377685130_2_2_0&matching_block_id=1054936906_377685130_2_2_0&sr_pri_blocks=1054936906_377685130_2_2_0__43770&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "539",
-        "url": "https://www.booking.com/hotel/fr/hotelterminuslehavre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=5172921_88554862_2_2_0&highlighted_blocks=5172921_88554862_2_2_0&matching_block_id=5172921_88554862_2_2_0&sr_pri_blocks=5172921_88554862_2_2_0__53914&from=searchresults",
+        "nom_hotel": "Nomad Hotel le Havre",
+        "ville_de_lhotel": "le havre",
+        "price": "481",
+        "url": "https://www.booking.com/hotel/fr/nomad-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=142475302_87007957_0_2_0&highlighted_blocks=142475302_87007957_0_2_0&matching_block_id=142475302_87007957_0_2_0&sr_pri_blocks=142475302_87007957_0_2_0__48140&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "420",
-        "url": "https://www.booking.com/hotel/fr/mondial-le-havre123.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=589501302_231254887_4_0_0&highlighted_blocks=589501302_231254887_4_0_0&matching_block_id=589501302_231254887_4_0_0&sr_pri_blocks=589501302_231254887_4_0_0__42000&from=searchresults",
+        "nom_hotel": "Odalys City Le Havre Centre Gare",
+        "ville_de_lhotel": "le havre",
+        "price": "534",
+        "url": "https://www.booking.com/hotel/fr/odalys-city-le-havre-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=867266501_391329993_0_2_0&highlighted_blocks=867266501_391329993_0_2_0&matching_block_id=867266501_391329993_0_2_0&sr_pri_blocks=867266501_391329993_0_2_0__53430&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "584",
-        "url": "https://www.booking.com/hotel/fr/art.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=5372314_88554860_2_2_0&highlighted_blocks=5372314_88554860_2_2_0&matching_block_id=5372314_88554860_2_2_0&sr_pri_blocks=5372314_88554860_2_2_0__58449&from=searchresults",
+        "nom_hotel": "Best Western Plus Le Havre Centre Gare",
+        "ville_de_lhotel": "le havre",
+        "price": "580",
+        "url": "https://www.booking.com/hotel/fr/hotelterminuslehavre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=5172921_88554862_2_2_0&highlighted_blocks=5172921_88554862_2_2_0&matching_block_id=5172921_88554862_2_2_0&sr_pri_blocks=5172921_88554862_2_2_0__58014&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "667",
-        "url": "https://www.booking.com/hotel/fr/mercure-bassin-du-commerce.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=5410221_94273234_2_42_0&highlighted_blocks=5410221_94273234_2_42_0&matching_block_id=5410221_94273234_2_42_0&sr_pri_blocks=5410221_94273234_2_42_0__66702&from=searchresults",
+        "nom_hotel": "The Originals Boutique, Hôtel d'Angleterre, Le Havre, centre, plage",
+        "ville_de_lhotel": "le havre",
+        "price": "261",
+        "url": "https://www.booking.com/hotel/fr/comfort-d-angleterre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=25368202_95459019_2_2_0&highlighted_blocks=25368202_95459019_2_2_0&matching_block_id=25368202_95459019_2_2_0&sr_pri_blocks=25368202_95459019_2_2_0__26075&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "468",
-        "url": "https://www.booking.com/hotel/fr/la-baraka.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=220484108_359586554_0_2_0&highlighted_blocks=220484108_359586554_0_2_0&matching_block_id=220484108_359586554_0_2_0&sr_pri_blocks=220484108_359586554_0_2_0__46820&from=searchresults",
+        "nom_hotel": "Hôtel Spa Vent d'Ouest",
+        "ville_de_lhotel": "le havre",
+        "price": "992",
+        "url": "https://www.booking.com/hotel/fr/vent-d-ouest-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=18058418_96136613_0_2_0&highlighted_blocks=18058418_96136613_0_2_0&matching_block_id=18058418_96136613_0_2_0&sr_pri_blocks=18058418_96136613_0_2_0__99200&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "707",
-        "url": "https://www.booking.com/hotel/fr/hilton-garden-inn-le-havre-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=777269506_336040552_2_42_0&highlighted_blocks=777269506_336040552_2_42_0&matching_block_id=777269506_336040552_2_42_0&sr_pri_blocks=777269506_336040552_2_42_0__70723&from_sustainable_property_sr=1&from=searchresults",
+        "nom_hotel": "Best Western ARThotel",
+        "ville_de_lhotel": "le havre",
+        "price": "582",
+        "url": "https://www.booking.com/hotel/fr/art.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=5372311_332364116_2_2_0&highlighted_blocks=5372311_332364116_2_2_0&matching_block_id=5372311_332364116_2_2_0&sr_pri_blocks=5372311_332364116_2_2_0__58152&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "337",
-        "url": "https://www.booking.com/hotel/fr/jost-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=1069692001_390721628_2_2_0_649383&highlighted_blocks=1069692001_390721628_2_2_0_649383&matching_block_id=1069692001_390721628_2_2_0_649383&sr_pri_blocks=1069692001_390721628_2_2_0_649383_33664&from=searchresults",
+        "nom_hotel": "JOST Hôtel Le Havre Centre Gare",
+        "ville_de_lhotel": "le havre",
+        "price": "349",
+        "url": "https://www.booking.com/hotel/fr/jost-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=1069692001_390721628_2_2_0_649383&highlighted_blocks=1069692001_390721628_2_2_0_649383&matching_block_id=1069692001_390721628_2_2_0_649383&sr_pri_blocks=1069692001_390721628_2_2_0_649383_34866&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "511",
-        "url": "https://www.booking.com/hotel/fr/nomad-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=142475302_87007957_0_2_0&highlighted_blocks=142475302_87007957_0_2_0&matching_block_id=142475302_87007957_0_2_0&sr_pri_blocks=142475302_87007957_0_2_0__51120&from=searchresults",
+        "nom_hotel": "Mercure Le Havre Centre Bassin Du Commerce",
+        "ville_de_lhotel": "le havre",
+        "price": "786",
+        "url": "https://www.booking.com/hotel/fr/mercure-bassin-du-commerce.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=5410221_376293209_2_42_0&highlighted_blocks=5410221_376293209_2_42_0&matching_block_id=5410221_376293209_2_42_0&sr_pri_blocks=5410221_376293209_2_42_0__78640&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
+        "nom_hotel": "Arthur Residency - Luxury Apartment - Gare Le Havre",
+        "ville_de_lhotel": "le havre",
+        "price": "301",
+        "url": "https://www.booking.com/hotel/fr/arthur-residency-luxury-apartment-gare-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=1241425301_400214573_2_2_0&highlighted_blocks=1241425301_400214573_2_2_0&matching_block_id=1241425301_400214573_2_2_0&sr_pri_blocks=1241425301_400214573_2_2_0__30109&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Hôtel Richelieu, Le Havre Centre-Ville",
+        "ville_de_lhotel": "le havre",
+        "price": "290",
+        "url": "https://www.booking.com/hotel/fr/le-richelieu-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=18051902_88554879_0_0_0&highlighted_blocks=18051902_88554879_0_0_0&matching_block_id=18051902_88554879_0_0_0&sr_pri_blocks=18051902_88554879_0_0_0__29040&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Résidence Hôtelière de l'Estuaire",
+        "ville_de_lhotel": "le havre",
         "price": "368",
-        "url": "https://www.booking.com/hotel/fr/residence-hoteliere-de-l-estuaire.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=253862703_103936599_2_0_0&highlighted_blocks=253862703_103936599_2_0_0&matching_block_id=253862703_103936599_2_0_0&sr_pri_blocks=253862703_103936599_2_0_0__36780&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/residence-hoteliere-de-l-estuaire.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=253862703_103936599_2_0_0&highlighted_blocks=253862703_103936599_2_0_0&matching_block_id=253862703_103936599_2_0_0&sr_pri_blocks=253862703_103936599_2_0_0__36780&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 21,
         "destination": "Le Havre",
-        "price": "823",
-        "url": "https://www.booking.com/hotel/fr/vent-d-ouest-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ap2C5LsGwAIB0gIkNDFkMTlkNzUtMGMwYy00ZjFjLWEzYzMtZjZhYzIxODU5MzBm2AIF4AIB&sid=4c2ab01aaa6126268a823979ce510ee3&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=a99e50bfef8b15fe&srepoch=1735990163&all_sr_blocks=18058416_175900881_0_2_0&highlighted_blocks=18058416_175900881_0_2_0&matching_block_id=18058416_175900881_0_2_0&sr_pri_blocks=18058416_175900881_0_2_0__82300&from=searchresults",
+        "nom_hotel": "Hilton Garden Inn Le Havre Centre",
+        "ville_de_lhotel": "le havre",
+        "price": "814",
+        "url": "https://www.booking.com/hotel/fr/hilton-garden-inn-le-havre-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=777269506_357657654_2_42_0&highlighted_blocks=777269506_357657654_2_42_0&matching_block_id=777269506_357657654_2_42_0&sr_pri_blocks=777269506_357657654_2_42_0__81385&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Eklo Hotels Le Havre",
+        "ville_de_lhotel": "le havre",
+        "price": "226",
+        "url": "https://www.booking.com/hotel/fr/eklo-hotels-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=137103405_365392149_2_0_0&highlighted_blocks=137103405_365392149_2_0_0&matching_block_id=137103405_365392149_2_0_0&sr_pri_blocks=137103405_365392149_2_0_0__22560&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "ibis Le Havre Centre",
+        "ville_de_lhotel": "le havre",
+        "price": "468",
+        "url": "https://www.booking.com/hotel/fr/hotelibislehavre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=21358908_94349077_2_2_0&highlighted_blocks=21358908_94349077_2_2_0&matching_block_id=21358908_94349077_2_2_0&sr_pri_blocks=21358908_94349077_2_2_0__46790&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "The Originals Boutique, Hôtel Le Marignan,Le Havre Centre Gare",
+        "ville_de_lhotel": "le havre",
+        "price": "254",
+        "url": "https://www.booking.com/hotel/fr/la-baraka.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=220484108_97957598_0_2_0&highlighted_blocks=220484108_97957598_0_2_0&matching_block_id=220484108_97957598_0_2_0&sr_pri_blocks=220484108_97957598_0_2_0__25440&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Odalys City Le Havre Centre Les Docks",
+        "ville_de_lhotel": "le havre",
+        "price": "447",
+        "url": "https://www.booking.com/hotel/fr/odalys-city-le-havre-centre-les-docks.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=1012728801_390400962_0_2_0&highlighted_blocks=1012728801_390400962_0_2_0&matching_block_id=1012728801_390400962_0_2_0&sr_pri_blocks=1012728801_390400962_0_2_0__44700&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Aparthotel Adagio Access Le Havre Les Docks",
+        "ville_de_lhotel": "le havre",
+        "price": "384",
+        "url": "https://www.booking.com/hotel/fr/adagio-access-le-havre-les-docks.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=58503202_94495718_2_2_0&highlighted_blocks=58503202_94495718_2_2_0&matching_block_id=58503202_94495718_2_2_0&sr_pri_blocks=58503202_94495718_2_2_0__38448&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Hôtel Carmin",
+        "ville_de_lhotel": "le havre",
+        "price": "477",
+        "url": "https://www.booking.com/hotel/fr/carmin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=5857817_98846811_2_34_0&highlighted_blocks=5857817_98846811_2_34_0&matching_block_id=5857817_98846811_2_34_0&sr_pri_blocks=5857817_98846811_2_34_0__47664&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "LOGIS HOTEL - La Petite Rade",
+        "ville_de_lhotel": "le havre",
+        "price": "727",
+        "url": "https://www.booking.com/hotel/fr/les-voiles-sur-le-front-de-mer.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=5536018_400671091_2_2_0&highlighted_blocks=5536018_400671091_2_2_0&matching_block_id=5536018_400671091_2_2_0&sr_pri_blocks=5536018_400671091_2_2_0__72740&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Lh Rooms Location",
+        "ville_de_lhotel": "le havre",
+        "price": "346",
+        "url": "https://www.booking.com/hotel/fr/lh-rooms-location.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=719228809_306632881_2_0_0&highlighted_blocks=719228809_306632881_2_0_0&matching_block_id=719228809_306632881_2_0_0&sr_pri_blocks=719228809_306632881_2_0_0__34581&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "hôtel mondial",
+        "ville_de_lhotel": "le havre",
+        "price": "240",
+        "url": "https://www.booking.com/hotel/fr/mondial-le-havre123.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=589501301_231254887_2_0_0&highlighted_blocks=589501301_231254887_2_0_0&matching_block_id=589501301_231254887_2_0_0&sr_pri_blocks=589501301_231254887_2_0_0__24000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 1
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Novotel Le Havre Centre Gare",
+        "ville_de_lhotel": "le havre",
+        "price": "652",
+        "url": "https://www.booking.com/hotel/fr/novotellehavre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=5193825_94272499_2_33_0&highlighted_blocks=5193825_94272499_2_33_0&matching_block_id=5193825_94272499_2_33_0&sr_pri_blocks=5193825_94272499_2_33_0__65206&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "ibis Styles Le Havre Centre",
+        "ville_de_lhotel": "le havre",
+        "price": "579",
+        "url": "https://www.booking.com/hotel/fr/citotel-le-marly.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=21357821_102711401_2_1_0&highlighted_blocks=21357821_102711401_2_1_0&matching_block_id=21357821_102711401_2_1_0&sr_pri_blocks=21357821_102711401_2_1_0__57852&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Smart Appart Le Havre 97",
+        "ville_de_lhotel": "le havre",
+        "price": "389",
+        "url": "https://www.booking.com/hotel/fr/smart-appart-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=1034592801_392162554_2_0_0&highlighted_blocks=1034592801_392162554_2_0_0&matching_block_id=1034592801_392162554_2_0_0&sr_pri_blocks=1034592801_392162554_2_0_0__38891&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Zenitude Hôtel-Résidences Le Havre",
+        "ville_de_lhotel": "le havre",
+        "price": "305",
+        "url": "https://www.booking.com/hotel/fr/appart-city-cap-affaires-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=2258909_95146764_0_2_0&highlighted_blocks=2258909_95146764_0_2_0&matching_block_id=2258909_95146764_0_2_0&sr_pri_blocks=2258909_95146764_0_2_0__30540&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Smart Appart Le Havre 105",
+        "ville_de_lhotel": "le havre",
+        "price": "433",
+        "url": "https://www.booking.com/hotel/fr/smart-appart-le-havre-105.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=1192599201_391556777_2_0_0&highlighted_blocks=1192599201_391556777_2_0_0&matching_block_id=1192599201_391556777_2_0_0&sr_pri_blocks=1192599201_391556777_2_0_0__43282&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Hôtel Le Green",
+        "ville_de_lhotel": "le havre",
+        "price": "305",
+        "url": "https://www.booking.com/hotel/fr/le-green.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=34928501_94559959_0_0_0&highlighted_blocks=34928501_94559959_0_0_0&matching_block_id=34928501_94559959_0_0_0&sr_pri_blocks=34928501_94559959_0_0_0__30480&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 21,
+        "destination": "Le Havre",
+        "nom_hotel": "Hôtel Lilybloom",
+        "ville_de_lhotel": "le havre",
+        "price": "783",
+        "url": "https://www.booking.com/hotel/fr/la-grande-ecole-le-havre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj7vrwGwAIB0gIkMzcyYjI2ZmYtZTQ1My00ZDYxLWJjOTUtNjc3MzVkY2RmYTQy2AIF4AIB&sid=82f93fe4687c3b4174b5b23a856f9f3b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1441598&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=b3c93e53311803e2&srepoch=1737622321&all_sr_blocks=1036546001_376201441_2_2_0&highlighted_blocks=1036546001_376201441_2_2_0&matching_block_id=1036546001_376201441_2_2_0&sr_pri_blocks=1036546001_376201441_2_2_0__78260&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
     }
 ]

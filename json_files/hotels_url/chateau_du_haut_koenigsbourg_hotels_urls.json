@@ -2,201 +2,320 @@
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "846",
-        "url": "https://www.booking.com/hotel/fr/logis-le-parc-st-hippolyte.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=24712601_182922069_0_33_0&highlighted_blocks=24712601_182922069_0_33_0&matching_block_id=24712601_182922069_0_33_0&sr_pri_blocks=24712601_182922069_0_33_0__84600&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Logis Hotel Le Parc & Spa",
+        "ville_de_lhotel": "saint hippolyte",
+        "price": "897",
+        "url": "https://www.booking.com/hotel/fr/logis-le-parc-st-hippolyte.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=24712601_182922069_0_33_0&highlighted_blocks=24712601_182922069_0_33_0&matching_block_id=24712601_182922069_0_33_0&sr_pri_blocks=24712601_182922069_0_33_0__89706&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.4,
+        "stars": 4
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "736",
-        "url": "https://www.booking.com/hotel/fr/arnold.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=24366706_310060181_2_2_0&highlighted_blocks=24366706_310060181_2_2_0&matching_block_id=24366706_310060181_2_2_0&sr_pri_blocks=24366706_310060181_2_2_0__73556&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Le Mittelwihr",
+        "ville_de_lhotel": "mittelwihr",
+        "price": "660",
+        "url": "https://www.booking.com/hotel/fr/le-mittelwihr.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=18032904_88921500_2_2_0&highlighted_blocks=18032904_88921500_2_2_0&matching_block_id=18032904_88921500_2_2_0&sr_pri_blocks=18032904_88921500_2_2_0__66000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 11.1,
+        "stars": 3
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "540",
-        "url": "https://www.booking.com/hotel/fr/le-haut-koenigsbourg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=32124601_347512012_2_2_0&highlighted_blocks=32124601_347512012_2_2_0&matching_block_id=32124601_347512012_2_2_0&sr_pri_blocks=32124601_347512012_2_2_0__54000&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hotel Restaurant Dontenville",
+        "ville_de_lhotel": "châtenois",
+        "price": "451",
+        "url": "https://www.booking.com/hotel/fr/dontenville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=28034601_385632472_0_2_0&highlighted_blocks=28034601_385632472_0_2_0&matching_block_id=28034601_385632472_0_2_0&sr_pri_blocks=28034601_385632472_0_2_0__45120&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.7,
+        "stars": 2
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "832",
-        "url": "https://www.booking.com/hotel/fr/l-39-amp-spa-ribeauville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=717105806_384108124_2_2_0&highlighted_blocks=717105806_384108124_2_2_0&matching_block_id=717105806_384108124_2_2_0&sr_pri_blocks=717105806_384108124_2_2_0__83200&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 13,
-        "destination": "Chateau du Haut Koenigsbourg",
-        "price": "552",
-        "url": "https://www.booking.com/hotel/fr/le-mittelwihr.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=18032901_393429417_2_2_0&highlighted_blocks=18032901_393429417_2_2_0&matching_block_id=18032901_393429417_2_2_0&sr_pri_blocks=18032901_393429417_2_2_0__55200&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 13,
-        "destination": "Chateau du Haut Koenigsbourg",
-        "price": "880",
-        "url": "https://www.booking.com/hotel/fr/val-vignes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=29763203_401879251_3_2_0&highlighted_blocks=29763203_401879251_3_2_0&matching_block_id=29763203_401879251_3_2_0&sr_pri_blocks=29763203_401879251_3_2_0__88000&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 13,
-        "destination": "Chateau du Haut Koenigsbourg",
-        "price": "482",
-        "url": "https://www.booking.com/hotel/fr/le-verger-des-chateaux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=5411501_402572586_0_2_0&highlighted_blocks=5411501_402572586_0_2_0&matching_block_id=5411501_402572586_0_2_0&sr_pri_blocks=5411501_402572586_0_2_0__48235&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 13,
-        "destination": "Chateau du Haut Koenigsbourg",
-        "price": "682",
-        "url": "https://www.booking.com/hotel/fr/au-nid-de-cigognes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=23884901_382459842_0_2_0&highlighted_blocks=23884901_382459842_0_2_0&matching_block_id=23884901_382459842_0_2_0&sr_pri_blocks=23884901_382459842_0_2_0__68200&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 13,
-        "destination": "Chateau du Haut Koenigsbourg",
-        "price": "564",
-        "url": "https://www.booking.com/hotel/fr/la-bonne-franquette.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=35084001_226091760_0_42_0&highlighted_blocks=35084001_226091760_0_42_0&matching_block_id=35084001_226091760_0_42_0&sr_pri_blocks=35084001_226091760_0_42_0__56388&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 13,
-        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Auberge Le Meisenberg",
+        "ville_de_lhotel": "châtenois",
         "price": "847",
-        "url": "https://www.booking.com/hotel/fr/auberge-le-meisenberg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=185734701_363649161_2_41_0&highlighted_blocks=185734701_363649161_2_41_0&matching_block_id=185734701_363649161_2_41_0&sr_pri_blocks=185734701_363649161_2_41_0__84682&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/auberge-le-meisenberg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=185734701_406187136_2_41_0&highlighted_blocks=185734701_406187136_2_41_0&matching_block_id=185734701_406187136_2_41_0&sr_pri_blocks=185734701_406187136_2_41_0__84682&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.8,
+        "stars": 0
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "1681",
-        "url": "https://www.booking.com/hotel/fr/resort-barriere-ribeauville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=36438008_88549540_0_2_0&highlighted_blocks=36438008_88549540_0_2_0&matching_block_id=36438008_88549540_0_2_0&sr_pri_blocks=36438008_88549540_0_2_0__168096&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel du Haut Koenigsbourg- entre vignes et château",
+        "ville_de_lhotel": "thannenkirch",
+        "price": "540",
+        "url": "https://www.booking.com/hotel/fr/le-haut-koenigsbourg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=32124601_347512012_2_2_0&highlighted_blocks=32124601_347512012_2_2_0&matching_block_id=32124601_347512012_2_2_0&sr_pri_blocks=32124601_347512012_2_2_0__54000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.7,
+        "stars": 3
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "238",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-colmar-nord-houssen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=31766201_91472191_0_2_0&highlighted_blocks=31766201_91472191_0_2_0&matching_block_id=31766201_91472191_0_2_0&sr_pri_blocks=31766201_91472191_0_2_0__23760&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "L' Hôtel & Spa Ribeauville- Haut-Koenigsbourg",
+        "ville_de_lhotel": "ribeauvillé",
+        "price": "799",
+        "url": "https://www.booking.com/hotel/fr/l-39-amp-spa-ribeauville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=717105806_384108124_2_2_0&highlighted_blocks=717105806_384108124_2_2_0&matching_block_id=717105806_384108124_2_2_0&sr_pri_blocks=717105806_384108124_2_2_0__79900&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.4,
+        "stars": 4
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "490",
-        "url": "https://www.booking.com/hotel/fr/dontenville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=28034601_385632472_0_2_0&highlighted_blocks=28034601_385632472_0_2_0&matching_block_id=28034601_385632472_0_2_0&sr_pri_blocks=28034601_385632472_0_2_0__49020&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hotel Au Nid De Cigognes",
+        "ville_de_lhotel": "ostheim",
+        "price": "642",
+        "url": "https://www.booking.com/hotel/fr/au-nid-de-cigognes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=23884901_382459842_0_2_0&highlighted_blocks=23884901_382459842_0_2_0&matching_block_id=23884901_382459842_0_2_0&sr_pri_blocks=23884901_382459842_0_2_0__64200&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 10.1,
+        "stars": 3
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "267",
-        "url": "https://www.booking.com/hotel/fr/fast-colmar-houssen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=5390502_95180935_0_2_0&highlighted_blocks=5390502_95180935_0_2_0&matching_block_id=5390502_95180935_0_2_0&sr_pri_blocks=5390502_95180935_0_2_0__26706&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Restaurant Verger des Châteaux, Route des vins Haut-Koenigsbourg",
+        "ville_de_lhotel": "dieffenthal",
+        "price": "446",
+        "url": "https://www.booking.com/hotel/fr/le-verger-des-chateaux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__44622&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 8.4,
+        "stars": 3
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "388",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget-selestat.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=106015603_94580979_2_2_0&highlighted_blocks=106015603_94580979_2_2_0&matching_block_id=106015603_94580979_2_2_0&sr_pri_blocks=106015603_94580979_2_2_0__38774&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "La Bonne Franquette",
+        "ville_de_lhotel": "villé",
+        "price": "564",
+        "url": "https://www.booking.com/hotel/fr/la-bonne-franquette.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=35084001_226091760_0_42_0&highlighted_blocks=35084001_226091760_0_42_0&matching_block_id=35084001_226091760_0_42_0&sr_pri_blocks=35084001_226091760_0_42_0__56388&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 10.8,
+        "stars": 2
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "527",
-        "url": "https://www.booking.com/hotel/fr/vaillant.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=24070705_334185740_0_42_0&highlighted_blocks=24070705_334185740_0_42_0&matching_block_id=24070705_334185740_0_42_0&sr_pri_blocks=24070705_334185740_0_42_0__52712&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "LE CLOS DES SOURCES Hôtel & Spa",
+        "ville_de_lhotel": "thannenkirch",
+        "price": "1318",
+        "url": "https://www.booking.com/hotel/fr/touringhotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=5180741_80720908_0_34_0&highlighted_blocks=5180741_80720908_0_34_0&matching_block_id=5180741_80720908_0_34_0&sr_pri_blocks=5180741_80720908_0_34_0__131800&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.7,
+        "stars": 3
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hôtel 48°Nord & Restaurant, The Originals Relais",
+        "ville_de_lhotel": "breitenbach",
+        "price": "1821",
+        "url": "https://www.booking.com/hotel/fr/48degnord.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=671919701_402011488_2_2_0&highlighted_blocks=671919701_402011488_2_2_0&matching_block_id=671919701_402011488_2_2_0&sr_pri_blocks=671919701_402011488_2_2_0__182100&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 14.1,
+        "stars": 0
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hôtel Barrière Ribeauvillé",
+        "ville_de_lhotel": "ribeauvillé",
+        "price": "1644",
+        "url": "https://www.booking.com/hotel/fr/resort-barriere-ribeauville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=36438008_88549540_0_2_0&highlighted_blocks=36438008_88549540_0_2_0&matching_block_id=36438008_88549540_0_2_0&sr_pri_blocks=36438008_88549540_0_2_0__164352&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.9,
+        "stars": 4
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hotel Au Parc des Cigognes",
+        "ville_de_lhotel": "kintzheim",
         "price": "559",
-        "url": "https://www.booking.com/hotel/fr/au-parc-des-cigognes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=422293602_200994702_2_2_0&highlighted_blocks=422293602_200994702_2_2_0&matching_block_id=422293602_200994702_2_2_0&sr_pri_blocks=422293602_200994702_2_2_0__55920&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/au-parc-des-cigognes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=422293602_200994702_2_2_0&highlighted_blocks=422293602_200994702_2_2_0&matching_block_id=422293602_200994702_2_2_0&sr_pri_blocks=422293602_200994702_2_2_0__55920&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.8,
+        "stars": 2
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "606",
-        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-les-cigogneaux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=39157301_382423000_2_2_0&highlighted_blocks=39157301_382423000_2_2_0&matching_block_id=39157301_382423000_2_2_0&sr_pri_blocks=39157301_382423000_2_2_0__60600&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Ibis Budget Sélestat",
+        "ville_de_lhotel": "sélestat",
+        "price": "372",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-selestat.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=106015603_94580979_2_2_0&highlighted_blocks=106015603_94580979_2_2_0&matching_block_id=106015603_94580979_2_2_0&sr_pri_blocks=106015603_94580979_2_2_0__37157&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.9,
+        "stars": 2
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "583",
-        "url": "https://www.booking.com/hotel/fr/best-western-plus-les-humanistes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=422683201_128241679_2_34_0&highlighted_blocks=422683201_128241679_2_34_0&matching_block_id=422683201_128241679_2_34_0&sr_pri_blocks=422683201_128241679_2_34_0__58300&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "HECO Colmar Nord - ex Première Classe",
+        "ville_de_lhotel": "houssen",
+        "price": "227",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-colmar-nord-houssen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=31766201_91472191_0_2_0&highlighted_blocks=31766201_91472191_0_2_0&matching_block_id=31766201_91472191_0_2_0&sr_pri_blocks=31766201_91472191_0_2_0__22704&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.4,
+        "stars": 0
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "746",
-        "url": "https://www.booking.com/hotel/fr/hotel-kle-kaysersberg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=42772007_94673104_2_2_0&highlighted_blocks=42772007_94673104_2_2_0&matching_block_id=42772007_94673104_2_2_0&sr_pri_blocks=42772007_94673104_2_2_0__74580&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Best Western Plus Hotel & Restaurant Les Humanistes Colmar Nord",
+        "ville_de_lhotel": "sélestat",
+        "price": "774",
+        "url": "https://www.booking.com/hotel/fr/best-western-plus-les-humanistes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=422683213_0_2_0_0&highlighted_blocks=422683213_0_2_0_0&matching_block_id=422683213_0_2_0_0&sr_pri_blocks=422683213_0_2_0_0__77402&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.9,
+        "stars": 4
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hotel Restaurant 3 Châteaux",
+        "ville_de_lhotel": "ribeauvillé",
         "price": "570",
-        "url": "https://www.booking.com/hotel/fr/aux-3-chateaux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=43371107_287743529_2_42_0&highlighted_blocks=43371107_287743529_2_42_0&matching_block_id=43371107_287743529_2_42_0&sr_pri_blocks=43371107_287743529_2_42_0__57000&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/aux-3-chateaux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=43371107_287743529_2_42_0&highlighted_blocks=43371107_287743529_2_42_0&matching_block_id=43371107_287743529_2_42_0&sr_pri_blocks=43371107_287743529_2_42_0__57000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.3,
+        "stars": 0
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "486",
-        "url": "https://www.booking.com/hotel/fr/caveau-de-l-ami.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=35524901_364216249_0_0_0&highlighted_blocks=35524901_364216249_0_0_0&matching_block_id=35524901_364216249_0_0_0&sr_pri_blocks=35524901_364216249_0_0_0__48600&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hotel KLE, BW Signature Collection",
+        "ville_de_lhotel": "kaysersberg",
+        "price": "776",
+        "url": "https://www.booking.com/hotel/fr/hotel-kle-kaysersberg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=42772007_94673104_2_2_0&highlighted_blocks=42772007_94673104_2_2_0&matching_block_id=42772007_94673104_2_2_0&sr_pri_blocks=42772007_94673104_2_2_0__77550&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.7,
+        "stars": 4
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "681",
-        "url": "https://www.booking.com/hotel/fr/cigoland.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=40613701_190269848_2_2_0&highlighted_blocks=40613701_190269848_2_2_0&matching_block_id=40613701_190269848_2_2_0&sr_pri_blocks=40613701_190269848_2_2_0__68112&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Restaurant Vaillant proche Europapark Rulantica",
+        "ville_de_lhotel": "sélestat",
+        "price": "538",
+        "url": "https://www.booking.com/hotel/fr/vaillant.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=24070705_334185740_0_42_0&highlighted_blocks=24070705_334185740_0_42_0&matching_block_id=24070705_334185740_0_42_0&sr_pri_blocks=24070705_334185740_0_42_0__53812&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 7.8,
+        "stars": 3
     },
     {
         "id_destination": 13,
         "destination": "Chateau du Haut Koenigsbourg",
-        "price": "756",
-        "url": "https://www.booking.com/hotel/fr/wistub-aux-mines-d-argents.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=40342503_273458415_0_2_0&highlighted_blocks=40342503_273458415_0_2_0&matching_block_id=40342503_273458415_0_2_0&sr_pri_blocks=40342503_273458415_0_2_0__75600&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 13,
-        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hotel Les Remparts",
+        "ville_de_lhotel": "kaysersberg",
         "price": "842",
-        "url": "https://www.booking.com/hotel/fr/aa1108740636020.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArqB5LsGwAIB0gIkYjI3NWNhNmUtNzA1NC00ZmVkLThiNDktYmRkMzljZTMzNzVh2AIF4AIB&sid=ab651984e3b8cec5e3dd72efa77b9cfe&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=42a34fedf0ac171c&srepoch=1735989743&all_sr_blocks=75346_402681894_0_2_0&highlighted_blocks=75346_402681894_0_2_0&matching_block_id=75346_402681894_0_2_0&sr_pri_blocks=75346_402681894_0_2_0__84222&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/aa1108740636020.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=75346_402681894_0_2_0&highlighted_blocks=75346_402681894_0_2_0&matching_block_id=75346_402681894_0_2_0&sr_pri_blocks=75346_402681894_0_2_0__84222&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.4,
+        "stars": 3
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hotel Wistub Aux Mines d'Argents",
+        "ville_de_lhotel": "sainte marie aux mines",
+        "price": "534",
+        "url": "https://www.booking.com/hotel/fr/wistub-aux-mines-d-argents.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=40342502_273458415_2_2_0&highlighted_blocks=40342502_273458415_2_2_0&matching_block_id=40342502_273458415_2_2_0&sr_pri_blocks=40342502_273458415_2_2_0__53400&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 11.9,
+        "stars": 2
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hotel Cigoland",
+        "ville_de_lhotel": "kintzheim",
+        "price": "681",
+        "url": "https://www.booking.com/hotel/fr/cigoland.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=40613701_190269848_2_2_0&highlighted_blocks=40613701_190269848_2_2_0&matching_block_id=40613701_190269848_2_2_0&sr_pri_blocks=40613701_190269848_2_2_0__68112&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.6,
+        "stars": 3
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hotel Restaurant De l'Illwald",
+        "ville_de_lhotel": "sélestat",
+        "price": "1353",
+        "url": "https://www.booking.com/hotel/fr/de-l-illwald.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=4677003_173912732_2_2_0&highlighted_blocks=4677003_173912732_2_2_0&matching_block_id=4677003_173912732_2_2_0&sr_pri_blocks=4677003_173912732_2_2_0__135300&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 11.9,
+        "stars": 4
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hôtel Winzenberg",
+        "ville_de_lhotel": "blienschwiller",
+        "price": "449",
+        "url": "https://www.booking.com/hotel/fr/winzenberg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=7979508_399688133_2_2_0&highlighted_blocks=7979508_399688133_2_2_0&matching_block_id=7979508_399688133_2_2_0&sr_pri_blocks=7979508_399688133_2_2_0__44880&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 11.7,
+        "stars": 2
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Hotel Restaurant Faller Emmebuckel",
+        "ville_de_lhotel": "itterswiller",
+        "price": "505",
+        "url": "https://www.booking.com/hotel/fr/restaurant-faller.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=40607801_234001495_0_2_0&highlighted_blocks=40607801_234001495_0_2_0&matching_block_id=40607801_234001495_0_2_0&sr_pri_blocks=40607801_234001495_0_2_0__50520&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 14.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Caveau de l'ami Fritz",
+        "ville_de_lhotel": "ribeauvillé",
+        "price": "486",
+        "url": "https://www.booking.com/hotel/fr/caveau-de-l-ami.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=35524901_364216249_0_0_0&highlighted_blocks=35524901_364216249_0_0_0&matching_block_id=35524901_364216249_0_0_0&sr_pri_blocks=35524901_364216249_0_0_0__48600&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Logis Hôtel-Restaurant du Mouton",
+        "ville_de_lhotel": "ribeauvillé",
+        "price": "966",
+        "url": "https://www.booking.com/hotel/fr/du-mouton.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=4770703_393726474_2_2_0&highlighted_blocks=4770703_393726474_2_2_0&matching_block_id=4770703_393726474_2_2_0&sr_pri_blocks=4770703_393726474_2_2_0__96600&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Fast Hotel Colmar Houssen",
+        "ville_de_lhotel": "houssen",
+        "price": "272",
+        "url": "https://www.booking.com/hotel/fr/fast-colmar-houssen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=5390502_95180935_0_2_0&highlighted_blocks=5390502_95180935_0_2_0&matching_block_id=5390502_95180935_0_2_0&sr_pri_blocks=5390502_95180935_0_2_0__27246&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.5,
+        "stars": 0
+    },
+    {
+        "id_destination": 13,
+        "destination": "Chateau du Haut Koenigsbourg",
+        "nom_hotel": "Résidence Les Cigogneaux",
+        "ville_de_lhotel": "ostheim",
+        "price": "606",
+        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-les-cigogneaux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqP6vrwGwAIB0gIkNWZlODExY2UtNDkxNi00NDBmLTg2MzAtNTQ3Yzc2ZThkYWI32AIF4AIB&sid=6e07cb959429fd3ae598ea2a9af158ef&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=204055&dest_type=landmark&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=936f3e01d3aa010a&srepoch=1737622156&all_sr_blocks=39157301_382423000_2_2_0&highlighted_blocks=39157301_382423000_2_2_0&matching_block_id=39157301_382423000_2_2_0&sr_pri_blocks=39157301_382423000_2_2_0__60600&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 10.3,
+        "stars": 3
     }
 ]

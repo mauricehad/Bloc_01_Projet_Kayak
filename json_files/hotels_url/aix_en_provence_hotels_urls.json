@@ -2,201 +2,375 @@
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "506",
-        "url": "https://www.booking.com/hotel/fr/the-originals-residence-aix-schuman.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=1062624403_378604669_0_1_0&highlighted_blocks=1062624403_378604669_0_1_0&matching_block_id=1062624403_378604669_0_1_0&sr_pri_blocks=1062624403_378604669_0_1_0__50592&from=searchresults",
+        "nom_hotel": "Les Quatre Dauphins",
+        "ville_de_lhotel": "aix en provence",
+        "price": "1063",
+        "url": "https://www.booking.com/hotel/fr/les-quatre-dauphins.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=4645401_203112318_0_2_0&highlighted_blocks=4645401_203112318_0_2_0&matching_block_id=4645401_203112318_0_2_0&sr_pri_blocks=4645401_203112318_0_2_0__106272&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "444",
-        "url": "https://www.booking.com/hotel/fr/atrium-d-anaite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=5407436_88984661_0_34_0&highlighted_blocks=5407436_88984661_0_34_0&matching_block_id=5407436_88984661_0_34_0&sr_pri_blocks=5407436_88984661_0_34_0__44352&from=searchresults",
+        "nom_hotel": "Hôtel Le Mozart",
+        "ville_de_lhotel": "aix en provence",
+        "price": "644",
+        "url": "https://www.booking.com/hotel/fr/le-mozart.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=18282404_370970513_2_2_0&highlighted_blocks=18282404_370970513_2_2_0&matching_block_id=18282404_370970513_2_2_0&sr_pri_blocks=18282404_370970513_2_2_0__64392&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "403",
-        "url": "https://www.booking.com/hotel/fr/residence-mirabeau.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=5367001_262904454_2_2_0&highlighted_blocks=5367001_262904454_2_2_0&matching_block_id=5367001_262904454_2_2_0&sr_pri_blocks=5367001_262904454_2_2_0__40274&from=searchresults",
+        "nom_hotel": "Hotel Cardinal",
+        "ville_de_lhotel": "aix en provence",
+        "price": "807",
+        "url": "https://www.booking.com/hotel/fr/cardinal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=286154602_199434969_0_2_0&highlighted_blocks=286154602_199434969_0_2_0&matching_block_id=286154602_199434969_0_2_0&sr_pri_blocks=286154602_199434969_0_2_0__80688&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "389",
-        "url": "https://www.booking.com/hotel/fr/b-amp-b-aix-en-provence-pont-de-l-39-arc.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=275780201_106654377_0_2_0&highlighted_blocks=275780201_106654377_0_2_0&matching_block_id=275780201_106654377_0_2_0&sr_pri_blocks=275780201_106654377_0_2_0__38888&from=searchresults",
+        "nom_hotel": "Campanile Aix-en-Provence Sud - Pont de l'Arc",
+        "ville_de_lhotel": "aix en provence",
+        "price": "544",
+        "url": "https://www.booking.com/hotel/fr/campanile-aix-en-provence-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=21975404_0_2_0_0&highlighted_blocks=21975404_0_2_0_0&matching_block_id=21975404_0_2_0_0&sr_pri_blocks=21975404_0_2_0_0__54355&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "670",
-        "url": "https://www.booking.com/hotel/fr/les-quatre-dauphins.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=4645407_203112318_0_2_0&highlighted_blocks=4645407_203112318_0_2_0&matching_block_id=4645407_203112318_0_2_0&sr_pri_blocks=4645407_203112318_0_2_0__67015&from=searchresults",
+        "nom_hotel": "City Résidence Aix-en-Provence",
+        "ville_de_lhotel": "aix en provence",
+        "price": "512",
+        "url": "https://www.booking.com/hotel/fr/appart-valley-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=22914720_88560801_0_2_0&highlighted_blocks=22914720_88560801_0_2_0&matching_block_id=22914720_88560801_0_2_0&sr_pri_blocks=22914720_88560801_0_2_0__51188&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "347",
-        "url": "https://www.booking.com/hotel/fr/appart-valley-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=89719_88560801_2_2_0&highlighted_blocks=89719_88560801_2_2_0&matching_block_id=89719_88560801_2_2_0&sr_pri_blocks=89719_88560801_2_2_0__34688&from=searchresults",
+        "nom_hotel": "Comfort Aparthotel Aix Le Tholonet",
+        "ville_de_lhotel": "aix en provence",
+        "price": "400",
+        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-le-tholonet.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=32164608_0_2_0_0&highlighted_blocks=32164608_0_2_0_0&matching_block_id=32164608_0_2_0_0&sr_pri_blocks=32164608_0_2_0_0__40005&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "388",
-        "url": "https://www.booking.com/hotel/fr/le-clos-de-la-chartreuse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=35176601_88986037_2_2_0&highlighted_blocks=35176601_88986037_2_2_0&matching_block_id=35176601_88986037_2_2_0&sr_pri_blocks=35176601_88986037_2_2_0__38752&from=searchresults",
+        "nom_hotel": "Hôtel Cézanne Boutique-Hôtel",
+        "ville_de_lhotel": "aix en provence",
+        "price": "1029",
+        "url": "https://www.booking.com/hotel/fr/cezanne-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=5343305_347403277_0_2_0&highlighted_blocks=5343305_347403277_0_2_0&matching_block_id=5343305_347403277_0_2_0&sr_pri_blocks=5343305_347403277_0_2_0__102924&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "402",
-        "url": "https://www.booking.com/hotel/fr/casa-hom.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=172555002_380853871_2_0_0&highlighted_blocks=172555002_380853871_2_0_0&matching_block_id=172555002_380853871_2_0_0&sr_pri_blocks=172555002_380853871_2_0_0__40156&from=searchresults",
+        "nom_hotel": "Adonis Aix en Provence",
+        "ville_de_lhotel": "aix en provence",
+        "price": "467",
+        "url": "https://www.booking.com/hotel/fr/adonis-aix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=87294505_88560829_0_2_0&highlighted_blocks=87294505_88560829_0_2_0&matching_block_id=87294505_88560829_0_2_0&sr_pri_blocks=87294505_88560829_0_2_0__46692&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "511",
-        "url": "https://www.booking.com/hotel/fr/campanile-aix-en-provence-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=21975403_94351304_2_2_0&highlighted_blocks=21975403_94351304_2_2_0&matching_block_id=21975403_94351304_2_2_0&sr_pri_blocks=21975403_94351304_2_2_0__51092&from=searchresults",
+        "nom_hotel": "Adonis Arc Hotel Aix",
+        "ville_de_lhotel": "aix en provence",
+        "price": "378",
+        "url": "https://www.booking.com/hotel/fr/arc-aix-hotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=28281011_0_2_0_0&highlighted_blocks=28281011_0_2_0_0&matching_block_id=28281011_0_2_0_0&sr_pri_blocks=28281011_0_2_0_0__37845&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "707",
-        "url": "https://www.booking.com/hotel/fr/pierre-vacances-city-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=5326201_94272536_2_2_0&highlighted_blocks=5326201_94272536_2_2_0&matching_block_id=5326201_94272536_2_2_0&sr_pri_blocks=5326201_94272536_2_2_0__70664&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "302",
-        "url": "https://www.booking.com/hotel/fr/le-logis-des-clercs.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=54343810_0_2_0_0&highlighted_blocks=54343810_0_2_0_0&matching_block_id=54343810_0_2_0_0&sr_pri_blocks=54343810_0_2_0_0__30240&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "584",
-        "url": "https://www.booking.com/hotel/fr/thecamp-amp-lodges.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=816244702_344108259_2_2_0&highlighted_blocks=816244702_344108259_2_2_0&matching_block_id=816244702_344108259_2_2_0&sr_pri_blocks=816244702_344108259_2_2_0__58392&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "459",
-        "url": "https://www.booking.com/hotel/fr/des-arts-aix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=1247989601_397151722_2_0_0&highlighted_blocks=1247989601_397151722_2_0_0&matching_block_id=1247989601_397151722_2_0_0&sr_pri_blocks=1247989601_397151722_2_0_0__45887&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "348",
-        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-le-tholonet.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=32164608_89782346_2_10_0&highlighted_blocks=32164608_89782346_2_10_0&matching_block_id=32164608_89782346_2_10_0&sr_pri_blocks=32164608_89782346_2_10_0__34812&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "551",
-        "url": "https://www.booking.com/hotel/fr/hatel-ibis-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=50666104_94484551_2_34_0&highlighted_blocks=50666104_94484551_2_34_0&matching_block_id=50666104_94484551_2_34_0&sr_pri_blocks=50666104_94484551_2_34_0__55082&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "1159",
-        "url": "https://www.booking.com/hotel/fr/hotel-aquabella.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=78419_160330670_0_34_0&highlighted_blocks=78419_160330670_0_34_0&matching_block_id=78419_160330670_0_34_0&sr_pri_blocks=78419_160330670_0_34_0__115924&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "380",
-        "url": "https://www.booking.com/hotel/fr/adonis-aix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=87294501_0_2_0_0&highlighted_blocks=87294501_0_2_0_0&matching_block_id=87294501_0_2_0_0&sr_pri_blocks=87294501_0_2_0_0__37999&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "330",
-        "url": "https://www.booking.com/hotel/fr/residence-aixoise.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=556180305_206873330_0_2_0&highlighted_blocks=556180305_206873330_0_2_0&matching_block_id=556180305_206873330_0_2_0&sr_pri_blocks=556180305_206873330_0_2_0__33026&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "741",
-        "url": "https://www.booking.com/hotel/fr/golden-tulip-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=21959505_94350786_2_42_0&highlighted_blocks=21959505_94350786_2_42_0&matching_block_id=21959505_94350786_2_42_0&sr_pri_blocks=21959505_94350786_2_42_0__74124&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "386",
-        "url": "https://www.booking.com/hotel/fr/residence-nemea-aix-campus-2.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=833221901_391566923_2_0_0&highlighted_blocks=833221901_391566923_2_0_0&matching_block_id=833221901_391566923_2_0_0&sr_pri_blocks=833221901_391566923_2_0_0__38600&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "849",
-        "url": "https://www.booking.com/hotel/fr/cezanne-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=5343333_347403277_2_2_0&highlighted_blocks=5343333_347403277_2_2_0&matching_block_id=5343333_347403277_2_2_0&sr_pri_blocks=5343333_347403277_2_2_0__84924&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "410",
-        "url": "https://www.booking.com/hotel/fr/arc-aix-hotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=28281011_88985790_0_2_0&highlighted_blocks=28281011_88985790_0_2_0&matching_block_id=28281011_88985790_0_2_0&sr_pri_blocks=28281011_88985790_0_2_0__40992&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
-        "price": "658",
-        "url": "https://www.booking.com/hotel/fr/best-western-le-galice.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=23102625_94354164_2_2_0&highlighted_blocks=23102625_94354164_2_2_0&matching_block_id=23102625_94354164_2_2_0&sr_pri_blocks=23102625_94354164_2_2_0__65844&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 1,
-        "destination": "Aix en Provence",
+        "nom_hotel": "Escale Oceania Aix-en-Provence",
+        "ville_de_lhotel": "aix en provence",
         "price": "578",
-        "url": "https://www.booking.com/hotel/fr/hotelmascotte.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=5087802_88918532_0_2_0&highlighted_blocks=5087802_88918532_0_2_0&matching_block_id=5087802_88918532_0_2_0&sr_pri_blocks=5087802_88918532_0_2_0__57792&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/hotelmascotte.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=5087802_88918532_0_2_0&highlighted_blocks=5087802_88918532_0_2_0&matching_block_id=5087802_88918532_0_2_0&sr_pri_blocks=5087802_88918532_0_2_0__57792&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 1,
         "destination": "Aix en Provence",
-        "price": "641",
-        "url": "https://www.booking.com/hotel/fr/la-caravelle-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqSA5LsGwAIB0gIkMGZkYTE2NTAtZjc4Zi00MzA5LTg1MzgtNzhlYzdmMGRhMTZj2AIF4AIB&sid=42d59a5168328f2a8c3e425f559f09fd&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a814ead35ee0a9b&srepoch=1735989103&all_sr_blocks=4992301_88560785_2_2_0&highlighted_blocks=4992301_88560785_2_2_0&matching_block_id=4992301_88560785_2_2_0&sr_pri_blocks=4992301_88560785_2_2_0__64092&from=searchresults",
+        "nom_hotel": "Hôtel de France",
+        "ville_de_lhotel": "aix en provence",
+        "price": "740",
+        "url": "https://www.booking.com/hotel/fr/de-france-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=5892001_193191041_0_2_0&highlighted_blocks=5892001_193191041_0_2_0&matching_block_id=5892001_193191041_0_2_0&sr_pri_blocks=5892001_193191041_0_2_0__73992&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Novotel Aix Beaumanoir - Rénovation - Mercure en avril 2025",
+        "ville_de_lhotel": "aix en provence",
+        "price": "883",
+        "url": "https://www.booking.com/hotel/fr/novotel-aix-beaumanoir.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=5414424_376288916_2_42_0&highlighted_blocks=5414424_376288916_2_42_0&matching_block_id=5414424_376288916_2_42_0&sr_pri_blocks=5414424_376288916_2_42_0__88344&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "La Caravelle",
+        "ville_de_lhotel": "aix en provence",
+        "price": "801",
+        "url": "https://www.booking.com/hotel/fr/la-caravelle-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=4992311_88560785_0_2_0&highlighted_blocks=4992311_88560785_0_2_0&matching_block_id=4992311_88560785_0_2_0&sr_pri_blocks=4992311_88560785_0_2_0__80092&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Negrecoste Hôtel & Spa",
+        "ville_de_lhotel": "aix en provence",
+        "price": "1413",
+        "url": "https://www.booking.com/hotel/fr/grand-negre-coste.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=2442909_95148233_0_42_0&highlighted_blocks=2442909_95148233_0_42_0&matching_block_id=2442909_95148233_0_42_0&sr_pri_blocks=2442909_95148233_0_42_0__141324&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Les appartements du Clos de la Chartreuse By Ateya",
+        "ville_de_lhotel": "aix en provence",
+        "price": "1226",
+        "url": "https://www.booking.com/hotel/fr/appart-le-clos-de-la-chartreuse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=1097391702_382625514_2_0_0&highlighted_blocks=1097391702_382625514_2_0_0&matching_block_id=1097391702_382625514_2_0_0&sr_pri_blocks=1097391702_382625514_2_0_0__122592&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Les Lodges Sainte-Victoire Hotel & Spa",
+        "ville_de_lhotel": "aix en provence",
+        "price": "2584",
+        "url": "https://www.booking.com/hotel/fr/les-lodges-sainte-victoire.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=55834302_370052904_2_2_0&highlighted_blocks=55834302_370052904_2_2_0&matching_block_id=55834302_370052904_2_2_0&sr_pri_blocks=55834302_370052904_2_2_0__258416&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 5
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Novotel Aix-en-Provence Pont de L'Arc",
+        "ville_de_lhotel": "aix en provence",
+        "price": "931",
+        "url": "https://www.booking.com/hotel/fr/aix-en-provence-pont-de-l-arc-fenouilleres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=5723319_376292921_2_42_0&highlighted_blocks=5723319_376292921_2_42_0&matching_block_id=5723319_376292921_2_42_0&sr_pri_blocks=5723319_376292921_2_42_0__93069&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Maison Dauphine",
+        "ville_de_lhotel": "aix en provence",
+        "price": "1582",
+        "url": "https://www.booking.com/hotel/fr/maison-dauphine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=40899101_377333478_2_2_0&highlighted_blocks=40899101_377333478_2_2_0&matching_block_id=40899101_377333478_2_2_0&sr_pri_blocks=40899101_377333478_2_2_0__158214&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Villa Saint-Ange",
+        "ville_de_lhotel": "aix en provence",
+        "price": "2860",
+        "url": "https://www.booking.com/hotel/fr/villa-saint-ange.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=500440801_396284134_0_42_0&highlighted_blocks=500440801_396284134_0_42_0&matching_block_id=500440801_396284134_0_42_0&sr_pri_blocks=500440801_396284134_0_42_0__285984&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 5
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Best Western Le Galice Centre Ville",
+        "ville_de_lhotel": "aix en provence",
+        "price": "878",
+        "url": "https://www.booking.com/hotel/fr/best-western-le-galice.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=23102624_94354164_4_2_0&highlighted_blocks=23102624_94354164_4_2_0&matching_block_id=23102624_94354164_4_2_0&sr_pri_blocks=23102624_94354164_4_2_0__87828&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Odalys City Aix en Provence L'Atrium",
+        "ville_de_lhotel": "aix en provence",
+        "price": "472",
+        "url": "https://www.booking.com/hotel/fr/atrium-d-anaite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=5407436_0_2_0_0&highlighted_blocks=5407436_0_2_0_0&matching_block_id=5407436_0_2_0_0&sr_pri_blocks=5407436_0_2_0_0__47231&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "The Originals Résidence Aix Schuman",
+        "ville_de_lhotel": "aix en provence",
+        "price": "612",
+        "url": "https://www.booking.com/hotel/fr/the-originals-residence-aix-schuman.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=1062624403_378604669_0_1_0&highlighted_blocks=1062624403_378604669_0_1_0&matching_block_id=1062624403_378604669_0_1_0&sr_pri_blocks=1062624403_378604669_0_1_0__61152&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Odalys City Aix en Provence Le Clos de la Chartreuse",
+        "ville_de_lhotel": "aix en provence",
+        "price": "633",
+        "url": "https://www.booking.com/hotel/fr/le-clos-de-la-chartreuse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=35176602_390141987_4_2_0&highlighted_blocks=35176602_390141987_4_2_0&matching_block_id=35176602_390141987_4_2_0&sr_pri_blocks=35176602_390141987_4_2_0__63252&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "ibis Aix en Provence",
+        "ville_de_lhotel": "aix en provence",
+        "price": "606",
+        "url": "https://www.booking.com/hotel/fr/hatel-ibis-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=50666104_94484551_2_34_0&highlighted_blocks=50666104_94484551_2_34_0&matching_block_id=50666104_94484551_2_34_0&sr_pri_blocks=50666104_94484551_2_34_0__60551&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "B&B HOTEL Aix-en-Provence Pont de l'Arc",
+        "ville_de_lhotel": "aix en provence",
+        "price": "449",
+        "url": "https://www.booking.com/hotel/fr/b-amp-b-aix-en-provence-pont-de-l-39-arc.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=275780201_106654377_0_2_0&highlighted_blocks=275780201_106654377_0_2_0&matching_block_id=275780201_106654377_0_2_0&sr_pri_blocks=275780201_106654377_0_2_0__44888&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Garden & City Aix En Provence - Puyricard",
+        "ville_de_lhotel": "aix en provence",
+        "price": "314",
+        "url": "https://www.booking.com/hotel/fr/le-logis-des-clercs.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=54343810_88986687_2_2_0_732704&highlighted_blocks=54343810_88986687_2_2_0_732704&matching_block_id=54343810_88986687_2_2_0_732704&sr_pri_blocks=54343810_88986687_2_2_0_732704_31392&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Hôtel des ARTS Aix",
+        "ville_de_lhotel": "aix en provence",
+        "price": "461",
+        "url": "https://www.booking.com/hotel/fr/des-arts-aix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=1247989601_397151722_2_0_0&highlighted_blocks=1247989601_397151722_2_0_0&matching_block_id=1247989601_397151722_2_0_0&sr_pri_blocks=1247989601_397151722_2_0_0__46094&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Studio à Deux Pas d'Aix",
+        "ville_de_lhotel": "aix en provence",
+        "price": "384",
+        "url": "https://www.booking.com/hotel/fr/a-deux-pas-d-aix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=84387002_88560827_0_2_0&highlighted_blocks=84387002_88560827_0_2_0&matching_block_id=84387002_88560827_0_2_0&sr_pri_blocks=84387002_88560827_0_2_0__38400&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Hôtel Bellegarde by Viktor",
+        "ville_de_lhotel": "aix en provence",
+        "price": "559",
+        "url": "https://www.booking.com/hotel/fr/bellegarde-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=1329241301_406366926_0_2_0&highlighted_blocks=1329241301_406366926_0_2_0&matching_block_id=1329241301_406366926_0_2_0&sr_pri_blocks=1329241301_406366926_0_2_0__55944&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Les Terrasses D'Aix - Studio avec Grande Terrasse privée",
+        "ville_de_lhotel": "aix en provence",
+        "price": "582",
+        "url": "https://www.booking.com/hotel/fr/les-terrasses-d-39-aix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=234335201_100835976_2_0_0&highlighted_blocks=234335201_100835976_2_0_0&matching_block_id=234335201_100835976_2_0_0&sr_pri_blocks=234335201_100835976_2_0_0__58200&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "l'Oasis de Grand'Ma",
+        "ville_de_lhotel": "aix en provence",
+        "price": "819",
+        "url": "https://www.booking.com/hotel/fr/oasis-de-grand-ma.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=1338728301_406310029_4_2_0&highlighted_blocks=1338728301_406310029_4_2_0&matching_block_id=1338728301_406310029_4_2_0&sr_pri_blocks=1338728301_406310029_4_2_0__81918&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Le Set Hôtel & Spa",
+        "ville_de_lhotel": "aix en provence",
+        "price": "1389",
+        "url": "https://www.booking.com/hotel/fr/le-set.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=1208592101_395926781_2_1_0_583966&highlighted_blocks=1208592101_395926781_2_1_0_583966&matching_block_id=1208592101_395926781_2_1_0_583966&sr_pri_blocks=1208592101_395926781_2_1_0_583966_138924&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "Résidence Néméa Aix Campus 2",
+        "ville_de_lhotel": "aix en provence",
+        "price": "426",
+        "url": "https://www.booking.com/hotel/fr/residence-nemea-aix-campus-2.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=833221901_391566923_2_0_0&highlighted_blocks=833221901_391566923_2_0_0&matching_block_id=833221901_391566923_2_0_0&sr_pri_blocks=833221901_391566923_2_0_0__42600&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 1,
+        "destination": "Aix en Provence",
+        "nom_hotel": "LES JARDINS D'ATHENA",
+        "ville_de_lhotel": "aix en provence",
+        "price": "687",
+        "url": "https://www.booking.com/hotel/fr/les-jardins-d-39-athena-aix-en-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aov5vrwGwAIB0gIkN2RiM2MxYmEtODRmMi00YTViLWI3YzYtZmI2Y2ZiZDkxYmU22AIF4AIB&sid=31906e86c2a5330b4565e02324b5a895&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1406939&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=ffac3d8e32780486&srepoch=1737621926&all_sr_blocks=677448901_276514668_2_0_0&highlighted_blocks=677448901_276514668_2_0_0&matching_block_id=677448901_276514668_2_0_0&sr_pri_blocks=677448901_276514668_2_0_0__68700&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
     }
 ]

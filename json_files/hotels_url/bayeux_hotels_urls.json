@@ -2,201 +2,353 @@
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "395",
-        "url": "https://www.booking.com/hotel/fr/campanile-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=21990308_94351657_2_34_0&highlighted_blocks=21990308_94351657_2_34_0&matching_block_id=21990308_94351657_2_34_0&sr_pri_blocks=21990308_94351657_2_34_0__39540&from=searchresults",
+        "nom_hotel": "Hôtel De Brunville & Spa",
+        "ville_de_lhotel": "bayeux",
+        "price": "539",
+        "url": "https://www.booking.com/hotel/fr/hoteldebrunville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=14715_129566086_0_2_0&highlighted_blocks=14715_129566086_0_2_0&matching_block_id=14715_129566086_0_2_0&sr_pri_blocks=14715_129566086_0_2_0__53936&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "529",
-        "url": "https://www.booking.com/hotel/fr/hoteldebrunville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=14715_129566086_0_2_0&highlighted_blocks=14715_129566086_0_2_0&matching_block_id=14715_129566086_0_2_0&sr_pri_blocks=14715_129566086_0_2_0__52892&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 6,
-        "destination": "Bayeux",
-        "price": "674",
-        "url": "https://www.booking.com/hotel/fr/le-lion-d-or-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=7694202_201839794_2_42_0&highlighted_blocks=7694202_201839794_2_42_0&matching_block_id=7694202_201839794_2_42_0&sr_pri_blocks=7694202_201839794_2_42_0__67440&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 6,
-        "destination": "Bayeux",
+        "nom_hotel": "Château de Bellefontaine - Teritoria",
+        "ville_de_lhotel": "bayeux",
         "price": "602",
-        "url": "https://www.booking.com/hotel/fr/chateau-de-bellefontaine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=5437001_384414313_2_34_0&highlighted_blocks=5437001_384414313_2_34_0&matching_block_id=5437001_384414313_2_34_0&sr_pri_blocks=5437001_384414313_2_34_0__60240&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/chateau-de-bellefontaine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=5437001_384414313_2_34_0&highlighted_blocks=5437001_384414313_2_34_0&matching_block_id=5437001_384414313_2_34_0&sr_pri_blocks=5437001_384414313_2_34_0__60240&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "574",
-        "url": "https://www.booking.com/hotel/fr/reine-mathilde-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=4352201_200988783_0_2_0&highlighted_blocks=4352201_200988783_0_2_0&matching_block_id=4352201_200988783_0_2_0&sr_pri_blocks=4352201_200988783_0_2_0__57360&from=searchresults",
+        "nom_hotel": "Campanile Bayeux",
+        "ville_de_lhotel": "bayeux",
+        "price": "443",
+        "url": "https://www.booking.com/hotel/fr/campanile-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=21990308_94351657_2_34_0&highlighted_blocks=21990308_94351657_2_34_0&matching_block_id=21990308_94351657_2_34_0&sr_pri_blocks=21990308_94351657_2_34_0__44340&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
+        "nom_hotel": "Hotel Le Lion D'Or et Restaurant La Table Du Lion",
+        "ville_de_lhotel": "bayeux",
+        "price": "625",
+        "url": "https://www.booking.com/hotel/fr/le-lion-d-or-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=7694202_201839794_2_42_0&highlighted_blocks=7694202_201839794_2_42_0&matching_block_id=7694202_201839794_2_42_0&sr_pri_blocks=7694202_201839794_2_42_0__62490&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Le Declic",
+        "ville_de_lhotel": "bayeux",
+        "price": "445",
+        "url": "https://www.booking.com/hotel/fr/le-mogador-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=195642601_116803523_2_2_0&highlighted_blocks=195642601_116803523_2_2_0&matching_block_id=195642601_116803523_2_2_0&sr_pri_blocks=195642601_116803523_2_2_0__44460&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Domitys Les Falaises Blanches",
+        "ville_de_lhotel": "bayeux",
+        "price": "709",
+        "url": "https://www.booking.com/hotel/fr/domitys-les-falaises-blanches.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=60074004_373049071_4_2_0&highlighted_blocks=60074004_373049071_4_2_0&matching_block_id=60074004_373049071_4_2_0&sr_pri_blocks=60074004_373049071_4_2_0__70913&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Grand Hôtel du Luxembourg & Spa",
+        "ville_de_lhotel": "bayeux",
+        "price": "720",
+        "url": "https://www.booking.com/hotel/fr/hotelduluxembourg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=20289910_88985274_0_2_0&highlighted_blocks=20289910_88985274_0_2_0&matching_block_id=20289910_88985274_0_2_0&sr_pri_blocks=20289910_88985274_0_2_0__72030&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Novotel Bayeux",
+        "ville_de_lhotel": "bayeux",
         "price": "580",
-        "url": "https://www.booking.com/hotel/fr/novotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=5369512_94272789_2_2_0&highlighted_blocks=5369512_94272789_2_2_0&matching_block_id=5369512_94272789_2_2_0&sr_pri_blocks=5369512_94272789_2_2_0__58044&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/novotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=5369512_94272789_2_2_0&highlighted_blocks=5369512_94272789_2_2_0&matching_block_id=5369512_94272789_2_2_0&sr_pri_blocks=5369512_94272789_2_2_0__58044&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "287",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=17630802_94110536_2_2_0&highlighted_blocks=17630802_94110536_2_2_0&matching_block_id=17630802_94110536_2_2_0&sr_pri_blocks=17630802_94110536_2_2_0__28744&from=searchresults",
+        "nom_hotel": "Hôtel Le Bayeux",
+        "ville_de_lhotel": "bayeux",
+        "price": "535",
+        "url": "https://www.booking.com/hotel/fr/le-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=5438118_402759384_3_2_0&highlighted_blocks=5438118_402759384_3_2_0&matching_block_id=5438118_402759384_3_2_0&sr_pri_blocks=5438118_402759384_3_2_0__53520&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "726",
-        "url": "https://www.booking.com/hotel/fr/hotelduluxembourg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=20289910_88985274_0_2_0&highlighted_blocks=20289910_88985274_0_2_0&matching_block_id=20289910_88985274_0_2_0&sr_pri_blocks=20289910_88985274_0_2_0__72610&from=searchresults",
+        "nom_hotel": "Belle Normandy",
+        "ville_de_lhotel": "bayeux",
+        "price": "1330",
+        "url": "https://www.booking.com/hotel/fr/clos-des-cordeliers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=753066502_402758971_0_2_0&highlighted_blocks=753066502_402758971_0_2_0&matching_block_id=753066502_402758971_0_2_0&sr_pri_blocks=753066502_402758971_0_2_0__132960&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "346",
-        "url": "https://www.booking.com/hotel/fr/le-mogador-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=195642601_116803523_2_2_0&highlighted_blocks=195642601_116803523_2_2_0&matching_block_id=195642601_116803523_2_2_0&sr_pri_blocks=195642601_116803523_2_2_0__34560&from=searchresults",
+        "nom_hotel": "Premiere Classe Bayeux",
+        "ville_de_lhotel": "bayeux",
+        "price": "294",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=17630802_94110536_2_2_0&highlighted_blocks=17630802_94110536_2_2_0&matching_block_id=17630802_94110536_2_2_0&sr_pri_blocks=17630802_94110536_2_2_0__29388&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "934",
-        "url": "https://www.booking.com/hotel/fr/la-maison-de-mathilde.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=173086501_204554483_2_2_0&highlighted_blocks=173086501_204554483_2_2_0&matching_block_id=173086501_204554483_2_2_0&sr_pri_blocks=173086501_204554483_2_2_0__93360&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Ibis Budget Bayeux",
+        "ville_de_lhotel": "nonant",
+        "price": "320",
+        "url": "https://www.booking.com/hotel/fr/etap-bayeux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=17182607_94310167_3_42_0&highlighted_blocks=17182607_94310167_3_42_0&matching_block_id=17182607_94310167_3_42_0&sr_pri_blocks=17182607_94310167_3_42_0__32028&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.7,
+        "stars": 2
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
+        "nom_hotel": "Hotel De Normandie",
+        "ville_de_lhotel": "arromanches les bains",
         "price": "372",
-        "url": "https://www.booking.com/hotel/fr/de-normandie-arromanches.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=27198401_340056672_0_2_0&highlighted_blocks=27198401_340056672_0_2_0&matching_block_id=27198401_340056672_0_2_0&sr_pri_blocks=27198401_340056672_0_2_0__37200&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/de-normandie-arromanches.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=27198401_340056672_0_2_0&highlighted_blocks=27198401_340056672_0_2_0&matching_block_id=27198401_340056672_0_2_0&sr_pri_blocks=27198401_340056672_0_2_0__37200&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 9.2
+        "de_destination_km": 9.2,
+        "stars": 0
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "556",
-        "url": "https://www.booking.com/hotel/fr/ibis-bayeux-port-en-bessin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=23534805_94354762_2_1_0&highlighted_blocks=23534805_94354762_2_1_0&matching_block_id=23534805_94354762_2_1_0&sr_pri_blocks=23534805_94354762_2_1_0__55632&from=searchresults",
+        "nom_hotel": "ibis Bayeux Port En Bessin",
+        "ville_de_lhotel": "port en bessin huppain",
+        "price": "542",
+        "url": "https://www.booking.com/hotel/fr/ibis-bayeux-port-en-bessin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=23534805_94354762_2_1_0&highlighted_blocks=23534805_94354762_2_1_0&matching_block_id=23534805_94354762_2_1_0&sr_pri_blocks=23534805_94354762_2_1_0__54211&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 8.6
+        "de_destination_km": 8.6,
+        "stars": 3
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "661",
-        "url": "https://www.booking.com/hotel/fr/omaha-beach.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=5706605_94275145_2_42_0&highlighted_blocks=5706605_94275145_2_42_0&matching_block_id=5706605_94275145_2_42_0&sr_pri_blocks=5706605_94275145_2_42_0__66080&from=searchresults",
+        "nom_hotel": "Mercure Bayeux Omaha Beach",
+        "ville_de_lhotel": "port en bessin huppain",
+        "price": "631",
+        "url": "https://www.booking.com/hotel/fr/omaha-beach.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=5706605_94275145_2_42_0&highlighted_blocks=5706605_94275145_2_42_0&matching_block_id=5706605_94275145_2_42_0&sr_pri_blocks=5706605_94275145_2_42_0__63060&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 8.7
+        "de_destination_km": 8.7,
+        "stars": 4
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "541",
-        "url": "https://www.booking.com/hotel/fr/hostellerie-saint-martin-creully.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=26402808_190237377_0_42_0&highlighted_blocks=26402808_190237377_0_42_0&matching_block_id=26402808_190237377_0_42_0&sr_pri_blocks=26402808_190237377_0_42_0__54060&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 6,
-        "destination": "Bayeux",
+        "nom_hotel": "Chateau des Chevaliers de Grand Tonne",
+        "ville_de_lhotel": "sainte croix grand tonne",
         "price": "654",
-        "url": "https://www.booking.com/hotel/fr/chateau-de-grand-tonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=147812207_87559275_2_34_0&highlighted_blocks=147812207_87559275_2_34_0&matching_block_id=147812207_87559275_2_34_0&sr_pri_blocks=147812207_87559275_2_34_0__65400&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/chateau-de-grand-tonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=147812207_87559275_2_34_0&highlighted_blocks=147812207_87559275_2_34_0&matching_block_id=147812207_87559275_2_34_0&sr_pri_blocks=147812207_87559275_2_34_0__65400&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 11.9
+        "de_destination_km": 11.9,
+        "stars": 0
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "982",
-        "url": "https://www.booking.com/hotel/fr/manoir-de-mathan-chambre-junior-suite-pmr-residentielle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=815189801_379283673_0_0_0&highlighted_blocks=815189801_379283673_0_0_0&matching_block_id=815189801_379283673_0_0_0&sr_pri_blocks=815189801_379283673_0_0_0__98220&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 11.7
-    },
-    {
-        "id_destination": 6,
-        "destination": "Bayeux",
+        "nom_hotel": "Appartement Prestige Résidentiel 3 chambres 3 salles de bain au Manoir de Mathan à Crépon 5 mn d'Arromanches et 10 mn de Bayeux",
+        "ville_de_lhotel": "crépon",
         "price": "2086",
-        "url": "https://www.booking.com/hotel/fr/manoir-de-mathan-appartement-prestige-residentiel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=815203701_373780767_8_2_0&highlighted_blocks=815203701_373780767_8_2_0&matching_block_id=815203701_373780767_8_2_0&sr_pri_blocks=815203701_373780767_8_2_0__208620&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/manoir-de-mathan-appartement-prestige-residentiel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=815203701_373780767_8_2_0&highlighted_blocks=815203701_373780767_8_2_0&matching_block_id=815203701_373780767_8_2_0&sr_pri_blocks=815203701_373780767_8_2_0__208620&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 11.7
+        "de_destination_km": 11.7,
+        "stars": 0
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "608",
-        "url": "https://www.booking.com/hotel/fr/la-cremaillere-le-gytan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=7998101_265501607_0_42_0&highlighted_blocks=7998101_265501607_0_42_0&matching_block_id=7998101_265501607_0_42_0&sr_pri_blocks=7998101_265501607_0_42_0__60820&from=searchresults",
+        "nom_hotel": "La Cremaillere Hôtel-Restaurant",
+        "ville_de_lhotel": "courseulles sur mer",
+        "price": "549",
+        "url": "https://www.booking.com/hotel/fr/la-cremaillere-le-gytan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=7998101_265501607_0_42_0&highlighted_blocks=7998101_265501607_0_42_0&matching_block_id=7998101_265501607_0_42_0&sr_pri_blocks=7998101_265501607_0_42_0__54920&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 19.1
+        "de_destination_km": 19.1,
+        "stars": 3
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "840",
-        "url": "https://www.booking.com/hotel/fr/domitys-la-plage-de-nacre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=106729801_335524549_2_42_0&highlighted_blocks=106729801_335524549_2_42_0&matching_block_id=106729801_335524549_2_42_0&sr_pri_blocks=106729801_335524549_2_42_0__84000&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 19.4
-    },
-    {
-        "id_destination": 6,
-        "destination": "Bayeux",
-        "price": "575",
-        "url": "https://www.booking.com/hotel/fr/la-pecherie.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=17361601_80170768_0_42_0&highlighted_blocks=17361601_80170768_0_42_0&matching_block_id=17361601_80170768_0_42_0&sr_pri_blocks=17361601_80170768_0_42_0__57470&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 18.9
-    },
-    {
-        "id_destination": 6,
-        "destination": "Bayeux",
+        "nom_hotel": "Château du Bû",
+        "ville_de_lhotel": "anctoville",
         "price": "706",
-        "url": "https://www.booking.com/hotel/fr/chateau-du-bu-anctoville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=562676004_217685688_0_2_0&highlighted_blocks=562676004_217685688_0_2_0&matching_block_id=562676004_217685688_0_2_0&sr_pri_blocks=562676004_217685688_0_2_0__70589&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/chateau-du-bu-anctoville.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=562676004_217685688_0_2_0&highlighted_blocks=562676004_217685688_0_2_0&matching_block_id=562676004_217685688_0_2_0&sr_pri_blocks=562676004_217685688_0_2_0__70589&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 15.4
+        "de_destination_km": 15.4,
+        "stars": 4
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "261",
-        "url": "https://www.booking.com/hotel/fr/kyriad-direct-caen-nord-memorial.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=66586904_374188685_2_2_0&highlighted_blocks=66586904_374188685_2_2_0&matching_block_id=66586904_374188685_2_2_0&sr_pri_blocks=66586904_374188685_2_2_0__26070&from=searchresults",
+        "nom_hotel": "La Pêcherie",
+        "ville_de_lhotel": "courseulles sur mer",
+        "price": "575",
+        "url": "https://www.booking.com/hotel/fr/la-pecherie.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=17361601_80170768_0_42_0&highlighted_blocks=17361601_80170768_0_42_0&matching_block_id=17361601_80170768_0_42_0&sr_pri_blocks=17361601_80170768_0_42_0__57470&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 23.7
+        "de_destination_km": 18.9,
+        "stars": 3
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "475",
-        "url": "https://www.booking.com/hotel/fr/brit-hotel-caen-nord-memorial-ex-kyriad.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=5125716_102105278_2_34_0&highlighted_blocks=5125716_102105278_2_34_0&matching_block_id=5125716_102105278_2_34_0&sr_pri_blocks=5125716_102105278_2_34_0__47496&from=searchresults",
+        "nom_hotel": "Kyriad Direct Caen Nord Memorial",
+        "ville_de_lhotel": "caen",
+        "price": "223",
+        "url": "https://www.booking.com/hotel/fr/kyriad-direct-caen-nord-memorial.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=66586904_374188685_2_2_0&highlighted_blocks=66586904_374188685_2_2_0&matching_block_id=66586904_374188685_2_2_0&sr_pri_blocks=66586904_374188685_2_2_0__22330&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 24.1
+        "de_destination_km": 23.7,
+        "stars": 2
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "423",
-        "url": "https://www.booking.com/hotel/fr/balladins-caen-memorial.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=233721901_100757402_0_2_0&highlighted_blocks=233721901_100757402_0_2_0&matching_block_id=233721901_100757402_0_2_0&sr_pri_blocks=233721901_100757402_0_2_0__42300&from=searchresults",
+        "nom_hotel": "Saint Aubin Logis Hôtel & Restaurant",
+        "ville_de_lhotel": "saint aubin sur mer",
+        "price": "474",
+        "url": "https://www.booking.com/hotel/fr/le-saint-aubin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=37418101_392151118_0_42_0&highlighted_blocks=37418101_392151118_0_42_0&matching_block_id=37418101_392151118_0_42_0&sr_pri_blocks=37418101_392151118_0_42_0__47420&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 23.5
+        "de_destination_km": 23.2,
+        "stars": 3
     },
     {
         "id_destination": 6,
         "destination": "Bayeux",
-        "price": "270",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-caen-nord-ma-c-morial-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuKA5LsGwAIB0gIkMTFhNGQzNmQtMmYzMi00MWMwLWFhMGEtNjA2MDI2ZWNhNWVm2AIF4AIB&sid=aab4df58ec25d494d3a5b9e37ec943e4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=1a214f319b4400f7&srepoch=1735989368&all_sr_blocks=42570104_94462977_3_2_0&highlighted_blocks=42570104_94462977_3_2_0&matching_block_id=42570104_94462977_3_2_0&sr_pri_blocks=42570104_94462977_3_2_0__27024&from=searchresults",
+        "nom_hotel": "Hôtel Crocus Caen Mémorial",
+        "ville_de_lhotel": "caen",
+        "price": "282",
+        "url": "https://www.booking.com/hotel/fr/hotelcrocus.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=35135_89560470_0_42_0&highlighted_blocks=35135_89560470_0_42_0&matching_block_id=35135_89560470_0_42_0&sr_pri_blocks=35135_89560470_0_42_0__28200&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 23.4
+        "de_destination_km": 24.0,
+        "stars": 2
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "The Originals City, Hôtel Caen Mémorial",
+        "ville_de_lhotel": "caen",
+        "price": "390",
+        "url": "https://www.booking.com/hotel/fr/balladins-caen-memorial.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=233721901_100757402_0_2_0&highlighted_blocks=233721901_100757402_0_2_0&matching_block_id=233721901_100757402_0_2_0&sr_pri_blocks=233721901_100757402_0_2_0__38970&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Brit Hotel Caen Nord - Mémorial",
+        "ville_de_lhotel": "caen",
+        "price": "508",
+        "url": "https://www.booking.com/hotel/fr/brit-hotel-caen-nord-memorial-ex-kyriad.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=5125717_102105278_2_34_0&highlighted_blocks=5125717_102105278_2_34_0&matching_block_id=5125717_102105278_2_34_0&sr_pri_blocks=5125717_102105278_2_34_0__50827&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Premiere Classe Caen Nord - Mémorial",
+        "ville_de_lhotel": "caen",
+        "price": "237",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-caen-nord-ma-c-morial-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=42570104_94462977_3_2_0&highlighted_blocks=42570104_94462977_3_2_0&matching_block_id=42570104_94462977_3_2_0&sr_pri_blocks=42570104_94462977_3_2_0__23712&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.4,
+        "stars": 2
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "ibis budget Caen Porte de Bretagne",
+        "ville_de_lhotel": "bretteville sur odon",
+        "price": "318",
+        "url": "https://www.booking.com/hotel/fr/etap-bretteville-sur-odon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=28744707_94395194_2_34_0&highlighted_blocks=28744707_94395194_2_34_0&matching_block_id=28744707_94395194_2_34_0&sr_pri_blocks=28744707_94395194_2_34_0__31800&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.8,
+        "stars": 2
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Au Vieux Puits",
+        "ville_de_lhotel": "villers bocage",
+        "price": "431",
+        "url": "https://www.booking.com/hotel/fr/au-vieux-puits.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=206924401_379379662_2_2_0&highlighted_blocks=206924401_379379662_2_2_0&matching_block_id=206924401_379379662_2_2_0&sr_pri_blocks=206924401_379379662_2_2_0__43145&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.0,
+        "stars": 0
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "ibis Caen Porte De Bretagne",
+        "ville_de_lhotel": "bretteville sur odon",
+        "price": "556",
+        "url": "https://www.booking.com/hotel/fr/caen-porte-de-bretagne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=28751405_94395231_2_42_0&highlighted_blocks=28751405_94395231_2_42_0&matching_block_id=28751405_94395231_2_42_0&sr_pri_blocks=28751405_94395231_2_42_0__55560&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.7,
+        "stars": 3
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Ace Hôtel Caen Nord Mémorial",
+        "ville_de_lhotel": "caen",
+        "price": "462",
+        "url": "https://www.booking.com/hotel/fr/ace-caen-nord-memorial.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=172848201_389589829_0_2_0&highlighted_blocks=172848201_389589829_0_2_0&matching_block_id=172848201_389589829_0_2_0&sr_pri_blocks=172848201_389589829_0_2_0__46200&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.7,
+        "stars": 3
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "ibis Budget Caen Memorial",
+        "ville_de_lhotel": "caen",
+        "price": "347",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-caen-memorial.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=54512006_376291703_3_2_0&highlighted_blocks=54512006_376291703_3_2_0&matching_block_id=54512006_376291703_3_2_0&sr_pri_blocks=54512006_376291703_3_2_0__34740&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.7,
+        "stars": 2
+    },
+    {
+        "id_destination": 6,
+        "destination": "Bayeux",
+        "nom_hotel": "Sure Hotel by Best Western Caen Memorial",
+        "ville_de_lhotel": "caen",
+        "price": "464",
+        "url": "https://www.booking.com/hotel/fr/the-originals-city-hotel-otelinn-caen.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr5vrwGwAIB0gIkOGNkYWZhNzEtOTcwOS00YjYxLWE2MTItN2EzOGQ3MzAxYThj2AIF4AIB&sid=2a290e1d31918acb0484ddc769eedaa8&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1410836&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=dae63dc296ab0086&srepoch=1737622028&all_sr_blocks=5112530_389027865_2_42_0&highlighted_blocks=5112530_389027865_2_42_0&matching_block_id=5112530_389027865_2_42_0&sr_pri_blocks=5112530_389027865_2_42_0__46425&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.2,
+        "stars": 3
     }
 ]

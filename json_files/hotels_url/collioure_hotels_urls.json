@@ -2,201 +2,540 @@
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "1033",
-        "url": "https://www.booking.com/hotel/fr/boutique-maison-nova.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=1087692801_381693403_2_2_0_365353&highlighted_blocks=1087692801_381693403_2_2_0_365353&matching_block_id=1087692801_381693403_2_2_0_365353&sr_pri_blocks=1087692801_381693403_2_2_0_365353_103254&from=searchresults",
+        "nom_hotel": "Hôtel Triton",
+        "ville_de_lhotel": "collioure",
+        "price": "610",
+        "url": "https://www.booking.com/hotel/fr/triton.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=29394001_326752589_0_2_0_658524&highlighted_blocks=29394001_326752589_0_2_0_658524&matching_block_id=29394001_326752589_0_2_0_658524&sr_pri_blocks=29394001_326752589_0_2_0_658524_61044&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "419",
-        "url": "https://www.booking.com/hotel/fr/triton.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=29394002_326752589_2_2_0_658524&highlighted_blocks=29394002_326752589_2_2_0_658524&matching_block_id=29394002_326752589_2_2_0_658524&sr_pri_blocks=29394002_326752589_2_2_0_658524_41934&from=searchresults",
+        "nom_hotel": "Maison Nova - Boutique Hôtel & Spa",
+        "ville_de_lhotel": "collioure",
+        "price": "1330",
+        "url": "https://www.booking.com/hotel/fr/boutique-maison-nova.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=1087692803_398153821_0_2_0_365353&highlighted_blocks=1087692803_398153821_0_2_0_365353&matching_block_id=1087692803_398153821_0_2_0_365353&sr_pri_blocks=1087692803_398153821_0_2_0_365353_133022&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 5
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
+        "nom_hotel": "Ibis Styles Collioure Port Vendres",
+        "ville_de_lhotel": "port vendres",
         "price": "613",
-        "url": "https://www.booking.com/hotel/fr/ibis-styles-collioure-port-vendres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=166808505_94610949_2_1_0&highlighted_blocks=166808505_94610949_2_1_0&matching_block_id=166808505_94610949_2_1_0&sr_pri_blocks=166808505_94610949_2_1_0__61326&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/ibis-styles-collioure-port-vendres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=166808505_94610949_2_1_0&highlighted_blocks=166808505_94610949_2_1_0&matching_block_id=166808505_94610949_2_1_0&sr_pri_blocks=166808505_94610949_2_1_0__61326&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 1.6
+        "de_destination_km": 1.6,
+        "stars": 3
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "246",
-        "url": "https://www.booking.com/hotel/fr/le-pescadou-argeles-sur-mer.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=528709405_335540030_0_0_0&highlighted_blocks=528709405_335540030_0_0_0&matching_block_id=528709405_335540030_0_0_0&sr_pri_blocks=528709405_335540030_0_0_0__24630&from=searchresults",
+        "nom_hotel": "Hôtel Le Pescadou",
+        "ville_de_lhotel": "argelès sur mer",
+        "price": "289",
+        "url": "https://www.booking.com/hotel/fr/le-pescadou-argeles-sur-mer.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=528709404_335540030_0_0_0&highlighted_blocks=528709404_335540030_0_0_0&matching_block_id=528709404_335540030_0_0_0&sr_pri_blocks=528709404_335540030_0_0_0__28905&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 4.3
+        "de_destination_km": 4.3,
+        "stars": 0
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "514",
-        "url": "https://www.booking.com/hotel/fr/les-jardins-du-cedre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=24898612_107174544_0_2_0&highlighted_blocks=24898612_107174544_0_2_0&matching_block_id=24898612_107174544_0_2_0&sr_pri_blocks=24898612_107174544_0_2_0__51353&from=searchresults",
+        "nom_hotel": "Les Jardins Du Cèdre",
+        "ville_de_lhotel": "port vendres",
+        "price": "792",
+        "url": "https://www.booking.com/hotel/fr/les-jardins-du-cedre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=24898619_107174544_2_2_0&highlighted_blocks=24898619_107174544_2_2_0&matching_block_id=24898619_107174544_2_2_0&sr_pri_blocks=24898619_107174544_2_2_0__79176&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 2.6
+        "de_destination_km": 2.6,
+        "stars": 3
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "418",
-        "url": "https://www.booking.com/hotel/fr/restaurant-les-paquebots.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=43919301_102251644_2_2_0&highlighted_blocks=43919301_102251644_2_2_0&matching_block_id=43919301_102251644_2_2_0&sr_pri_blocks=43919301_102251644_2_2_0__41786&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 14,
-        "destination": "Collioure",
-        "price": "666",
-        "url": "https://www.booking.com/hotel/fr/intense-boutik.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=928794605_364838240_2_2_0&highlighted_blocks=928794605_364838240_2_2_0&matching_block_id=928794605_364838240_2_2_0&sr_pri_blocks=928794605_364838240_2_2_0__66584&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 2.1
-    },
-    {
-        "id_destination": 14,
-        "destination": "Collioure",
+        "nom_hotel": "Hôtel**résidence BEAR",
+        "ville_de_lhotel": "port vendres",
         "price": "507",
-        "url": "https://www.booking.com/hotel/fr/residence-bear.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=106553706_379647958_2_0_0&highlighted_blocks=106553706_379647958_2_0_0&matching_block_id=106553706_379647958_2_0_0&sr_pri_blocks=106553706_379647958_2_0_0__50651&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/residence-bear.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=106553706_379647958_2_0_0&highlighted_blocks=106553706_379647958_2_0_0&matching_block_id=106553706_379647958_2_0_0&sr_pri_blocks=106553706_379647958_2_0_0__50651&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 2.1
+        "de_destination_km": 2.1,
+        "stars": 2
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
+        "nom_hotel": "Intense Boutik-Hôtel",
+        "ville_de_lhotel": "port vendres",
+        "price": "647",
+        "url": "https://www.booking.com/hotel/fr/intense-boutik.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=928794605_364838240_2_2_0&highlighted_blocks=928794605_364838240_2_2_0&matching_block_id=928794605_364838240_2_2_0&sr_pri_blocks=928794605_364838240_2_2_0__64728&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hotel Restaurant Les Paquebots",
+        "ville_de_lhotel": "port vendres",
+        "price": "429",
+        "url": "https://www.booking.com/hotel/fr/restaurant-les-paquebots.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=43919301_102251644_2_2_0&highlighted_blocks=43919301_102251644_2_2_0&matching_block_id=43919301_102251644_2_2_0&sr_pri_blocks=43919301_102251644_2_2_0__42947&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.0,
+        "stars": 0
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Logis Hôtel Restaurant les Charmettes",
+        "ville_de_lhotel": "argelès sur mer",
+        "price": "409",
+        "url": "https://www.booking.com/hotel/fr/logis-les-charmettes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=23599002_403683167_2_34_0&highlighted_blocks=23599002_403683167_2_34_0&matching_block_id=23599002_403683167_2_34_0&sr_pri_blocks=23599002_403683167_2_34_0__40944&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hotel Bleu Azur",
+        "ville_de_lhotel": "argelès sur mer",
         "price": "374",
-        "url": "https://www.booking.com/hotel/fr/bleu-azur-plage-d-39-argeles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=143135601_211924943_0_2_0&highlighted_blocks=143135601_211924943_0_2_0&matching_block_id=143135601_211924943_0_2_0&sr_pri_blocks=143135601_211924943_0_2_0__37368&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/bleu-azur-plage-d-39-argeles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=143135601_211924943_0_2_0&highlighted_blocks=143135601_211924943_0_2_0&matching_block_id=143135601_211924943_0_2_0&sr_pri_blocks=143135601_211924943_0_2_0__37368&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 4.3
+        "de_destination_km": 4.3,
+        "stars": 3
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "456",
-        "url": "https://www.booking.com/hotel/fr/logis-les-charmettes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=23599002_403683167_2_34_0&highlighted_blocks=23599002_403683167_2_34_0&matching_block_id=23599002_403683167_2_34_0&sr_pri_blocks=23599002_403683167_2_34_0__45648&from=searchresults",
+        "nom_hotel": "Acapella Hotel",
+        "ville_de_lhotel": "argelès sur mer",
+        "price": "336",
+        "url": "https://www.booking.com/hotel/fr/acapella.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=18033227_272917116_2_2_0&highlighted_blocks=18033227_272917116_2_2_0&matching_block_id=18033227_272917116_2_2_0&sr_pri_blocks=18033227_272917116_2_2_0__33648&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 4.8
+        "de_destination_km": 5.7,
+        "stars": 3
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
+        "nom_hotel": "Hôtel Acajou",
+        "ville_de_lhotel": "argelès sur mer",
+        "price": "245",
+        "url": "https://www.booking.com/hotel/fr/ha-tel-acajou.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=38840301_215158876_2_2_0&highlighted_blocks=38840301_215158876_2_2_0&matching_block_id=38840301_215158876_2_2_0&sr_pri_blocks=38840301_215158876_2_2_0__24500&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 6.6,
+        "stars": 1
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Logis Hotel Solhotel",
+        "ville_de_lhotel": "banyuls sur mer",
+        "price": "539",
+        "url": "https://www.booking.com/hotel/fr/solhotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=24295802_372538875_0_2_0&highlighted_blocks=24295802_372538875_0_2_0&matching_block_id=24295802_372538875_0_2_0&sr_pri_blocks=24295802_372538875_0_2_0__53856&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Côté Thalasso Hôtel & Spa Marin",
+        "ville_de_lhotel": "banyuls sur mer",
         "price": "1049",
-        "url": "https://www.booking.com/hotel/fr/thalacap-catalogne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=5366104_247617249_0_42_0&highlighted_blocks=5366104_247617249_0_42_0&matching_block_id=5366104_247617249_0_42_0&sr_pri_blocks=5366104_247617249_0_42_0__104856&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/thalacap-catalogne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5366104_247617249_0_42_0&highlighted_blocks=5366104_247617249_0_42_0&matching_block_id=5366104_247617249_0_42_0&sr_pri_blocks=5366104_247617249_0_42_0__104856&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 0
+        "de_destination_km": 7.0,
+        "stars": 4
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "259",
-        "url": "https://www.booking.com/hotel/fr/ha-tel-acajou.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=38840301_215158876_2_2_0&highlighted_blocks=38840301_215158876_2_2_0&matching_block_id=38840301_215158876_2_2_0&sr_pri_blocks=38840301_215158876_2_2_0__25900&from=searchresults",
+        "nom_hotel": "Les Elmes - Hôtel, Spa & Plage Privée",
+        "ville_de_lhotel": "banyuls sur mer",
+        "price": "725",
+        "url": "https://www.booking.com/hotel/fr/logis-de-france-les-elmes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5776601_88919199_0_42_0&highlighted_blocks=5776601_88919199_0_42_0&matching_block_id=5776601_88919199_0_42_0&sr_pri_blocks=5776601_88919199_0_42_0__72456&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 6.6
+        "de_destination_km": 5.5,
+        "stars": 4
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "467",
-        "url": "https://www.booking.com/hotel/fr/solhotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=24295807_372538875_0_2_0&highlighted_blocks=24295807_372538875_0_2_0&matching_block_id=24295807_372538875_0_2_0&sr_pri_blocks=24295807_372538875_0_2_0__46684&from=searchresults",
+        "nom_hotel": "Hotel Clair Logis",
+        "ville_de_lhotel": "argelès sur mer",
+        "price": "319",
+        "url": "https://www.booking.com/hotel/fr/le-clair-logis-argeles-sur-mer.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=24821001_405611218_0_2_0&highlighted_blocks=24821001_405611218_0_2_0&matching_block_id=24821001_405611218_0_2_0&sr_pri_blocks=24821001_405611218_0_2_0__31928&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 5.8
+        "de_destination_km": 5.2,
+        "stars": 2
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "771",
-        "url": "https://www.booking.com/hotel/fr/logis-de-france-les-elmes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=5776601_88919199_0_42_0&highlighted_blocks=5776601_88919199_0_42_0&matching_block_id=5776601_88919199_0_42_0&sr_pri_blocks=5776601_88919199_0_42_0__77056&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 5.5
-    },
-    {
-        "id_destination": 14,
-        "destination": "Collioure",
-        "price": "314",
-        "url": "https://www.booking.com/hotel/fr/le-clair-logis-argeles-sur-mer.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=24821005_405611218_0_2_0&highlighted_blocks=24821005_405611218_0_2_0&matching_block_id=24821005_405611218_0_2_0&sr_pri_blocks=24821005_405611218_0_2_0__31428&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 5.2
-    },
-    {
-        "id_destination": 14,
-        "destination": "Collioure",
-        "price": "385",
-        "url": "https://www.booking.com/hotel/fr/residence-horizon-golf-saint-cyprien-pierre-amp-vacances-premium.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=682307110_278182128_4_0_0&highlighted_blocks=682307110_278182128_4_0_0&matching_block_id=682307110_278182128_4_0_0&sr_pri_blocks=682307110_278182128_4_0_0__38451&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 13.5
-    },
-    {
-        "id_destination": 14,
-        "destination": "Collioure",
+        "nom_hotel": "Central Hôtel",
+        "ville_de_lhotel": "cerbère",
         "price": "374",
-        "url": "https://www.booking.com/hotel/fr/central-cerbere.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=642827103_325737025_2_2_0&highlighted_blocks=642827103_325737025_2_2_0&matching_block_id=642827103_325737025_2_2_0&sr_pri_blocks=642827103_325737025_2_2_0__37380&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/central-cerbere.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=642827101_295419677_2_2_0&highlighted_blocks=642827101_295419677_2_2_0&matching_block_id=642827101_295419677_2_2_0&sr_pri_blocks=642827101_295419677_2_2_0__37380&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 11.5
+        "de_destination_km": 11.5,
+        "stars": 0
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
+        "nom_hotel": "Logis Hotel Cara Sol",
+        "ville_de_lhotel": "elne",
+        "price": "654",
+        "url": "https://www.booking.com/hotel/fr/carasol.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=35797904_372432481_0_2_0&highlighted_blocks=35797904_372432481_0_2_0&matching_block_id=35797904_372432481_0_2_0&sr_pri_blocks=35797904_372432481_0_2_0__65400&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 12.2,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Mar I Sol Logis",
+        "ville_de_lhotel": "saint cyprien",
         "price": "464",
-        "url": "https://www.booking.com/hotel/fr/logis-mar-i-sol.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=23739102_308967269_0_2_0&highlighted_blocks=23739102_308967269_0_2_0&matching_block_id=23739102_308967269_0_2_0&sr_pri_blocks=23739102_308967269_0_2_0__46368&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/logis-mar-i-sol.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=23739102_308967269_0_2_0&highlighted_blocks=23739102_308967269_0_2_0&matching_block_id=23739102_308967269_0_2_0&sr_pri_blocks=23739102_308967269_0_2_0__46368&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 12.6
+        "de_destination_km": 12.6,
+        "stars": 2
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "448",
-        "url": "https://www.booking.com/hotel/fr/au-remp-arts.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=41214906_375837278_0_40_0&highlighted_blocks=41214906_375837278_0_40_0&matching_block_id=41214906_375837278_0_40_0&sr_pri_blocks=41214906_375837278_0_40_0__44787&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 12.2
-    },
-    {
-        "id_destination": 14,
-        "destination": "Collioure",
-        "price": "630",
-        "url": "https://www.booking.com/hotel/fr/carasol.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=35797904_372432481_0_2_0&highlighted_blocks=35797904_372432481_0_2_0&matching_block_id=35797904_372432481_0_2_0&sr_pri_blocks=35797904_372432481_0_2_0__63000&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 12.2
-    },
-    {
-        "id_destination": 14,
-        "destination": "Collioure",
+        "nom_hotel": "Lagrange Vacances Résidence du Golf",
+        "ville_de_lhotel": "saint cyprien",
         "price": "658",
-        "url": "https://www.booking.com/hotel/fr/lagrange-confort-residence-du-golf.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=24003001_195868508_0_0_0&highlighted_blocks=24003001_195868508_0_0_0&matching_block_id=24003001_195868508_0_0_0&sr_pri_blocks=24003001_195868508_0_0_0__65767&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/lagrange-confort-residence-du-golf.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=24003001_195868508_0_0_0&highlighted_blocks=24003001_195868508_0_0_0&matching_block_id=24003001_195868508_0_0_0&sr_pri_blocks=24003001_195868508_0_0_0__65767&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 13.7
+        "de_destination_km": 13.7,
+        "stars": 2
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "1196",
-        "url": "https://www.booking.com/hotel/fr/canetflamantsroses.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=5162901_82602781_0_42_0&highlighted_blocks=5162901_82602781_0_42_0&matching_block_id=5162901_82602781_0_42_0&sr_pri_blocks=5162901_82602781_0_42_0__119580&from=searchresults",
+        "nom_hotel": "Résidence Pierre & Vacances Premium Horizon Golf",
+        "ville_de_lhotel": "saint cyprien",
+        "price": "372",
+        "url": "https://www.booking.com/hotel/fr/residence-horizon-golf-saint-cyprien-pierre-amp-vacances-premium.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=682307110_278182128_4_0_0&highlighted_blocks=682307110_278182128_4_0_0&matching_block_id=682307110_278182128_4_0_0&sr_pri_blocks=682307110_278182128_4_0_0__37224&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 17.2
+        "de_destination_km": 13.5,
+        "stars": 4
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
+        "nom_hotel": "Relais et Châteaux Thalasso & Spa Ile de la Lagune",
+        "ville_de_lhotel": "saint cyprien",
+        "price": "1699",
+        "url": "https://www.booking.com/hotel/fr/iledelagunecypriensud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5177813_338550052_2_34_0&highlighted_blocks=5177813_338550052_2_34_0&matching_block_id=5177813_338550052_2_34_0&sr_pri_blocks=5177813_338550052_2_34_0__169908&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 10.1,
+        "stars": 5
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "HOTEL LA GARENNE",
+        "ville_de_lhotel": "tresserre",
         "price": "366",
-        "url": "https://www.booking.com/hotel/fr/la-garenne-tresserre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=797122602_350114319_0_34_0&highlighted_blocks=797122602_350114319_0_34_0&matching_block_id=797122602_350114319_0_34_0&sr_pri_blocks=797122602_350114319_0_34_0__36600&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/la-garenne-tresserre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=797122602_350114319_0_34_0&highlighted_blocks=797122602_350114319_0_34_0&matching_block_id=797122602_350114319_0_34_0&sr_pri_blocks=797122602_350114319_0_34_0__36600&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 19.4
+        "de_destination_km": 19.4,
+        "stars": 2
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
-        "price": "341",
-        "url": "https://www.booking.com/hotel/fr/balladins-perpignan-sud-saleilles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=19173322_88550308_2_2_0&highlighted_blocks=19173322_88550308_2_2_0&matching_block_id=19173322_88550308_2_2_0&sr_pri_blocks=19173322_88550308_2_2_0__34140&from=searchresults",
+        "nom_hotel": "Hotel Saint Georges, Face à la mer",
+        "ville_de_lhotel": "canet en roussillon",
+        "price": "484",
+        "url": "https://www.booking.com/hotel/fr/saint-georges-canet-en-roussillon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=24454119_174214629_2_2_0&highlighted_blocks=24454119_174214629_2_2_0&matching_block_id=24454119_174214629_2_2_0&sr_pri_blocks=24454119_174214629_2_2_0__48360&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 19.5
+        "de_destination_km": 19.6,
+        "stars": 3
     },
     {
         "id_destination": 14,
         "destination": "Collioure",
+        "nom_hotel": "Best Western Plus Hotel Canet-Plage",
+        "ville_de_lhotel": "canet en roussillon",
         "price": "683",
-        "url": "https://www.booking.com/hotel/fr/perpignan-canet-plage.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsaB5LsGwAIB0gIkMmZkNWFiMTktOGFmZS00ODdmLThmOGMtMmM5OTVjMTMxZTBj2AIF4AIB&sid=1ecd1dcb01473f2934662e373019bf03&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=d2b950074beb0bff&srepoch=1735989793&all_sr_blocks=5724823_94276096_2_2_0&highlighted_blocks=5724823_94276096_2_2_0&matching_block_id=5724823_94276096_2_2_0&sr_pri_blocks=5724823_94276096_2_2_0__68294&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/perpignan-canet-plage.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5724823_94276096_2_2_0&highlighted_blocks=5724823_94276096_2_2_0&matching_block_id=5724823_94276096_2_2_0&sr_pri_blocks=5724823_94276096_2_2_0__68294&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 18.3
+        "de_destination_km": 18.3,
+        "stars": 4
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Résidence Les Flamants Roses",
+        "ville_de_lhotel": "canet en roussillon",
+        "price": "619",
+        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-les-flamants-roses.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=58782501_279933084_4_42_0&highlighted_blocks=58782501_279933084_4_42_0&matching_block_id=58782501_279933084_4_42_0&sr_pri_blocks=58782501_279933084_4_42_0__61920&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.2,
+        "stars": 0
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "B&B HOTEL Perpignan Saleilles",
+        "ville_de_lhotel": "perpignan",
+        "price": "341",
+        "url": "https://www.booking.com/hotel/fr/balladins-perpignan-sud-saleilles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=19173322_88550308_2_2_0&highlighted_blocks=19173322_88550308_2_2_0&matching_block_id=19173322_88550308_2_2_0&sr_pri_blocks=19173322_88550308_2_2_0__34140&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "The Originals City, Hôtel Les Dômes, Perpignan Sud Saleilles",
+        "ville_de_lhotel": "perpignan",
+        "price": "482",
+        "url": "https://www.booking.com/hotel/fr/best-western-ha-tel-les-da-mes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=32153201_88926259_0_34_0&highlighted_blocks=32153201_88926259_0_34_0&matching_block_id=32153201_88926259_0_34_0&sr_pri_blocks=32153201_88926259_0_34_0__48240&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.6,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hotel Aquarius",
+        "ville_de_lhotel": "canet en roussillon",
+        "price": "536",
+        "url": "https://www.booking.com/hotel/fr/aquarius.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=45320501_247413686_0_41_0&highlighted_blocks=45320501_247413686_0_41_0&matching_block_id=45320501_247413686_0_41_0&sr_pri_blocks=45320501_247413686_0_41_0__53640&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Grand Hôtel Les Flamants Roses Thalasso & Spa",
+        "ville_de_lhotel": "canet en roussillon",
+        "price": "1196",
+        "url": "https://www.booking.com/hotel/fr/canetflamantsroses.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5162901_82602781_0_42_0&highlighted_blocks=5162901_82602781_0_42_0&matching_block_id=5162901_82602781_0_42_0&sr_pri_blocks=5162901_82602781_0_42_0__119580&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.2,
+        "stars": 4
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hôtel le Canetois",
+        "ville_de_lhotel": "canet en roussillon",
+        "price": "374",
+        "url": "https://www.booking.com/hotel/fr/hotel-la-chalosse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=36371108_122203274_2_2_0&highlighted_blocks=36371108_122203274_2_2_0&matching_block_id=36371108_122203274_2_2_0&sr_pri_blocks=36371108_122203274_2_2_0__37398&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.6,
+        "stars": 2
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hotel Le Centre",
+        "ville_de_lhotel": "le boulou",
+        "price": "173",
+        "url": "https://www.booking.com/hotel/fr/le-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=2344614_400172345_2_2_0&highlighted_blocks=2344614_400172345_2_2_0&matching_block_id=2344614_400172345_2_2_0&sr_pri_blocks=2344614_400172345_2_2_0__17304&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Le Neoulous",
+        "ville_de_lhotel": "le boulou",
+        "price": "557",
+        "url": "https://www.booking.com/hotel/fr/le-neoulous.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=4940607_265208495_0_0_0&highlighted_blocks=4940607_265208495_0_0_0&matching_block_id=4940607_265208495_0_0_0&sr_pri_blocks=4940607_265208495_0_0_0__55720&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.3,
+        "stars": 2
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Campanile Perpignan Sud",
+        "ville_de_lhotel": "perpignan",
+        "price": "302",
+        "url": "https://www.booking.com/hotel/fr/campanile-perpignan-porte-d-espagne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=23997_102710547_2_34_0&highlighted_blocks=23997_102710547_2_34_0&matching_block_id=23997_102710547_2_34_0&sr_pri_blocks=23997_102710547_2_34_0__30240&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "ibis Styles Perpignan Canet En Roussillon",
+        "ville_de_lhotel": "canet en roussillon",
+        "price": "433",
+        "url": "https://www.booking.com/hotel/fr/europa-canet-en-roussillon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5831723_103367316_2_1_0&highlighted_blocks=5831723_103367316_2_1_0&matching_block_id=5831723_103367316_2_1_0&sr_pri_blocks=5831723_103367316_2_1_0__43314&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hotel Du Village Catalan",
+        "ville_de_lhotel": "banyuls dels aspres",
+        "price": "693",
+        "url": "https://www.booking.com/hotel/fr/du-village-catalan-banyuls-dels-apsres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5769901_141736551_0_2_0&highlighted_blocks=5769901_141736551_0_2_0&matching_block_id=5769901_141736551_0_2_0&sr_pri_blocks=5769901_141736551_0_2_0__69264&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Kyriad Perpignan Sud",
+        "ville_de_lhotel": "perpignan",
+        "price": "504",
+        "url": "https://www.booking.com/hotel/fr/kyriad-perpignan-sud-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=43331904_94464722_3_34_0&highlighted_blocks=43331904_94464722_3_34_0&matching_block_id=43331904_94464722_3_34_0&sr_pri_blocks=43331904_94464722_3_34_0__50440&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "B&B HOTEL Perpignan Centre",
+        "ville_de_lhotel": "perpignan",
+        "price": "420",
+        "url": "https://www.booking.com/hotel/fr/windsor-perpignan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=31463916_388267831_2_2_0&highlighted_blocks=31463916_388267831_2_2_0&matching_block_id=31463916_388267831_2_2_0&sr_pri_blocks=31463916_388267831_2_2_0__42027&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.9,
+        "stars": 0
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Dali Hôtel Perpignan - Restaurant",
+        "ville_de_lhotel": "perpignan",
+        "price": "509",
+        "url": "https://www.booking.com/hotel/fr/best-western-park-ha-tel-perpignan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5844019_91903537_0_2_0&highlighted_blocks=5844019_91903537_0_2_0&matching_block_id=5844019_91903537_0_2_0&sr_pri_blocks=5844019_91903537_0_2_0__50880&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.6,
+        "stars": 4
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Brit Hotel Porte d'Espagne",
+        "ville_de_lhotel": "perpignan",
+        "price": "399",
+        "url": "https://www.booking.com/hotel/fr/porte-d-espagne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=17351008_88921355_0_2_0&highlighted_blocks=17351008_88921355_0_2_0&matching_block_id=17351008_88921355_0_2_0&sr_pri_blocks=17351008_88921355_0_2_0__39870&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hôtel De La Loge",
+        "ville_de_lhotel": "perpignan",
+        "price": "440",
+        "url": "https://www.booking.com/hotel/fr/de-la-loge.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=23979703_88922519_0_2_0&highlighted_blocks=23979703_88922519_0_2_0&matching_block_id=23979703_88922519_0_2_0&sr_pri_blocks=23979703_88922519_0_2_0__44040&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Le Richelieu",
+        "ville_de_lhotel": "le boulou",
+        "price": "325",
+        "url": "https://www.booking.com/hotel/fr/le-richelieu-le-boulou.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=4896002_203545429_0_0_0&highlighted_blocks=4896002_203545429_0_0_0&matching_block_id=4896002_203545429_0_0_0&sr_pri_blocks=4896002_203545429_0_0_0__32520&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.4,
+        "stars": 2
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Logis Hôtel Les II Mas - Perpignan Sud",
+        "ville_de_lhotel": "cabestany",
+        "price": "596",
+        "url": "https://www.booking.com/hotel/fr/hotellesiimas.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5143703_265490065_0_2_0&highlighted_blocks=5143703_265490065_0_2_0&matching_block_id=5143703_265490065_0_2_0&sr_pri_blocks=5143703_265490065_0_2_0__59640&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hotel De France Perpignan Centre Ville",
+        "ville_de_lhotel": "perpignan",
+        "price": "515",
+        "url": "https://www.booking.com/hotel/fr/hotel-de-france-perpignan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=22762404_405468936_2_2_0&highlighted_blocks=22762404_405468936_2_2_0&matching_block_id=22762404_405468936_2_2_0&sr_pri_blocks=22762404_405468936_2_2_0__51487&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.9,
+        "stars": 0
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Logis Hôtel La Fauceille",
+        "ville_de_lhotel": "perpignan",
+        "price": "568",
+        "url": "https://www.booking.com/hotel/fr/la-fauceille.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=4741202_95180709_0_2_0&highlighted_blocks=4741202_95180709_0_2_0&matching_block_id=4741202_95180709_0_2_0&sr_pri_blocks=4741202_95180709_0_2_0__56758&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.1,
+        "stars": 4
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Résidence Les Portes d'Espagne",
+        "ville_de_lhotel": "perpignan",
+        "price": "235",
+        "url": "https://www.booking.com/hotel/fr/portes-d-espagne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=39380301_357102669_0_0_0&highlighted_blocks=39380301_357102669_0_0_0&matching_block_id=39380301_357102669_0_0_0&sr_pri_blocks=39380301_357102669_0_0_0__23514&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.5,
+        "stars": 0
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Villa Duflot Hôtel & Spa Perpignan",
+        "ville_de_lhotel": "perpignan",
+        "price": "1095",
+        "url": "https://www.booking.com/hotel/fr/villaduflot.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=10914_88921979_0_42_0_294740&highlighted_blocks=10914_88921979_0_42_0_294740&matching_block_id=10914_88921979_0_42_0_294740&sr_pri_blocks=10914_88921979_0_42_0_294740_109480&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.2,
+        "stars": 4
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "Hotel Kennedy",
+        "ville_de_lhotel": "perpignan",
+        "price": "346",
+        "url": "https://www.booking.com/hotel/fr/kennedy-perpignan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=5491702_401904737_0_2_0&highlighted_blocks=5491702_401904737_0_2_0&matching_block_id=5491702_401904737_0_2_0&sr_pri_blocks=5491702_401904737_0_2_0__34560&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.8,
+        "stars": 2
+    },
+    {
+        "id_destination": 14,
+        "destination": "Collioure",
+        "nom_hotel": "La Suite Romantique avec Jacuzzi au Cœur de Perpignan",
+        "ville_de_lhotel": "perpignan",
+        "price": "1048",
+        "url": "https://www.booking.com/hotel/fr/la-suite-romantique-spa.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArD6vrwGwAIB0gIkYmI0ODU5MzktMWFlNy00YTFlLWE2YjYtYjI3N2M5NGUwMDIx2AIF4AIB&sid=6ca9e3fa0fd953a84c649152c0782dff&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1421032&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=49&sr_order=popularity&nflt=ht_id%3D204&srpvid=5aba3e0babb70114&srepoch=1737622176&all_sr_blocks=387804501_392321452_0_0_0&highlighted_blocks=387804501_392321452_0_0_0&matching_block_id=387804501_392321452_0_0_0&sr_pri_blocks=387804501_392321452_0_0_0__104820&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.7,
+        "stars": 0
     }
 ]

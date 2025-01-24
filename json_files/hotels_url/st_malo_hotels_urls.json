@@ -2,201 +2,419 @@
     {
         "id_destination": 31,
         "destination": "St Malo",
-        "price": "537",
-        "url": "https://www.booking.com/hotel/fr/anne-de-bretagne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5421207_88548310_2_2_0&highlighted_blocks=5421207_88548310_2_2_0&matching_block_id=5421207_88548310_2_2_0&sr_pri_blocks=5421207_88548310_2_2_0__53707&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "330",
-        "url": "https://www.booking.com/hotel/fr/de-l-europe-appartements.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=928823904_397100154_2_0_0&highlighted_blocks=928823904_397100154_2_0_0&matching_block_id=928823904_397100154_2_0_0&sr_pri_blocks=928823904_397100154_2_0_0__33020&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "1138",
-        "url": "https://www.booking.com/hotel/fr/oceaniasaintmalo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5318823_91458130_0_2_0&highlighted_blocks=5318823_91458130_0_2_0&matching_block_id=5318823_91458130_0_2_0&sr_pri_blocks=5318823_91458130_0_2_0__113760&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "583",
-        "url": "https://www.booking.com/hotel/fr/mascottesaintmalo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5318901_91458134_0_2_0&highlighted_blocks=5318901_91458134_0_2_0&matching_block_id=5318901_91458134_0_2_0&sr_pri_blocks=5318901_91458134_0_2_0__58320&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "544",
-        "url": "https://www.booking.com/hotel/fr/ar-iniz.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=59149405_380813121_0_42_0&highlighted_blocks=59149405_380813121_0_42_0&matching_block_id=59149405_380813121_0_42_0&sr_pri_blocks=59149405_380813121_0_42_0__54384&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "466",
-        "url": "https://www.booking.com/hotel/fr/de-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=17734103_88548340_2_2_0&highlighted_blocks=17734103_88548340_2_2_0&matching_block_id=17734103_88548340_2_2_0&sr_pri_blocks=17734103_88548340_2_2_0__46620&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
+        "nom_hotel": "Hôtel France et Chateaubriand",
+        "ville_de_lhotel": "saint malo",
         "price": "485",
-        "url": "https://www.booking.com/hotel/fr/de-france-et-chateaubriand.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=19151701_88548354_2_34_0&highlighted_blocks=19151701_88548354_2_34_0&matching_block_id=19151701_88548354_2_34_0&sr_pri_blocks=19151701_88548354_2_34_0__48520&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/de-france-et-chateaubriand.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=19151701_88548354_2_34_0&highlighted_blocks=19151701_88548354_2_34_0&matching_block_id=19151701_88548354_2_34_0&sr_pri_blocks=19151701_88548354_2_34_0__48485&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 200.0,
+        "stars": 3
     },
     {
         "id_destination": 31,
         "destination": "St Malo",
-        "price": "334",
-        "url": "https://www.booking.com/hotel/fr/la-cote-d-39-emeraude.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=123324901_118092419_2_2_0&highlighted_blocks=123324901_118092419_2_2_0&matching_block_id=123324901_118092419_2_2_0&sr_pri_blocks=123324901_118092419_2_2_0__33372&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Ar Iniz",
+        "ville_de_lhotel": "saint malo",
+        "price": "544",
+        "url": "https://www.booking.com/hotel/fr/ar-iniz.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=59149405_380813121_0_42_0&highlighted_blocks=59149405_380813121_0_42_0&matching_block_id=59149405_380813121_0_42_0&sr_pri_blocks=59149405_380813121_0_42_0__54384&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.8,
+        "stars": 3
     },
     {
         "id_destination": 31,
         "destination": "St Malo",
-        "price": "583",
-        "url": "https://www.booking.com/hotel/fr/ambassadeurs.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5916907_88548326_0_2_0&highlighted_blocks=5916907_88548326_0_2_0&matching_block_id=5916907_88548326_0_2_0&sr_pri_blocks=5916907_88548326_0_2_0__58349&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hotel De L'univers",
+        "ville_de_lhotel": "saint malo",
+        "price": "482",
+        "url": "https://www.booking.com/hotel/fr/de-l-univers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5424101_88548298_2_2_0&highlighted_blocks=5424101_88548298_2_2_0&matching_block_id=5424101_88548298_2_2_0&sr_pri_blocks=5424101_88548298_2_2_0__48220&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 200.0,
+        "stars": 3
     },
     {
         "id_destination": 31,
         "destination": "St Malo",
-        "price": "569",
-        "url": "https://www.booking.com/hotel/fr/cartier.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5436202_370771144_0_2_0&highlighted_blocks=5436202_370771144_0_2_0&matching_block_id=5436202_370771144_0_2_0&sr_pri_blocks=5436202_370771144_0_2_0__56862&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "La Marinière Hôtel Restaurant",
+        "ville_de_lhotel": "saint malo",
+        "price": "599",
+        "url": "https://www.booking.com/hotel/fr/aux-voyageurs.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=519473901_358163747_2_42_0&highlighted_blocks=519473901_358163747_2_42_0&matching_block_id=519473901_358163747_2_42_0&sr_pri_blocks=519473901_358163747_2_42_0__59892&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.3,
+        "stars": 2
     },
     {
         "id_destination": 31,
         "destination": "St Malo",
-        "price": "493",
-        "url": "https://www.booking.com/hotel/fr/ibis-saint-malo-madeleine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5839610_94277795_2_2_0&highlighted_blocks=5839610_94277795_2_2_0&matching_block_id=5839610_94277795_2_2_0&sr_pri_blocks=5839610_94277795_2_2_0__49294&from_sustainable_property_sr=1&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Anne de Bretagne",
+        "ville_de_lhotel": "saint malo",
+        "price": "865",
+        "url": "https://www.booking.com/hotel/fr/anne-de-bretagne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5421208_88548310_2_2_0&highlighted_blocks=5421208_88548310_2_2_0&matching_block_id=5421208_88548310_2_2_0&sr_pri_blocks=5421208_88548310_2_2_0__86513&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 150.0,
+        "stars": 0
     },
     {
         "id_destination": 31,
         "destination": "St Malo",
-        "price": "346",
-        "url": "https://www.booking.com/hotel/fr/maevatymat.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5172301_258598875_0_0_0&highlighted_blocks=5172301_258598875_0_0_0&matching_block_id=5172301_258598875_0_0_0&sr_pri_blocks=5172301_258598875_0_0_0__34560&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "ibis Styles Saint Malo Port",
+        "ville_de_lhotel": "saint malo",
+        "price": "563",
+        "url": "https://www.booking.com/hotel/fr/ibis-styles-saint-malo-port.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=110855805_91345695_2_41_0&highlighted_blocks=110855805_91345695_2_41_0&matching_block_id=110855805_91345695_2_41_0&sr_pri_blocks=110855805_91345695_2_41_0__56262&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.5,
+        "stars": 3
     },
     {
         "id_destination": 31,
         "destination": "St Malo",
-        "price": "508",
-        "url": "https://www.booking.com/hotel/fr/ibis-saint-malo-plage.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5923108_94278441_2_2_0&highlighted_blocks=5923108_94278441_2_2_0&matching_block_id=5923108_94278441_2_2_0&sr_pri_blocks=5923108_94278441_2_2_0__50798&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "630",
-        "url": "https://www.booking.com/hotel/fr/kyriad-prestige-saint-malo-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=88652301_160841125_2_2_0&highlighted_blocks=88652301_160841125_2_2_0&matching_block_id=88652301_160841125_2_2_0&sr_pri_blocks=88652301_160841125_2_2_0__63020&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "1255",
-        "url": "https://www.booking.com/hotel/fr/ha-tel-le-nouveau-monde.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=37957402_88928201_2_42_0&highlighted_blocks=37957402_88928201_2_42_0&matching_block_id=37957402_88928201_2_42_0&sr_pri_blocks=37957402_88928201_2_42_0__125460&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "314",
-        "url": "https://www.booking.com/hotel/fr/etap-saint-malo-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=39614416_94456244_2_2_0&highlighted_blocks=39614416_94456244_2_2_0&matching_block_id=39614416_94456244_2_2_0&sr_pri_blocks=39614416_94456244_2_2_0__31350&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "548",
-        "url": "https://www.booking.com/hotel/fr/bleumarinesaintmalo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5042136_205800504_0_2_0&highlighted_blocks=5042136_205800504_0_2_0&matching_block_id=5042136_205800504_0_2_0&sr_pri_blocks=5042136_205800504_0_2_0__54820&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "916",
-        "url": "https://www.booking.com/hotel/fr/brasserie-armoricaine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=291660703_109141843_3_2_0&highlighted_blocks=291660703_109141843_3_2_0&matching_block_id=291660703_109141843_3_2_0&sr_pri_blocks=291660703_109141843_3_2_0__91620&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "679",
-        "url": "https://www.booking.com/hotel/fr/beaufort.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5491808_91902984_0_2_0&highlighted_blocks=5491808_91902984_0_2_0&matching_block_id=5491808_91902984_0_2_0&sr_pri_blocks=5491808_91902984_0_2_0__67920&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "261",
-        "url": "https://www.booking.com/hotel/fr/le-britannic.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=280740401_367905180_2_0_0&highlighted_blocks=280740401_367905180_2_0_0&matching_block_id=280740401_367905180_2_0_0&sr_pri_blocks=280740401_367905180_2_0_0__26080&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "526",
-        "url": "https://www.booking.com/hotel/fr/alba-saint-malo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5391402_380805755_0_2_0&highlighted_blocks=5391402_380805755_0_2_0&matching_block_id=5391402_380805755_0_2_0&sr_pri_blocks=5391402_380805755_0_2_0__52584&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "736",
-        "url": "https://www.booking.com/hotel/fr/de-l-univers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=5424117_88548298_2_2_0&highlighted_blocks=5424117_88548298_2_2_0&matching_block_id=5424117_88548298_2_2_0&sr_pri_blocks=5424117_88548298_2_2_0__73620&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
-        "price": "567",
-        "url": "https://www.booking.com/hotel/fr/all-seasons-saint-malo-centre-historique.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=29019204_94396706_2_1_0&highlighted_blocks=29019204_94396706_2_1_0&matching_block_id=29019204_94396706_2_1_0&sr_pri_blocks=29019204_94396706_2_1_0__56700&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 31,
-        "destination": "St Malo",
+        "nom_hotel": "Ker Annick",
+        "ville_de_lhotel": "saint malo",
         "price": "462",
-        "url": "https://www.booking.com/hotel/fr/ker-annick.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=288402601_348680220_2_2_0&highlighted_blocks=288402601_348680220_2_2_0&matching_block_id=288402601_348680220_2_2_0&sr_pri_blocks=288402601_348680220_2_2_0__46200&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/ker-annick.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=288402601_348680220_2_2_0&highlighted_blocks=288402601_348680220_2_2_0&matching_block_id=288402601_348680220_2_2_0&sr_pri_blocks=288402601_348680220_2_2_0__46200&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.3,
+        "stars": 2
     },
     {
         "id_destination": 31,
         "destination": "St Malo",
+        "nom_hotel": "Escale Oceania Saint Malo",
+        "ville_de_lhotel": "saint malo",
+        "price": "609",
+        "url": "https://www.booking.com/hotel/fr/mascottesaintmalo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5318901_91458134_0_2_0&highlighted_blocks=5318901_91458134_0_2_0&matching_block_id=5318901_91458134_0_2_0&sr_pri_blocks=5318901_91458134_0_2_0__60920&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Ambassadeurs Logis Hotel",
+        "ville_de_lhotel": "saint malo",
+        "price": "509",
+        "url": "https://www.booking.com/hotel/fr/ambassadeurs.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5916907_88548326_0_2_0&highlighted_blocks=5916907_88548326_0_2_0&matching_block_id=5916907_88548326_0_2_0&sr_pri_blocks=5916907_88548326_0_2_0__50850&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Hôtel de la Cité",
+        "ville_de_lhotel": "saint malo",
+        "price": "449",
+        "url": "https://www.booking.com/hotel/fr/de-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=17734103_88548340_2_2_0&highlighted_blocks=17734103_88548340_2_2_0&matching_block_id=17734103_88548340_2_2_0&sr_pri_blocks=17734103_88548340_2_2_0__44920&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 200.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Alba hotel",
+        "ville_de_lhotel": "saint malo",
+        "price": "571",
+        "url": "https://www.booking.com/hotel/fr/alba-saint-malo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5391402_380805755_0_2_0&highlighted_blocks=5391402_380805755_0_2_0&matching_block_id=5391402_380805755_0_2_0&sr_pri_blocks=5391402_380805755_0_2_0__57084&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.8,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Hotel Ar Terra Nova",
+        "ville_de_lhotel": "saint malo",
+        "price": "343",
+        "url": "https://www.booking.com/hotel/fr/ar-terra-nova.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=231078601_396213171_2_2_0&highlighted_blocks=231078601_396213171_2_2_0&matching_block_id=231078601_396213171_2_2_0&sr_pri_blocks=231078601_396213171_2_2_0__34288&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.7,
+        "stars": 2
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Otonali Hôtel by Breizh Café",
+        "ville_de_lhotel": "saint malo",
+        "price": "610",
+        "url": "https://www.booking.com/hotel/fr/aubade.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5398408_113418788_0_2_0&highlighted_blocks=5398408_113418788_0_2_0&matching_block_id=5398408_113418788_0_2_0&sr_pri_blocks=5398408_113418788_0_2_0__61020&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Manoir Du Cunningham",
+        "ville_de_lhotel": "saint malo",
+        "price": "582",
+        "url": "https://www.booking.com/hotel/fr/manoir-du-cunningham.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5945702_397140479_0_2_0&highlighted_blocks=5945702_397140479_0_2_0&matching_block_id=5945702_397140479_0_2_0&sr_pri_blocks=5945702_397140479_0_2_0__58224&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Sézam-Appart-Hôtel",
+        "ville_de_lhotel": "saint malo",
+        "price": "350",
+        "url": "https://www.booking.com/hotel/fr/de-l-europe-appartements.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=928823904_397100154_2_0_0&highlighted_blocks=928823904_397100154_2_0_0&matching_block_id=928823904_397100154_2_0_0&sr_pri_blocks=928823904_397100154_2_0_0__35020&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.3,
+        "stars": 0
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Hôtel Cartier",
+        "ville_de_lhotel": "saint malo",
+        "price": "403",
+        "url": "https://www.booking.com/hotel/fr/cartier.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__40338&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 100.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "L'Hôtel Particulier Ascott",
+        "ville_de_lhotel": "saint malo",
+        "price": "610",
+        "url": "https://www.booking.com/hotel/fr/ascott.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5520201_264838633_0_2_0&highlighted_blocks=5520201_264838633_0_2_0&matching_block_id=5520201_264838633_0_2_0&sr_pri_blocks=5520201_264838633_0_2_0__61020&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Hôtel Le Beaufort",
+        "ville_de_lhotel": "saint malo",
+        "price": "719",
+        "url": "https://www.booking.com/hotel/fr/beaufort.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5491808_91902984_0_2_0&highlighted_blocks=5491808_91902984_0_2_0&matching_block_id=5491808_91902984_0_2_0&sr_pri_blocks=5491808_91902984_0_2_0__71920&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Oceania Saint Malo",
+        "ville_de_lhotel": "saint malo",
+        "price": "1138",
+        "url": "https://www.booking.com/hotel/fr/oceaniasaintmalo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5318823_91458130_0_2_0&highlighted_blocks=5318823_91458130_0_2_0&matching_block_id=5318823_91458130_0_2_0&sr_pri_blocks=5318823_91458130_0_2_0__113760&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0.6,
+        "stars": 4
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Hôtel Oré, Saint-Malo",
+        "ville_de_lhotel": "saint malo",
+        "price": "508",
+        "url": "https://www.booking.com/hotel/fr/belem.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5433701_88918940_2_2_0&highlighted_blocks=5433701_88918940_2_2_0&matching_block_id=5433701_88918940_2_2_0&sr_pri_blocks=5433701_88918940_2_2_0__50844&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.9,
+        "stars": 4
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Grand Hôtel Des Thermes",
+        "ville_de_lhotel": "saint malo",
+        "price": "2826",
+        "url": "https://www.booking.com/hotel/fr/desthermessaintmalo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5110308_338405424_0_2_0&highlighted_blocks=5110308_338405424_0_2_0&matching_block_id=5110308_338405424_0_2_0&sr_pri_blocks=5110308_338405424_0_2_0__282640&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.1,
+        "stars": 5
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "ibis Saint-Malo Madeleine",
+        "ville_de_lhotel": "saint malo",
+        "price": "474",
+        "url": "https://www.booking.com/hotel/fr/ibis-saint-malo-madeleine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5839610_94277795_2_2_0&highlighted_blocks=5839610_94277795_2_2_0&matching_block_id=5839610_94277795_2_2_0&sr_pri_blocks=5839610_94277795_2_2_0__47380&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.7,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Kyriad Prestige Saint-Malo",
+        "ville_de_lhotel": "saint malo",
+        "price": "610",
+        "url": "https://www.booking.com/hotel/fr/kyriad-prestige-saint-malo-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=88652301_160841125_2_2_0&highlighted_blocks=88652301_160841125_2_2_0&matching_block_id=88652301_160841125_2_2_0&sr_pri_blocks=88652301_160841125_2_2_0__61020&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Appartements des Marins",
+        "ville_de_lhotel": "saint malo",
+        "price": "853",
+        "url": "https://www.booking.com/hotel/fr/appartements-des-marins.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=518115201_180453174_0_0_0&highlighted_blocks=518115201_180453174_0_0_0&matching_block_id=518115201_180453174_0_0_0&sr_pri_blocks=518115201_180453174_0_0_0__85288&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 100.0,
+        "stars": 0
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "ibis budget Saint Malo Centre",
+        "ville_de_lhotel": "saint malo",
+        "price": "322",
+        "url": "https://www.booking.com/hotel/fr/etap-saint-malo-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=39614416_94456244_2_2_0&highlighted_blocks=39614416_94456244_2_2_0&matching_block_id=39614416_94456244_2_2_0&sr_pri_blocks=39614416_94456244_2_2_0__32159&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.7,
+        "stars": 2
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "hotelF1 Saint Malo",
+        "ville_de_lhotel": "saint malo",
+        "price": "272",
+        "url": "https://www.booking.com/hotel/fr/hotelf1-saint-malo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=66532805_376292473_2_2_0&highlighted_blocks=66532805_376292473_2_2_0&matching_block_id=66532805_376292473_2_2_0&sr_pri_blocks=66532805_376292473_2_2_0__27191&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.2,
+        "stars": 0
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Résidence Pierre & Vacances Ty Mat",
+        "ville_de_lhotel": "saint malo",
+        "price": "351",
+        "url": "https://www.booking.com/hotel/fr/maevatymat.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5172301_258598875_0_0_0&highlighted_blocks=5172301_258598875_0_0_0&matching_block_id=5172301_258598875_0_0_0&sr_pri_blocks=5172301_258598875_0_0_0__35060&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.5,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "ibis Saint Malo Plage",
+        "ville_de_lhotel": "saint malo",
+        "price": "503",
+        "url": "https://www.booking.com/hotel/fr/ibis-saint-malo-plage.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5923108_94278441_2_2_0&highlighted_blocks=5923108_94278441_2_2_0&matching_block_id=5923108_94278441_2_2_0&sr_pri_blocks=5923108_94278441_2_2_0__50325&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Hôtel des Marins, Saint-Malo",
+        "ville_de_lhotel": "saint malo",
+        "price": "600",
+        "url": "https://www.booking.com/hotel/fr/dulouvresaintmalo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5127012_88548286_0_2_0&highlighted_blocks=5127012_88548286_0_2_0&matching_block_id=5127012_88548286_0_2_0&sr_pri_blocks=5127012_88548286_0_2_0__60020&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 100.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Résidence Le Rochebonne",
+        "ville_de_lhotel": "saint malo",
+        "price": "540",
+        "url": "https://www.booking.com/hotel/fr/residence-le-rochebonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=1136330602_406259783_0_0_0&highlighted_blocks=1136330602_406259783_0_0_0&matching_block_id=1136330602_406259783_0_0_0&sr_pri_blocks=1136330602_406259783_0_0_0__53988&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.0,
+        "stars": 0
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Golden Tulip Saint Malo– Le Grand Bé",
+        "ville_de_lhotel": "saint malo",
         "price": "1043",
-        "url": "https://www.booking.com/hotel/fr/golden-tulip-saint-malo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApmD5LsGwAIB0gIkMjNkMmZmZTctMWUxNS00NzU4LWI5ODAtNTRhMTI0N2Q4MDAz2AIF4AIB&sid=5cbc11329ac25dc1854198e62c986c8b&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=6e7b51c7959b089c&srepoch=1735990691&all_sr_blocks=232752906_100519883_2_41_0&highlighted_blocks=232752906_100519883_2_41_0&matching_block_id=232752906_100519883_2_41_0&sr_pri_blocks=232752906_100519883_2_41_0__104280&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/golden-tulip-saint-malo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=232752906_100519883_2_41_0&highlighted_blocks=232752906_100519883_2_41_0&matching_block_id=232752906_100519883_2_41_0&sr_pri_blocks=232752906_100519883_2_41_0__104280&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 100.0,
+        "stars": 4
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Hotel Kyriad Saint Malo Centre Plage",
+        "ville_de_lhotel": "saint malo",
+        "price": "436",
+        "url": "https://www.booking.com/hotel/fr/bleumarinesaintmalo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5042136_205800504_0_2_0&highlighted_blocks=5042136_205800504_0_2_0&matching_block_id=5042136_205800504_0_2_0&sr_pri_blocks=5042136_205800504_0_2_0__43620&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.6,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Logis Hôtel la Grassinais Saint-Malo",
+        "ville_de_lhotel": "saint malo",
+        "price": "544",
+        "url": "https://www.booking.com/hotel/fr/arcantis-la-grassinais.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5492706_276271571_2_2_0&highlighted_blocks=5492706_276271571_2_2_0&matching_block_id=5492706_276271571_2_2_0&sr_pri_blocks=5492706_276271571_2_2_0__54420&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Mercure Saint Malo Balmoral",
+        "ville_de_lhotel": "saint malo",
+        "price": "524",
+        "url": "https://www.booking.com/hotel/fr/best-western-balmoral.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=24517618_93717943_2_2_0&highlighted_blocks=24517618_93717943_2_2_0&matching_block_id=24517618_93717943_2_2_0&sr_pri_blocks=24517618_93717943_2_2_0__52381&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.5,
+        "stars": 4
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "ibis Styles Saint Malo Centre Historique",
+        "ville_de_lhotel": "saint malo",
+        "price": "586",
+        "url": "https://www.booking.com/hotel/fr/all-seasons-saint-malo-centre-historique.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=29019201_94396706_2_1_0&highlighted_blocks=29019201_94396706_2_1_0&matching_block_id=29019201_94396706_2_1_0&sr_pri_blocks=29019201_94396706_2_1_0__58565&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 150.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Hôtel Le Britannic - centre gare-",
+        "ville_de_lhotel": "saint malo",
+        "price": "321",
+        "url": "https://www.booking.com/hotel/fr/le-britannic.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=280740403_367905180_3_0_0&highlighted_blocks=280740403_367905180_3_0_0&matching_block_id=280740403_367905180_3_0_0&sr_pri_blocks=280740403_367905180_3_0_0__32080&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.4,
+        "stars": 2
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Mercure St Malo Front de Mer",
+        "ville_de_lhotel": "saint malo",
+        "price": "555",
+        "url": "https://www.booking.com/hotel/fr/st-malo-front-de-mer.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=5711102_94275340_2_2_0&highlighted_blocks=5711102_94275340_2_2_0&matching_block_id=5711102_94275340_2_2_0&sr_pri_blocks=5711102_94275340_2_2_0__55515&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0.9,
+        "stars": 4
+    },
+    {
+        "id_destination": 31,
+        "destination": "St Malo",
+        "nom_hotel": "Artimon By Les Ambassadeurs",
+        "ville_de_lhotel": "saint malo",
+        "price": "500",
+        "url": "https://www.booking.com/hotel/fr/artimont-by-les-ambassadeurs.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aoj8vrwGwAIB0gIkMmE4ZGMyMzUtNTZjMC00ZTMwLWE2NjgtNTgxZmE4YzdkN2Y42AIF4AIB&sid=30a213f7cce115b16eea6122f9266769&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1466824&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&nflt=ht_id%3D204&srpvid=68523ecfffcf0489&srepoch=1737622570&all_sr_blocks=1243231103_396231283_2_2_0&highlighted_blocks=1243231103_396231283_2_2_0&matching_block_id=1243231103_396231283_2_2_0&sr_pri_blocks=1243231103_396231283_2_2_0__49960&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 1.7,
+        "stars": 0
     }
 ]

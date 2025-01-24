@@ -2,201 +2,463 @@
     {
         "id_destination": 5,
         "destination": "Avignon",
+        "nom_hotel": "Avignon Grand Hotel",
+        "ville_de_lhotel": "avignon",
+        "price": "678",
+        "url": "https://www.booking.com/hotel/fr/avignongrandhotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5109514_88560044_0_2_0&highlighted_blocks=5109514_88560044_0_2_0&matching_block_id=5109514_88560044_0_2_0&sr_pri_blocks=5109514_88560044_0_2_0__67800&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "ApartHotel Sainte-Marthe",
+        "ville_de_lhotel": "avignon",
         "price": "309",
-        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-sainte-marthe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=63496115_88934507_0_2_0&highlighted_blocks=63496115_88934507_0_2_0&matching_block_id=63496115_88934507_0_2_0&sr_pri_blocks=63496115_88934507_0_2_0__30936&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-sainte-marthe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=63496115_88934507_0_2_0&highlighted_blocks=63496115_88934507_0_2_0&matching_block_id=63496115_88934507_0_2_0&sr_pri_blocks=63496115_88934507_0_2_0__30936&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "309",
-        "url": "https://www.booking.com/hotel/fr/residence-5-epi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=39597501_88560085_0_0_0&highlighted_blocks=39597501_88560085_0_0_0&matching_block_id=39597501_88560085_0_0_0&sr_pri_blocks=39597501_88560085_0_0_0__30870&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "331",
-        "url": "https://www.booking.com/hotel/fr/citea-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5860702_94277910_2_2_0&highlighted_blocks=5860702_94277910_2_2_0&matching_block_id=5860702_94277910_2_2_0&sr_pri_blocks=5860702_94277910_2_2_0__33136&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "387",
-        "url": "https://www.booking.com/hotel/fr/cowool-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=759318401_400710659_0_0_0&highlighted_blocks=759318401_400710659_0_0_0&matching_block_id=759318401_400710659_0_0_0&sr_pri_blocks=759318401_400710659_0_0_0__38704&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "455",
-        "url": "https://www.booking.com/hotel/fr/kyriad-avignon-palais-des-papes-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=43847601_94465788_2_2_0&highlighted_blocks=43847601_94465788_2_2_0&matching_block_id=43847601_94465788_2_2_0&sr_pri_blocks=43847601_94465788_2_2_0__45492&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "330",
-        "url": "https://www.booking.com/hotel/fr/splendid-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=4769701_88560037_0_2_0&highlighted_blocks=4769701_88560037_0_2_0&matching_block_id=4769701_88560037_0_2_0&sr_pri_blocks=4769701_88560037_0_2_0__32988&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "278",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-avignon-courtine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=36463401_91473412_2_34_0&highlighted_blocks=36463401_91473412_2_34_0&matching_block_id=36463401_91473412_2_34_0&sr_pri_blocks=36463401_91473412_2_34_0__27828&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "577",
-        "url": "https://www.booking.com/hotel/fr/hotel-bristol-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=65938_88560066_0_2_0&highlighted_blocks=65938_88560066_0_2_0&matching_block_id=65938_88560066_0_2_0&sr_pri_blocks=65938_88560066_0_2_0__57700&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "422",
-        "url": "https://www.booking.com/hotel/fr/central-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__42210&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "659",
-        "url": "https://www.booking.com/hotel/fr/hotellelavarin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=21438229_123329243_2_34_0&highlighted_blocks=21438229_123329243_2_34_0&matching_block_id=21438229_123329243_2_34_0&sr_pri_blocks=21438229_123329243_2_34_0__65860&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "618",
-        "url": "https://www.booking.com/hotel/fr/avignongrandhotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5109502_88560044_0_2_0&highlighted_blocks=5109502_88560044_0_2_0&matching_block_id=5109502_88560044_0_2_0&sr_pri_blocks=5109502_88560044_0_2_0__61800&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "785",
-        "url": "https://www.booking.com/hotel/fr/avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5722808_94275954_2_41_0&highlighted_blocks=5722808_94275954_2_41_0&matching_block_id=5722808_94275954_2_41_0&sr_pri_blocks=5722808_94275954_2_41_0__78490&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "641",
-        "url": "https://www.booking.com/hotel/fr/clarioncloitrestlouis.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5121603_88560048_0_2_0&highlighted_blocks=5121603_88560048_0_2_0&matching_block_id=5121603_88560048_0_2_0&sr_pri_blocks=5121603_88560048_0_2_0__64050&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
-        "price": "493",
-        "url": "https://www.booking.com/hotel/fr/ibis-avignon-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=53746902_94487820_2_42_0&highlighted_blocks=53746902_94487820_2_42_0&matching_block_id=53746902_94487820_2_42_0&sr_pri_blocks=53746902_94487820_2_42_0__49280&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 5,
-        "destination": "Avignon",
+        "nom_hotel": "Hôtel Central",
+        "ville_de_lhotel": "avignon",
         "price": "414",
-        "url": "https://www.booking.com/hotel/fr/hotelreginaavignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5143302_89801098_2_2_0&highlighted_blocks=5143302_89801098_2_2_0&matching_block_id=5143302_89801098_2_2_0&sr_pri_blocks=5143302_89801098_2_2_0__41442&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/central-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5465402_88560062_2_2_0&highlighted_blocks=5465402_88560062_2_2_0&matching_block_id=5465402_88560062_2_2_0&sr_pri_blocks=5465402_88560062_2_2_0__41442&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "715",
-        "url": "https://www.booking.com/hotel/fr/mercure-cite-des-papes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5422908_97560556_2_2_0&highlighted_blocks=5422908_97560556_2_2_0&matching_block_id=5422908_97560556_2_2_0&sr_pri_blocks=5422908_97560556_2_2_0__71519&from=searchresults",
+        "nom_hotel": "Hôtel Le Bristol",
+        "ville_de_lhotel": "avignon",
+        "price": "558",
+        "url": "https://www.booking.com/hotel/fr/hotel-bristol-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=65938_88560066_0_2_0&highlighted_blocks=65938_88560066_0_2_0&matching_block_id=65938_88560066_0_2_0&sr_pri_blocks=65938_88560066_0_2_0__55800&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "354",
-        "url": "https://www.booking.com/hotel/fr/hoteldanieli.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=13009_88560059_0_2_0&highlighted_blocks=13009_88560059_0_2_0&matching_block_id=13009_88560059_0_2_0&sr_pri_blocks=13009_88560059_0_2_0__35439&from=searchresults",
+        "nom_hotel": "Régina Boutique Hotel",
+        "ville_de_lhotel": "avignon",
+        "price": "414",
+        "url": "https://www.booking.com/hotel/fr/hotelreginaavignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5143302_89801098_2_2_0&highlighted_blocks=5143302_89801098_2_2_0&matching_block_id=5143302_89801098_2_2_0&sr_pri_blocks=5143302_89801098_2_2_0__41442&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "809",
-        "url": "https://www.booking.com/hotel/fr/de-cambis-bw-premier-collection.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=801773002_341431654_2_2_0&highlighted_blocks=801773002_341431654_2_2_0&matching_block_id=801773002_341431654_2_2_0&sr_pri_blocks=801773002_341431654_2_2_0__80946&from=searchresults",
+        "nom_hotel": "Le Magnan",
+        "ville_de_lhotel": "avignon",
+        "price": "476",
+        "url": "https://www.booking.com/hotel/fr/hotellemagnan.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=21687016_404749933_2_2_0&highlighted_blocks=21687016_404749933_2_2_0&matching_block_id=21687016_404749933_2_2_0&sr_pri_blocks=21687016_404749933_2_2_0__47612&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "719",
-        "url": "https://www.booking.com/hotel/fr/ibis-avignon-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=19105206_94344203_2_42_0&highlighted_blocks=19105206_94344203_2_42_0&matching_block_id=19105206_94344203_2_42_0&sr_pri_blocks=19105206_94344203_2_42_0__71882&from=searchresults",
+        "nom_hotel": "Hotel d'Angleterre",
+        "ville_de_lhotel": "avignon",
+        "price": "495",
+        "url": "https://www.booking.com/hotel/fr/d-angleterre-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=28331502_269236164_0_2_0&highlighted_blocks=28331502_269236164_0_2_0&matching_block_id=28331502_269236164_0_2_0&sr_pri_blocks=28331502_269236164_0_2_0__49512&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "267",
-        "url": "https://www.booking.com/hotel/fr/hotelf1-avignon-centre-courtine-gare-tgv.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=67627605_376292492_2_2_0&highlighted_blocks=67627605_376292492_2_2_0&matching_block_id=67627605_376292492_2_2_0&sr_pri_blocks=67627605_376292492_2_2_0__26700&from=searchresults",
+        "nom_hotel": "Hôtel Cloitre Saint Louis Avignon",
+        "ville_de_lhotel": "avignon",
+        "price": "641",
+        "url": "https://www.booking.com/hotel/fr/clarioncloitrestlouis.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5121603_88560048_0_2_0&highlighted_blocks=5121603_88560048_0_2_0&matching_block_id=5121603_88560048_0_2_0&sr_pri_blocks=5121603_88560048_0_2_0__64050&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "307",
-        "url": "https://www.booking.com/hotel/fr/mignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__30690&from=searchresults",
+        "nom_hotel": "Best Western Plus Le Lavarin",
+        "ville_de_lhotel": "avignon",
+        "price": "564",
+        "url": "https://www.booking.com/hotel/fr/hotellelavarin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=21438227_123329243_2_34_0&highlighted_blocks=21438227_123329243_2_34_0&matching_block_id=21438227_123329243_2_34_0&sr_pri_blocks=21438227_123329243_2_34_0__56420&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
+        "nom_hotel": "City Résidence Avignon",
+        "ville_de_lhotel": "avignon",
+        "price": "309",
+        "url": "https://www.booking.com/hotel/fr/residence-5-epi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=39597501_88560085_0_0_0&highlighted_blocks=39597501_88560085_0_0_0&matching_block_id=39597501_88560085_0_0_0&sr_pri_blocks=39597501_88560085_0_0_0__30870&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Aparthotel Adagio Access Avignon",
+        "ville_de_lhotel": "avignon",
+        "price": "333",
+        "url": "https://www.booking.com/hotel/fr/citea-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5860702_94277910_2_2_0&highlighted_blocks=5860702_94277910_2_2_0&matching_block_id=5860702_94277910_2_2_0&sr_pri_blocks=5860702_94277910_2_2_0__33313&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Logis Hotel la Ferme",
+        "ville_de_lhotel": "avignon",
+        "price": "562",
+        "url": "https://www.booking.com/hotel/fr/logis-de-france-la-ferme.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5838807_384637823_0_34_0&highlighted_blocks=5838807_384637823_0_34_0&matching_block_id=5838807_384637823_0_34_0&sr_pri_blocks=5838807_384637823_0_34_0__56208&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "The Originals Boutique, Hôtel Danieli, Avignon",
+        "ville_de_lhotel": "avignon",
+        "price": "301",
+        "url": "https://www.booking.com/hotel/fr/hoteldanieli.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=21438405_88560059_0_2_0&highlighted_blocks=21438405_88560059_0_2_0&matching_block_id=21438405_88560059_0_2_0&sr_pri_blocks=21438405_88560059_0_2_0__30060&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "ibis Avignon Centre Gare",
+        "ville_de_lhotel": "avignon",
+        "price": "462",
+        "url": "https://www.booking.com/hotel/fr/ibis-avignon-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=53746902_94487820_2_42_0&highlighted_blocks=53746902_94487820_2_42_0&matching_block_id=53746902_94487820_2_42_0&sr_pri_blocks=53746902_94487820_2_42_0__46161&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "COWOOL AVIGNON",
+        "ville_de_lhotel": "avignon",
+        "price": "387",
+        "url": "https://www.booking.com/hotel/fr/cowool-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=759318401_400710659_0_0_0&highlighted_blocks=759318401_400710659_0_0_0&matching_block_id=759318401_400710659_0_0_0&sr_pri_blocks=759318401_400710659_0_0_0__38704&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Hôtel de l'Horloge",
+        "ville_de_lhotel": "avignon",
+        "price": "727",
+        "url": "https://www.booking.com/hotel/fr/de-l-horloge.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5405702_88560050_2_2_0&highlighted_blocks=5405702_88560050_2_2_0&matching_block_id=5405702_88560050_2_2_0&sr_pri_blocks=5405702_88560050_2_2_0__72717&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Hotel De Cambis",
+        "ville_de_lhotel": "avignon",
+        "price": "1037",
+        "url": "https://www.booking.com/hotel/fr/de-cambis-bw-premier-collection.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=801773008_341431654_2_2_0&highlighted_blocks=801773008_341431654_2_2_0&matching_block_id=801773008_341431654_2_2_0&sr_pri_blocks=801773008_341431654_2_2_0__103707&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Hôtel Les Corps Saints",
+        "ville_de_lhotel": "avignon",
+        "price": "330",
+        "url": "https://www.booking.com/hotel/fr/splendid-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=4769701_88560037_0_2_0&highlighted_blocks=4769701_88560037_0_2_0&matching_block_id=4769701_88560037_0_2_0&sr_pri_blocks=4769701_88560037_0_2_0__32988&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Mercure Avignon Centre Palais des Papes",
+        "ville_de_lhotel": "avignon",
+        "price": "779",
+        "url": "https://www.booking.com/hotel/fr/mercure-cite-des-papes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5422908_97560556_2_2_0&highlighted_blocks=5422908_97560556_2_2_0&matching_block_id=5422908_97560556_2_2_0&sr_pri_blocks=5422908_97560556_2_2_0__77910&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Hotel Mignon",
+        "ville_de_lhotel": "avignon",
+        "price": "389",
+        "url": "https://www.booking.com/hotel/fr/mignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=2498508_356923825_2_34_0&highlighted_blocks=2498508_356923825_2_34_0&matching_block_id=2498508_356923825_2_34_0&sr_pri_blocks=2498508_356923825_2_34_0__38856&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "ibis budget Avignon Centre",
+        "ville_de_lhotel": "avignon",
+        "price": "303",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-avignon-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=123364707_94584985_3_2_0&highlighted_blocks=123364707_94584985_3_2_0&matching_block_id=123364707_94584985_3_2_0&sr_pri_blocks=123364707_94584985_3_2_0__30318&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Premiere Classe Avignon Courtine Gare TGV",
+        "ville_de_lhotel": "avignon",
+        "price": "222",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-avignon-courtine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=36463401_191426549_2_34_0&highlighted_blocks=36463401_191426549_2_34_0&matching_block_id=36463401_191426549_2_34_0&sr_pri_blocks=36463401_191426549_2_34_0__22176&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 1
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Kyriad Avignon - Palais des Papes",
+        "ville_de_lhotel": "avignon",
+        "price": "478",
+        "url": "https://www.booking.com/hotel/fr/kyriad-avignon-palais-des-papes-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=43847601_94465788_2_2_0&highlighted_blocks=43847601_94465788_2_2_0&matching_block_id=43847601_94465788_2_2_0&sr_pri_blocks=43847601_94465788_2_2_0__47832&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "hotelF1 Avignon Centre Courtine gare TGV",
+        "ville_de_lhotel": "avignon",
+        "price": "215",
+        "url": "https://www.booking.com/hotel/fr/hotelf1-avignon-centre-courtine-gare-tgv.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=67627605_94500294_2_2_0&highlighted_blocks=67627605_94500294_2_2_0&matching_block_id=67627605_94500294_2_2_0&sr_pri_blocks=67627605_94500294_2_2_0__21516&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 1
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Golden Tulip Avignon Le Paradou",
+        "ville_de_lhotel": "avignon",
+        "price": "444",
+        "url": "https://www.booking.com/hotel/fr/goldentulip-avignon-leparadou.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5110534_91458038_2_42_0&highlighted_blocks=5110534_91458038_2_42_0&matching_block_id=5110534_91458038_2_42_0&sr_pri_blocks=5110534_91458038_2_42_0__44432&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Résidence Service Seniors MONTANA",
+        "ville_de_lhotel": "avignon",
         "price": "624",
-        "url": "https://www.booking.com/hotel/fr/residence-service-seniors-montana.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=853493801_352793963_2_40_0&highlighted_blocks=853493801_352793963_2_40_0&matching_block_id=853493801_352793963_2_40_0&sr_pri_blocks=853493801_352793963_2_40_0__62370&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/residence-service-seniors-montana.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=853493801_352793963_2_40_0&highlighted_blocks=853493801_352793963_2_40_0&matching_block_id=853493801_352793963_2_40_0&sr_pri_blocks=853493801_352793963_2_40_0__62370&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "702",
-        "url": "https://www.booking.com/hotel/fr/de-l-horloge.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5405702_88560050_2_2_0&highlighted_blocks=5405702_88560050_2_2_0&matching_block_id=5405702_88560050_2_2_0&sr_pri_blocks=5405702_88560050_2_2_0__70171&from=searchresults",
+        "nom_hotel": "ibis Styles Avignon Sud",
+        "ville_de_lhotel": "avignon",
+        "price": "823",
+        "url": "https://www.booking.com/hotel/fr/avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5722808_94275954_2_41_0&highlighted_blocks=5722808_94275954_2_41_0&matching_block_id=5722808_94275954_2_41_0&sr_pri_blocks=5722808_94275954_2_41_0__82251&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "493",
-        "url": "https://www.booking.com/hotel/fr/au-saint-roch-et-jardin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5411301_88560049_0_2_0&highlighted_blocks=5411301_88560049_0_2_0&matching_block_id=5411301_88560049_0_2_0&sr_pri_blocks=5411301_88560049_0_2_0__49320&from=searchresults",
+        "nom_hotel": "ibis Avignon Sud",
+        "ville_de_lhotel": "avignon",
+        "price": "489",
+        "url": "https://www.booking.com/hotel/fr/ibis-avignon-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=19105208_94344203_2_42_0&highlighted_blocks=19105208_94344203_2_42_0&matching_block_id=19105208_94344203_2_42_0&sr_pri_blocks=19105208_94344203_2_42_0__48879&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 5,
         "destination": "Avignon",
-        "price": "351",
-        "url": "https://www.booking.com/hotel/fr/courtinnsuites.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtaA5LsGwAIB0gIkMmUyYzEzNDQtYTRmZi00NTFiLWJmNDQtZDE1ODY4OGU1YWIy2AIF4AIB&sid=f5ebc2d9328eb37ba996a4bf389b0c69&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=9a3a4f163cca04b9&srepoch=1735989314&all_sr_blocks=5316725_88560056_0_2_0&highlighted_blocks=5316725_88560056_0_2_0&matching_block_id=5316725_88560056_0_2_0&sr_pri_blocks=5316725_88560056_0_2_0__35100&from=searchresults",
+        "nom_hotel": "Hotel Alizéa",
+        "ville_de_lhotel": "avignon",
+        "price": "270",
+        "url": "https://www.booking.com/hotel/fr/hotel-alizea.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=22831614_359427640_0_0_0&highlighted_blocks=22831614_359427640_0_0_0&matching_block_id=22831614_359427640_0_0_0&sr_pri_blocks=22831614_359427640_0_0_0__26988&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Appart'Hotel Festival Sud Aqua - Avignon TGV",
+        "ville_de_lhotel": "avignon",
+        "price": "364",
+        "url": "https://www.booking.com/hotel/fr/court-inn-aqua.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=4275601_88560041_0_2_0&highlighted_blocks=4275601_88560041_0_2_0&matching_block_id=4275601_88560041_0_2_0&sr_pri_blocks=4275601_88560041_0_2_0__36360&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Mercure Avignon Gare TGV",
+        "ville_de_lhotel": "avignon",
+        "price": "748",
+        "url": "https://www.booking.com/hotel/fr/expresshiavignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=23076917_88560076_2_2_0&highlighted_blocks=23076917_88560076_2_2_0&matching_block_id=23076917_88560076_2_2_0&sr_pri_blocks=23076917_88560076_2_2_0__74762&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Novotel Avignon Centre",
+        "ville_de_lhotel": "avignon",
+        "price": "787",
+        "url": "https://www.booking.com/hotel/fr/novotel-avignon-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=30558110_94402265_2_42_0&highlighted_blocks=30558110_94402265_2_42_0&matching_block_id=30558110_94402265_2_42_0&sr_pri_blocks=30558110_94402265_2_42_0__78678&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "ibis Avignon Centre Pont De L'Europe",
+        "ville_de_lhotel": "avignon",
+        "price": "460",
+        "url": "https://www.booking.com/hotel/fr/ibis-avignon-centre-pont-de-l-europe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=18039307_94320711_2_2_0&highlighted_blocks=18039307_94320711_2_2_0&matching_block_id=18039307_94320711_2_2_0&sr_pri_blocks=18039307_94320711_2_2_0__46000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "La Mirande",
+        "ville_de_lhotel": "avignon",
+        "price": "3524",
+        "url": "https://www.booking.com/hotel/fr/la-mirande.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=29550101_406670340_0_42_0&highlighted_blocks=29550101_406670340_0_42_0&matching_block_id=29550101_406670340_0_42_0&sr_pri_blocks=29550101_406670340_0_42_0__352356&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 5
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Mercure Pont d’Avignon Centre",
+        "ville_de_lhotel": "avignon",
+        "price": "735",
+        "url": "https://www.booking.com/hotel/fr/pont-d-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5714802_94275537_2_2_0&highlighted_blocks=5714802_94275537_2_2_0&matching_block_id=5714802_94275537_2_2_0&sr_pri_blocks=5714802_94275537_2_2_0__73500&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Hôtel Saint George",
+        "ville_de_lhotel": "avignon",
+        "price": "299",
+        "url": "https://www.booking.com/hotel/fr/saintgeorgeavignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5110042_268966193_0_0_0&highlighted_blocks=5110042_268966193_0_0_0&matching_block_id=5110042_268966193_0_0_0&sr_pri_blocks=5110042_268966193_0_0_0__29880&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Bateau Hotel à quai Le Chardonnay",
+        "ville_de_lhotel": "avignon",
+        "price": "780",
+        "url": "https://www.booking.com/hotel/fr/le-chardonnay-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=1165435804_389205113_3_1_0_770765&highlighted_blocks=1165435804_389205113_3_1_0_770765&matching_block_id=1165435804_389205113_3_1_0_770765&sr_pri_blocks=1165435804_389205113_3_1_0_770765_78000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Résidence Services Oh Activ Avignon",
+        "ville_de_lhotel": "avignon",
+        "price": "600",
+        "url": "https://www.booking.com/hotel/fr/oh-activ-avignon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=1250699201_397727049_2_2_0&highlighted_blocks=1250699201_397727049_2_2_0&matching_block_id=1250699201_397727049_2_2_0&sr_pri_blocks=1250699201_397727049_2_2_0__60036&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Hotel d'Europe",
+        "ville_de_lhotel": "avignon",
+        "price": "3010",
+        "url": "https://www.booking.com/hotel/fr/d-europe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=47587402_392169093_0_2_0&highlighted_blocks=47587402_392169093_0_2_0&matching_block_id=47587402_392169093_0_2_0&sr_pri_blocks=47587402_392169093_0_2_0__300960&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 5
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Appart'Hotel - Gare TGV - Courtine - Confluence - 411",
+        "ville_de_lhotel": "avignon",
+        "price": "460",
+        "url": "https://www.booking.com/hotel/fr/appart-gare-tgv-courtine-confluence-411.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=1237571401_395655367_2_0_0&highlighted_blocks=1237571401_395655367_2_0_0&matching_block_id=1237571401_395655367_2_0_0&sr_pri_blocks=1237571401_395655367_2_0_0__45990&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Le Gîte du Festival Sud Aqua - Avignon TGV",
+        "ville_de_lhotel": "avignon",
+        "price": "454",
+        "url": "https://www.booking.com/hotel/fr/le-gite-du-festival-sud-aqua-avignon-tgv.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=953206003_367875891_0_2_0&highlighted_blocks=953206003_367875891_0_2_0&matching_block_id=953206003_367875891_0_2_0&sr_pri_blocks=953206003_367875891_0_2_0__45360&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 5,
+        "destination": "Avignon",
+        "nom_hotel": "Appart'Hotel Festival Sud Suites - Avignon TGV",
+        "ville_de_lhotel": "avignon",
+        "price": "405",
+        "url": "https://www.booking.com/hotel/fr/courtinnsuites.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Ar75vrwGwAIB0gIkMmZjNTljZDMtYmFiNy00YmUzLTkwNWQtZTUwY2ZkOTU5Yjg02AIF4AIB&sid=05788d1c76f291d4e1f5cd6f61dfaf89&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1409631&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&nflt=ht_id%3D204&srpvid=a8c83db761f10376&srepoch=1737622009&all_sr_blocks=5316702_88560056_0_2_0&highlighted_blocks=5316702_88560056_0_2_0&matching_block_id=5316702_88560056_0_2_0&sr_pri_blocks=5316702_88560056_0_2_0__40500&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
     }
 ]

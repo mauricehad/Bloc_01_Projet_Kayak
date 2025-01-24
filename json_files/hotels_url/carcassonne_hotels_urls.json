@@ -2,201 +2,331 @@
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "280",
-        "url": "https://www.booking.com/hotel/fr/cerise-carcassonne-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=50563502_88932323_0_34_0&highlighted_blocks=50563502_88932323_0_34_0&matching_block_id=50563502_88932323_0_34_0&sr_pri_blocks=50563502_88932323_0_34_0__27960&from=searchresults",
+        "nom_hotel": "GOOD KNIGHT",
+        "ville_de_lhotel": "carcassonne",
+        "price": "777",
+        "url": "https://www.booking.com/hotel/fr/good-knight.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=518605902_326779807_2_2_0&highlighted_blocks=518605902_326779807_2_2_0&matching_block_id=518605902_326779807_2_2_0&sr_pri_blocks=518605902_326779807_2_2_0__77700&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "227",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=5370302_250734684_3_2_0&highlighted_blocks=5370302_250734684_3_2_0&matching_block_id=5370302_250734684_3_2_0&sr_pri_blocks=5370302_250734684_3_2_0__22740&from=searchresults",
+        "nom_hotel": "Hotel De La Bastide",
+        "ville_de_lhotel": "carcassonne",
+        "price": "389",
+        "url": "https://www.booking.com/hotel/fr/de-la-bastide.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=4429901_322377596_2_2_0&highlighted_blocks=4429901_322377596_2_2_0&matching_block_id=4429901_322377596_2_2_0&sr_pri_blocks=4429901_322377596_2_2_0__38880&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "470",
-        "url": "https://www.booking.com/hotel/fr/ibis-carcassonne-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=33586603_94417102_2_2_0&highlighted_blocks=33586603_94417102_2_2_0&matching_block_id=33586603_94417102_2_2_0&sr_pri_blocks=33586603_94417102_2_2_0__47046&from=searchresults",
+        "nom_hotel": "SOWELL HOTELS Les Chevaliers",
+        "ville_de_lhotel": "carcassonne",
+        "price": "597",
+        "url": "https://www.booking.com/hotel/fr/soleil-vacances-les-chevaliers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=291900424_278847916_0_34_0&highlighted_blocks=291900424_278847916_0_34_0&matching_block_id=291900424_278847916_0_34_0&sr_pri_blocks=291900424_278847916_0_34_0__59672&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "607",
-        "url": "https://www.booking.com/hotel/fr/carcassonne-porte-de-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=5728903_94276406_2_2_0&highlighted_blocks=5728903_94276406_2_2_0&matching_block_id=5728903_94276406_2_2_0&sr_pri_blocks=5728903_94276406_2_2_0__60744&from=searchresults",
+        "nom_hotel": "Hôtel l'Aragon",
+        "ville_de_lhotel": "carcassonne",
+        "price": "486",
+        "url": "https://www.booking.com/hotel/fr/l-aragon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=30272302_367504213_0_2_0&highlighted_blocks=30272302_367504213_0_2_0&matching_block_id=30272302_367504213_0_2_0&sr_pri_blocks=30272302_367504213_0_2_0__48560&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "477",
-        "url": "https://www.booking.com/hotel/fr/soleil-vacances-les-chevaliers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=291900422_109173162_0_34_0&highlighted_blocks=291900422_109173162_0_34_0&matching_block_id=291900422_109173162_0_34_0&sr_pri_blocks=291900422_109173162_0_34_0__47672&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "374",
-        "url": "https://www.booking.com/hotel/fr/campanile-carcassonne-est-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=24137602_0_2_0_0&highlighted_blocks=24137602_0_2_0_0&matching_block_id=24137602_0_2_0_0&sr_pri_blocks=24137602_0_2_0_0__37416&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "412",
-        "url": "https://www.booking.com/hotel/fr/balladins-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=29817410_120289235_2_34_0&highlighted_blocks=29817410_120289235_2_34_0&matching_block_id=29817410_120289235_2_34_0&sr_pri_blocks=29817410_120289235_2_34_0__41160&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "352",
-        "url": "https://www.booking.com/hotel/fr/appart-city-cap-affaires-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=5998223_88919485_2_2_0&highlighted_blocks=5998223_88919485_2_2_0&matching_block_id=5998223_88919485_2_2_0&sr_pri_blocks=5998223_88919485_2_2_0__35160&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "321",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget-carcassonne-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=27780108_94388311_3_2_0&highlighted_blocks=27780108_94388311_3_2_0&matching_block_id=27780108_94388311_3_2_0&sr_pri_blocks=27780108_94388311_3_2_0__32086&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "416",
-        "url": "https://www.booking.com/hotel/fr/514-appart.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=157044002_88459105_0_2_0&highlighted_blocks=157044002_88459105_0_2_0&matching_block_id=157044002_88459105_0_2_0&sr_pri_blocks=157044002_88459105_0_2_0__41616&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "493",
-        "url": "https://www.booking.com/hotel/fr/montmorency.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=4442816_90314856_0_2_0&highlighted_blocks=4442816_90314856_0_2_0&matching_block_id=4442816_90314856_0_2_0&sr_pri_blocks=4442816_90314856_0_2_0__49260&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "529",
-        "url": "https://www.booking.com/hotel/fr/good-knight.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=518605904_326779807_2_2_0&highlighted_blocks=518605904_326779807_2_2_0&matching_block_id=518605904_326779807_2_2_0&sr_pri_blocks=518605904_326779807_2_2_0__52920&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "775",
-        "url": "https://www.booking.com/hotel/fr/ledonjon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=20224808_94348853_2_2_0&highlighted_blocks=20224808_94348853_2_2_0&matching_block_id=20224808_94348853_2_2_0&sr_pri_blocks=20224808_94348853_2_2_0__77468&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "441",
-        "url": "https://www.booking.com/hotel/fr/adonis-la-barbacane.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=26853302_89162084_0_2_0&highlighted_blocks=26853302_89162084_0_2_0&matching_block_id=26853302_89162084_0_2_0&sr_pri_blocks=26853302_89162084_0_2_0__44100&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "402",
-        "url": "https://www.booking.com/hotel/fr/de-l-octroi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=4443115_0_2_0_0&highlighted_blocks=4443115_0_2_0_0&matching_block_id=4443115_0_2_0_0&sr_pri_blocks=4443115_0_2_0_0__40198&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "544",
-        "url": "https://www.booking.com/hotel/fr/des-trois-couronnes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=5341012_88558183_2_2_0&highlighted_blocks=5341012_88558183_2_2_0&matching_block_id=5341012_88558183_2_2_0&sr_pri_blocks=5341012_88558183_2_2_0__54357&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "954",
-        "url": "https://www.booking.com/hotel/fr/soleilvacances-du-roi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=292257902_278847900_2_2_0&highlighted_blocks=292257902_278847900_2_2_0&matching_block_id=292257902_278847900_2_2_0&sr_pri_blocks=292257902_278847900_2_2_0__95384&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "1450",
-        "url": "https://www.booking.com/hotel/fr/hotel-de-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=22877530_94353836_2_34_0&highlighted_blocks=22877530_94353836_2_34_0&matching_block_id=22877530_94353836_2_34_0&sr_pri_blocks=22877530_94353836_2_34_0__145034&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
-        "price": "578",
-        "url": "https://www.booking.com/hotel/fr/inter-les-oliviers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=5518322_92136155_2_33_0&highlighted_blocks=5518322_92136155_2_33_0&matching_block_id=5518322_92136155_2_33_0&sr_pri_blocks=5518322_92136155_2_33_0__57820&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 11,
-        "destination": "Carcassonne",
+        "nom_hotel": "514 Appart Hotel",
+        "ville_de_lhotel": "carcassonne",
         "price": "425",
-        "url": "https://www.booking.com/hotel/fr/de-la-bastide.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=4429902_322377596_2_2_0&highlighted_blocks=4429902_322377596_2_2_0&matching_block_id=4429902_322377596_2_2_0&sr_pri_blocks=4429902_322377596_2_2_0__42480&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/514-appart.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=157044002_88459105_0_2_0&highlighted_blocks=157044002_88459105_0_2_0&matching_block_id=157044002_88459105_0_2_0&sr_pri_blocks=157044002_88459105_0_2_0__42471&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "189",
-        "url": "https://www.booking.com/hotel/fr/f1-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=26867304_243625097_3_0_0&highlighted_blocks=26867304_243625097_3_0_0&matching_block_id=26867304_243625097_3_0_0&sr_pri_blocks=26867304_243625097_3_0_0__18900&from=searchresults",
+        "nom_hotel": "Adonis Carcassonne",
+        "ville_de_lhotel": "carcassonne",
+        "price": "347",
+        "url": "https://www.booking.com/hotel/fr/adonis-la-barbacane.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=26853302_89162084_0_2_0&highlighted_blocks=26853302_89162084_0_2_0&matching_block_id=26853302_89162084_0_2_0&sr_pri_blocks=26853302_89162084_0_2_0__34650&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "344",
-        "url": "https://www.booking.com/hotel/fr/etap-carcassonne-aeroport.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=26658905_94376792_2_2_0&highlighted_blocks=26658905_94376792_2_2_0&matching_block_id=26658905_94376792_2_2_0&sr_pri_blocks=26658905_94376792_2_2_0__34440&from=searchresults",
+        "nom_hotel": "Hôtel Le Donjon - Cœur de La Cité Médiévale",
+        "ville_de_lhotel": "carcassonne",
+        "price": "1015",
+        "url": "https://www.booking.com/hotel/fr/ledonjon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=20224813_94348853_2_2_0&highlighted_blocks=20224813_94348853_2_2_0&matching_block_id=20224813_94348853_2_2_0&sr_pri_blocks=20224813_94348853_2_2_0__101468&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
+        "nom_hotel": "Comfort Aparthotel Carcassonne",
+        "ville_de_lhotel": "carcassonne",
+        "price": "352",
+        "url": "https://www.booking.com/hotel/fr/appart-city-cap-affaires-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=5998223_88919485_2_2_0&highlighted_blocks=5998223_88919485_2_2_0&matching_block_id=5998223_88919485_2_2_0&sr_pri_blocks=5998223_88919485_2_2_0__35160&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Audotel",
+        "ville_de_lhotel": "carcassonne",
+        "price": "329",
+        "url": "https://www.booking.com/hotel/fr/ptit-dej-audotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=18164710_403373714_2_2_0_622998&highlighted_blocks=18164710_403373714_2_2_0_622998&matching_block_id=18164710_403373714_2_2_0_622998&sr_pri_blocks=18164710_403373714_2_2_0_622998_32880&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hotel du Roi & Spa by SOWELL COLLECTION",
+        "ville_de_lhotel": "carcassonne",
+        "price": "950",
+        "url": "https://www.booking.com/hotel/fr/soleilvacances-du-roi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=292257902_278847900_2_2_0&highlighted_blocks=292257902_278847900_2_2_0&matching_block_id=292257902_278847900_2_2_0&sr_pri_blocks=292257902_278847900_2_2_0__94984&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 5
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Bungalows & Rooms - Gît'Ôstal",
+        "ville_de_lhotel": "carcassonne",
+        "price": "691",
+        "url": "https://www.booking.com/hotel/fr/village-pour-tous.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=94123_199925945_3_0_0&highlighted_blocks=94123_199925945_3_0_0&matching_block_id=94123_199925945_3_0_0&sr_pri_blocks=94123_199925945_3_0_0__69070&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hôtel De L'octroi",
+        "ville_de_lhotel": "carcassonne",
+        "price": "440",
+        "url": "https://www.booking.com/hotel/fr/de-l-octroi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=4443115_90064082_0_2_0&highlighted_blocks=4443115_90064082_0_2_0&matching_block_id=4443115_90064082_0_2_0&sr_pri_blocks=4443115_90064082_0_2_0__44010&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "ibis Carcassonne Centre - La Cité",
+        "ville_de_lhotel": "carcassonne",
+        "price": "470",
+        "url": "https://www.booking.com/hotel/fr/ibis-carcassonne-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=33586603_94417102_2_2_0&highlighted_blocks=33586603_94417102_2_2_0&matching_block_id=33586603_94417102_2_2_0&sr_pri_blocks=33586603_94417102_2_2_0__47046&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hôtel Montmorency & Spa",
+        "ville_de_lhotel": "carcassonne",
+        "price": "555",
+        "url": "https://www.booking.com/hotel/fr/montmorency.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=4442802_90314856_0_2_0&highlighted_blocks=4442802_90314856_0_2_0&matching_block_id=4442802_90314856_0_2_0&sr_pri_blocks=4442802_90314856_0_2_0__55460&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hotel de la Cité & Spa MGallery",
+        "ville_de_lhotel": "carcassonne",
+        "price": "1470",
+        "url": "https://www.booking.com/hotel/fr/hotel-de-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=22877530_94353836_2_34_0&highlighted_blocks=22877530_94353836_2_34_0&matching_block_id=22877530_94353836_2_34_0&sr_pri_blocks=22877530_94353836_2_34_0__146996&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 5
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hôtel Pont Rouge , Carcassonne",
+        "ville_de_lhotel": "carcassonne",
+        "price": "412",
+        "url": "https://www.booking.com/hotel/fr/balladins-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=29817410_120289235_2_34_0&highlighted_blocks=29817410_120289235_2_34_0&matching_block_id=29817410_120289235_2_34_0&sr_pri_blocks=29817410_120289235_2_34_0__41160&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Mercure Carcassonne La Cité",
+        "ville_de_lhotel": "carcassonne",
+        "price": "727",
+        "url": "https://www.booking.com/hotel/fr/carcassonne-porte-de-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=5728915_94276406_2_2_0&highlighted_blocks=5728915_94276406_2_2_0&matching_block_id=5728915_94276406_2_2_0&sr_pri_blocks=5728915_94276406_2_2_0__72714&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hôtel du Château & Spa - Teritoria",
+        "ville_de_lhotel": "carcassonne",
         "price": "934",
-        "url": "https://www.booking.com/hotel/fr/du-chateau-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=4443703_88558187_2_2_0&highlighted_blocks=4443703_88558187_2_2_0&matching_block_id=4443703_88558187_2_2_0&sr_pri_blocks=4443703_88558187_2_2_0__93368&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/du-chateau-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=4443703_88558187_2_2_0&highlighted_blocks=4443703_88558187_2_2_0&matching_block_id=4443703_88558187_2_2_0&sr_pri_blocks=4443703_88558187_2_2_0__93368&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "396",
-        "url": "https://www.booking.com/hotel/fr/central-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=18403210_391482542_0_2_0&highlighted_blocks=18403210_391482542_0_2_0&matching_block_id=18403210_391482542_0_2_0&sr_pri_blocks=18403210_391482542_0_2_0__39582&from=searchresults",
+        "nom_hotel": "ibis budget Carcassonne La Cité",
+        "ville_de_lhotel": "carcassonne",
+        "price": "281",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-carcassonne-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=27780108_94388311_3_2_0&highlighted_blocks=27780108_94388311_3_2_0&matching_block_id=27780108_94388311_3_2_0&sr_pri_blocks=27780108_94388311_3_2_0__28086&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 11,
         "destination": "Carcassonne",
-        "price": "963",
-        "url": "https://www.booking.com/hotel/fr/le-meez-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AqCB5LsGwAIB0gIkNjg5N2NjN2UtMDVhZC00YzVhLWI0MTItYmNhNjAyNDUwOGEw2AIF4AIB&sid=cc2fe2ff692db8f5d10a5a021616910a&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=898c4fb9b34c1464&srepoch=1735989640&all_sr_blocks=836567201_369315503_2_2_0&highlighted_blocks=836567201_369315503_2_2_0&matching_block_id=836567201_369315503_2_2_0&sr_pri_blocks=836567201_369315503_2_2_0__96348&from=searchresults",
+        "nom_hotel": "Premiere Classe Carcassonne",
+        "ville_de_lhotel": "carcassonne",
+        "price": "248",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=5370302_250734684_3_2_0&highlighted_blocks=5370302_250734684_3_2_0&matching_block_id=5370302_250734684_3_2_0&sr_pri_blocks=5370302_250734684_3_2_0__24780&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 1
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hôtel L'Etoile Aéroport - A61",
+        "ville_de_lhotel": "carcassonne",
+        "price": "450",
+        "url": "https://www.booking.com/hotel/fr/l-39-etoile-aeroport-a61.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=1036375102_392271983_0_34_0&highlighted_blocks=1036375102_392271983_0_34_0&matching_block_id=1036375102_392271983_0_34_0&sr_pri_blocks=1036375102_392271983_0_34_0__45038&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hôtel Central",
+        "ville_de_lhotel": "carcassonne",
+        "price": "357",
+        "url": "https://www.booking.com/hotel/fr/central-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=18403210_391482542_0_2_0&highlighted_blocks=18403210_391482542_0_2_0&matching_block_id=18403210_391482542_0_2_0&sr_pri_blocks=18403210_391482542_0_2_0__35676&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "ibis Styles Carcassonne La Cité",
+        "ville_de_lhotel": "carcassonne",
+        "price": "578",
+        "url": "https://www.booking.com/hotel/fr/inter-les-oliviers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=5518322_92136155_2_33_0&highlighted_blocks=5518322_92136155_2_33_0&matching_block_id=5518322_92136155_2_33_0&sr_pri_blocks=5518322_92136155_2_33_0__57820&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Tribe Carcassonne",
+        "ville_de_lhotel": "carcassonne",
+        "price": "525",
+        "url": "https://www.booking.com/hotel/fr/des-trois-couronnes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=5341012_88558183_2_2_0&highlighted_blocks=5341012_88558183_2_2_0&matching_block_id=5341012_88558183_2_2_0&sr_pri_blocks=5341012_88558183_2_2_0__52499&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "ibis budget Carcassonne Aéroport - A61",
+        "ville_de_lhotel": "carcassonne",
+        "price": "344",
+        "url": "https://www.booking.com/hotel/fr/etap-carcassonne-aeroport.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=26658905_94376792_2_2_0&highlighted_blocks=26658905_94376792_2_2_0&matching_block_id=26658905_94376792_2_2_0&sr_pri_blocks=26658905_94376792_2_2_0__34440&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Campanile Carcassonne Est - La Cité",
+        "ville_de_lhotel": "carcassonne",
+        "price": "412",
+        "url": "https://www.booking.com/hotel/fr/campanile-carcassonne-est-la-cite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=24137602_94360634_2_34_0&highlighted_blocks=24137602_94360634_2_34_0&matching_block_id=24137602_94360634_2_34_0&sr_pri_blocks=24137602_94360634_2_34_0__41160&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Au Royal Hotel",
+        "ville_de_lhotel": "carcassonne",
+        "price": "330",
+        "url": "https://www.booking.com/hotel/fr/au-royal.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=5494402_88558201_0_2_0&highlighted_blocks=5494402_88558201_0_2_0&matching_block_id=5494402_88558201_0_2_0&sr_pri_blocks=5494402_88558201_0_2_0__33000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "Hotel Class'Eco Carcassonne",
+        "ville_de_lhotel": "carcassonne",
+        "price": "189",
+        "url": "https://www.booking.com/hotel/fr/f1-carcassonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=26867304_243625097_3_0_0&highlighted_blocks=26867304_243625097_3_0_0&matching_block_id=26867304_243625097_3_0_0&sr_pri_blocks=26867304_243625097_3_0_0__18900&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "ibis Carcassonne Est la Cité",
+        "ville_de_lhotel": "carcassonne",
+        "price": "356",
+        "url": "https://www.booking.com/hotel/fr/ibis-berriac-2.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=24218207_94361077_2_34_0&highlighted_blocks=24218207_94361077_2_34_0&matching_block_id=24218207_94361077_2_34_0&sr_pri_blocks=24218207_94361077_2_34_0__35630&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 11,
+        "destination": "Carcassonne",
+        "nom_hotel": "CIS Lamourelle Centre International de Sejour",
+        "ville_de_lhotel": "carcassonne",
+        "price": "407",
+        "url": "https://www.booking.com/hotel/fr/centre-international-de-sejour-lamourelle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Aon6vrwGwAIB0gIkNmIwMzMxZmUtYzY1YS00NGVmLWIxOTktYmEyNGRkOTA0YTkx2AIF4AIB&sid=2bc89c7705c3988aa53f613f39320864&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1416701&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=427d3dee21c60029&srepoch=1737622117&all_sr_blocks=826191613_357742572_0_2_0&highlighted_blocks=826191613_357742572_0_2_0&matching_block_id=826191613_357742572_0_2_0&sr_pri_blocks=826191613_357742572_0_2_0__40680&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
     }
 ]

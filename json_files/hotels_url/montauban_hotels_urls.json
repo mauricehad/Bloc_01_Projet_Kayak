@@ -2,185 +2,221 @@
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "242",
-        "url": "https://www.booking.com/hotel/fr/hotelpremiereclasse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=5318002_94105758_2_2_0&highlighted_blocks=5318002_94105758_2_2_0&matching_block_id=5318002_94105758_2_2_0&sr_pri_blocks=5318002_94105758_2_2_0__24216&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
-        "price": "455",
-        "url": "https://www.booking.com/hotel/fr/hotel-du-commerce-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=50540803_226119287_0_2_0&highlighted_blocks=50540803_226119287_0_2_0&matching_block_id=50540803_226119287_0_2_0&sr_pri_blocks=50540803_226119287_0_2_0__45480&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
-        "price": "589",
-        "url": "https://www.booking.com/hotel/fr/abbaye-des-capucins-spa-and-resort.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=2776018_243333949_0_2_0&highlighted_blocks=2776018_243333949_0_2_0&matching_block_id=2776018_243333949_0_2_0&sr_pri_blocks=2776018_243333949_0_2_0__58896&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
-        "price": "462",
-        "url": "https://www.booking.com/hotel/fr/deltour-montauban-city.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=24349201_129207262_2_2_0&highlighted_blocks=24349201_129207262_2_2_0&matching_block_id=24349201_129207262_2_2_0&sr_pri_blocks=24349201_129207262_2_2_0__46244&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
+        "nom_hotel": "Sure Hotel by Best Western Les Portes de Montauban",
+        "ville_de_lhotel": "montauban",
         "price": "448",
-        "url": "https://www.booking.com/hotel/fr/sure-by-best-western-les-portes-de-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=739400502_328612722_2_42_0&highlighted_blocks=739400502_328612722_2_42_0&matching_block_id=739400502_328612722_2_42_0&sr_pri_blocks=739400502_328612722_2_42_0__44844&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/sure-by-best-western-les-portes-de-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=739400502_328612722_2_42_0&highlighted_blocks=739400502_328612722_2_42_0&matching_block_id=739400502_328612722_2_42_0&sr_pri_blocks=739400502_328612722_2_42_0__44844&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "381",
-        "url": "https://www.booking.com/hotel/fr/kyriad-direct-montauban-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=45973409_340366322_2_42_0&highlighted_blocks=45973409_340366322_2_42_0&matching_block_id=45973409_340366322_2_42_0&sr_pri_blocks=45973409_340366322_2_42_0__38100&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
-        "price": "391",
-        "url": "https://www.booking.com/hotel/fr/ibis-budget-montauban-les-chaumes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=66624206_94499959_3_34_0&highlighted_blocks=66624206_94499959_3_34_0&matching_block_id=66624206_94499959_3_34_0&sr_pri_blocks=66624206_94499959_3_34_0__39084&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
+        "nom_hotel": "Kyriad Montauban Sud - Albasud",
+        "ville_de_lhotel": "montauban",
         "price": "435",
-        "url": "https://www.booking.com/hotel/fr/hoteletrestaurantcampanilemontauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=5188102_94105660_2_2_0&highlighted_blocks=5188102_94105660_2_2_0&matching_block_id=5188102_94105660_2_2_0&sr_pri_blocks=5188102_94105660_2_2_0__43494&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/hoteletrestaurantcampanilemontauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=5188102_94105660_2_2_0&highlighted_blocks=5188102_94105660_2_2_0&matching_block_id=5188102_94105660_2_2_0&sr_pri_blocks=5188102_94105660_2_2_0__43494&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "635",
-        "url": "https://www.booking.com/hotel/fr/mercure.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=5400807_94273063_2_42_0&highlighted_blocks=5400807_94273063_2_42_0&matching_block_id=5400807_94273063_2_42_0&sr_pri_blocks=5400807_94273063_2_42_0__63480&from=searchresults",
+        "nom_hotel": "Premiere Classe Montauban",
+        "ville_de_lhotel": "montauban",
+        "price": "231",
+        "url": "https://www.booking.com/hotel/fr/hotelpremiereclasse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=5318002_94105758_2_2_0&highlighted_blocks=5318002_94105758_2_2_0&matching_block_id=5318002_94105758_2_2_0&sr_pri_blocks=5318002_94105758_2_2_0__23112&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 1
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "176",
-        "url": "https://www.booking.com/hotel/fr/hotelf1-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=65595903_376291123_2_2_0&highlighted_blocks=65595903_376291123_2_2_0&matching_block_id=65595903_376291123_2_2_0&sr_pri_blocks=65595903_376291123_2_2_0__17558&from=searchresults",
+        "nom_hotel": "hotelF1 Montauban",
+        "ville_de_lhotel": "montauban",
+        "price": "368",
+        "url": "https://www.booking.com/hotel/fr/hotelf1-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=65595902_376291123_2_2_0&highlighted_blocks=65595902_376291123_2_2_0&matching_block_id=65595902_376291123_2_2_0&sr_pri_blocks=65595902_376291123_2_2_0__36832&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "1280",
-        "url": "https://www.booking.com/hotel/fr/les-logis-du-port-gite-etape-port-canal-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=1105654406_383382774_4_0_0&highlighted_blocks=1105654406_383382774_4_0_0&matching_block_id=1105654406_383382774_4_0_0&sr_pri_blocks=1105654406_383382774_4_0_0__127964&from=searchresults",
+        "nom_hotel": "Kyriad Direct Montauban Centre",
+        "ville_de_lhotel": "montauban",
+        "price": "405",
+        "url": "https://www.booking.com/hotel/fr/kyriad-direct-montauban-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=45973409_340366322_2_42_0&highlighted_blocks=45973409_340366322_2_42_0&matching_block_id=45973409_340366322_2_42_0&sr_pri_blocks=45973409_340366322_2_42_0__40480&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "376",
-        "url": "https://www.booking.com/hotel/fr/wonderbar-auberge-du-trinquet.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=1091190203_382014101_2_0_0_186682&highlighted_blocks=1091190203_382014101_2_0_0_186682&matching_block_id=1091190203_382014101_2_0_0_186682&sr_pri_blocks=1091190203_382014101_2_0_0_186682_37636&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 9.5
+        "nom_hotel": "ibis Montauban",
+        "ville_de_lhotel": "montauban",
+        "price": "523",
+        "url": "https://www.booking.com/hotel/fr/ha-tel-ibis-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=40904603_94458920_2_34_0&highlighted_blocks=40904603_94458920_2_34_0&matching_block_id=40904603_94458920_2_34_0&sr_pri_blocks=40904603_94458920_2_34_0__52316&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
+        "nom_hotel": "ibis budget Montauban Les Chaumes",
+        "ville_de_lhotel": "montauban",
+        "price": "391",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-montauban-les-chaumes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=66624206_94499959_3_34_0&highlighted_blocks=66624206_94499959_3_34_0&matching_block_id=66624206_94499959_3_34_0&sr_pri_blocks=66624206_94499959_3_34_0__39084&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "nom_hotel": "ibis Styles Montauban",
+        "ville_de_lhotel": "montauban",
+        "price": "737",
+        "url": "https://www.booking.com/hotel/fr/ibis-styles-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=885603701_358095401_2_33_0&highlighted_blocks=885603701_358095401_2_33_0&matching_block_id=885603701_358095401_2_33_0&sr_pri_blocks=885603701_358095401_2_33_0__73661&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "nom_hotel": "Les Logis du Port - Port Canal - Montauban",
+        "ville_de_lhotel": "montauban",
+        "price": "555",
+        "url": "https://www.booking.com/hotel/fr/les-logis-du-port-gite-etape-port-canal-montauban.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=1105654401_383382768_2_0_0&highlighted_blocks=1105654401_383382768_2_0_0&matching_block_id=1105654401_383382768_2_0_0&sr_pri_blocks=1105654401_383382768_2_0_0__55535&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "nom_hotel": "Les bords de l'Aveyron",
+        "ville_de_lhotel": "nègrepelisse",
         "price": "394",
-        "url": "https://www.booking.com/hotel/fr/les-bords-de-l-aveyron.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=960272401_368644853_2_42_0&highlighted_blocks=960272401_368644853_2_42_0&matching_block_id=960272401_368644853_2_42_0&sr_pri_blocks=960272401_368644853_2_42_0__39355&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/les-bords-de-l-aveyron.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=960272401_368644853_2_42_0&highlighted_blocks=960272401_368644853_2_42_0&matching_block_id=960272401_368644853_2_42_0&sr_pri_blocks=960272401_368644853_2_42_0__39355&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 14.1
+        "de_destination_km": 14.1,
+        "stars": 0
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
+        "nom_hotel": "Moulin d'Albias aux portes de Montauban",
+        "ville_de_lhotel": "albias",
+        "price": "618",
+        "url": "https://www.booking.com/hotel/fr/moulin-d-39-albias-spa-et-sauna.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=266698602_240893171_2_0_0&highlighted_blocks=266698602_240893171_2_0_0&matching_block_id=266698602_240893171_2_0_0&sr_pri_blocks=266698602_240893171_2_0_0__61840&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 11.3,
+        "stars": 4
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "nom_hotel": "Aux Lys d'Or",
+        "ville_de_lhotel": "réalville",
         "price": "462",
-        "url": "https://www.booking.com/hotel/fr/aux-lys-d-39-or.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=278599405_341335218_2_42_0&highlighted_blocks=278599405_341335218_2_42_0&matching_block_id=278599405_341335218_2_42_0&sr_pri_blocks=278599405_341335218_2_42_0__46200&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/aux-lys-d-39-or.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=278599405_341335218_2_42_0&highlighted_blocks=278599405_341335218_2_42_0&matching_block_id=278599405_341335218_2_42_0&sr_pri_blocks=278599405_341335218_2_42_0__46200&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 14.6
+        "de_destination_km": 14.6,
+        "stars": 0
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "234",
-        "url": "https://www.booking.com/hotel/fr/logis-de-france-l-auberge-du-quercy-blanc.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=5813204_226065172_0_2_0&highlighted_blocks=5813204_226065172_0_2_0&matching_block_id=5813204_226065172_0_2_0&sr_pri_blocks=5813204_226065172_0_2_0__23400&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 19.6
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
+        "nom_hotel": "Hôtel restaurant l'escale chez mimi",
+        "ville_de_lhotel": "bioule",
         "price": "262",
-        "url": "https://www.booking.com/hotel/fr/restaurant-l-39-escale-chez-mimi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=863423605_354380952_0_10_0&highlighted_blocks=863423605_354380952_0_10_0&matching_block_id=863423605_354380952_0_10_0&sr_pri_blocks=863423605_354380952_0_10_0__26156&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/restaurant-l-39-escale-chez-mimi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=863423605_354380952_0_10_0&highlighted_blocks=863423605_354380952_0_10_0&matching_block_id=863423605_354380952_0_10_0&sr_pri_blocks=863423605_354380952_0_10_0__26156&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 16.8
+        "de_destination_km": 16.8,
+        "stars": 0
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
+        "nom_hotel": "Logis L'Auberge du Quercy Blanc",
+        "ville_de_lhotel": "molières",
+        "price": "234",
+        "url": "https://www.booking.com/hotel/fr/logis-de-france-l-auberge-du-quercy-blanc.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=5813204_226065172_0_2_0&highlighted_blocks=5813204_226065172_0_2_0&matching_block_id=5813204_226065172_0_2_0&sr_pri_blocks=5813204_226065172_0_2_0__23400&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.6,
+        "stars": 2
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "nom_hotel": "Hôtel Absolu",
+        "ville_de_lhotel": "castelsarrasin",
         "price": "522",
-        "url": "https://www.booking.com/hotel/fr/ha-tel-des-arts-na-grepelisse.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=46326604_287965802_0_42_0&highlighted_blocks=46326604_287965802_0_42_0&matching_block_id=46326604_287965802_0_42_0&sr_pri_blocks=46326604_287965802_0_42_0__52212&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/absolu.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=32283202_206238482_3_2_0&highlighted_blocks=32283202_206238482_3_2_0&matching_block_id=32283202_206238482_3_2_0&sr_pri_blocks=32283202_206238482_3_2_0__52200&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 16.4
+        "de_destination_km": 20.0,
+        "stars": 2
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "561",
-        "url": "https://www.booking.com/hotel/fr/marceillac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=642555301_261479070_2_2_0&highlighted_blocks=642555301_261479070_2_2_0&matching_block_id=642555301_261479070_2_2_0&sr_pri_blocks=642555301_261479070_2_2_0__56076&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 19.9
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
-        "price": "591",
-        "url": "https://www.booking.com/hotel/fr/le-moulin-de-moissac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=5324901_195408697_2_2_0&highlighted_blocks=5324901_195408697_2_2_0&matching_block_id=5324901_195408697_2_2_0&sr_pri_blocks=5324901_195408697_2_2_0__59076&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 23.4
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
-        "price": "522",
-        "url": "https://www.booking.com/hotel/fr/absolu.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=32283202_206238482_3_2_0&highlighted_blocks=32283202_206238482_3_2_0&matching_block_id=32283202_206238482_3_2_0&sr_pri_blocks=32283202_206238482_3_2_0__52200&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
-        "price": "351",
-        "url": "https://www.booking.com/hotel/fr/escale-grisolles.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=1306581301_403479649_3_0_0&highlighted_blocks=1306581301_403479649_3_0_0&matching_block_id=1306581301_403479649_3_0_0&sr_pri_blocks=1306581301_403479649_3_0_0__35100&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 21.7
-    },
-    {
-        "id_destination": 26,
-        "destination": "Montauban",
+        "nom_hotel": "HÔTEL LE CHAPON FIN",
+        "ville_de_lhotel": "moissac",
         "price": "579",
-        "url": "https://www.booking.com/hotel/fr/le-chapon-fin-moissac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=533452601_188676108_0_42_0&highlighted_blocks=533452601_188676108_0_42_0&matching_block_id=533452601_188676108_0_42_0&sr_pri_blocks=533452601_188676108_0_42_0__57876&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/le-chapon-fin-moissac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=533452601_188676108_0_42_0&highlighted_blocks=533452601_188676108_0_42_0&matching_block_id=533452601_188676108_0_42_0&sr_pri_blocks=533452601_188676108_0_42_0__57876&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 23.5
+        "de_destination_km": 23.5,
+        "stars": 3
     },
     {
         "id_destination": 26,
         "destination": "Montauban",
-        "price": "559",
-        "url": "https://www.booking.com/hotel/fr/l-39-alcove-restaurant.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AtuC5LsGwAIB0gIkYzBjNWQ2YjAtZTViNy00OTk0LTgzYTktMGMxMjlmZjE4ZTRm2AIF4AIB&sid=b7ad8016e14f10689eb414b57fbf3032&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=af305144564d1008&srepoch=1735990429&all_sr_blocks=451314403_395575695_2_42_0&highlighted_blocks=451314403_395575695_2_42_0&matching_block_id=451314403_395575695_2_42_0&sr_pri_blocks=451314403_395575695_2_42_0__55860&from=searchresults",
+        "nom_hotel": "Logis Hotels - Hôtel et Restaurant Le Relais des Garrigues",
+        "ville_de_lhotel": "grisolles",
+        "price": "528",
+        "url": "https://www.booking.com/hotel/fr/relais-des-garrigues.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=29267703_226079429_0_2_0&highlighted_blocks=29267703_226079429_0_2_0&matching_block_id=29267703_226079429_0_2_0&sr_pri_blocks=29267703_226079429_0_2_0__52800&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 22.4
+        "de_destination_km": 21.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "nom_hotel": "Brit Hotel Confort Montauban",
+        "ville_de_lhotel": "montauban",
+        "price": "462",
+        "url": "https://www.booking.com/hotel/fr/deltour-montauban-city.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=24349201_129207262_2_2_0&highlighted_blocks=24349201_129207262_2_2_0&matching_block_id=24349201_129207262_2_2_0&sr_pri_blocks=24349201_129207262_2_2_0__46244&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "nom_hotel": "L'ALCOVE HOTEL RESTAURANT",
+        "ville_de_lhotel": "villematier",
+        "price": "559",
+        "url": "https://www.booking.com/hotel/fr/l-39-alcove-restaurant.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=451314403_395575695_2_42_0&highlighted_blocks=451314403_395575695_2_42_0&matching_block_id=451314403_395575695_2_42_0&sr_pri_blocks=451314403_395575695_2_42_0__55860&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 26,
+        "destination": "Montauban",
+        "nom_hotel": "Auberge de l'Hirondelle",
+        "ville_de_lhotel": "saint cirq",
+        "price": "600",
+        "url": "https://www.booking.com/hotel/fr/auberge-de-l-hirondelle.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asj7vrwGwAIB0gIkOGE4MGYxYjktOGNiNy00ZWZhLWE5ODItMDJmMmVhNDRjNzBh2AIF4AIB&sid=8ae02e0a86b5f2ce0665d6fbddfc1a35&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1452421&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=4bad3e81399501ee&srepoch=1737622409&all_sr_blocks=1227424502_394774373_2_41_0&highlighted_blocks=1227424502_394774373_2_41_0&matching_block_id=1227424502_394774373_2_41_0&sr_pri_blocks=1227424502_394774373_2_41_0__60000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.7,
+        "stars": 0
     }
 ]

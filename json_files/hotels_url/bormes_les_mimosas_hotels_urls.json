@@ -2,201 +2,529 @@
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "949",
-        "url": "https://www.booking.com/hotel/fr/eden-rose-grand-bw-premier-collection.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=67230609_309577089_2_42_0&highlighted_blocks=67230609_309577089_2_42_0&matching_block_id=67230609_309577089_2_42_0&sr_pri_blocks=67230609_309577089_2_42_0__94855&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 10,
-        "destination": "Bormes les Mimosas",
-        "price": "552",
-        "url": "https://www.booking.com/hotel/fr/hotel-la-voile-fr.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=5822302_222562351_0_2_0&highlighted_blocks=5822302_222562351_0_2_0&matching_block_id=5822302_222562351_0_2_0&sr_pri_blocks=5822302_222562351_0_2_0__55160&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 10,
-        "destination": "Bormes les Mimosas",
-        "price": "732",
-        "url": "https://www.booking.com/hotel/fr/new-life.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=68192408_96862625_0_1_0&highlighted_blocks=68192408_96862625_0_1_0&matching_block_id=68192408_96862625_0_1_0&sr_pri_blocks=68192408_96862625_0_1_0__73232&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 10,
-        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel Paradis",
+        "ville_de_lhotel": "bormes les mimosas",
         "price": "485",
-        "url": "https://www.booking.com/hotel/fr/paradis.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=5902304_88559145_2_2_0&highlighted_blocks=5902304_88559145_2_2_0&matching_block_id=5902304_88559145_2_2_0&sr_pri_blocks=5902304_88559145_2_2_0__48528&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/paradis.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=5902304_88559145_2_2_0&highlighted_blocks=5902304_88559145_2_2_0&matching_block_id=5902304_88559145_2_2_0&sr_pri_blocks=5902304_88559145_2_2_0__48528&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hostellerie du Cigalou",
+        "ville_de_lhotel": "bormes les mimosas",
+        "price": "577",
+        "url": "https://www.booking.com/hotel/fr/hostellerie-du-cigalou.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=18050901_123173647_0_42_0&highlighted_blocks=18050901_123173647_0_42_0&matching_block_id=18050901_123173647_0_42_0&sr_pri_blocks=18050901_123173647_0_42_0__57660&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hotel Restaurant Bellevue",
+        "ville_de_lhotel": "bormes les mimosas",
+        "price": "533",
+        "url": "https://www.booking.com/hotel/fr/restaurant-bellevue.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=59545917_361784030_2_42_0&highlighted_blocks=59545917_361784030_2_42_0&matching_block_id=59545917_361784030_2_42_0&sr_pri_blocks=59545917_361784030_2_42_0__53328&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hotel La Voile",
+        "ville_de_lhotel": "bormes les mimosas",
+        "price": "672",
+        "url": "https://www.booking.com/hotel/fr/hotel-la-voile-fr.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=5822301_222562351_0_2_0&highlighted_blocks=5822301_222562351_0_2_0&matching_block_id=5822301_222562351_0_2_0&sr_pri_blocks=5822301_222562351_0_2_0__67160&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Eden Rose Grand Hotel BW Premier Collection",
+        "ville_de_lhotel": "bormes les mimosas",
+        "price": "949",
+        "url": "https://www.booking.com/hotel/fr/eden-rose-grand-bw-premier-collection.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=67230606_309577089_2_0_0&highlighted_blocks=67230606_309577089_2_0_0&matching_block_id=67230606_309577089_2_0_0&sr_pri_blocks=67230606_309577089_2_0_0__94855&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hotel Les Jardins de Bormes, sauna & jacuzzi",
+        "ville_de_lhotel": "bormes les mimosas",
+        "price": "798",
+        "url": "https://www.booking.com/hotel/fr/new-life.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=68192401_96862625_0_1_0&highlighted_blocks=68192401_96862625_0_1_0&matching_block_id=68192401_96862625_0_1_0&sr_pri_blocks=68192401_96862625_0_1_0__79805&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel La Petite Bohème",
+        "ville_de_lhotel": "le lavandou",
+        "price": "487",
+        "url": "https://www.booking.com/hotel/fr/la-petite-boheme.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=29150514_285058058_2_34_0&highlighted_blocks=29150514_285058058_2_34_0&matching_block_id=29150514_285058058_2_34_0&sr_pri_blocks=29150514_285058058_2_34_0__48660&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.6,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel Baptistin",
+        "ville_de_lhotel": "le lavandou",
+        "price": "832",
+        "url": "https://www.booking.com/hotel/fr/baptistin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=25789603_387813350_0_2_0&highlighted_blocks=25789603_387813350_0_2_0&matching_block_id=25789603_387813350_0_2_0&sr_pri_blocks=25789603_387813350_0_2_0__83160&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel Le Rabelais",
+        "ville_de_lhotel": "le lavandou",
         "price": "592",
-        "url": "https://www.booking.com/hotel/fr/le-rabelais.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=5444202_390244459_0_2_0&highlighted_blocks=5444202_390244459_0_2_0&matching_block_id=5444202_390244459_0_2_0&sr_pri_blocks=5444202_390244459_0_2_0__59160&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/le-rabelais.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=5444202_390244459_0_2_0&highlighted_blocks=5444202_390244459_0_2_0&matching_block_id=5444202_390244459_0_2_0&sr_pri_blocks=5444202_390244459_0_2_0__59160&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 2.8
+        "de_destination_km": 2.8,
+        "stars": 3
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "598",
-        "url": "https://www.booking.com/hotel/fr/baptistin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=25789601_387813350_0_2_0&highlighted_blocks=25789601_387813350_0_2_0&matching_block_id=25789601_387813350_0_2_0&sr_pri_blocks=25789601_387813350_0_2_0__59760&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 10,
-        "destination": "Bormes les Mimosas",
-        "price": "598",
-        "url": "https://www.booking.com/hotel/fr/la-petite-boheme.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=29150520_285058058_2_34_0&highlighted_blocks=29150520_285058058_2_34_0&matching_block_id=29150520_285058058_2_34_0&sr_pri_blocks=29150520_285058058_2_34_0__59760&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 2.6
-    },
-    {
-        "id_destination": 10,
-        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Villa TerraMera Hôtel",
+        "ville_de_lhotel": "le lavandou",
         "price": "344",
-        "url": "https://www.booking.com/hotel/fr/villa-terramera-hotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=50002009_374164891_0_2_0&highlighted_blocks=50002009_374164891_0_2_0&matching_block_id=50002009_374164891_0_2_0&sr_pri_blocks=50002009_374164891_0_2_0__34393&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/villa-terramera-hotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=50002009_374164891_0_2_0&highlighted_blocks=50002009_374164891_0_2_0&matching_block_id=50002009_374164891_0_2_0&sr_pri_blocks=50002009_374164891_0_2_0__34393&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 2.4
+        "de_destination_km": 2.4,
+        "stars": 0
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "665",
-        "url": "https://www.booking.com/hotel/fr/l-escapade.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=2416912_373780705_2_1_0&highlighted_blocks=2416912_373780705_2_1_0&matching_block_id=2416912_373780705_2_1_0&sr_pri_blocks=2416912_373780705_2_1_0__66480&from=searchresults",
+        "nom_hotel": "Hotel L'Escapade",
+        "ville_de_lhotel": "le lavandou",
+        "price": "523",
+        "url": "https://www.booking.com/hotel/fr/l-escapade.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=2416912_373780705_2_1_0&highlighted_blocks=2416912_373780705_2_1_0&matching_block_id=2416912_373780705_2_1_0&sr_pri_blocks=2416912_373780705_2_1_0__52320&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 2.7
+        "de_destination_km": 2.7,
+        "stars": 3
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
+        "nom_hotel": "Résidence Odalys Les Océanides",
+        "ville_de_lhotel": "la londe les maures",
         "price": "375",
-        "url": "https://www.booking.com/hotel/fr/les-oceanides.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=36536501_363416903_0_34_0&highlighted_blocks=36536501_363416903_0_34_0&matching_block_id=36536501_363416903_0_34_0&sr_pri_blocks=36536501_363416903_0_34_0__37480&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/les-oceanides.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=36536501_363416903_0_34_0&highlighted_blocks=36536501_363416903_0_34_0&matching_block_id=36536501_363416903_0_34_0&sr_pri_blocks=36536501_363416903_0_34_0__37480&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 7.7
+        "de_destination_km": 7.7,
+        "stars": 3
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "588",
-        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-du-cap.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=30795306_386541428_4_0_0&highlighted_blocks=30795306_386541428_4_0_0&matching_block_id=30795306_386541428_4_0_0&sr_pri_blocks=30795306_386541428_4_0_0__58800&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 10,
-        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Résidence Prestige Odalys Les Canissons",
+        "ville_de_lhotel": "cavalaire sur mer",
         "price": "531",
-        "url": "https://www.booking.com/hotel/fr/residence-prestige-odalys-les-canissons.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=441209102_379151390_0_2_0&highlighted_blocks=441209102_379151390_0_2_0&matching_block_id=441209102_379151390_0_2_0&sr_pri_blocks=441209102_379151390_0_2_0__53092&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/residence-prestige-odalys-les-canissons.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=441209102_379151390_0_2_0&highlighted_blocks=441209102_379151390_0_2_0&matching_block_id=441209102_379151390_0_2_0&sr_pri_blocks=441209102_379151390_0_2_0__53092&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 14.8
+        "de_destination_km": 14.8,
+        "stars": 0
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "652",
-        "url": "https://www.booking.com/hotel/fr/la-ra-c-sidence-du-bailli.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=40504609_99001121_0_0_0&highlighted_blocks=40504609_99001121_0_0_0&matching_block_id=40504609_99001121_0_0_0&sr_pri_blocks=40504609_99001121_0_0_0__65232&from=searchresults",
+        "nom_hotel": "La Résidence du Bailli",
+        "ville_de_lhotel": "rayol canadel sur mer",
+        "price": "685",
+        "url": "https://www.booking.com/hotel/fr/la-ra-c-sidence-du-bailli.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=40504607_99001121_3_0_0&highlighted_blocks=40504607_99001121_3_0_0&matching_block_id=40504607_99001121_3_0_0&sr_pri_blocks=40504607_99001121_3_0_0__68472&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 11.1
+        "de_destination_km": 11.1,
+        "stars": 0
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "736",
-        "url": "https://www.booking.com/hotel/fr/les-terrasse-du-bailli.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=30119407_81843675_2_2_0&highlighted_blocks=30119407_81843675_2_2_0&matching_block_id=30119407_81843675_2_2_0&sr_pri_blocks=30119407_81843675_2_2_0__73592&from=searchresults",
+        "nom_hotel": "Hôtel La Reine Jane",
+        "ville_de_lhotel": "hyères",
+        "price": "863",
+        "url": "https://www.booking.com/hotel/fr/restaurant-la-reine-jane.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=29591416_380860227_0_2_0&highlighted_blocks=29591416_380860227_0_2_0&matching_block_id=29591416_380860227_0_2_0&sr_pri_blocks=29591416_380860227_0_2_0__86340&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 11.1
+        "de_destination_km": 14.7,
+        "stars": 0
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
+        "nom_hotel": "Les Terrasses du Bailli",
+        "ville_de_lhotel": "rayol canadel sur mer",
+        "price": "796",
+        "url": "https://www.booking.com/hotel/fr/les-terrasse-du-bailli.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=30119406_81843675_2_2_0&highlighted_blocks=30119406_81843675_2_2_0&matching_block_id=30119406_81843675_2_2_0&sr_pri_blocks=30119406_81843675_2_2_0__79592&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 11.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel La Villa Douce",
+        "ville_de_lhotel": "rayol canadel sur mer",
+        "price": "1370",
+        "url": "https://www.booking.com/hotel/fr/la-villa-douce.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=222336707_354395777_2_1_0_360493&highlighted_blocks=222336707_354395777_2_1_0_360493&matching_block_id=222336707_354395777_2_1_0_360493&sr_pri_blocks=222336707_354395777_2_1_0_360493_136972&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 11.8,
+        "stars": 4
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel de la Mer",
+        "ville_de_lhotel": "hyères",
+        "price": "795",
+        "url": "https://www.booking.com/hotel/fr/les-citronniers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=46411901_333308851_2_0_0&highlighted_blocks=46411901_333308851_2_0_0&matching_block_id=46411901_333308851_2_0_0&sr_pri_blocks=46411901_333308851_2_0_0__79462&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.8,
+        "stars": 0
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Résidence Prestige Odalys Riviera",
+        "ville_de_lhotel": "hyères",
         "price": "429",
-        "url": "https://www.booking.com/hotel/fr/residence-prestige-odalys-le-riviera.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=1125259901_397731936_0_2_0&highlighted_blocks=1125259901_397731936_0_2_0&matching_block_id=1125259901_397731936_0_2_0&sr_pri_blocks=1125259901_397731936_0_2_0__42916&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/residence-prestige-odalys-le-riviera.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=1125259901_397731936_0_2_0&highlighted_blocks=1125259901_397731936_0_2_0&matching_block_id=1125259901_397731936_0_2_0&sr_pri_blocks=1125259901_397731936_0_2_0__42916&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 19.6
+        "de_destination_km": 19.6,
+        "stars": 0
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "360",
-        "url": "https://www.booking.com/hotel/fr/les-stoechades.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=5914104_96761230_0_2_0&highlighted_blocks=5914104_96761230_0_2_0&matching_block_id=5914104_96761230_0_2_0&sr_pri_blocks=5914104_96761230_0_2_0__36017&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 17.4
-    },
-    {
-        "id_destination": 10,
-        "destination": "Bormes les Mimosas",
-        "price": "331",
-        "url": "https://www.booking.com/hotel/fr/pierre-vacances-la-pinede.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=24348201_258598878_4_0_0&highlighted_blocks=24348201_258598878_4_0_0&matching_block_id=24348201_258598878_4_0_0&sr_pri_blocks=24348201_258598878_4_0_0__33132&from=searchresults",
-        "dans_destination": 0,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 10,
-        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Best Western Plus Hyères Côte D'Azur",
+        "ville_de_lhotel": "hyères",
         "price": "596",
-        "url": "https://www.booking.com/hotel/fr/les-printanieres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=5830937_296013143_2_34_0&highlighted_blocks=5830937_296013143_2_34_0&matching_block_id=5830937_296013143_2_34_0&sr_pri_blocks=5830937_296013143_2_34_0__59577&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/les-printanieres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=5830937_296013143_2_34_0&highlighted_blocks=5830937_296013143_2_34_0&matching_block_id=5830937_296013143_2_34_0&sr_pri_blocks=5830937_296013143_2_34_0__59577&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 18.3
+        "de_destination_km": 18.3,
+        "stars": 4
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel La Ménado",
+        "ville_de_lhotel": "cavalaire sur mer",
+        "price": "2198",
+        "url": "https://www.booking.com/hotel/fr/rivazur.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=735696004_399571146_2_1_0&highlighted_blocks=735696004_399571146_2_1_0&matching_block_id=735696004_399571146_2_1_0&sr_pri_blocks=735696004_399571146_2_1_0__219792&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 16.2,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Garden & City Les Bastides de Grimaud",
+        "ville_de_lhotel": "grimaud",
         "price": "374",
-        "url": "https://www.booking.com/hotel/fr/les-bastides-de-grimaud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=5749401_113086684_0_0_0_713190&highlighted_blocks=5749401_113086684_0_0_0_713190&matching_block_id=5749401_113086684_0_0_0_713190&sr_pri_blocks=5749401_113086684_0_0_0_713190_37392&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/les-bastides-de-grimaud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=5749401_113086684_0_0_0_713190&highlighted_blocks=5749401_113086684_0_0_0_713190&matching_block_id=5749401_113086684_0_0_0_713190&sr_pri_blocks=5749401_113086684_0_0_0_713190_37392&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 19.2
+        "de_destination_km": 19.2,
+        "stars": 3
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "852",
-        "url": "https://www.booking.com/hotel/fr/rivazur.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=735696002_343609718_2_1_0&highlighted_blocks=735696002_343609718_2_1_0&matching_block_id=735696002_343609718_2_1_0&sr_pri_blocks=735696002_343609718_2_1_0__85242&from=searchresults",
+        "nom_hotel": "Mercure Hyères Centre Côte d'Azur",
+        "ville_de_lhotel": "hyères",
+        "price": "636",
+        "url": "https://www.booking.com/hotel/fr/hyeres-cote-d-azur.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=5706208_94275115_2_34_0&highlighted_blocks=5706208_94275115_2_34_0&matching_block_id=5706208_94275115_2_34_0&sr_pri_blocks=5706208_94275115_2_34_0__63633&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 16.2
+        "de_destination_km": 17.3,
+        "stars": 4
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "619",
-        "url": "https://www.booking.com/hotel/fr/hyeres-cote-d-azur.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=5706208_94275115_2_34_0&highlighted_blocks=5706208_94275115_2_34_0&matching_block_id=5706208_94275115_2_34_0&sr_pri_blocks=5706208_94275115_2_34_0__61928&from=searchresults",
+        "nom_hotel": "Hôtel Le Méditerranée",
+        "ville_de_lhotel": "hyères",
+        "price": "592",
+        "url": "https://www.booking.com/hotel/fr/le-mediterranee.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=4660602_400718116_0_34_0&highlighted_blocks=4660602_400718116_0_34_0&matching_block_id=4660602_400718116_0_34_0&sr_pri_blocks=4660602_400718116_0_34_0__59160&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 17.3
+        "de_destination_km": 17.2,
+        "stars": 2
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "932",
-        "url": "https://www.booking.com/hotel/fr/casino-des-palmiers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=18355115_88555789_0_2_0&highlighted_blocks=18355115_88555789_0_2_0&matching_block_id=18355115_88555789_0_2_0&sr_pri_blocks=18355115_88555789_0_2_0__93222&from=searchresults",
+        "nom_hotel": "Casino Hôtel des Palmiers",
+        "ville_de_lhotel": "hyères",
+        "price": "780",
+        "url": "https://www.booking.com/hotel/fr/casino-des-palmiers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622097&all_sr_blocks=18355114_208488084_0_2_0&highlighted_blocks=18355114_208488084_0_2_0&matching_block_id=18355114_208488084_0_2_0&sr_pri_blocks=18355114_208488084_0_2_0__77992&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 17.4
+        "de_destination_km": 17.4,
+        "stars": 4
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "708",
-        "url": "https://www.booking.com/hotel/fr/ibis-thalassa-hyeres-plage.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=53823502_94488043_2_42_0&highlighted_blocks=53823502_94488043_2_42_0&matching_block_id=53823502_94488043_2_42_0&sr_pri_blocks=53823502_94488043_2_42_0__70797&from=searchresults",
+        "nom_hotel": "Ibis Budget Hyères",
+        "ville_de_lhotel": "hyères",
+        "price": "351",
+        "url": "https://www.booking.com/hotel/fr/etap-hya-res.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=26772506_94378933_3_2_0&highlighted_blocks=26772506_94378933_3_2_0&matching_block_id=26772506_94378933_3_2_0&sr_pri_blocks=26772506_94378933_3_2_0__35106&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 18.8
+        "de_destination_km": 16.7,
+        "stars": 2
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
-        "price": "540",
-        "url": "https://www.booking.com/hotel/fr/le-mediterranee.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=4660602_195842664_0_34_0&highlighted_blocks=4660602_195842664_0_34_0&matching_block_id=4660602_195842664_0_34_0&sr_pri_blocks=4660602_195842664_0_34_0__53960&from=searchresults",
+        "nom_hotel": "ibis Thalassa Hyeres Plage",
+        "ville_de_lhotel": "hyères",
+        "price": "582",
+        "url": "https://www.booking.com/hotel/fr/ibis-thalassa-hyeres-plage.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=53823501_94488043_2_42_0&highlighted_blocks=53823501_94488043_2_42_0&matching_block_id=53823501_94488043_2_42_0&sr_pri_blocks=53823501_94488043_2_42_0__58197&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 17.2
+        "de_destination_km": 18.8,
+        "stars": 3
     },
     {
         "id_destination": 10,
         "destination": "Bormes les Mimosas",
+        "nom_hotel": "ibis Golfe de Saint-Tropez",
+        "ville_de_lhotel": "cogolin",
+        "price": "649",
+        "url": "https://www.booking.com/hotel/fr/ha-tel-ibis-cogolin-golfe-de-saint-tropez.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=54463601_94489420_2_2_0&highlighted_blocks=54463601_94489420_2_2_0&matching_block_id=54463601_94489420_2_2_0&sr_pri_blocks=54463601_94489420_2_2_0__64896&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hotel La Cigale",
+        "ville_de_lhotel": "la croix valmer",
+        "price": "486",
+        "url": "https://www.booking.com/hotel/fr/la-cigale.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=38937302_400957971_0_2_0&highlighted_blocks=38937302_400957971_0_2_0&matching_block_id=38937302_400957971_0_2_0&sr_pri_blocks=38937302_400957971_0_2_0__48564&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Résidence Pierre & Vacances La Pinède",
+        "ville_de_lhotel": "hyères",
+        "price": "339",
+        "url": "https://www.booking.com/hotel/fr/pierre-vacances-la-pinede.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=24348201_258598878_4_0_0&highlighted_blocks=24348201_258598878_4_0_0&matching_block_id=24348201_258598878_4_0_0&sr_pri_blocks=24348201_258598878_4_0_0__33853&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.0,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "ibis Hyeres Centre",
+        "ville_de_lhotel": "hyères",
+        "price": "545",
+        "url": "https://www.booking.com/hotel/fr/ibis-hya-res-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=49525310_94482473_2_34_0&highlighted_blocks=49525310_94482473_2_34_0&matching_block_id=49525310_94482473_2_34_0&sr_pri_blocks=49525310_94482473_2_34_0__54529&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.6,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Ibis Styles Hyères Rooftop & Spa",
+        "ville_de_lhotel": "hyères",
         "price": "673",
-        "url": "https://www.booking.com/hotel/fr/logis-de-france-de-l-europe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ApOB5LsGwAIB0gIkN2JmYzI2OWYtMGU3ZS00YzFjLWE2MzItYjhjZDNjYTAxMDM32AIF4AIB&sid=66dfc1374f4f8918b68eac5e0e86c27e&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=11864f9c7f1417a5&srepoch=1735989584&all_sr_blocks=5465817_93699993_2_33_0&highlighted_blocks=5465817_93699993_2_33_0&matching_block_id=5465817_93699993_2_33_0&sr_pri_blocks=5465817_93699993_2_33_0__67284&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/logis-de-france-de-l-europe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=5465813_93699993_2_33_0&highlighted_blocks=5465813_93699993_2_33_0&matching_block_id=5465813_93699993_2_33_0&sr_pri_blocks=5465813_93699993_2_33_0__67284&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 0,
-        "de_destination_km": 18.2
+        "de_destination_km": 18.2,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Domaine des voiles de Pierrefeu",
+        "ville_de_lhotel": "pierrefeu du var",
+        "price": "604",
+        "url": "https://www.booking.com/hotel/fr/domaine-des-voiles-de-pierrefeu.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=546348101_197158240_2_0_0&highlighted_blocks=546348101_197158240_2_0_0&matching_block_id=546348101_197158240_2_0_0&sr_pri_blocks=546348101_197158240_2_0_0__60432&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.2,
+        "stars": 0
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel La Rotonde",
+        "ville_de_lhotel": "la croix valmer",
+        "price": "482",
+        "url": "https://www.booking.com/hotel/fr/larotonde.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=5112821_400020349_2_2_0&highlighted_blocks=5112821_400020349_2_2_0&matching_block_id=5112821_400020349_2_2_0&sr_pri_blocks=5112821_400020349_2_2_0__48198&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.5,
+        "stars": 2
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "LILOU",
+        "ville_de_lhotel": "hyères",
+        "price": "736",
+        "url": "https://www.booking.com/hotel/fr/lilou-hyeres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=1151671801_389598087_2_2_0&highlighted_blocks=1151671801_389598087_2_2_0&matching_block_id=1151671801_389598087_2_2_0&sr_pri_blocks=1151671801_389598087_2_2_0__73596&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.2,
+        "stars": 4
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Résidence Les Mandariniers",
+        "ville_de_lhotel": "hyères",
+        "price": "496",
+        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-les-mandariniers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=33896202_384498181_0_0_0_386326&highlighted_blocks=33896202_384498181_0_0_0_386326&matching_block_id=33896202_384498181_0_0_0_386326&sr_pri_blocks=33896202_384498181_0_0_0_386326_49560&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 19.4,
+        "stars": 0
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "La Suite Sainte Claire",
+        "ville_de_lhotel": "hyères",
+        "price": "610",
+        "url": "https://www.booking.com/hotel/fr/la-maison-sainte-claire.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=869749101_355578339_2_0_0&highlighted_blocks=869749101_355578339_2_0_0&matching_block_id=869749101_355578339_2_0_0&sr_pri_blocks=869749101_355578339_2_0_0__60960&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.8,
+        "stars": 0
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "LA BADINE 5p Plage piscine clim jacuzzi parc luxuriant",
+        "ville_de_lhotel": "hyères",
+        "price": "828",
+        "url": "https://www.booking.com/hotel/fr/la-badine.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=654768301_335053714_5_0_0&highlighted_blocks=654768301_335053714_5_0_0&matching_block_id=654768301_335053714_5_0_0&sr_pri_blocks=654768301_335053714_5_0_0__82800&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.0,
+        "stars": 0
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Résidence Odalys La Palmeraie",
+        "ville_de_lhotel": "grimaud",
+        "price": "421",
+        "url": "https://www.booking.com/hotel/fr/la-palmeraie.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=5751101_352139321_0_0_0&highlighted_blocks=5751101_352139321_0_0_0&matching_block_id=5751101_352139321_0_0_0&sr_pri_blocks=5751101_352139321_0_0_0__42112&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.1,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hotel Le Coudon",
+        "ville_de_lhotel": "la farlède",
+        "price": "534",
+        "url": "https://www.booking.com/hotel/fr/comfort-laferlede.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=30531_195957474_0_2_0&highlighted_blocks=30531_195957474_0_2_0&matching_block_id=30531_195957474_0_2_0&sr_pri_blocks=30531_195957474_0_2_0__53400&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.3,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Le Mas du Lingousto",
+        "ville_de_lhotel": "cuers",
+        "price": "597",
+        "url": "https://www.booking.com/hotel/fr/lingousto.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=33643301_326752727_0_42_0&highlighted_blocks=33643301_326752727_0_42_0&matching_block_id=33643301_326752727_0_42_0&sr_pri_blocks=33643301_326752727_0_42_0__59720&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.5,
+        "stars": 4
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hôtel Le Richiardi",
+        "ville_de_lhotel": "carqueiranne",
+        "price": "502",
+        "url": "https://www.booking.com/hotel/fr/hotel-richardi-carqueiranne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=87727_364810468_0_2_0&highlighted_blocks=87727_364810468_0_2_0&matching_block_id=87727_364810468_0_2_0&sr_pri_blocks=87727_364810468_0_2_0__50160&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 22.7,
+        "stars": 2
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Hotel Villa Maya",
+        "ville_de_lhotel": "saint tropez",
+        "price": "777",
+        "url": "https://www.booking.com/hotel/fr/villa-maya.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=33307820_82848166_2_2_0&highlighted_blocks=33307820_82848166_2_2_0&matching_block_id=33307820_82848166_2_2_0&sr_pri_blocks=33307820_82848166_2_2_0__77652&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.5,
+        "stars": 0
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Résidence Pierre & Vacances Les Parcs de Grimaud",
+        "ville_de_lhotel": "grimaud",
+        "price": "353",
+        "url": "https://www.booking.com/hotel/fr/parcsdegrimaud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=5165101_258598830_4_0_0&highlighted_blocks=5165101_258598830_4_0_0&matching_block_id=5165101_258598830_4_0_0&sr_pri_blocks=5165101_258598830_4_0_0__35322&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.4,
+        "stars": 3
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Les Capucines Saint Tropez",
+        "ville_de_lhotel": "saint tropez",
+        "price": "1233",
+        "url": "https://www.booking.com/hotel/fr/les-capucines.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=5403302_380634725_2_2_0_61487&highlighted_blocks=5403302_380634725_2_2_0_61487&matching_block_id=5403302_380634725_2_2_0_61487&sr_pri_blocks=5403302_380634725_2_2_0_61487_123312&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 24.7,
+        "stars": 4
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Lostane - Villa sur le toit",
+        "ville_de_lhotel": "grimaud",
+        "price": "2706",
+        "url": "https://www.booking.com/hotel/fr/lostan-appartement.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=754103001_383373735_6_2_0&highlighted_blocks=754103001_383373735_6_2_0&matching_block_id=754103001_383373735_6_2_0&sr_pri_blocks=754103001_383373735_6_2_0__270600&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 23.2,
+        "stars": 0
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "Lily of the Valley",
+        "ville_de_lhotel": "la croix valmer",
+        "price": "3560",
+        "url": "https://www.booking.com/hotel/fr/lily-of-the-valley.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=482313308_337593991_2_1_0_661441&highlighted_blocks=482313308_337593991_2_1_0_661441&matching_block_id=482313308_337593991_2_1_0_661441&sr_pri_blocks=482313308_337593991_2_1_0_661441_356048&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.1,
+        "stars": 5
+    },
+    {
+        "id_destination": 10,
+        "destination": "Bormes les Mimosas",
+        "nom_hotel": "La Maison Du Soleil",
+        "ville_de_lhotel": "la garde freinet",
+        "price": "1422",
+        "url": "https://www.booking.com/hotel/fr/la-maison-du-soleil-la-garde-freinet.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Av35vrwGwAIB0gIkZDIzMjRmOWYtNjkyNS00NDE0LWJmZGItZWYyMzdlYmY4YzZl2AIF4AIB&sid=c9e60e2ba1442ed1007e8287716f79be&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1413801&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&nflt=ht_id%3D204&srpvid=f0df3de3125d02ff&srepoch=1737622096&all_sr_blocks=1204444701_392669295_2_2_0&highlighted_blocks=1204444701_392669295_2_2_0&matching_block_id=1204444701_392669295_2_2_0&sr_pri_blocks=1204444701_392669295_2_2_0__142200&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 20.2,
+        "stars": 0
     }
 ]

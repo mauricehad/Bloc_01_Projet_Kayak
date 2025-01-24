@@ -2,201 +2,507 @@
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "345",
-        "url": "https://www.booking.com/hotel/fr/residhome-dijon-cite-des-vignes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=860323401_353879023_0_2_0&highlighted_blocks=860323401_353879023_0_2_0&matching_block_id=860323401_353879023_0_2_0&sr_pri_blocks=860323401_353879023_0_2_0__34512&from=searchresults",
+        "nom_hotel": "Hôtel République",
+        "ville_de_lhotel": "dijon",
+        "price": "440",
+        "url": "https://www.booking.com/hotel/fr/republique-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=4629602_399772173_0_2_0&highlighted_blocks=4629602_399772173_0_2_0&matching_block_id=4629602_399772173_0_2_0&sr_pri_blocks=4629602_399772173_0_2_0__44020&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "420",
-        "url": "https://www.booking.com/hotel/fr/campanile-dijon-congra-s-cla-c-menceau.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=68000402_94500551_0_2_0&highlighted_blocks=68000402_94500551_0_2_0&matching_block_id=68000402_94500551_0_2_0&sr_pri_blocks=68000402_94500551_0_2_0__41956&from=searchresults",
+        "nom_hotel": "Holiday Inn Express Dijon, an IHG Hotel",
+        "ville_de_lhotel": "dijon",
+        "price": "665",
+        "url": "https://www.booking.com/hotel/fr/holiday-inn-express-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=55083207_94490967_2_1_0&highlighted_blocks=55083207_94490967_2_1_0&matching_block_id=55083207_94490967_2_1_0&sr_pri_blocks=55083207_94490967_2_1_0__66458&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "230",
-        "url": "https://www.booking.com/hotel/fr/hotelf1-dijon-nord.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=67621607_94500291_2_2_0&highlighted_blocks=67621607_94500291_2_2_0&matching_block_id=67621607_94500291_2_2_0&sr_pri_blocks=67621607_94500291_2_2_0__23022&from=searchresults",
+        "nom_hotel": "City Loft Apparthotel",
+        "ville_de_lhotel": "dijon",
+        "price": "528",
+        "url": "https://www.booking.com/hotel/fr/city-loft.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=4767811_375256312_2_2_0&highlighted_blocks=4767811_375256312_2_2_0&matching_block_id=4767811_375256312_2_2_0&sr_pri_blocks=4767811_375256312_2_2_0__52812&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "441",
-        "url": "https://www.booking.com/hotel/fr/hotel-balladins-dijon-nord-superior.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=23083610_309336152_2_10_0&highlighted_blocks=23083610_309336152_2_10_0&matching_block_id=23083610_309336152_2_10_0&sr_pri_blocks=23083610_309336152_2_10_0__44120&from=searchresults",
+        "nom_hotel": "Hôtel Restaurant Kyriad Direct DIJON NORD - Zenith - Toison d'Or",
+        "ville_de_lhotel": "dijon",
+        "price": "454",
+        "url": "https://www.booking.com/hotel/fr/hotel-balladins-dijon-nord-superior.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=23083610_309336152_2_10_0&highlighted_blocks=23083610_309336152_2_10_0&matching_block_id=23083610_309336152_2_10_0&sr_pri_blocks=23083610_309336152_2_10_0__45420&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "381",
-        "url": "https://www.booking.com/hotel/fr/campanile-dijon-centre-gare-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=48044301_94473268_2_2_0&highlighted_blocks=48044301_94473268_2_2_0&matching_block_id=48044301_94473268_2_2_0&sr_pri_blocks=48044301_94473268_2_2_0__38112&from=searchresults",
+        "nom_hotel": "Hôtel des Halles",
+        "ville_de_lhotel": "dijon",
+        "price": "504",
+        "url": "https://www.booking.com/hotel/fr/hotel-des-halles-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=4795301_237679008_2_2_0&highlighted_blocks=4795301_237679008_2_2_0&matching_block_id=4795301_237679008_2_2_0&sr_pri_blocks=4795301_237679008_2_2_0__50354&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "300",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe-dijon-nord.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=5485304_94106532_2_2_0&highlighted_blocks=5485304_94106532_2_2_0&matching_block_id=5485304_94106532_2_2_0&sr_pri_blocks=5485304_94106532_2_2_0__29963&from=searchresults",
+        "nom_hotel": "Residhome Dijon Cité Des Vignes",
+        "ville_de_lhotel": "dijon",
+        "price": "392",
+        "url": "https://www.booking.com/hotel/fr/residhome-dijon-cite-des-vignes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=860323401_354571560_0_2_0&highlighted_blocks=860323401_354571560_0_2_0&matching_block_id=860323401_354571560_0_2_0&sr_pri_blocks=860323401_354571560_0_2_0__39244&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "530",
-        "url": "https://www.booking.com/hotel/fr/appart-39-odalys-les-cordeliers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=115088302_88556994_4_2_0&highlighted_blocks=115088302_88556994_4_2_0&matching_block_id=115088302_88556994_4_2_0&sr_pri_blocks=115088302_88556994_4_2_0__53032&from=searchresults",
+        "nom_hotel": "Holiday Inn Dijon Toison D'or, an IHG Hotel",
+        "ville_de_lhotel": "dijon",
+        "price": "774",
+        "url": "https://www.booking.com/hotel/fr/holiday-inn-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5391831_246029522_2_2_0&highlighted_blocks=5391831_246029522_2_2_0&matching_block_id=5391831_246029522_2_2_0&sr_pri_blocks=5391831_246029522_2_2_0__77432&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "283",
-        "url": "https://www.booking.com/hotel/fr/fast.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=27800502_88556987_0_34_0&highlighted_blocks=27800502_88556987_0_34_0&matching_block_id=27800502_88556987_0_34_0&sr_pri_blocks=27800502_88556987_0_34_0__28320&from=searchresults",
+        "nom_hotel": "Holiday Inn Dijon Sud - Longvic, an IHG Hotel",
+        "ville_de_lhotel": "dijon",
+        "price": "724",
+        "url": "https://www.booking.com/hotel/fr/holiday-inn-dijon-sud-longvic-an-ihg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=1015468105_374070853_2_2_0&highlighted_blocks=1015468105_374070853_2_2_0&matching_block_id=1015468105_374070853_2_2_0&sr_pri_blocks=1015468105_374070853_2_2_0__72432&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "451",
-        "url": "https://www.booking.com/hotel/fr/kyriad-dijon-est-mirande.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=21949708_88556979_2_2_0&highlighted_blocks=21949708_88556979_2_2_0&matching_block_id=21949708_88556979_2_2_0&sr_pri_blocks=21949708_88556979_2_2_0__45084&from=searchresults",
+        "nom_hotel": "Kyriad Dijon Est Mirande",
+        "ville_de_lhotel": "dijon",
+        "price": "437",
+        "url": "https://www.booking.com/hotel/fr/kyriad-dijon-est-mirande.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=21949708_88556979_2_2_0&highlighted_blocks=21949708_88556979_2_2_0&matching_block_id=21949708_88556979_2_2_0&sr_pri_blocks=21949708_88556979_2_2_0__43724&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "537",
-        "url": "https://www.booking.com/hotel/fr/city-loft.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=4767811_375256312_2_2_0&highlighted_blocks=4767811_375256312_2_2_0&matching_block_id=4767811_375256312_2_2_0&sr_pri_blocks=4767811_375256312_2_2_0__53712&from=searchresults",
+        "nom_hotel": "Novotel Dijon Sud",
+        "ville_de_lhotel": "dijon",
+        "price": "669",
+        "url": "https://www.booking.com/hotel/fr/novotel-dijon-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5375314_94272913_2_42_0&highlighted_blocks=5375314_94272913_2_42_0&matching_block_id=5375314_94272913_2_42_0&sr_pri_blocks=5375314_94272913_2_42_0__66892&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "538",
-        "url": "https://www.booking.com/hotel/fr/nomad-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=1170199601_389585125_2_34_0&highlighted_blocks=1170199601_389585125_2_34_0&matching_block_id=1170199601_389585125_2_34_0&sr_pri_blocks=1170199601_389585125_2_34_0__53812&from=searchresults",
+        "nom_hotel": "ibis Dijon Sud",
+        "ville_de_lhotel": "dijon",
+        "price": "463",
+        "url": "https://www.booking.com/hotel/fr/ibis-dijon-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=38762706_94454676_2_34_0&highlighted_blocks=38762706_94454676_2_34_0&matching_block_id=38762706_94454676_2_34_0&sr_pri_blocks=38762706_94454676_2_34_0__46313&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "537",
-        "url": "https://www.booking.com/hotel/fr/ibis-dijon-centre-clemenceau.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=5906814_94278340_2_2_0&highlighted_blocks=5906814_94278340_2_2_0&matching_block_id=5906814_94278340_2_2_0&sr_pri_blocks=5906814_94278340_2_2_0__53686&from=searchresults",
+        "nom_hotel": "Campanile Dijon Congrès Clemenceau",
+        "ville_de_lhotel": "dijon",
+        "price": "502",
+        "url": "https://www.booking.com/hotel/fr/campanile-dijon-congra-s-cla-c-menceau.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=68000401_94500551_0_2_0&highlighted_blocks=68000401_94500551_0_2_0&matching_block_id=68000401_94500551_0_2_0&sr_pri_blocks=68000401_94500551_0_2_0__50164&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "411",
-        "url": "https://www.booking.com/hotel/fr/b-amp-b-dijon-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=212396202_96229587_2_2_0&highlighted_blocks=212396202_96229587_2_2_0&matching_block_id=212396202_96229587_2_2_0&sr_pri_blocks=212396202_96229587_2_2_0__41122&from=searchresults",
+        "nom_hotel": "Kyriad Hotel Dijon Gare",
+        "ville_de_lhotel": "dijon",
+        "price": "602",
+        "url": "https://www.booking.com/hotel/fr/kyriad-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5389803_94105817_2_2_0&highlighted_blocks=5389803_94105817_2_2_0&matching_block_id=5389803_94105817_2_2_0&sr_pri_blocks=5389803_94105817_2_2_0__60244&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "854",
-        "url": "https://www.booking.com/hotel/fr/aloft-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=1178310107_390390492_0_2_0&highlighted_blocks=1178310107_390390492_0_2_0&matching_block_id=1178310107_390390492_0_2_0&sr_pri_blocks=1178310107_390390492_0_2_0__85432&from=searchresults",
+        "nom_hotel": "Hôtel Le Chambellan",
+        "ville_de_lhotel": "dijon",
+        "price": "373",
+        "url": "https://www.booking.com/hotel/fr/le-chambellan-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=29679304_203988762_2_2_0&highlighted_blocks=29679304_203988762_2_2_0&matching_block_id=29679304_203988762_2_2_0&sr_pri_blocks=29679304_203988762_2_2_0__37320&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "438",
-        "url": "https://www.booking.com/hotel/fr/aparthotel-lhl.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=25908302_365834143_0_2_0&highlighted_blocks=25908302_365834143_0_2_0&matching_block_id=25908302_365834143_0_2_0&sr_pri_blocks=25908302_365834143_0_2_0__43800&from=searchresults",
+        "nom_hotel": "L'aparthoteL LhL",
+        "ville_de_lhotel": "dijon",
+        "price": "450",
+        "url": "https://www.booking.com/hotel/fr/aparthotel-lhl.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=25908308_365834143_0_2_0&highlighted_blocks=25908308_365834143_0_2_0&matching_block_id=25908308_365834143_0_2_0&sr_pri_blocks=25908308_365834143_0_2_0__45000&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "499",
-        "url": "https://www.booking.com/hotel/fr/la-bonbonniere.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=5515117_386070637_2_2_0&highlighted_blocks=5515117_386070637_2_2_0&matching_block_id=5515117_386070637_2_2_0&sr_pri_blocks=5515117_386070637_2_2_0__49931&from=searchresults",
+        "nom_hotel": "Ibis Styles Dijon Nord Valmy",
+        "ville_de_lhotel": "dijon",
+        "price": "788",
+        "url": "https://www.booking.com/hotel/fr/kyriad-prestige-dijon-nord-valmy-xml.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=55736805_94491807_2_1_0&highlighted_blocks=55736805_94491807_2_1_0&matching_block_id=55736805_94491807_2_1_0&sr_pri_blocks=55736805_94491807_2_1_0__78842&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "598",
-        "url": "https://www.booking.com/hotel/fr/kyriad-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=5389802_94105817_2_2_0&highlighted_blocks=5389802_94105817_2_2_0&matching_block_id=5389802_94105817_2_2_0&sr_pri_blocks=5389802_94105817_2_2_0__59844&from=searchresults",
+        "nom_hotel": "Vertigo Hotel, Dijon, a Member of Design Hotels",
+        "ville_de_lhotel": "dijon",
+        "price": "837",
+        "url": "https://www.booking.com/hotel/fr/vertigo.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=116721801_88556997_2_2_0&highlighted_blocks=116721801_88556997_2_2_0&matching_block_id=116721801_88556997_2_2_0&sr_pri_blocks=116721801_88556997_2_2_0__83672&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "445",
-        "url": "https://www.booking.com/hotel/fr/ibis-dijon-sud.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=38762707_94454676_2_34_0&highlighted_blocks=38762707_94454676_2_34_0&matching_block_id=38762707_94454676_2_34_0&sr_pri_blocks=38762707_94454676_2_34_0__44454&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 16,
-        "destination": "Dijon",
-        "price": "272",
-        "url": "https://www.booking.com/hotel/fr/ethic-etapes-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=31944801_326752655_0_42_0&highlighted_blocks=31944801_326752655_0_42_0&matching_block_id=31944801_326752655_0_42_0&sr_pri_blocks=31944801_326752655_0_42_0__27192&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 16,
-        "destination": "Dijon",
-        "price": "520",
-        "url": "https://www.booking.com/hotel/fr/aparthotel-adagio-access-dijon-republique.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=112063105_93775465_4_2_0&highlighted_blocks=112063105_93775465_4_2_0&matching_block_id=112063105_93775465_4_2_0&sr_pri_blocks=112063105_93775465_4_2_0__51988&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 16,
-        "destination": "Dijon",
+        "nom_hotel": "Appart Hotel Montchapet Dijon Centre",
+        "ville_de_lhotel": "dijon",
         "price": "523",
-        "url": "https://www.booking.com/hotel/fr/appart-montchapet-dijon-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=643705401_363564312_2_2_0&highlighted_blocks=643705401_363564312_2_2_0&matching_block_id=643705401_363564312_2_2_0&sr_pri_blocks=643705401_363564312_2_2_0__52320&from=searchresults",
+        "url": "https://www.booking.com/hotel/fr/appart-montchapet-dijon-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=643705401_363564312_2_2_0&highlighted_blocks=643705401_363564312_2_2_0&matching_block_id=643705401_363564312_2_2_0&sr_pri_blocks=643705401_363564312_2_2_0__52320&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "442",
-        "url": "https://www.booking.com/hotel/fr/le-chambellan-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=29679301_203988762_2_2_0&highlighted_blocks=29679301_203988762_2_2_0&matching_block_id=29679301_203988762_2_2_0&sr_pri_blocks=29679301_203988762_2_2_0__44220&from=searchresults",
+        "nom_hotel": "La Bonbonniere - Sure Hotel Collection by Best Western",
+        "ville_de_lhotel": "dijon",
+        "price": "476",
+        "url": "https://www.booking.com/hotel/fr/la-bonbonniere.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5515117_386070637_2_2_0&highlighted_blocks=5515117_386070637_2_2_0&matching_block_id=5515117_386070637_2_2_0&sr_pri_blocks=5515117_386070637_2_2_0__47593&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "546",
-        "url": "https://www.booking.com/hotel/fr/hotel-des-halles-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=4795301_237679008_2_2_0&highlighted_blocks=4795301_237679008_2_2_0&matching_block_id=4795301_237679008_2_2_0&sr_pri_blocks=4795301_237679008_2_2_0__54644&from=searchresults",
+        "nom_hotel": "Grand Hotel La Cloche Dijon - MGallery",
+        "ville_de_lhotel": "dijon",
+        "price": "1273",
+        "url": "https://www.booking.com/hotel/fr/gh-la-cloche-dijon-mgallery.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5444804_94273583_2_42_0&highlighted_blocks=5444804_94273583_2_42_0&matching_block_id=5444804_94273583_2_42_0&sr_pri_blocks=5444804_94273583_2_42_0__127297&from_sustainable_property_sr=1&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 5
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "583",
-        "url": "https://www.booking.com/hotel/fr/holiday-inn-dijon-sud-longvic-an-ihg.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=1015468101_374070858_2_2_0&highlighted_blocks=1015468101_374070858_2_2_0&matching_block_id=1015468101_374070858_2_2_0&sr_pri_blocks=1015468101_374070858_2_2_0__58332&from=searchresults",
+        "nom_hotel": "Hôtel Dijon Sud Longvic",
+        "ville_de_lhotel": "dijon",
+        "price": "489",
+        "url": "https://www.booking.com/hotel/fr/hotelkyriad.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5184105_375943810_2_2_0&highlighted_blocks=5184105_375943810_2_2_0&matching_block_id=5184105_375943810_2_2_0&sr_pri_blocks=5184105_375943810_2_2_0__48944&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 16,
         "destination": "Dijon",
-        "price": "532",
-        "url": "https://www.booking.com/hotel/fr/kyriad-dijon-centre-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuCB5LsGwAIB0gIkN2VhODk1NjUtZmJjNC00N2IyLWE1YzUtMDI3MGI4OWMyMGY22AIF4AIB&sid=3b7e664a02e67694a28a307f54b2cbb9&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=190c503b0a2418a2&srepoch=1735989900&all_sr_blocks=4808313_404334744_2_2_0&highlighted_blocks=4808313_404334744_2_2_0&matching_block_id=4808313_404334744_2_2_0&sr_pri_blocks=4808313_404334744_2_2_0__53242&from=searchresults",
+        "nom_hotel": "Hostellerie Du Chapeau Rouge",
+        "ville_de_lhotel": "dijon",
+        "price": "960",
+        "url": "https://www.booking.com/hotel/fr/bestwesternchapeaurouge.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=20386109_133733527_0_2_0&highlighted_blocks=20386109_133733527_0_2_0&matching_block_id=20386109_133733527_0_2_0&sr_pri_blocks=20386109_133733527_0_2_0__96000&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Logis Hotel Darcy Dijon Centre",
+        "ville_de_lhotel": "dijon",
+        "price": "840",
+        "url": "https://www.booking.com/hotel/fr/logis-hotel-darcy-dijon-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=22096315_389642381_2_2_0&highlighted_blocks=22096315_389642381_2_2_0&matching_block_id=22096315_389642381_2_2_0&sr_pri_blocks=22096315_389642381_2_2_0__84009&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Apparteo Dijon",
+        "ville_de_lhotel": "dijon",
+        "price": "435",
+        "url": "https://www.booking.com/hotel/fr/apparteo-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=188216604_92396776_0_0_0&highlighted_blocks=188216604_92396776_0_0_0&matching_block_id=188216604_92396776_0_0_0&sr_pri_blocks=188216604_92396776_0_0_0__43470&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Aloft Hotel Dijon By Marriott",
+        "ville_de_lhotel": "dijon",
+        "price": "817",
+        "url": "https://www.booking.com/hotel/fr/aloft-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=1178310107_390390492_0_2_0&highlighted_blocks=1178310107_390390492_0_2_0&matching_block_id=1178310107_390390492_0_2_0&sr_pri_blocks=1178310107_390390492_0_2_0__81732&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Alfred Suites - Appart's Hôtel - Dijon - Centre Historique",
+        "ville_de_lhotel": "dijon",
+        "price": "989",
+        "url": "https://www.booking.com/hotel/fr/alfred-suites.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=1151675903_391913547_2_2_0&highlighted_blocks=1151675903_391913547_2_2_0&matching_block_id=1151675903_391913547_2_2_0&sr_pri_blocks=1151675903_391913547_2_2_0__98894&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Première Classe Dijon Nord - Zénith",
+        "ville_de_lhotel": "dijon",
+        "price": "298",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-dijon-nord.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5485304_94106532_2_2_0&highlighted_blocks=5485304_94106532_2_2_0&matching_block_id=5485304_94106532_2_2_0&sr_pri_blocks=5485304_94106532_2_2_0__29770&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 1
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Odalys City Dijon Les Cordeliers",
+        "ville_de_lhotel": "dijon",
+        "price": "614",
+        "url": "https://www.booking.com/hotel/fr/appart-39-odalys-les-cordeliers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=115088301_391329980_2_2_0&highlighted_blocks=115088301_391329980_2_2_0&matching_block_id=115088301_391329980_2_2_0&sr_pri_blocks=115088301_391329980_2_2_0__61392&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "B&B HOTEL Dijon Centre",
+        "ville_de_lhotel": "dijon",
+        "price": "435",
+        "url": "https://www.booking.com/hotel/fr/b-amp-b-dijon-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=212396201_96229587_2_2_0&highlighted_blocks=212396201_96229587_2_2_0&matching_block_id=212396201_96229587_2_2_0&sr_pri_blocks=212396201_96229587_2_2_0__43498&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Hôtel Montchapet Dijon Centre",
+        "ville_de_lhotel": "dijon",
+        "price": "423",
+        "url": "https://www.booking.com/hotel/fr/montchapet.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=18195108_368256479_0_2_0&highlighted_blocks=18195108_368256479_0_2_0&matching_block_id=18195108_368256479_0_2_0&sr_pri_blocks=18195108_368256479_0_2_0__42320&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "FASTHOTEL A Dijon",
+        "ville_de_lhotel": "dijon",
+        "price": "283",
+        "url": "https://www.booking.com/hotel/fr/fast.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=27800502_88556987_0_34_0&highlighted_blocks=27800502_88556987_0_34_0&matching_block_id=27800502_88556987_0_34_0&sr_pri_blocks=27800502_88556987_0_34_0__28320&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "hotelF1 Dijon Nord",
+        "ville_de_lhotel": "dijon",
+        "price": "229",
+        "url": "https://www.booking.com/hotel/fr/hotelf1-dijon-nord.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=67621607_94500291_2_2_0&highlighted_blocks=67621607_94500291_2_2_0&matching_block_id=67621607_94500291_2_2_0&sr_pri_blocks=67621607_94500291_2_2_0__22934&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 1
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "ETHIC ETAPES DIJON Accueil 24h24 et parking gratuit",
+        "ville_de_lhotel": "dijon",
+        "price": "272",
+        "url": "https://www.booking.com/hotel/fr/ethic-etapes-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=31944801_326752655_0_42_0&highlighted_blocks=31944801_326752655_0_42_0&matching_block_id=31944801_326752655_0_42_0&sr_pri_blocks=31944801_326752655_0_42_0__27192&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 1
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Hôtel De Paris",
+        "ville_de_lhotel": "dijon",
+        "price": "439",
+        "url": "https://www.booking.com/hotel/fr/de-paris-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5439405_367037525_2_2_0&highlighted_blocks=5439405_367037525_2_2_0&matching_block_id=5439405_367037525_2_2_0&sr_pri_blocks=5439405_367037525_2_2_0__43920&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Maison Philippe Le Bon",
+        "ville_de_lhotel": "dijon",
+        "price": "884",
+        "url": "https://www.booking.com/hotel/fr/philippe-le-bon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5548102_398599042_2_42_0&highlighted_blocks=5548102_398599042_2_42_0&matching_block_id=5548102_398599042_2_42_0&sr_pri_blocks=5548102_398599042_2_42_0__88432&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Appart'City Classic Dijon - Toison D'Or",
+        "ville_de_lhotel": "dijon",
+        "price": "402",
+        "url": "https://www.booking.com/hotel/fr/residence-le-clos-des-ducs.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5909807_88556980_0_2_0&highlighted_blocks=5909807_88556980_0_2_0&matching_block_id=5909807_88556980_0_2_0&sr_pri_blocks=5909807_88556980_0_2_0__40236&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Hôtel Wilson - Teritoria",
+        "ville_de_lhotel": "dijon",
+        "price": "886",
+        "url": "https://www.booking.com/hotel/fr/wilson-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=24627403_88556984_2_2_0&highlighted_blocks=24627403_88556984_2_2_0&matching_block_id=24627403_88556984_2_2_0&sr_pri_blocks=24627403_88556984_2_2_0__88644&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Hôtel le Thurot",
+        "ville_de_lhotel": "dijon",
+        "price": "320",
+        "url": "https://www.booking.com/hotel/fr/le-thurot-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=7987412_88556969_0_2_0&highlighted_blocks=7987412_88556969_0_2_0&matching_block_id=7987412_88556969_0_2_0&sr_pri_blocks=7987412_88556969_0_2_0__32020&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Campanile Dijon Nord - Toison D'or",
+        "ville_de_lhotel": "dijon",
+        "price": "595",
+        "url": "https://www.booking.com/hotel/fr/campanile-dijon-parc-tech-de-la-toison-d-or.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=21944106_395387488_2_42_0&highlighted_blocks=21944106_395387488_2_42_0&matching_block_id=21944106_395387488_2_42_0&sr_pri_blocks=21944106_395387488_2_42_0__59544&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Hôtel Du Stade",
+        "ville_de_lhotel": "dijon",
+        "price": "324",
+        "url": "https://www.booking.com/hotel/fr/du-stade.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=18159101_399716324_0_2_0&highlighted_blocks=18159101_399716324_0_2_0&matching_block_id=18159101_399716324_0_2_0&sr_pri_blocks=18159101_399716324_0_2_0__32440&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "The Originals City, Hôtel Castel Burgond, Dijon Ouest",
+        "ville_de_lhotel": "dijon",
+        "price": "507",
+        "url": "https://www.booking.com/hotel/fr/castel-burgond.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=5430504_364603913_2_2_0&highlighted_blocks=5430504_364603913_2_2_0&matching_block_id=5430504_364603913_2_2_0&sr_pri_blocks=5430504_364603913_2_2_0__50712&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Nomad Hotel Dijon",
+        "ville_de_lhotel": "dijon",
+        "price": "580",
+        "url": "https://www.booking.com/hotel/fr/nomad-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=1170199601_389585125_2_34_0&highlighted_blocks=1170199601_389585125_2_34_0&matching_block_id=1170199601_389585125_2_34_0&sr_pri_blocks=1170199601_389585125_2_34_0__58044&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Mama Shelter Dijon",
+        "ville_de_lhotel": "dijon",
+        "price": "793",
+        "url": "https://www.booking.com/hotel/fr/mama-shelter-dijon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=999648605_372797480_2_2_0&highlighted_blocks=999648605_372797480_2_2_0&matching_block_id=999648605_372797480_2_2_0&sr_pri_blocks=999648605_372797480_2_2_0__79329&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "MÉDICIS HOME DIJON LES PETITES ROCHES",
+        "ville_de_lhotel": "dijon",
+        "price": "630",
+        "url": "https://www.booking.com/hotel/fr/medicis-home-dijon-les-petites-roches.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=203712303_151460236_2_2_0&highlighted_blocks=203712303_151460236_2_2_0&matching_block_id=203712303_151460236_2_2_0&sr_pri_blocks=203712303_151460236_2_2_0__63000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Hôtel Chateaubriand",
+        "ville_de_lhotel": "dijon",
+        "price": "372",
+        "url": "https://www.booking.com/hotel/fr/ha-tel-chateaubriand.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=43505502_406167940_0_2_0&highlighted_blocks=43505502_406167940_0_2_0&matching_block_id=43505502_406167940_0_2_0&sr_pri_blocks=43505502_406167940_0_2_0__37170&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 16,
+        "destination": "Dijon",
+        "nom_hotel": "Hôtel Lamartine - Parking Dauphine",
+        "ville_de_lhotel": "dijon",
+        "price": "300",
+        "url": "https://www.booking.com/hotel/fr/dauphine-dijon1.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Asr6vrwGwAIB0gIkOGE2YTgzOTQtNjg0NC00M2I2LWJiZTYtNWI0Y2MzNzFlZGQ32AIF4AIB&sid=abba72ea5187bf04375a8e26b272c133&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1423981&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e20f515038f&srepoch=1737622218&all_sr_blocks=1329235001_405488380_0_0_0&highlighted_blocks=1329235001_405488380_0_0_0&matching_block_id=1329235001_405488380_0_0_0&sr_pri_blocks=1329235001_405488380_0_0_0__30000&from=searchresults",
+        "dans_destination": 1,
+        "de_destination_km": 0,
+        "stars": 2
     }
 ]

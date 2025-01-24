@@ -2,201 +2,210 @@
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "446",
-        "url": "https://www.booking.com/hotel/fr/qualityhotelgrenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=5153001_89392091_2_2_0&highlighted_blocks=5153001_89392091_2_2_0&matching_block_id=5153001_89392091_2_2_0&sr_pri_blocks=5153001_89392091_2_2_0__44560&from=searchresults",
+        "nom_hotel": "Tempologis Grenoble",
+        "ville_de_lhotel": "grenoble",
+        "price": "391",
+        "url": "https://www.booking.com/hotel/fr/tempologis-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=109720303_354079417_0_0_0&highlighted_blocks=109720303_354079417_0_0_0&matching_block_id=109720303_354079417_0_0_0&sr_pri_blocks=109720303_354079417_0_0_0__39112&from=searchresults",
         "dans_destination": 1,
-        "de_destination_km": 0
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "451",
-        "url": "https://www.booking.com/hotel/fr/hipark.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=23631414_91913143_2_2_0&highlighted_blocks=23631414_91913143_2_2_0&matching_block_id=23631414_91913143_2_2_0&sr_pri_blocks=23631414_91913143_2_2_0__45058&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Tempologis - Chateau de la Rochette",
+        "ville_de_lhotel": "fontaine",
+        "price": "428",
+        "url": "https://www.booking.com/hotel/fr/tempologis-chateau-de-la-rochette.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=46764001_88556469_2_0_0&highlighted_blocks=46764001_88556469_2_0_0&matching_block_id=46764001_88556469_2_0_0&sr_pri_blocks=46764001_88556469_2_0_0__42799&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.0,
+        "stars": 0
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "471",
-        "url": "https://www.booking.com/hotel/fr/residhome-prestige-grenoble-caserne-de-bonne.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=7949201_93707476_2_2_0&highlighted_blocks=7949201_93707476_2_2_0&matching_block_id=7949201_93707476_2_2_0&sr_pri_blocks=7949201_93707476_2_2_0__47120&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "The Originals Résidence, Grenoble Université",
+        "ville_de_lhotel": "saint martin dʼhères",
+        "price": "603",
+        "url": "https://www.booking.com/hotel/fr/comfort-suites-universites-grenoble-est.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=108853007_386145208_2_10_0&highlighted_blocks=108853007_386145208_2_10_0&matching_block_id=108853007_386145208_2_10_0&sr_pri_blocks=108853007_386145208_2_10_0__60280&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 2.5,
+        "stars": 3
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "473",
-        "url": "https://www.booking.com/hotel/fr/campanile-grenoble-centre-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=39965214_100324684_2_2_0&highlighted_blocks=39965214_100324684_2_2_0&matching_block_id=39965214_100324684_2_2_0&sr_pri_blocks=39965214_100324684_2_2_0__47280&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "hotelF1 Grenoble Université",
+        "ville_de_lhotel": "gières",
+        "price": "248",
+        "url": "https://www.booking.com/hotel/fr/hotelf1-grenoble-universite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=67619408_376291077_2_10_0&highlighted_blocks=67619408_376291077_2_10_0&matching_block_id=67619408_376291077_2_10_0&sr_pri_blocks=67619408_376291077_2_10_0__24828&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.3,
+        "stars": 0
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "727",
-        "url": "https://www.booking.com/hotel/fr/grand-mercure-grenoble-president.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=5721406_94275846_2_34_0&highlighted_blocks=5721406_94275846_2_34_0&matching_block_id=5721406_94275846_2_34_0&sr_pri_blocks=5721406_94275846_2_34_0__72690&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Premiere Classe Grenoble Sud - Gieres Universite",
+        "ville_de_lhotel": "gières",
+        "price": "269",
+        "url": "https://www.booking.com/hotel/fr/grenoble-sud-gieres-universite.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=5473002_94106279_3_2_0&highlighted_blocks=5473002_94106279_3_2_0&matching_block_id=5473002_94106279_3_2_0&sr_pri_blocks=5473002_94106279_3_2_0__26904&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 4.4,
+        "stars": 1
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "422",
-        "url": "https://www.booking.com/hotel/fr/cowool-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=887005001_372292050_0_0_0&highlighted_blocks=887005001_372292050_0_0_0&matching_block_id=887005001_372292050_0_0_0&sr_pri_blocks=887005001_372292050_0_0_0__42150&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Logis Le Relais de Sassenage",
+        "ville_de_lhotel": "sassenage",
+        "price": "590",
+        "url": "https://www.booking.com/hotel/fr/la-caravelle-fr.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=4793601_380874185_0_42_0&highlighted_blocks=4793601_380874185_0_42_0&matching_block_id=4793601_380874185_0_42_0&sr_pri_blocks=4793601_380874185_0_42_0__59000&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 3.6,
+        "stars": 3
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "432",
-        "url": "https://www.booking.com/hotel/fr/adagio-access-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=5515411_311037731_2_2_0&highlighted_blocks=5515411_311037731_2_2_0&matching_block_id=5515411_311037731_2_2_0&sr_pri_blocks=5515411_311037731_2_2_0__43200&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Appart'City Confort Grenoble Inovallée",
+        "ville_de_lhotel": "montbonnot saint martin",
+        "price": "544",
+        "url": "https://www.booking.com/hotel/fr/park-amp-suites-ela-c-gance-grenoble-innovalla-c-e.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=42631503_88929913_0_2_0&highlighted_blocks=42631503_88929913_0_2_0&matching_block_id=42631503_88929913_0_2_0&sr_pri_blocks=42631503_88929913_0_2_0__54420&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 7.1,
+        "stars": 3
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "642",
-        "url": "https://www.booking.com/hotel/fr/apt-paisible-en-centre-ville-parking-salle-de-sport-bar-en-rooftop.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=1004799701_377045129_2_2_0&highlighted_blocks=1004799701_377045129_2_2_0&matching_block_id=1004799701_377045129_2_2_0&sr_pri_blocks=1004799701_377045129_2_2_0__64200&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel du Midi",
+        "ville_de_lhotel": "domène",
+        "price": "512",
+        "url": "https://www.booking.com/hotel/fr/ha-tel-du-midi.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=34308016_88556894_2_34_0&highlighted_blocks=34308016_88556894_2_34_0&matching_block_id=34308016_88556894_2_34_0&sr_pri_blocks=34308016_88556894_2_34_0__51216&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 9.1,
+        "stars": 2
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "494",
-        "url": "https://www.booking.com/hotel/fr/le-royal-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=5476808_99592304_2_2_0&highlighted_blocks=5476808_99592304_2_2_0&matching_block_id=5476808_99592304_2_2_0&sr_pri_blocks=5476808_99592304_2_2_0__49380&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Ekho Hotel Grenoble Nord Saint Egrève",
+        "ville_de_lhotel": "saint égrève",
+        "price": "575",
+        "url": "https://www.booking.com/hotel/fr/arena-saint-egreve.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=40697601_175381741_0_34_0&highlighted_blocks=40697601_175381741_0_34_0&matching_block_id=40697601_175381741_0_34_0&sr_pri_blocks=40697601_175381741_0_34_0__57480&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 5.8,
+        "stars": 2
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "717",
-        "url": "https://www.booking.com/hotel/fr/tiangleterre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=5035013_195351945_0_2_0&highlighted_blocks=5035013_195351945_0_2_0&matching_block_id=5035013_195351945_0_2_0&sr_pri_blocks=5035013_195351945_0_2_0__71680&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 19,
-        "destination": "Grenoble",
-        "price": "520",
-        "url": "https://www.booking.com/hotel/fr/hotel-lux.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=67264902_373869999_0_2_0&highlighted_blocks=67264902_373869999_0_2_0&matching_block_id=67264902_373869999_0_2_0&sr_pri_blocks=67264902_373869999_0_2_0__51960&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 19,
-        "destination": "Grenoble",
+        "nom_hotel": "Hôtel Le Néron - Logis",
+        "ville_de_lhotel": "fontanil cornillon",
         "price": "564",
-        "url": "https://www.booking.com/hotel/fr/ibis-grenoble-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=59906802_376293592_2_2_0&highlighted_blocks=59906802_376293592_2_2_0&matching_block_id=59906802_376293592_2_2_0&sr_pri_blocks=59906802_376293592_2_2_0__56370&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/kyriad-grenoble-le-fontanil.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=23901_94351331_2_42_0&highlighted_blocks=23901_94351331_2_42_0&matching_block_id=23901_94351331_2_42_0&sr_pri_blocks=23901_94351331_2_42_0__56400&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 7.9,
+        "stars": 3
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "585",
-        "url": "https://www.booking.com/hotel/fr/europole.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=4995406_179881923_0_34_0&highlighted_blocks=4995406_179881923_0_34_0&matching_block_id=4995406_179881923_0_34_0&sr_pri_blocks=4995406_179881923_0_34_0__58480&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "ibis budget Grenoble Voreppe",
+        "ville_de_lhotel": "voreppe",
+        "price": "365",
+        "url": "https://www.booking.com/hotel/fr/ibis-budget-grenoble-voreppe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=65609402_94499380_3_2_0&highlighted_blocks=65609402_94499380_3_2_0&matching_block_id=65609402_94499380_3_2_0&sr_pri_blocks=65609402_94499380_3_2_0__36535&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.5,
+        "stars": 2
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "569",
-        "url": "https://www.booking.com/hotel/fr/residhotel-le-central-gare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=5417106_99592111_2_2_0&highlighted_blocks=5417106_99592111_2_2_0&matching_block_id=5417106_99592111_2_2_0&sr_pri_blocks=5417106_99592111_2_2_0__56880&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hotel Amys Voreppe",
+        "ville_de_lhotel": "voreppe",
+        "price": "297",
+        "url": "https://www.booking.com/hotel/fr/tit-dej-amys.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=17608002_141692053_0_2_0&highlighted_blocks=17608002_141692053_0_2_0&matching_block_id=17608002_141692053_0_2_0&sr_pri_blocks=17608002_141692053_0_2_0__29664&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 13.5,
+        "stars": 0
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "730",
-        "url": "https://www.booking.com/hotel/fr/grenoble-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=5721903_94275869_2_42_0&highlighted_blocks=5721903_94275869_2_42_0&matching_block_id=5721903_94275869_2_42_0&sr_pri_blocks=5721903_94275869_2_42_0__73020&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Novotel Grenoble Nord Voreppe",
+        "ville_de_lhotel": "voreppe",
+        "price": "881",
+        "url": "https://www.booking.com/hotel/fr/grenoble-nord-voreppe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=5722403_376292595_2_42_0&highlighted_blocks=5722403_376292595_2_42_0&matching_block_id=5722403_376292595_2_42_0&sr_pri_blocks=5722403_376292595_2_42_0__88098&from_sustainable_property_sr=1&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 11.6,
+        "stars": 4
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "647",
-        "url": "https://www.booking.com/hotel/fr/maison-barbillon-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=19204111_195720859_0_2_0&highlighted_blocks=19204111_195720859_0_2_0&matching_block_id=19204111_195720859_0_2_0&sr_pri_blocks=19204111_195720859_0_2_0__64680&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Restaurant Le Repère",
+        "ville_de_lhotel": "vizille",
+        "price": "643",
+        "url": "https://www.booking.com/hotel/fr/chateau-de-cornage-vizille123.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=274541502_326765345_0_2_0&highlighted_blocks=274541502_326765345_0_2_0&matching_block_id=274541502_326765345_0_2_0&sr_pri_blocks=274541502_326765345_0_2_0__64300&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 12.2,
+        "stars": 0
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "809",
-        "url": "https://www.booking.com/hotel/fr/rockypop-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=891351801_359272715_2_2_0&highlighted_blocks=891351801_359272715_2_2_0&matching_block_id=891351801_359272715_2_2_0&sr_pri_blocks=891351801_359272715_2_2_0__80920&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Le Domaine des Fontaines - Hôtel & Petit Déjeuner",
+        "ville_de_lhotel": "bernin",
+        "price": "784",
+        "url": "https://www.booking.com/hotel/fr/le-domaine-des-fontaines-bernin.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=703588001_290162255_2_1_0&highlighted_blocks=703588001_290162255_2_1_0&matching_block_id=703588001_290162255_2_1_0&sr_pri_blocks=703588001_290162255_2_1_0__78440&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 14.4,
+        "stars": 3
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "614",
-        "url": "https://www.booking.com/hotel/fr/le-hub-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=548104903_198375003_0_2_0_712199&highlighted_blocks=548104903_198375003_0_2_0_712199&matching_block_id=548104903_198375003_0_2_0_712199&sr_pri_blocks=548104903_198375003_0_2_0_712199_61427&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Vacancéole - Résidence La Croix Margot",
+        "ville_de_lhotel": "villard de lans",
+        "price": "688",
+        "url": "https://www.booking.com/hotel/fr/maeva-la-croix-margot.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=5413101_340035416_0_0_0&highlighted_blocks=5413101_340035416_0_0_0&matching_block_id=5413101_340035416_0_0_0&sr_pri_blocks=5413101_340035416_0_0_0__68804&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 18.8,
+        "stars": 0
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "880",
-        "url": "https://www.booking.com/hotel/fr/mercure-grenoble-centre-alpotel.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=5703102_94274947_2_34_0&highlighted_blocks=5703102_94274947_2_34_0&matching_block_id=5703102_94274947_2_34_0&sr_pri_blocks=5703102_94274947_2_34_0__88020&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Premiere Classe Grenoble Nord Moirans",
+        "ville_de_lhotel": "moirans",
+        "price": "235",
+        "url": "https://www.booking.com/hotel/fr/premiere-classe-grenoble-nord-moirans.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=5466403_93237045_3_2_0&highlighted_blocks=5466403_93237045_3_2_0&matching_block_id=5466403_93237045_3_2_0&sr_pri_blocks=5466403_93237045_3_2_0__23508&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.9,
+        "stars": 0
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "462",
-        "url": "https://www.booking.com/hotel/fr/ha-tel-des-alpes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=54011523_376288251_2_2_0&highlighted_blocks=54011523_376288251_2_2_0&matching_block_id=54011523_376288251_2_2_0&sr_pri_blocks=54011523_376288251_2_2_0__46182&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Campanile Grenoble Nord - Moirans-Voreppe",
+        "ville_de_lhotel": "moirans",
+        "price": "288",
+        "url": "https://www.booking.com/hotel/fr/campanile-grenoble-moirans-voreppe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=23267_93239004_2_34_0&highlighted_blocks=23267_93239004_2_34_0&matching_block_id=23267_93239004_2_34_0&sr_pri_blocks=23267_93239004_2_34_0__28800&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 17.9,
+        "stars": 3
     },
     {
         "id_destination": 19,
         "destination": "Grenoble",
-        "price": "713",
-        "url": "https://www.booking.com/hotel/fr/okko-hotels-grenoble-jardin-hoche.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=111681201_88556067_0_2_0&highlighted_blocks=111681201_88556067_0_2_0&matching_block_id=111681201_88556067_0_2_0&sr_pri_blocks=111681201_88556067_0_2_0__71320&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 19,
-        "destination": "Grenoble",
-        "price": "930",
-        "url": "https://www.booking.com/hotel/fr/le-grand-grenoble-centre.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=30376122_91920038_2_2_0&highlighted_blocks=30376122_91920038_2_2_0&matching_block_id=30376122_91920038_2_2_0&sr_pri_blocks=30376122_91920038_2_2_0__93000&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 19,
-        "destination": "Grenoble",
-        "price": "899",
-        "url": "https://www.booking.com/hotel/fr/rockypop-grenoble-appartements.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=891363901_359273456_2_2_0&highlighted_blocks=891363901_359273456_2_2_0&matching_block_id=891363901_359273456_2_2_0&sr_pri_blocks=891363901_359273456_2_2_0__89920&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 19,
-        "destination": "Grenoble",
-        "price": "554",
-        "url": "https://www.booking.com/hotel/fr/gallia-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=25026605_401629267_2_2_0&highlighted_blocks=25026605_401629267_2_2_0&matching_block_id=25026605_401629267_2_2_0&sr_pri_blocks=25026605_401629267_2_2_0__55362&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 19,
-        "destination": "Grenoble",
-        "price": "974",
-        "url": "https://www.booking.com/hotel/fr/de-l-europe-grenoble.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AoSC5LsGwAIB0gIkZmVjYmJkY2EtNzliZC00YWYyLThkOGUtMTVjNmExNDcyMDFm2AIF4AIB&sid=3ac79b08c2aa8cc2371809a11b948558&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=6852508bd7440314&srepoch=1735990059&all_sr_blocks=7984004_124734016_2_2_0&highlighted_blocks=7984004_124734016_2_2_0&matching_block_id=7984004_124734016_2_2_0&sr_pri_blocks=7984004_124734016_2_2_0__97440&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Le Palladior Voiron",
+        "ville_de_lhotel": "voiron",
+        "price": "557",
+        "url": "https://www.booking.com/hotel/fr/best-western-palladior.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4Au_6vrwGwAIB0gIkNjkxOWIzOTQtN2Q4Yy00YjUzLTlhNTgtYTI3ZDFiOTA0MTNk2AIF4AIB&sid=89c0d082b9b23f056de01895493b233d&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=-1430647&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=7d203e3f1b1800eb&srepoch=1737622278&all_sr_blocks=2306727_95147161_2_42_0&highlighted_blocks=2306727_95147161_2_42_0&matching_block_id=2306727_95147161_2_42_0&sr_pri_blocks=2306727_95147161_2_42_0__55720&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 21.3,
+        "stars": 3
     }
 ]

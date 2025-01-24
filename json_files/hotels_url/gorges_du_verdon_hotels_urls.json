@@ -2,49 +2,67 @@
     {
         "id_destination": 18,
         "destination": "Gorges du Verdon",
-        "price": "651",
-        "url": "https://www.booking.com/hotel/fr/villa-castellane-greoux-les-bains.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AviB5LsGwAIB0gIkZTQzNDNmYjgtYmZjYS00ZDI1LTkyNmYtNGNkNDhmZGMwZWQx2AIF4AIB&sid=507936f7e4f130c2135f7caa29e68130&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=229b5071f7e40027&srepoch=1735990006&all_sr_blocks=858388803_353522432_2_2_0&highlighted_blocks=858388803_353522432_2_2_0&matching_block_id=858388803_353522432_2_2_0&sr_pri_blocks=858388803_353522432_2_2_0__65064&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 18,
-        "destination": "Gorges du Verdon",
+        "nom_hotel": "Résidence Odalys La Licorne de Haute Provence",
+        "ville_de_lhotel": "gréoux les bains",
         "price": "520",
-        "url": "https://www.booking.com/hotel/fr/la-licorne-de-haute-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AviB5LsGwAIB0gIkZTQzNDNmYjgtYmZjYS00ZDI1LTkyNmYtNGNkNDhmZGMwZWQx2AIF4AIB&sid=507936f7e4f130c2135f7caa29e68130&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=229b5071f7e40027&srepoch=1735990006&all_sr_blocks=5767201_379142675_0_0_0&highlighted_blocks=5767201_379142675_0_0_0&matching_block_id=5767201_379142675_0_0_0&sr_pri_blocks=5767201_379142675_0_0_0__52040&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/la-licorne-de-haute-provence.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP6vrwGwAIB0gIkMjJmODAyYjItNzdmYi00YzAyLTliYmItYjllN2Y5YTBjNDhm2AIF4AIB&sid=2366a14198a13f00af5912eb1c1ffdbf&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=53963e357fa904a5&srepoch=1737622257&all_sr_blocks=5767201_379142675_0_0_0&highlighted_blocks=5767201_379142675_0_0_0&matching_block_id=5767201_379142675_0_0_0&sr_pri_blocks=5767201_379142675_0_0_0__52040&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 4
     },
     {
         "id_destination": 18,
         "destination": "Gorges du Verdon",
-        "price": "347",
-        "url": "https://www.booking.com/hotel/fr/le-comptoir-sainte-croix-du-verdon.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AviB5LsGwAIB0gIkZTQzNDNmYjgtYmZjYS00ZDI1LTkyNmYtNGNkNDhmZGMwZWQx2AIF4AIB&sid=507936f7e4f130c2135f7caa29e68130&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=229b5071f7e40027&srepoch=1735990006&all_sr_blocks=1139146705_386802981_0_2_0&highlighted_blocks=1139146705_386802981_0_2_0&matching_block_id=1139146705_386802981_0_2_0&sr_pri_blocks=1139146705_386802981_0_2_0__34650&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 18,
-        "destination": "Gorges du Verdon",
-        "price": "376",
-        "url": "https://www.booking.com/hotel/fr/auberge-du-bourguet.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AviB5LsGwAIB0gIkZTQzNDNmYjgtYmZjYS00ZDI1LTkyNmYtNGNkNDhmZGMwZWQx2AIF4AIB&sid=507936f7e4f130c2135f7caa29e68130&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=229b5071f7e40027&srepoch=1735990006&all_sr_blocks=1160104001_388712500_2_0_0&highlighted_blocks=1160104001_388712500_2_0_0&matching_block_id=1160104001_388712500_2_0_0&sr_pri_blocks=1160104001_388712500_2_0_0__37560&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 18,
-        "destination": "Gorges du Verdon",
+        "nom_hotel": "Hôtel du Roc",
+        "ville_de_lhotel": "castellane",
         "price": "428",
-        "url": "https://www.booking.com/hotel/fr/ha-tel-du-roc.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AviB5LsGwAIB0gIkZTQzNDNmYjgtYmZjYS00ZDI1LTkyNmYtNGNkNDhmZGMwZWQx2AIF4AIB&sid=507936f7e4f130c2135f7caa29e68130&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=229b5071f7e40027&srepoch=1735990006&all_sr_blocks=53562601_365976222_0_42_0&highlighted_blocks=53562601_365976222_0_42_0&matching_block_id=53562601_365976222_0_42_0&sr_pri_blocks=53562601_365976222_0_42_0__42840&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/ha-tel-du-roc.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP6vrwGwAIB0gIkMjJmODAyYjItNzdmYi00YzAyLTliYmItYjllN2Y5YTBjNDhm2AIF4AIB&sid=2366a14198a13f00af5912eb1c1ffdbf&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=53963e357fa904a5&srepoch=1737622257&all_sr_blocks=53562601_365976222_0_42_0&highlighted_blocks=53562601_365976222_0_42_0&matching_block_id=53562601_365976222_0_42_0&sr_pri_blocks=53562601_365976222_0_42_0__42840&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 18,
         "destination": "Gorges du Verdon",
-        "price": "954",
-        "url": "https://www.booking.com/hotel/fr/particulier-des-lumieres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AviB5LsGwAIB0gIkZTQzNDNmYjgtYmZjYS00ZDI1LTkyNmYtNGNkNDhmZGMwZWQx2AIF4AIB&sid=507936f7e4f130c2135f7caa29e68130&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=229b5071f7e40027&srepoch=1735990006&all_sr_blocks=174788203_374398565_2_0_0&highlighted_blocks=174788203_374398565_2_0_0&matching_block_id=174788203_374398565_2_0_0&sr_pri_blocks=174788203_374398565_2_0_0__95400&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Le Mas de l'Orangerie 3 etoiles",
+        "ville_de_lhotel": "gréoux les bains",
+        "price": "389",
+        "url": "https://www.booking.com/hotel/fr/mas-de-l-orangerie-greoux-les-bains.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP6vrwGwAIB0gIkMjJmODAyYjItNzdmYi00YzAyLTliYmItYjllN2Y5YTBjNDhm2AIF4AIB&sid=2366a14198a13f00af5912eb1c1ffdbf&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=53963e357fa904a5&srepoch=1737622257&all_sr_blocks=826217501_347081822_2_0_0&highlighted_blocks=826217501_347081822_2_0_0&matching_block_id=826217501_347081822_2_0_0&sr_pri_blocks=826217501_347081822_2_0_0__38900&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 18,
+        "destination": "Gorges du Verdon",
+        "nom_hotel": "Villa Castellane",
+        "ville_de_lhotel": "gréoux les bains",
+        "price": "1087",
+        "url": "https://www.booking.com/hotel/fr/villa-castellane-greoux-les-bains.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP6vrwGwAIB0gIkMjJmODAyYjItNzdmYi00YzAyLTliYmItYjllN2Y5YTBjNDhm2AIF4AIB&sid=2366a14198a13f00af5912eb1c1ffdbf&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=53963e357fa904a5&srepoch=1737622257&all_sr_blocks=858388802_367905761_2_1_0&highlighted_blocks=858388802_367905761_2_1_0&matching_block_id=858388802_367905761_2_1_0&sr_pri_blocks=858388802_367905761_2_1_0__108720&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 4
+    },
+    {
+        "id_destination": 18,
+        "destination": "Gorges du Verdon",
+        "nom_hotel": "Hôtel Particulier des Lumières",
+        "ville_de_lhotel": "moustiers sainte marie",
+        "price": "1074",
+        "url": "https://www.booking.com/hotel/fr/particulier-des-lumieres.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP6vrwGwAIB0gIkMjJmODAyYjItNzdmYi00YzAyLTliYmItYjllN2Y5YTBjNDhm2AIF4AIB&sid=2366a14198a13f00af5912eb1c1ffdbf&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=53963e357fa904a5&srepoch=1737622257&all_sr_blocks=174788201_374398565_2_0_0&highlighted_blocks=174788201_374398565_2_0_0&matching_block_id=174788201_374398565_2_0_0&sr_pri_blocks=174788201_374398565_2_0_0__107400&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 18,
+        "destination": "Gorges du Verdon",
+        "nom_hotel": "Auberge du Bourguet",
+        "ville_de_lhotel": "brenon",
+        "price": "376",
+        "url": "https://www.booking.com/hotel/fr/auberge-du-bourguet.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AuP6vrwGwAIB0gIkMjJmODAyYjItNzdmYi00YzAyLTliYmItYjllN2Y5YTBjNDhm2AIF4AIB&sid=2366a14198a13f00af5912eb1c1ffdbf&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2746&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=53963e357fa904a5&srepoch=1737622257&all_sr_blocks=1160104001_388712500_2_0_0&highlighted_blocks=1160104001_388712500_2_0_0&matching_block_id=1160104001_388712500_2_0_0&sr_pri_blocks=1160104001_388712500_2_0_0__37560&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
     }
 ]

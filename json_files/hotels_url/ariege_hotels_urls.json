@@ -2,201 +2,276 @@
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "354",
-        "url": "https://www.booking.com/hotel/fr/le-roof-studio-aux-4-logis-petit-dejeuner-inclus-1ere-nuit.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=995702101_372461302_2_0_0_53727&highlighted_blocks=995702101_372461302_2_0_0_53727&matching_block_id=995702101_372461302_2_0_0_53727&sr_pri_blocks=995702101_372461302_2_0_0_53727_35410&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
-        "price": "437",
-        "url": "https://www.booking.com/hotel/fr/campanilefoix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=5321006_93699623_0_34_0&highlighted_blocks=5321006_93699623_0_34_0&matching_block_id=5321006_93699623_0_34_0&sr_pri_blocks=5321006_93699623_0_34_0__43680&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
+        "nom_hotel": "Brit Hotel Confort Foix",
+        "ville_de_lhotel": "foix",
         "price": "384",
-        "url": "https://www.booking.com/hotel/fr/hotel-balladins-foix-confort.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=22579104_93716031_0_2_0&highlighted_blocks=22579104_93716031_0_2_0&matching_block_id=22579104_93716031_0_2_0&sr_pri_blocks=22579104_93716031_0_2_0__38432&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/hotel-balladins-foix-confort.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=65053_93716031_0_2_0&highlighted_blocks=65053_93716031_0_2_0&matching_block_id=65053_93716031_0_2_0&sr_pri_blocks=65053_93716031_0_2_0__38432&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "380",
-        "url": "https://www.booking.com/hotel/fr/ra-c-sidence-natura.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=73773610_340058222_0_0_0&highlighted_blocks=73773610_340058222_0_0_0&matching_block_id=73773610_340058222_0_0_0&sr_pri_blocks=73773610_340058222_0_0_0__37950&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "The Originals Access, Hôtel Foix",
+        "ville_de_lhotel": "foix",
+        "price": "512",
+        "url": "https://www.booking.com/hotel/fr/campanilefoix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=5321008_400271742_0_34_0&highlighted_blocks=5321008_400271742_0_34_0&matching_block_id=5321008_400271742_0_34_0&sr_pri_blocks=5321008_400271742_0_34_0__51180&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "483",
-        "url": "https://www.booking.com/hotel/fr/hostellerie-de-la-poste-tarascon-sur-ariege.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=35641402_116521459_0_2_0&highlighted_blocks=35641402_116521459_0_2_0&matching_block_id=35641402_116521459_0_2_0&sr_pri_blocks=35641402_116521459_0_2_0__48324&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Lagrange Vacances Les Chalets d’Ax",
+        "ville_de_lhotel": "ax les thermes",
+        "price": "912",
+        "url": "https://www.booking.com/hotel/fr/residence-les-chalets-d-ax.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=27115403_195944050_0_0_0&highlighted_blocks=27115403_195944050_0_0_0&matching_block_id=27115403_195944050_0_0_0&sr_pri_blocks=27115403_195944050_0_0_0__91203&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "830",
-        "url": "https://www.booking.com/hotel/fr/residence-les-chalets-d-ax.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=27115403_195944050_0_0_0&highlighted_blocks=27115403_195944050_0_0_0&matching_block_id=27115403_195944050_0_0_0&sr_pri_blocks=27115403_195944050_0_0_0__83033&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Logis Hôtel Restaurant de la Poste",
+        "ville_de_lhotel": "tarascon sur ariège",
+        "price": "635",
+        "url": "https://www.booking.com/hotel/fr/hostellerie-de-la-poste-tarascon-sur-ariege.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=35641407_116521459_0_2_0&highlighted_blocks=35641407_116521459_0_2_0&matching_block_id=35641407_116521459_0_2_0&sr_pri_blocks=35641407_116521459_0_2_0__63504&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "544",
-        "url": "https://www.booking.com/hotel/fr/terranostra.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=105802905_310809909_0_2_0&highlighted_blocks=105802905_310809909_0_2_0&matching_block_id=105802905_310809909_0_2_0&sr_pri_blocks=105802905_310809909_0_2_0__54444&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Pyrène",
+        "ville_de_lhotel": "foix",
+        "price": "512",
+        "url": "https://www.booking.com/hotel/fr/pyrene.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=39382706_200158795_2_2_0&highlighted_blocks=39382706_200158795_2_2_0&matching_block_id=39382706_200158795_2_2_0&sr_pri_blocks=39382706_200158795_2_2_0__51180&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "463",
-        "url": "https://www.booking.com/hotel/fr/le-hameau-du-comte-de-foix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=577903101_367805750_0_0_0&highlighted_blocks=577903101_367805750_0_0_0&matching_block_id=577903101_367805750_0_0_0&sr_pri_blocks=577903101_367805750_0_0_0__46284&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
-        "price": "457",
-        "url": "https://www.booking.com/hotel/fr/mvm-le-domaine-de-la-vallee-d-ax.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=17333401_171736079_0_2_0&highlighted_blocks=17333401_171736079_0_2_0&matching_block_id=17333401_171736079_0_2_0&sr_pri_blocks=17333401_171736079_0_2_0__45744&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
-        "price": "634",
-        "url": "https://www.booking.com/hotel/fr/nemea-les-grands-ax.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=27510602_226238744_0_0_0&highlighted_blocks=27510602_226238744_0_0_0&matching_block_id=27510602_226238744_0_0_0&sr_pri_blocks=27510602_226238744_0_0_0__63444&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
-        "price": "397",
-        "url": "https://www.booking.com/hotel/fr/le-bellevue-tarascon-sur-aria-ge.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=47713005_310804234_0_2_0&highlighted_blocks=47713005_310804234_0_2_0&matching_block_id=47713005_310804234_0_2_0&sr_pri_blocks=47713005_310804234_0_2_0__39744&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
-        "price": "428",
-        "url": "https://www.booking.com/hotel/fr/le-castelet.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=5498103_376197798_0_2_0&highlighted_blocks=5498103_376197798_0_2_0&matching_block_id=5498103_376197798_0_2_0&sr_pri_blocks=5498103_376197798_0_2_0__42811&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
-        "price": "367",
-        "url": "https://www.booking.com/hotel/fr/confort-tarascon-sur-aria-ge.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=5780001_368579830_2_2_0&highlighted_blocks=5780001_368579830_2_2_0&matching_block_id=5780001_368579830_2_2_0&sr_pri_blocks=5780001_368579830_2_2_0__36654&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
+        "nom_hotel": "Hôtel Premiere Classe Pamiers",
+        "ville_de_lhotel": "pamiers",
         "price": "271",
-        "url": "https://www.booking.com/hotel/fr/premiere-classe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=5326005_93236968_2_2_0&highlighted_blocks=5326005_93236968_2_2_0&matching_block_id=5326005_93236968_2_2_0&sr_pri_blocks=5326005_93236968_2_2_0__27120&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/premiere-classe.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=5326005_93236968_2_2_0&highlighted_blocks=5326005_93236968_2_2_0&matching_block_id=5326005_93236968_2_2_0&sr_pri_blocks=5326005_93236968_2_2_0__27144&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
+        "nom_hotel": "Auberge l'Escaleta",
+        "ville_de_lhotel": "seix",
+        "price": "336",
+        "url": "https://www.booking.com/hotel/fr/auberge-du-haut-salat.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=24150906_405450129_2_0_0&highlighted_blocks=24150906_405450129_2_0_0&matching_block_id=24150906_405450129_2_0_0&sr_pri_blocks=24150906_405450129_2_0_0__33600&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "Hôtel du vieux pont",
+        "ville_de_lhotel": "mazères",
+        "price": "455",
+        "url": "https://www.booking.com/hotel/fr/du-vieux-pont.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=1284148403_401350962_2_2_0&highlighted_blocks=1284148403_401350962_2_2_0&matching_block_id=1284148403_401350962_2_2_0&sr_pri_blocks=1284148403_401350962_2_2_0__45498&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "AUX 4 LOGIS Appart-hotel - Studio Le City - Petit déjeuner inclus 1ère nuit",
+        "ville_de_lhotel": "foix",
+        "price": "299",
+        "url": "https://www.booking.com/hotel/fr/studio-le-city-aux-4-logis.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=887904501_388922666_2_0_0_53729&highlighted_blocks=887904501_388922666_2_0_0_53729&matching_block_id=887904501_388922666_2_0_0_53729&sr_pri_blocks=887904501_388922666_2_0_0_53729_29884&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "Hotel du Lac Foix",
+        "ville_de_lhotel": "foix",
         "price": "512",
-        "url": "https://www.booking.com/hotel/fr/du-lac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=5389101_366039642_0_34_0&highlighted_blocks=5389101_366039642_0_34_0&matching_block_id=5389101_366039642_0_34_0&sr_pri_blocks=5389101_366039642_0_34_0__51180&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/du-lac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=5389101_366039642_0_34_0&highlighted_blocks=5389101_366039642_0_34_0&matching_block_id=5389101_366039642_0_34_0&sr_pri_blocks=5389101_366039642_0_34_0__51180&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "593",
-        "url": "https://www.booking.com/hotel/fr/de-france-pamiers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=401983301_208692913_0_34_0&highlighted_blocks=401983301_208692913_0_34_0&matching_block_id=401983301_208692913_0_34_0&sr_pri_blocks=401983301_208692913_0_34_0__59260&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Résidence de Tourisme Domaine de la Vallée d'Ax",
+        "ville_de_lhotel": "ax les thermes",
+        "price": "588",
+        "url": "https://www.booking.com/hotel/fr/mvm-le-domaine-de-la-vallee-d-ax.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=17333401_171736079_0_2_0&highlighted_blocks=17333401_171736079_0_2_0&matching_block_id=17333401_171736079_0_2_0&sr_pri_blocks=17333401_171736079_0_2_0__58844&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "544",
-        "url": "https://www.booking.com/hotel/fr/la-barguillere.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=18235903_141413769_0_2_0&highlighted_blocks=18235903_141413769_0_2_0&matching_block_id=18235903_141413769_0_2_0&sr_pri_blocks=18235903_141413769_0_2_0__54432&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Hôtel Confort 09 ou HC-09",
+        "ville_de_lhotel": "tarascon sur ariège",
+        "price": "381",
+        "url": "https://www.booking.com/hotel/fr/confort-tarascon-sur-aria-ge.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=5780001_368579830_2_2_0&highlighted_blocks=5780001_368579830_2_2_0&matching_block_id=5780001_368579830_2_2_0&sr_pri_blocks=5780001_368579830_2_2_0__38149&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "512",
-        "url": "https://www.booking.com/hotel/fr/pyrene.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=39382706_200158795_2_2_0&highlighted_blocks=39382706_200158795_2_2_0&matching_block_id=39382706_200158795_2_2_0&sr_pri_blocks=39382706_200158795_2_2_0__51180&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
+        "nom_hotel": "Logis Hôtel restaurant Les Minotiers",
+        "ville_de_lhotel": "mirepoix",
         "price": "540",
-        "url": "https://www.booking.com/hotel/fr/les-minotiers-mirepoix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=2293301_403682146_0_42_0&highlighted_blocks=2293301_403682146_0_42_0&matching_block_id=2293301_403682146_0_42_0&sr_pri_blocks=2293301_403682146_0_42_0__53970&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/les-minotiers-mirepoix.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=2293301_403682146_0_42_0&highlighted_blocks=2293301_403682146_0_42_0&matching_block_id=2293301_403682146_0_42_0&sr_pri_blocks=2293301_403682146_0_42_0__53970&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
+        "nom_hotel": "Logis Hôtel restaurant Horizon 117",
+        "ville_de_lhotel": "sentaraille",
+        "price": "472",
+        "url": "https://www.booking.com/hotel/fr/horizon117.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=22686605_106831220_0_42_0&highlighted_blocks=22686605_106831220_0_42_0&matching_block_id=22686605_106831220_0_42_0&sr_pri_blocks=22686605_106831220_0_42_0__47196&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "Logis Hotel Restaurant LA BARGUILLERE",
+        "ville_de_lhotel": "saint pierre de rivière",
+        "price": "544",
+        "url": "https://www.booking.com/hotel/fr/la-barguillere.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=18235903_141413769_0_2_0&highlighted_blocks=18235903_141413769_0_2_0&matching_block_id=18235903_141413769_0_2_0&sr_pri_blocks=18235903_141413769_0_2_0__54432&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "Palais Cathare",
+        "ville_de_lhotel": "bélesta",
+        "price": "496",
+        "url": "https://www.booking.com/hotel/fr/palais-cathare.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=198806701_392975692_2_42_0&highlighted_blocks=198806701_392975692_2_42_0&matching_block_id=198806701_392975692_2_42_0&sr_pri_blocks=198806701_392975692_2_42_0__49644&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 3
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "Hôtel Le Bellevue",
+        "ville_de_lhotel": "tarascon sur ariège",
+        "price": "410",
+        "url": "https://www.booking.com/hotel/fr/le-bellevue-tarascon-sur-aria-ge.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=47713005_310804234_0_2_0&highlighted_blocks=47713005_310804234_0_2_0&matching_block_id=47713005_310804234_0_2_0&sr_pri_blocks=47713005_310804234_0_2_0__40968&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "Le Manoir d'Agnès Logis hôtel restaurant",
+        "ville_de_lhotel": "tarascon sur ariège",
         "price": "637",
-        "url": "https://www.booking.com/hotel/fr/le-manoir-d-agnes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=25411102_387937127_0_2_0&highlighted_blocks=25411102_387937127_0_2_0&matching_block_id=25411102_387937127_0_2_0&sr_pri_blocks=25411102_387937127_0_2_0__63744&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/le-manoir-d-agnes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=25411102_387937127_0_2_0&highlighted_blocks=25411102_387937127_0_2_0&matching_block_id=25411102_387937127_0_2_0&sr_pri_blocks=25411102_387937127_0_2_0__63744&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 3
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "1306",
-        "url": "https://www.booking.com/hotel/fr/le-clos-cathala.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=652352804_266292722_2_2_0&highlighted_blocks=652352804_266292722_2_2_0&matching_block_id=652352804_266292722_2_2_0&sr_pri_blocks=652352804_266292722_2_2_0__130632&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Le Castel d'olmes",
+        "ville_de_lhotel": "laroque dʼolmes",
+        "price": "518",
+        "url": "https://www.booking.com/hotel/fr/le-castel-d-olmes.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=1136203601_388897367_0_42_0&highlighted_blocks=1136203601_388897367_0_42_0&matching_block_id=1136203601_388897367_0_42_0&sr_pri_blocks=1136203601_388897367_0_42_0__51840&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 2
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "899",
-        "url": "https://www.booking.com/hotel/fr/appart-du-lac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=725194101_393367814_2_34_0&highlighted_blocks=725194101_393367814_2_34_0&matching_block_id=725194101_393367814_2_34_0&sr_pri_blocks=725194101_393367814_2_34_0__89856&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Les chambres et studios Camping Parc de Paletès",
+        "ville_de_lhotel": "saint girons",
+        "price": "397",
+        "url": "https://www.booking.com/hotel/fr/parc-de-paleta-s.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=39559802_203704372_2_42_0&highlighted_blocks=39559802_203704372_2_42_0&matching_block_id=39559802_203704372_2_42_0&sr_pri_blocks=39559802_203704372_2_42_0__39720&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "468",
-        "url": "https://www.booking.com/hotel/fr/gite-tintinnabule.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=1196776501_391978933_2_0_0&highlighted_blocks=1196776501_391978933_2_0_0&matching_block_id=1196776501_391978933_2_0_0&sr_pri_blocks=1196776501_391978933_2_0_0__46762&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
-    },
-    {
-        "id_destination": 4,
-        "destination": "Ariege",
+        "nom_hotel": "Hôtel Le Roi Gourmand",
+        "ville_de_lhotel": "pamiers",
         "price": "604",
-        "url": "https://www.booking.com/hotel/fr/le-roi-gourmand.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=23517604_200116721_0_42_0&highlighted_blocks=23517604_200116721_0_42_0&matching_block_id=23517604_200116721_0_42_0&sr_pri_blocks=23517604_200116721_0_42_0__60360&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "url": "https://www.booking.com/hotel/fr/le-roi-gourmand.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=23517604_200116721_0_42_0&highlighted_blocks=23517604_200116721_0_42_0&matching_block_id=23517604_200116721_0_42_0&sr_pri_blocks=23517604_200116721_0_42_0__60360&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
     },
     {
         "id_destination": 4,
         "destination": "Ariege",
-        "price": "529",
-        "url": "https://www.booking.com/hotel/fr/la-rocade-pamiers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4AsmA5LsGwAIB0gIkMjk5MTRhZjQtZTg0ZS00ZWI3LTg3YmMtNWQ3OTIxODQxZTVm2AIF4AIB&sid=0433a543f2b4dd17aed5b309f4f941f4&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-13&checkout=2025-01-19&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=3a594efb3d670d3b&srepoch=1735989259&all_sr_blocks=29380613_326752588_2_34_0&highlighted_blocks=29380613_326752588_2_34_0&matching_block_id=29380613_326752588_2_34_0&sr_pri_blocks=29380613_326752588_2_34_0__52938&from=searchresults",
-        "dans_destination": 1,
-        "de_destination_km": 0
+        "nom_hotel": "Gîte Tintinnabule",
+        "ville_de_lhotel": "ventenac",
+        "price": "468",
+        "url": "https://www.booking.com/hotel/fr/gite-tintinnabule.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=1196776501_391978933_2_0_0&highlighted_blocks=1196776501_391978933_2_0_0&matching_block_id=1196776501_391978933_2_0_0&sr_pri_blocks=1196776501_391978933_2_0_0__46762&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "Le Clos Cathala Chambres d'Hôtes",
+        "ville_de_lhotel": "saint paul de jarrat",
+        "price": "886",
+        "url": "https://www.booking.com/hotel/fr/le-clos-cathala.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=652352802_266292722_2_2_0&highlighted_blocks=652352802_266292722_2_2_0&matching_block_id=652352802_266292722_2_2_0&sr_pri_blocks=652352802_266292722_2_2_0__88632&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "Logis Hôtel de France & Restaurant Pamiers",
+        "ville_de_lhotel": "pamiers",
+        "price": "697",
+        "url": "https://www.booking.com/hotel/fr/de-france-pamiers.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=401983301_208692913_0_34_0&highlighted_blocks=401983301_208692913_0_34_0&matching_block_id=401983301_208692913_0_34_0&sr_pri_blocks=401983301_208692913_0_34_0__69690&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
+    },
+    {
+        "id_destination": 4,
+        "destination": "Ariege",
+        "nom_hotel": "APPART-HOTEL DU LAC",
+        "ville_de_lhotel": "foix",
+        "price": "899",
+        "url": "https://www.booking.com/hotel/fr/appart-du-lac.fr.html?label=gen173nr-1BCAEoggI46AdIM1gEaE2IAQGYAQ24AQfIAQzYAQHoAQGIAgGoAgO4ArH5vrwGwAIB0gIkY2RjZjcwYjktNjg1ZC00YTFmLWE3ZjctMTg1MzYwY2E5NGQ42AIF4AIB&sid=c433ffed6acd2da5b5eed1f27a91ec64&aid=304142&ucfs=1&arphpl=1&checkin=2025-01-27&checkout=2025-02-02&dest_id=2507&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&nflt=ht_id%3D204&srpvid=b4913dace6ac03a6&srepoch=1737621985&all_sr_blocks=725194101_393367814_2_34_0&highlighted_blocks=725194101_393367814_2_34_0&matching_block_id=725194101_393367814_2_34_0&sr_pri_blocks=725194101_393367814_2_34_0__89856&from=searchresults",
+        "dans_destination": 0,
+        "de_destination_km": 0,
+        "stars": 0
     }
 ]
